@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="4e12f20f-aec3-4311-a656-10a517fd97fe">Conspiracy - 1A</card>
+    <card qty="1" id="21ee317d-9aca-43be-9782-521539827cb8">The Grand Design - 2A</card>
+    <card qty="1" id="8239e81a-f779-4c7c-b586-cd5ad732f061">The Confrontation - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="5" id="eb9f723d-0f74-4d10-89e7-b046313a1e91">Underworld Dissident</card>
+    <card qty="3" id="03587572-2760-48b5-9b08-e01ccdc9788f">Sewers</card>
+    <card qty="2" id="b89a5a01-88c0-434a-a061-1654c6f84477">Storehouse</card>
+    <card qty="2" id="fc4f9f69-7870-4449-b89b-cd7b4dc158d0">Unwelcome Discovery</card>
+    <card qty="1" id="c4218a3e-6a6b-47a0-88c5-cdbcda3fb5eb">A Knife in the Back</card>
+    <card qty="2" id="fe7448a2-e2e2-4e81-95f4-2ac585160433">False Lead</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9055">Lurking in Shadows</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9056">Market Square</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9011">City Street</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9051">Local Trouble</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9070">Pickpocket</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9052">Lossarnach Bandit</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9088">Zealous Traitor</card>
+    <card qty="1" id="a8494d53-c8a4-4f74-b3e1-2e4183aeea2a">A Scrap of History</card>
+    <card qty="1" id="dce8ff38-bcc7-49b4-ba27-ae3e2cac1d32">Secret Map</card>
+    <card qty="1" id="23c33968-01db-4f79-94bd-45ea1e0d50d0">A Prisoner</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="408148e1-3391-4734-aeac-3e3a7b69c1c1">Daughter of Berúthiel</card>
+    <card qty="1" id="21f520fd-5efe-41f9-9f02-7a65e36eb31f">The Hand of Castamir</card>
+    <card qty="1" id="c460b9c0-0239-4a74-99cb-3c302429db44">Telemnar's Bane</card>
+    <card qty="1" id="5e39ebfc-287a-49d5-9369-49dbfb0fd665">Roots of Mindolluin</card>
+    <card qty="1" id="2bf5a4d1-9d74-4e1a-8725-cf4a3a47dde9">Unholy Alliance</card>
+    <card qty="1" id="1dcf16e8-8882-4b61-93ac-a7da643c52bd">Up in Flames</card>
+    <card qty="1" id="4bcc7bde-4223-411e-a612-9459a1502743">Poisoned Counsels</card>
+    <card qty="1" id="b2acb892-ab3b-4037-8751-c036f9f6f8bd">The Fourth Star</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

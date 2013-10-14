@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+<section name="Hero" shared="False">
+<card qty="1" id="3217a119-6b86-47dd-b451-c5e45be3f874">Frodo Baggins</card>
+</section>
+<section name="Quest" shared="True">
+<card qty="1" id="6b34adb4-b510-4db9-aaba-9a1876626dce">Three is Company - 1A</card>
+<card qty="1" id="40c7a675-d48f-4e71-8818-5f0ffb9fa0dd">A Shortcut to Mushrooms - 2A</card>
+<card qty="1" id="7371cfea-03d0-4bc0-98a1-d99e0acdbf88">Escape to Buckland - 3A</card>
+</section>
+<section name="Encounter" shared="True">
+<card qty="2" id="79b5dd16-2427-4950-94e9-46905eebe56d">Crawling Towards Him</card>
+<card qty="3" id="a46578d6-303e-4f35-9a11-8b9f807427ba">Hunting For The Ring</card>
+<card qty="2" id="57107fd1-0092-41d3-ae9d-8ff6c06933eb">Black Rider</card>
+<card qty="3" id="ff597a85-6a02-4301-a9dc-4dcb4cf9b626">Evil Crow</card>
+<card qty="1" id="b194fe1c-18c8-47d2-a674-8e209339c7e2">Woody End</card>
+<card qty="1" id="2b38254c-e992-4fb5-89e8-e7f636658ce0">Stock-Brook</card>
+<card qty="1" id="82c68020-eb2e-4853-9919-df3066d13721">Bamfurlong</card>
+<card qty="1" id="409bc89e-b5af-4626-ade6-60bcfcb290b7">The Marish</card>
+<card qty="1" id="8df24501-bfd8-4602-92e1-61f5d5cf7035">Stock Road</card>
+<card qty="3" id="98dff367-a068-4aac-a46b-7dc201aff42d">Green Hill Country</card>
+<card qty="3" id="32416ec8-b50d-4cd2-a62f-10f97c87be73">Pathless Country</card>
+<card qty="1" id="7e470346-1828-49c0-b241-58d0dbf27b4b">Piercing Cry</card>
+<card qty="3" id="48384e79-d397-4dcd-9862-8a72acb448d0">Lure of the Ring</card>
+<card qty="1" id="09aeff64-6e0d-4dfa-af21-2e7805441376">Black Steed</card>
+<card qty="2" id="1851fafb-7f9a-46d7-a0f0-7fb2ad9ee567">Rode Like a Gale</card>
+</section>
+<section name="Setup" shared="True">
+<card qty="1" id="c9575426-59ea-4863-bf6a-407e9eae3f33">The One Ring</card>
+<card qty="1" id="53ac8ba6-0487-4b1f-91e9-cf7ca9e7c1d0">Bucklebury Ferry</card>
+<card qty="1" id="57107fd1-0092-41d3-ae9d-8ff6c06933eb">Black Rider</card>
+<card qty="1" id="0d30fbf1-6e8f-480f-9f2f-3196777f6e11">Bag End</card>
+</section>
+</deck>

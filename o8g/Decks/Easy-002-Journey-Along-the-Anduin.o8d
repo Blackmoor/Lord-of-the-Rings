@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9133">To the River... - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9135">Anduin Passage - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9137">Ambush on the Shore - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9081">Wolf Rider</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9082">Hill Troll</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9083">Goblin Sniper</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9085">Wargs</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9089">Dol Guldur Orcs</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9091">Dol Guldur Beastmaster</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9115">Eastern Crows</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9111">Misty Mountain Goblins</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9092">Driven by Shadow</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9093">The Necromancer's Reach</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9116">Evil Storm</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9117">Pursued by Shadow</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9118">Treacherous Fog</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9087">The Brown Lands</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9088">The East Bight</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9094">Necromancer's Pass</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9095">Enchanted Stream</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9113">Banks of the Anduin</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9114">Gladden Fields</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

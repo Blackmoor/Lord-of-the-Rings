@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9021">The Leaping Fish - 1A</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9023">Fighting in the Streets - 2A</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9025">Escape to the Quays - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="4" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9012">Collateral Damage</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9019">Harbor Storehouse</card>
+    <card qty="5" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9020">Harbor Thug</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9011">City Street</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9051">Local Trouble</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9056">Market Square</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9070">Pickpocket</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9052">Lossarnach Bandit</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9055">Lurking in Shadows</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9088">Zealous Traitor</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9082">The Leaping Fish</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9001">Alcaron's Scroll</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

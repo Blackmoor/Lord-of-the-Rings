@@ -1,0 +1,53 @@
+Phases of a turn
+================
+
+Setup (first turn only)
+-----------------------
+Each player has a chance to Mulligan.
+When ready use ctrl+N (turn mode) or ctrl+Right arrow (phase mode) to indicate you are ready.
+The First Player must be the last person to do this.
+
+Resource Phase
+--------------
+The game adds a resource to each of your heroes and draws 1 card from your player deck
+Player Actions allowed
+
+Planning Phase
+--------------
+The first player can play attachements and allies (Player Actions allowed)
+The next player can play attachments and allies (Player Actions allowed)
+
+Quest Phase
+-----------
+The first player commits characters to the quest (set your willpower counter manually)
+The next player commits characters to the quest (set your willpower counter manually)
+The First player reveals 1 card per player from the encounter deck
+Resolve Questing - Player Actions allowed
+
+Travel Phase
+------------
+If there is no active location the first player may select a location in the staging to become the active location
+Player Actions allowed
+
+Encounter Phase
+---------------
+Player Actions allowed throughout this phase
+The first player may optionally engage 1 enemy in the staging area
+The next player may optionally engage 1 enemy in the staging area
+All players make engagement checks
+
+Combat Phase
+------------
+Player Actions allowed throughout this phase
+Deal shadow cards to all engaged enemies
+Enemies attack the first player
+Enemies attack the next player
+First player attacks enemies
+Next player attacks enemies
+Player Actions allowed (last chance before refresh)
+
+Refresh Phase
+-------------
+The game refreshes all player cards (unless they are locked)
+The game raises your threat by 1
+Player Actions allowed

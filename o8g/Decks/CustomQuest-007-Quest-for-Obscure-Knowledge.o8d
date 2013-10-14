@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="ce7a281f-0892-4072-a163-b63f859d34a2">1A - Travel to the Library</card>
+    <card qty="1" id="6bcc9b74-e42e-4d4f-957e-df0fe0720414">2A - A Frivolous Try</card>
+    <card qty="1" id="7a8ce62c-7e7b-4d1f-9ccc-11a10127f90e">3A - The Daedal Writings</card>
+    <card qty="1" id="2a5b2668-6cc2-42f5-89a8-25307759e4e2">4A - Alaric, The Mad</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="487d506c-0201-4727-a16f-f0aff0ba17aa">Decaying Church</card>
+    <card qty="3" id="ed0d546e-e7de-4607-896c-52f568147061">Frenetic Neck Bite</card>
+    <card qty="3" id="ef1cdf10-29d2-481d-8438-6fe78d6825e7">Lost Catacombs</card>
+    <card qty="2" id="8285e1d8-1252-4d2d-a42a-f1e7c0344af3">Mesmerized</card>
+    <card qty="3" id="67f163fe-8338-49af-b17b-221c458b48a4">Morana</card>
+    <card qty="1" id="fabf83f5-33f2-4a44-89e2-f66996662192">Old Ritualistic Site</card>
+    <card qty="1" id="38510503-f88e-4874-8641-ef53b12940b6">Samael</card>
+    <card qty="2" id="acee6abc-fffd-4ecd-8326-b2fb1ec789d1">Selene</card>
+    <card qty="4" id="00d3f614-fe5a-4db6-a85e-fdab61bb8c9e">Vespera</card>
+    <card qty="2" id="789d9d7b-af8e-4799-a64e-09ef6c98944a">Corrupted Druid</card>
+    <card qty="2" id="34a8a6e8-d59d-4e31-af64-379abe49b2c1">Dead Historian</card>
+    <card qty="3" id="65ac1c6b-ef85-4d95-9739-c2f74955f629">Dubious Translations</card>
+    <card qty="1" id="73f72223-b7ec-4059-b360-497217f254e8">Lost Tales of Nelkiot</card>
+    <card qty="1" id="fb3fb583-0c84-4172-97a0-7e0df9cf4d0f">Nyx</card>
+    <card qty="2" id="646184e7-c818-4947-bb37-53ebcac5a374">Priest of War</card>
+    <card qty="3" id="5c0a6aad-e8ae-4b69-ac92-329858774a26">Secondary Library</card>
+    <card qty="1" id="6671bb90-1d08-4a8b-a054-8979748196f5">Treaty of War</card>
+    <card qty="1" id="7f398714-5cf9-4282-96ae-6b1131da8ea9">Work of Nature. Vol III</card>
+    <card qty="1" id="5cd59d10-d70b-4faa-83bd-136ead9d87dc">Book of Tides</card>
+    <card qty="2" id="8e1b7836-e338-4dec-81ae-2d83a6faff3f">Clash of Culture</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9074">King Spider</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9075">Hummerhorns</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9076">Ungoliant's Spawn</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9079">Eyes of the Forest</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9080">Caught in a Web</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="f43d7b72-ebad-4e2b-bf0a-8a522cad8e28">Rules Sheet</card>
+    <card qty="1" id="89241580-0411-4318-9a41-a07e1710b87e">Alaric Wisdom-Hoarder</card>
+    <card qty="1" id="41a7611a-21c1-4f21-ae79-611043914edb">Secluded Quarters</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

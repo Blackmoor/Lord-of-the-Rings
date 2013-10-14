@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Attachment" shared="False">
+    <card qty="1" id="12d51424-0edd-4977-9df1-5f6a7a5a96e1">Mithril Shirt</card>
+    <card qty="1" id="ae774680-c6e9-49eb-96b8-fcdebe90b49d">The Arkenstone</card>
+    <card qty="1" id="857d6dc8-ba1e-4839-8e96-a8a0136a2302">Thror's Battle Axe</card>
+    <card qty="1" id="ff7b0b9d-f8ae-4464-9db3-7205c5ae4db7">Thror's Golden Cup</card>
+    <card qty="1" id="7adc49c0-640d-4934-89c5-312ab584b77c">Thror's Hunting Bow</card>
+  </section>
+</deck>

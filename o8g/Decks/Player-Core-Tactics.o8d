@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9004">Gimli</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9005">Legolas</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9006">Thalin</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9028">Veteran Axehand</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9029">Gondorian Spearman</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9030">Horseback Archer</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9031">Beorn</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9073">Gandalf</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9032">Blade Mastery</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9033">Rain of Arrows</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9034">Feint</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9035">Quick Strike</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9036">Thicket of Spears</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9037">Swift Strike</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9038">Stand Together</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9039">Blade of Gondolin</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9040">Citadel Plate</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9041">Dwarven Axe</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9042">Horn of Gondor</card>
+  </section>
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

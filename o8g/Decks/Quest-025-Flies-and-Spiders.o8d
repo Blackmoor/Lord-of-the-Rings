@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Hero" shared="False">
+    <card qty="1" id="4e61b160-2104-497f-9977-4b353e54fbb7">Bilbo Baggins</card>
+  </section>
+  <section name="Quest" shared="True">
+    <card qty="1" id="1866ce74-8552-4ac5-8b0a-1e7a6f3b4338">1A - Into Mirkwood</card>
+    <card qty="1" id="a4ffb8cd-fd95-4b47-95d1-637bd2bd78a1">2A - Lost in the Dark</card>
+    <card qty="1" id="d99e07f6-7a57-4b5f-a108-13bd7ce6fa4b">3A - Captured by Spiders</card>
+    <card qty="1" id="1ee75e10-bcc5-4243-ab28-3dc1978a50af">4A - Battle with the Spiders</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="7a165c5c-caba-4af1-880e-845a124344d7">Caught in Webs</card>
+    <card qty="3" id="b06030a9-7ab9-48a6-b7da-5ffd8ce3a1a6">Crazy Cob</card>
+    <card qty="4" id="5b038648-7a06-4014-b207-a5d68c99e76d">Fat Spider</card>
+    <card qty="2" id="818e2f2f-4070-4056-85bd-5e729ccbad30">Forest Stream</card>
+    <card qty="4" id="eb353293-1a80-445c-b4a9-422c83dadfd5">Giant Web</card>
+    <card qty="3" id="8815a340-fc16-41c5-ac2c-d647876c2bbd">Lazy Lob</card>
+    <card qty="3" id="b0d31a1c-2155-4a97-a5ff-912e32a4809e">Old Tomnoddy</card>
+    <card qty="2" id="31ada226-448d-48f8-9f9a-c1f5046ad041">Poisoned by Spiders</card>
+    <card qty="5" id="2c20ea14-e7bc-4a38-a809-8834d659adf5">Wicked Spider</card>
+    <card qty="3" id="323842f5-457f-4dd4-95b8-eb19c24664cb">Dark Bats</card>
+    <card qty="2" id="ffe307bf-dd8e-4df3-9355-55564137d311">Fighting Among Friends</card>
+    <card qty="3" id="3f78ed57-49cc-4886-b84f-3fe886203794">Hidden Path</card>
+    <card qty="2" id="10c41b09-adf9-4a78-a67a-a9a1e04d7e8d">Weighed Down</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="4d423c39-09c1-4c0b-b46f-6983fae4c07b">The Spider's Glade</card>
+  </section>
+</deck>

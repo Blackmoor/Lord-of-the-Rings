@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9035">The Defense - 1A</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9037">Reinforcing the Banks - 2A</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9039">Breakthrough at the Approach - 3A</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9041">Breakthrough at the Citadel - 4A</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9043">The Last Battle - 5A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9003">Battering Ram</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9063">Orc Assault</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9065">Orc Scramblers</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9074">Siege Raft</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9018">Haradrim Elite</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9059">Mumak</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9076">Southron Mercenaries</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9077">Southron Support</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9049">Lieutenant of Mordor</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9061">Orc Arbalesters</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9066">Orc Vanguard</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9067">Orc War Camp</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9083">The Master's Malice</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9084">The Power of Mordor</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9062">Orc Arsonist</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9064">Orc Rabble</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9072">Scourge of Mordor</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9079">The Approach</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9081">The Citadel</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9080">The Banks</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

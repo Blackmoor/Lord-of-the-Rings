@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="481eb8da-3657-486a-89d3-f27333d9d042">Dark Road - 1A</card>
+    <card qty="1" id="481eb8da-3657-486a-89d3-f27333d9d043">Sacred Shrine - 2A</card>
+    <card qty="1" id="481eb8da-3657-486a-89d3-f27333d9d044">Besieged - 3A</card>
+    <card qty="1" id="481eb8da-3657-486a-89d3-f27333d9d045">Take Flight - 4A</card>
+    <card qty="1" id="481eb8da-3657-486a-89d3-f27333d9d046">Liberation - 5A</card>
+    <card qty="1" id="481eb8da-3657-486a-89d3-f27333d9d047">Abandoned - 6A</card>
+    <card qty="1" id="481eb8da-3657-486a-89d3-f27333d9d048">Showdown - 7A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9081">Wolf Rider</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9082">Hill Troll</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9083">Goblin Sniper</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9084">Marsh Adder</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9085">Wargs</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9086">Despair</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9087">The Brown Lands</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9088">The East Bight</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9089">Dol Guldur Orcs</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9090">Chieftan Ufthak</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9091">Dol Guldur Beastmaster</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9092">Driven by Shadow</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9093">The Necromancer's Reach</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9094">Necromancer's Pass</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9095">Enchanted Stream</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9103">Cavern Guardian</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9104">Under the Shadow</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9105">Iron Shackles</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9106">Endless Caverns</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9107">Tower Gate</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9011">False Lead</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9012">Flooding</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9013">Goblintown Scavengers</card>
+    <card qty="5" id="51223bd0-ffd1-11df-a976-0801201c9014">Hunters from Mordor</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801201c9015">Old Wives' Tales</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9016">River Ninglor</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801201c9017">Signs of Gollum</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9018">The East Bank</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801201c9019">The Eaves of Mirkwood</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9020">The Old Ford</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9021">The West Bank</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9102">Nazgul of Dol Guldur</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9101">Dungeon Jailor</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - Chasing the Orc Raiders" id="9427c4d6-6784-4fee-8710-668a85bc5ecf" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
+  <cards>
+    <card id="bd0ddb50-f6da-4081-a216-5e492401c6b5" name="Robbed - 1A">
+      <property name="Type" value="Quest" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="sts" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Setup: Search the encounter deck for Elrond's Message, Orc Forest Camp and Ungoliant Spawn. Add Elrond's Message and Orc Forest Camp to the staging area. Place Ungoliant Spawn face up but out of play, alongside the quest deck." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Chasing the Orc Raiders" />
+      <property name="Victory Points" value="" />
+		<alternate name="Robbed - 1B" type="B">
+		  <property name="Type" value="Quest" />
+		  <property name="Quantity" value="1" />
+		  <property name="Sphere" value="" />
+		  <property name="Cost" value="" />
+		  <property name="Engagement Cost" value="" />
+		  <property name="Unique" value="" />
+		  <property name="Setup" value="" />
+		  <property name="Attack" value="" />
+		  <property name="Defense" value="" />
+		  <property name="Willpower" value="" />
+		  <property name="Health" value="" />
+		  <property name="Traits" value="" />
+		  <property name="Text" value="When revealed: Select 1 hero, who receives 2 damage.&#10;&#10;Players cannot advance to the next stage of the quest unless they have Elrond's Message in their possession." />
+		  <property name="Shadow" value="" />
+		  <property name="Keywords" value="" />
+		  <property name="Threat" value="" />
+		  <property name="Quest Points" value="15" />
+		  <property name="Encounter Set" value="Chasing the Orc Raiders" />
+		  <property name="Victory Points" value="" />
+		</alternate>
+    </card>
+    <card id="64623255-a216-427b-a990-76f723d30400" name="Hide and Seek - 2A">
+      <property name="Type" value="Quest" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Set aside Orc Forest Camp out of play." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Chasing the Orc Raiders" />
+      <property name="Victory Points" value="" />
+		<alternate name="Hide and Seek - 2B" type="B">
+		  <property name="Type" value="Quest" />
+		  <property name="Quantity" value="1" />
+		  <property name="Sphere" value="" />
+		  <property name="Cost" value="" />
+		  <property name="Engagement Cost" value="" />
+		  <property name="Unique" value="" />
+		  <property name="Setup" value="" />
+		  <property name="Attack" value="" />
+		  <property name="Defense" value="" />
+		  <property name="Willpower" value="" />
+		  <property name="Health" value="" />
+		  <property name="Traits" value="" />
+		  <property name="Text" value="Forced: If the players are not successful in the quest phase, every hero takes 1 damage and 1 progress token will be removed from the current quest card. Orcs remain in the staging area during the encounter phase unless they guard Elrond's Message. Players cannot advance to the next stage of the quest unless they have Elrond's Message in their possession." />
+		  <property name="Shadow" value="" />
+		  <property name="Keywords" value="" />
+		  <property name="Threat" value="" />
+		  <property name="Quest Points" value="7" />
+		  <property name="Encounter Set" value="Chasing the Orc Raiders" />
+		  <property name="Victory Points" value="" />
+		</alternate>
+    </card>
+    <card id="ca69961a-9d2b-427f-b18a-e864193fca61" name="Uninvited Guests - 3A">
+      <property name="Type" value="Quest" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Place Ungoliant Spawn in the staging area. All orcs in the staging area are discarded." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Chasing the Orc Raiders" />
+      <property name="Victory Points" value="" />
+		<alternate name="Uninvited Guests - 3B" type="B">
+		  <property name="Type" value="Quest" />
+		  <property name="Quantity" value="1" />
+		  <property name="Sphere" value="" />
+		  <property name="Cost" value="" />
+		  <property name="Engagement Cost" value="" />
+		  <property name="Unique" value="" />
+		  <property name="Setup" value="" />
+		  <property name="Attack" value="" />
+		  <property name="Defense" value="" />
+		  <property name="Willpower" value="" />
+		  <property name="Health" value="" />
+		  <property name="Traits" value="" />
+		  <property name="Text" value="Forced: At the beginning of each quest phase, as long as Ungliant's Spawn is in play, each player places the top card of his deck face-down in the staging area. These cards represent Ungoliant's Net and have 1 Ò and 1 Quest Point. These cards count as locations. Players cannot defeat this stage while Ungoliant Spawn is in play. If this stage is defeated, the players have won the game." />
+		  <property name="Shadow" value="" />
+		  <property name="Keywords" value="" />
+		  <property name="Threat" value="" />
+		  <property name="Quest Points" value="7" />
+		  <property name="Encounter Set" value="Chasing the Orc Raiders" />
+		  <property name="Victory Points" value="" />
+		</alternate>
+    </card>
+    <card id="5ac938ec-c2d5-4e73-95e9-78c59669cf0e" name="Elrond's Message">
+      <property name="Type" value="Objective" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="Restricted. Guarded 2 (attach the top 2 encounter cards instead of 1)" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Traits" value="Item." />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="Action: Claim Elrond's Message if it free of encounters. When claimed, attach Elrond's Message to a hero you control. (Counts as an attachment. If attached Hero takes damage or Elrond's message becomes detached, return Elrond's Message to the top of the Encounter Deck.)" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Chasing the Orc Raiders" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="149801a5-be67-450c-b34c-4ae2f81a49bd" name="Orc Forest Camp">
+      <property name="Type" value="Location" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Traits" value="Forest." />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value=" X is the number of resource tokens on this card.&#10;&#10;Forced: At the beginning of the travel phase place a resource token on this card if there is an objective card in the staging area. If there are 5 resource tokens on this card, the players lose the game." />
+      <property name="Quest Points" value="12" />
+      <property name="Encounter Set" value="Chasing the Orc Raiders" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="X" />
+      <property name="Victory Points" value="" />
+    </card>
+  </cards>
+</set>

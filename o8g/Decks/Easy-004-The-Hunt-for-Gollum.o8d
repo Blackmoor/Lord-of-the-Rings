@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801201c9022">The Hunt Begins - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801201c9024">A New Terror Abroad - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801201c9026">On the Trail - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9012">Flooding</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801201c9013">Goblintown Scavengers</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9014">Hunters from Mordor</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801201c9015">Old Wives' Tales</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9016">River Ninglor</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801201c9017">Signs of Gollum</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9018">The East Bank</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801201c9019">The Eaves of Mirkwood</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9021">The West Bank</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9115">Eastern Crows</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9116">Evil Storm</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9117">Pursued by Shadow</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9118">Treacherous Fog</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9111">Misty Mountain Goblins</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9113">Banks of the Anduin</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9114">Gladden Fields</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9011">False Lead</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

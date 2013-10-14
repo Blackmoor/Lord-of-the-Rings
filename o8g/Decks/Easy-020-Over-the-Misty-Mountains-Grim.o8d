@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9017">Bilbo Baggins</card>
+  </section>
+  <section name="Quest" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9005">A Short Rest - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9080">The Mountain Pass - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9028">Down, Down to Goblin Town - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9035">Galloping Boulders</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9048">Guffawing of Giants</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9068">Overhanging Rock</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9079">The High Pass</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9009">A Suspicious Crow</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9021">Cave Entrance</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9030">Dreary Hills</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9058">Lone-Lands</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9060">More Like A Grocer</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9093">Wind-Whipped Rain</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9078">The Great Goblin</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9034">Front Porch</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-1801204c9039">Goblin Bent-Swords</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9045">Great Cavern Room</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9038">Goblin Axeman</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9040">Goblin Driver</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9041">Goblin Miners</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9042">Goblin Runners</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9077">The Goblins' Caves</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9076">Stone-Giant</card>
+  </section>
+</deck>

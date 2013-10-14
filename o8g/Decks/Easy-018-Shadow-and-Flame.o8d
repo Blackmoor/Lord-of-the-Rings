@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9017">Nearing the Gate - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9025">The Rear Guard - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9011">Last Lord of Moria - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9001">Counter-Spell</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801213c9005">Fiery Sword</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9009">Inner Flame</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9010">Inner Shadow</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9013">Leaping Flame</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801213c9014">Many Thonged Whip</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9021">Ranging Goblin</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9023">Second Deep</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9024">Second Hall</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801213c9029">Whip Lash</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9038">Goblin Scout</card>
+    <card qty="5" id="51223bd0-ffd1-11df-a976-0801207c9040">Goblin Swordsman</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9041">Goblin Tunnels</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9019">Chance Encounter</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9075">Stray Goblin</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9079">The Mountains' Roots</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9002">Dark Pit</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9003">Durin's Bane</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

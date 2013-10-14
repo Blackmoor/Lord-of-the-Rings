@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="e4af5d7f-9af5-41bb-b22a-cce8b91ac791">The Disappearance - 1A</card>
+    <card qty="1" id="ecc8fd11-b2b9-4adc-91eb-6fcc1212e7ce">Terror of the Dead - 2A</card>
+    <card qty="1" id="efd4cef9-ce8b-4985-8825-853ba98baa2b">The Shadow Host - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="14f7c98c-b425-4fac-850a-729d8fcdaa0c">Banks of Morthond</card>
+    <card qty="3" id="fc54b033-56cc-4ca9-8e0f-7f1c7b82bd6a">Blackroot Graves</card>
+    <card qty="1" id="7b0eb4e5-962c-4041-baea-3a09a83fb996">Relic from the Dark Years</card>
+    <card qty="2" id="8ece887c-6ca7-467d-80d4-3f28afa13433">Shadow-man</card>
+    <card qty="4" id="65f48337-cec0-41a1-84ff-490c4f563ce4">Restless Dead</card>
+    <card qty="3" id="43bb02ff-9fcc-47e8-822c-ffcd620c9fc4">Whisperer</card>
+    <card qty="2" id="a7d52939-2989-44d2-b81b-571db0ee8c16">Shadow Host Captain</card>
+    <card qty="3" id="f079c496-20bf-4ce4-a5ca-d644172d83fe">Regretful Shade</card>
+    <card qty="2" id="c57661b7-62f9-4906-b2eb-73af91fd8252">Vale of Shadows</card>
+    <card qty="2" id="02cae27a-3b0c-4396-aea3-8fc2bdd4ffe8">Shadow of Dwimorberg</card>
+    <card qty="2" id="7a3411df-76a0-432b-a64a-d499b0b1ae50">Haunted Valley</card>
+    <card qty="2" id="c29c98de-5660-498c-a5cc-a1800985d221">Midnight Throng</card>
+    <card qty="2" id="f985bda2-5029-4c34-91f7-721f830cbd9c">Murmurs of Dread</card>
+    <card qty="2" id="728f17db-d741-4f1b-92da-8aac3d78432d">Groping Horror</card>
+    <card qty="2" id="d33ef89b-13c9-49b2-a921-a527f27a415a">The Gloaming</card>
+    <card qty="2" id="cdf8dee9-b2ac-4e5f-bf4c-0b9c15cac142">Driven by Fear</card>
+    <card qty="2" id="5e7c36de-a2bb-44e3-951b-80123788d571">The Dead Ride Behind</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="88df7c56-ee11-48f0-b6a0-0486e0a8ce92">Tarlang's Neck</card>
+    <card qty="1" id="36a22f2b-56d9-4148-a962-f7fbdf60f3a1">Eventide</card>
+    <card qty="1" id="d3c68791-c3f9-4e8d-9515-2496f9ca1895">Dusk</card>
+    <card qty="1" id="0c15f99d-9066-4e7c-b364-104a0083d997">Midnight</card>
+    <card qty="1" id="f93a8fda-7383-41c9-b86d-c5ba1fec760d">Derufin</card>
+    <card qty="1" id="7b9dd852-ed19-4a00-b09e-f6c2cee549fa">The Lord of the Dead</card>
+    <card qty="1" id="822ca699-4763-4b8c-baff-d8d828c002a9">The Stone of Erech</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

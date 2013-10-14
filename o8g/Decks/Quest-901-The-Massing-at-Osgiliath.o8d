@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801202c9016">Beyond Expectations - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801202c9018">Through the Ruins - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801202c9020">Anduin Crossing - 3A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801202c9022">Race to Minas Tirith - 4A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801202c9005">Wainrider Captain</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801202c9006">Uruk Vanguard</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801202c9007">Captured Watchtower</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801202c9008">Emyn Arnen Overlook</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801202c9009">Morgulduin</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801202c9010">Pelennor Fields</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801202c9011">Ruins of Osgiliath</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-1801202c9012">Cut Off</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801202c9013">Dark Pursuit</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801202c9014">Massing at Osgiliath</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801202c9015">Ranger of Ithilien</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801202c9001">The Witch-King</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-1801202c9002">Snaga Scouts</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-1801202c9003">Wolves from Mordor</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-1801202c9004">Wainriders</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

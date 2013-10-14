@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="23768a0d-bf6c-4405-9b09-ea8fdbfded31">Ambush - 1A</card>
+    <card qty="1" id="d2bf00ad-2e1e-4537-b662-f6f20f9a1cfe">Captured! - 2A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="5a654416-4449-4d0c-add8-8b3ca04bb401">Southern Road</card>
+    <card qty="1" id="01b1d42b-11a4-4030-988d-064673169fec">Western Road</card>
+    <card qty="1" id="8eb1ca03-da9e-4e84-abf2-090804eeb1aa">Northern Road</card>
+    <card qty="1" id="9d58de28-c518-4888-8e91-a52bb5c3e663">Eastern Road</card>
+    <card qty="4" id="eec35e8e-281e-4dc7-8a76-b4823de3cb71">The Dark Woods</card>
+    <card qty="4" id="8affd994-f7f5-4341-8437-899f9a31b094">Lying in Wait</card>
+    <card qty="3" id="fa3a740d-36b7-4fa9-b5d5-6d70aa50f078">Mordor Looms</card>
+    <card qty="2" id="f4b35e95-7f32-490d-9591-ac9eb050bb7e">Conflict at the Crossroads</card>
+    <card qty="4" id="8f106a70-0102-41ad-8752-fb5667748850">Orc Ambusher</card>
+    <card qty="3" id="2d2e4f42-009d-4fde-ab42-3cd9351a4d0f">Brutal Uruk</card>
+    <card qty="2" id="9d2926dc-ab14-492a-8f1e-b07c1b32b2d8">Evil Crow</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9062">Orc Arsonist</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9064">Orc Rabble</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9072">Scourge of Mordor</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="9b2302dc-3084-447f-8104-a4569fd26e38">The Cross-roads</card>
+    <card qty="1" id="6a4b0ba7-c80b-4580-bc43-d5369b0c44aa">Black Numenorean</card>
+    <card qty="1" id="ab2ac791-b266-43b2-b6ee-0d412a1100bc">Faramir</card>
+    <card qty="1" id="fa4aaa97-c06d-42d5-b796-2f6200d9a404">Lord Alcaron</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

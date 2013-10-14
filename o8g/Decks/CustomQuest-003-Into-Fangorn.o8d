@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="1234e90f-3f16-45d6-b696-92a7970623f2">Entering the Forest</card>
+    <card qty="1" id="b332627d-2835-4e15-b846-1189a74ce7af">Into the Web</card>
+    <card qty="1" id="f36064e5-0889-4699-9adf-9110909dc5b8">Seeking the Ents</card>
+    <card qty="1" id="2cf345c7-c38e-4524-8c93-9dbcc18c83d5">Chase Through Darkness</card>
+    <card qty="1" id="6ce9a5b7-ca6a-4895-921a-e64f5835d819">Showdown with the Fallen</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="28f285e0-c28a-42bd-8cf3-64380d8026f2">Banks of the Entwash</card>
+    <card qty="2" id="56d5c749-d8c1-4e83-9546-c530f925b30d">Ent Guardian</card>
+    <card qty="2" id="c153ba5f-e7b8-43f5-a03f-130d30c39cc9">Ent-House</card>
+    <card qty="4" id="f2cbd463-f0e8-4bf2-a56c-65390fb90c61">Fangorn Spider</card>
+    <card qty="2" id="3b14d1c0-51e4-42dd-862f-89895d4e3c56">Fell Voice of Isengard</card>
+    <card qty="3" id="22447d5f-0fce-4f0b-b63f-d402eb9cae8b">Forest Troll</card>
+    <card qty="4" id="04dbe60e-00fb-49cb-97b4-ffe8b60e0fed">Grasping Branches</card>
+    <card qty="3" id="f195fff7-c0d8-41c4-92ed-c780e7fc1d4c">Ill-Advised Campfire</card>
+    <card qty="3" id="01c4ed91-d072-454a-8674-073f70a00eaa">Lost in the Forest</card>
+    <card qty="4" id="d527ea6f-1490-49db-aa51-060d53785db0">Lulled to Sleep</card>
+    <card qty="2" id="a3861d19-98cd-4dfb-b48e-3d7e07b0b0d8">Memories of Destruction</card>
+    <card qty="2" id="689ad107-ca6b-4a7a-ba23-a9c33c052f71">Mysterious Trail</card>
+    <card qty="3" id="e681eb6c-b1c0-45dd-9231-ecb93ab4dd2b">Suffocating Grove</card>
+    <card qty="4" id="ef432787-dc26-4cac-b36d-4256116bde9e">Wild Huorn</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="f8aec836-3514-44e8-b233-2a32b7b78d9c">Anger of the Forest</card>
+    <card qty="1" id="c4b65390-51af-4029-9caf-b2998aa8c62c">Amroth</card>
+    <card qty="2" id="2d49697c-ab10-41b6-a197-d7593920463d">Black-Hearted Huorn</card>
+    <card qty="2" id="1100ec18-cb3b-4518-ae72-952e37969f56">Hollow Dale</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

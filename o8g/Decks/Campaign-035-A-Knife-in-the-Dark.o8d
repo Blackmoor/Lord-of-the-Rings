@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="2efa631a-eb16-4078-84a5-18c7033b86f3">A Knife in the Dark</card>
+    <card qty="1" id="d0b6992d-9dc4-41fa-a483-b4ad0a3d60b3">Trouble in Bree - 1A</card>
+    <card qty="1" id="28a4721b-3696-4fae-9eea-01b5a250c892">Into the Wild - 2A</card>
+    <card qty="1" id="257f9b44-2744-4f02-bbf6-115d12b52e8d">The Ringwraiths Attack - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="795579db-249d-4c9d-850f-6f39bc96c063">Squint-Eyed Southerner</card>
+    <card qty="4" id="0e1451ba-5fa6-4a13-869b-d23d9ecef15e">Shady Bree-Lander</card>
+    <card qty="2" id="33a575b4-e373-46db-b11e-90f8fc41ef6e">Rider of Mordor</card>
+    <card qty="3" id="ddb20145-e570-4099-8d8a-11d64895939b">Weather Hills</card>
+    <card qty="3" id="df23bd50-5ca3-4a0e-a83c-a349632b0ff4">Chetwood</card>
+    <card qty="3" id="d47ece86-2645-4d35-8ab7-c439d12abe65">Unwanted Attention</card>
+    <card qty="2" id="e6721e44-5706-4a0f-a895-ced75f9c6219">Black Breath</card>
+    <card qty="3" id="32416ec8-b50d-4cd2-a62f-10f97c87be73">Pathless Country</card>
+    <card qty="3" id="7e470346-1828-49c0-b241-58d0dbf27b4b">Piercing Cry</card>
+    <card qty="3" id="48384e79-d397-4dcd-9862-8a72acb448d0">Lure of the Ring</card>
+    <card qty="3" id="4765cbea-5ae8-4e39-a811-a67f1f6ca2a0">Power In Their Terror</card>
+    <card qty="3" id="4b36df3f-d75b-4b3a-9324-9ab31c10d7b9">Pale Blade</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="c9575426-59ea-4863-bf6a-407e9eae3f33">The One Ring</card>
+    <card qty="1" id="c5657436-d6c8-400d-ba1f-a723799ac685">The Witch-king</card>
+    <card qty="1" id="90d620e5-d7be-42e6-9756-b92761ecd8c9">Midgewater</card>
+    <card qty="1" id="ad09f848-9430-41c8-8723-671f08b79078">Weathertop</card>
+    <card qty="1" id="984d2a01-f12a-4e8b-800c-6a04b1904049">The Prancing Pony</card>
+    <card qty="1" id="6a3e1c91-accd-476b-9ecc-ace35274a052">Bill Ferny</card>
+    <card qty="4" id="2d819f76-77dd-47a2-9a3f-ac8b8018f0df">Ringwraith</card>
+  </section>
+  <section name="Hero" shared="False">
+    <card qty="1" id="3217a119-6b86-47dd-b451-c5e45be3f874">Frodo Baggins</card>
+  </section>
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

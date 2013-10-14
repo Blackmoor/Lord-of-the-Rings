@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Attachment" shared="False">
+    <card qty="1" id="d0ed393c-162a-4715-bed4-e338c24e9e36">Mr Underhill</card>
+    <card qty="1" id="ff574390-bd68-4277-9065-dd9dbf552d00">Valiant Warrior</card>
+    <card qty="1" id="af49e5ea-c6a2-4be4-bbf3-ac53c100e887">Noble Hero</card>
+    <card qty="1" id="1d1ab8a3-ad76-4992-ae5c-6a89fd0ed463">Skilled Healer</card>
+    <card qty="1" id="ef014a91-c2d9-44ca-acd0-cc1a339c051f">Tireless Ranger</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="6c04a40a-0666-4b4f-a768-ddff46857cf0">Gildor Inglorian</card>
+    <card qty="1" id="cdc303cb-bb1a-4409-a479-aa4155bd8ed5">Overcome by Terror</card>
+    <card qty="1" id="074cad39-ce55-4dc1-9775-e95363682ef7">Fear of Discovery</card>
+    <card qty="1" id="e8f413bf-3593-47fc-8813-4553d55dbb2a">Eaten Alive!</card>
+    <card qty="1" id="50c19cd1-3094-4bf7-b2dc-e21b145827b7">Panicked</card>
+    <card qty="1" id="40c95b3d-6216-4def-bb93-f44871f3ec70">Weight of the Ring</card>
+    <card qty="1" id="1c5f4854-c10c-430b-9c40-2d84c5997b8f">The Ring Draws Them</card>
+	<card qty="1" id="d95a6076-3ead-4ff6-a1ba-ca320d2bd4e1">Gandalf's Delay</card>
+  </section>
+</deck>

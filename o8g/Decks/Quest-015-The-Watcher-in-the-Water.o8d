@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801210c9023">To the West-door - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801210c9019">The Seething Lake - 2A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801210c9003">Disturbed Waters</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801210c9006">Grasping Tentacle</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801210c9008">Ill Purpose</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801210c9010">Makeshift Passage</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801210c9011">Perilous Swamp</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801210c9015">Stagnant Creek</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801210c9016">Stair Falls</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801210c9017">Striking Tentacle</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801210c9022">Thrashing Tentacle</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801210c9026">Wrapped!</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9009">Bitter Wind</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801207c9010">Black Uruks</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9045">Knees of the Mountain</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9049">Mountain Warg</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9081">Turbulent Waters</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9086">Warg Lair</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801210c9021">The Watcher</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801210c9004">Doors of Durin</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

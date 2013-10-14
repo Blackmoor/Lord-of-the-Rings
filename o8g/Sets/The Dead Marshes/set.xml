@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Dead Marshes" id="51223bd0-ffd1-11df-a976-0801205c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
+  <cards>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9001" name="A Wisp of Pale Sheen">
+      <property name="Type" value="Treachery" />
+      <property name="Traits" value="Escape." />
+      <property name="Quantity" value="3" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="When Revealed: Place 2 resource tokens on Gollum. Any player may exhaust a Î hero to reduce this effect to 1 resource token.&#xA;&#xA;Escape: 4" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="The Dead Marshes" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9002" name="Boromir">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Traits" value="Gondor. Noble. Warrior." />
+      <property name="Quantity" value="1" />
+      <property name="Cost" value="11" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="5" />
+      <property name="Text" value="Action: Raise your threat by 1 to ready Boromir.&#xA;&#xA;Action: Discard Boromir to deal 2 damage to each enemy engaged with a single player." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9003" name="Dunedain Cache">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Traits" value="Item." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Attached hero gains ranged.&#xA;&#xA;Action: Pay 1 resource from attached hero's pool to attach Dunedain Cache to another hero." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9004" name="Dunedain Watcher">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Traits" value="Dunedain." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="2" />
+      <property name="Text" value="Response: Discard Dunedain Watcher from play to cancel the shadow effects of a card just triggered." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9005" name="Elfhelm">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Traits" value="Rohan. Warrior." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="4" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="3" />
+      <property name="Text" value="While Elfhelm is ready, he gains: &quot;Response: After your threat is raised as the result of questing unsuccessfully, or by an encounter or quest card effect, reduce your threat by 1.&quot;" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9006" name="Fast Hitch">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Lore" />
+      <property name="Traits" value="Skill." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Action: Exhaust Fast Hitch to ready attached character." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a Hobbit character." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9007" name="Fens and Mires">
+      <property name="Type" value="Location" />
+      <property name="Traits" value="Dead Marshes." />
+      <property name="Quantity" value="4" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Forced: After the players travel to this location, place 1 resource token on Gollum.&#xA;&#xA;Escape: 2" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="2" />
+      <property name="Encounter Set" value="The Dead Marshes" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9008" name="Giant Marsh Worm">
+      <property name="Type" value="Enemy" />
+      <property name="Traits" value="Creature." />
+      <property name="Quantity" value="4" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="36" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="6" />
+      <property name="Text" value="Forced: Remove 2 damage from Giant Marsh Worm at the end of each round.&#xA;&#xA;Escape: 2" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="The Dead Marshes" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9009" name="Gollum">
+      <property name="Type" value="Objective" />
+      <property name="Traits" value="Gollum." />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="If Gollum ever has 8 or more resource tokens on him, shuffle him back into the encounter deck.&#xA;&#xA;Forced: At the end of the quest phase, the party must make an escape test, dealing 1 card per player from the encounter deck. If this test is failed, place 2 resource tokens on Gollum." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="The Dead Marshes" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9010" name="Impassable Bog">
+      <property name="Type" value="Location" />
+      <property name="Traits" value="Dead Marshes." />
+      <property name="Quantity" value="4" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="When Revealed: Place 1 resource token on Gollum for each location card in the staging area.&#xA;&#xA;Escape: 2" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="12" />
+      <property name="Encounter Set" value="The Dead Marshes" />
+      <property name="Victory Points" value="7" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9011" name="Into the Marshes - 1A">
+      <property name="Type" value="Quest" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="s" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Setup: Search the encounter deck for Gollum, and add it to the staging area. Shuffle the encounter deck, then reveal 1 card per player from the encounter deck and add it to the staging area." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="The Dead Marshes" />
+      <property name="Victory Points" value="" />
+      <alternate name="Into the Marshes - 1B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="" />
+        <property name="Shadow" value="51223bd0-ffd1-11df-a976-0801205c9011" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="12" />
+        <property name="Encounter Set" value="The Dead Marshes" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9013" name="Nightfall">
+      <property name="Type" value="Treachery" />
+      <property name="Traits" value="Escape." />
+      <property name="Quantity" value="3" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="When Revealed: The first player makes an escape test, dealing 2 cards from the encounter deck. If this test is failed, place 1 resource token on Gollum and raise each player's threat by 2.&#xA;&#xA;Escape: 2" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="The Dead Marshes" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9014" name="Silvan Tracker">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Lore" />
+      <property name="Traits" value="Silvan." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="3" />
+      <property name="Text" value="Response: After a Silvan character readies during the refresh phase, heal 1 damage from that character." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9015" name="Song of Battle">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Neutral" />
+      <property name="Traits" value="Song." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Attached hero gains a Ï resource icon." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9016" name="Song of Mocking">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Traits" value="Song." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Action: Exhaust Song of Mocking to choose another hero. Until the end of the phase, attached hero takes all damage assigned to the chosen hero." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9017" name="The Capture - 2A">
+      <property name="Type" value="Quest" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="The Dead Marshes" />
+      <property name="Victory Points" value="" />
+      <alternate name="The Capture - 2B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="Forced: After this stage is defeated, the first player chooses a player. That player must pass an Escape test, dealing 1 card from the encounter deck for each resource token on Gollum, to capture him. If Gollum is not captured at this time, reset the quest deck to stage 1B.&#xA;&#xA;If this final Escape test is passed, the players have captured Gollum and won the game." />
+        <property name="Shadow" value="" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="3" />
+        <property name="Encounter Set" value="The Dead Marshes" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9019" name="The Heart of the Marshes">
+      <property name="Type" value="Location" />
+      <property name="Traits" value="Dead Marshes." />
+      <property name="Quantity" value="4" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="While The Heart of the Marshes is the active location, all cards dealt from the encounter deck for escape tests get +1 Escape. (Cards receive this bonus even if they do not have a printed escape value.)&#xA;&#xA;Escape: 1" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="3" />
+      <property name="Quest Points" value="4" />
+      <property name="Encounter Set" value="The Dead Marshes" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9020" name="The Lights of the Dead">
+      <property name="Type" value="Treachery" />
+      <property name="Traits" value="Escape." />
+      <property name="Quantity" value="4" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="When Revealed: Each player must make an escape test, dealing 2 cards from the encounter deck for each test. Each player that fails this test places 1 resource token on Gollum, and raises his threat by 1.&#xA;&#xA;Escape: 5" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="The Dead Marshes" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9021" name="Through the Mist">
+      <property name="Type" value="Treachery" />
+      <property name="Traits" value="Escape." />
+      <property name="Quantity" value="3" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="When Revealed: The first player makes an escape test counting Û instead of Ò, dealing 2 cards from the encounter deck. If this test is failed, place 1 resource token on Gollum and raise each player's threat by 1.&#xA;&#xA;Escape: 3" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="The Dead Marshes" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9022" name="Vassal of the Windlord">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Traits" value="Creature. Eagle." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="0" />
+      <property name="Health" value="1" />
+      <property name="Text" value="Vassal of the Windlord cannot have restricted attachments.&#xA;&#xA;Forced: After an attack in which Vassal of the Windlord attacked resolves, discard Vassal of the Windlord from play." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Ranged." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801205c9023" name="We Do Not Sleep">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="5" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Until the end of the phase, Rohan characters do not exhaust to commit to quests." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+  </cards>
+</set>

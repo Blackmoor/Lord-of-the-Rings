@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9019">The Hills of Emyn Muil - 1A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801204c9007">Impassable Chasm</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801204c9010">Orc Horse Thieves</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801204c9011">Rauros Falls</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9014">Rockslide</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9015">Slick Footing</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801204c9018">The Highlands</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801204c9021">The North Stair</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9022">The Outer Ridge</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9024">The Shores of Nen Hithoel</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9089">Dol Guldur Orcs</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9091">Dol Guldur Beastmaster</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9092">Driven by Shadow</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9093">The Necromancer's Reach</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9094">Necromancer's Pass</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9095">Enchanted Stream</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9115">Eastern Crows</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9116">Evil Storm</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9117">Pursued by Shadow</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9118">Treacherous Fog</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9001">Amon Hen</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9002">Amon Lhaw</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

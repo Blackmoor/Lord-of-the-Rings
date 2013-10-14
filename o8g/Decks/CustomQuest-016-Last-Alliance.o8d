@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="c836d176-eb56-4274-b33a-8adbcb81c9c9">Preparing for Battle - 1A</card>
+    <card qty="1" id="c47983e2-8843-409e-b137-20887a3f36f9">Combat - 2A</card>
+    <card qty="1" id="fd01fd5c-eb37-464f-900d-ede623b0f043">Terrible and Unstoppable - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="4" id="43aaa840-408b-488f-9ab6-ee5a1eb4246c">Elven Alliance</card>
+    <card qty="4" id="639a2faa-2bc6-44f6-98b9-c8bba6e6a6c8">Human Alliance</card>
+    <card qty="3" id="2809f147-b000-419c-bbb2-39e6221d72de">Mountain Goblin</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9061">Orc Arbalesters</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9062">Orc Arsonist</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9064">Orc Rabble</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9065">Orc Scramblers</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9066">Orc Vanguard</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9081">Wolf Rider</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9083">Goblin Sniper</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9089">Dol Guldur Orcs</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9090">Chieftan Ufthak</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9091">Dol Guldur Beastmaster</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9097">East Bight Patrol</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9101">Dungeon Jailor</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9111">Misty Mountain Goblins</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9013">Goblintown Scavengers</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9010">Orc Horse Thieves</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801207c9010">Black Uruks</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9020">Chieftain of the Pit</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9034">Goblin Archer</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801207c9035">Goblin Follower</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9038">Goblin Scout</card>
+    <card qty="5" id="51223bd0-ffd1-11df-a976-0801207c9039">Goblin Spearman</card>
+    <card qty="5" id="51223bd0-ffd1-11df-a976-0801207c9040">Goblin Swordsman</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9052">Orc Drummer</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9053">Orc Horn Blower</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9054">Patrol Leader</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9075">Stray Goblin</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801209c9013">Goblin Taskmaster</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801209c9019">Orc Raiders</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801211c9014">Goblin Sneak</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801211c9015">Goblin Warlord</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9021">Ranging Goblin</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9078">The Great Goblin</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9042">Goblin Runners</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9041">Goblin Miners</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9040">Goblin Driver</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-1801204c9039">Goblin Bent-Swords</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9038">Goblin Axeman</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="0bf809bf-e7c2-4ea1-96bb-84c9c24edffe">Sauron</card>
+    <card qty="1" id="b0a3aaa4-11b9-4b64-b0d5-52caf6706c2b">Narsil</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

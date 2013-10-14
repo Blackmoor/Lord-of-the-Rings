@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9002">A Presence in the Dark - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9056">Search for an Exit - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9058">Search for an Exit - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9060">Search for an Exit - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9062">Search for an Exit - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9064">Search for an Exit - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9066">Search for an Exit - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9068">Search for an Exit - 2A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9006">Abandoned Tools</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9051">New Devilry</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9072">Shadow of Fear</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9016">Cave In</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9022">Dark and Dreadful</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9033">Fouled Well</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9019">Chance Encounter</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9075">Stray Goblin</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9079">The Mountains' Roots</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9034">Goblin Archer</card>
+    <card qty="5" id="51223bd0-ffd1-11df-a976-0801207c9039">Goblin Spearman</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9055">Plundered Armoury</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9082">Undisturbed Bones</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9080">The Nameless Fear</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9001">A Foe Beyond</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

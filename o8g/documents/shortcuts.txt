@@ -1,0 +1,53 @@
+Game controls (menus and shortcuts)
+===================================
+
+Hand
+----
+Double click a card in hand to play it onto the table
+Right click in the hand area to bring up the menu for other options (Random discard and Mulligan)
+Press 'Del' to discard a card
+
+Player deck
+-----------
+Double click your deck or use ctrl+D to draw a card
+Right click on the deck for further options (Shuffle, Draw Many, Lock Deck)
+Right click in the discard pile area for further options (Move all to deck, Discard many)
+
+Encounter Deck
+--------------
+Double click to move the top card to the staging area
+Right click in the deck area for further options (Shuffle)
+Right click in the discard area for further options (Move all to deck, Discard Many)
+
+Table
+-----
+Ctrl+Right Arrow - done (phase mode enabled), indicate you are done in this phase/step. Game will advance to next phase/step when all players are done.
+Ctrl+Right Arrrow - done (phase mode disabled), send "Done" message to chat window
+Ctrl+Shift+S - game setup
+Ctrl+E - reveal the top card of the Encounter deck
+Ctrl+Shift+E - reveal the top card of the Special Encounter deck
+Ctrl+H - place the top card of the Encounter deck face down on the table
+Ctrl+Shift+H - place the top card of the Special Encounter deck face down on the table
+Ctrl+Q - reveal next quest card
+Ctrl+R - refresh all your cards and increased threat by 1 (this is done automatically in phase management mode or by ctrl+N if you haven't refreshed this turn)
+Esc - clear any targeting on your cards (arrows or rotating target)
+Automation - a sub-menu allowing control of the the automation level and turn/phase management
+
+Card
+----
+Ctrl+S - Add a shadow card (if an enemy) or reveal a shadow card (if face down and rotated)
+Del - Discard the card
+ Player cards go to owner's discard pile
+ Encounter cards go the Encounter discard pile
+ Quest cards go to the bottom of the quest deck. If there are then no quest cards in play the next one is automatically drawn and added to the quest area
+Ctrl+V - add to victory display. The victory display can be viewed in the Global tab along with the current round number
+Ctrl+F - Flip over the card
+Ctrl+A - Make active location
+Ctrl+K - Lock the card - Card will not refresh. If it is a Hero it will not receive a token in the resource phase. If it is the first player token, it will not move on to the next player
+Double click - Perform default action (Flip, Exhaust, Refresh, Advance quest, Add token depending on card type and state)
+F1 - Add a resource token
+F2 - Add a progress token
+F3 - Add a damage token
+F4 - Remove a resource token
+F5 - Remove a progress token
+F6 - Remove a damage token

@@ -1,0 +1,740 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Foundations of Stone" id="51223bd0-ffd1-11df-a976-0801212c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.1.0.0">
+  <cards>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9001" name="Asfaloth">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Lore" />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Mount." />
+      <property name="Text" value="Action: Exhaust Asfaloth to place 1 progress token on any location. (2 tokens instead if attached hero is Glorfindel.)" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a Noldor or Silvan hero." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9002" name="Below the Mines - 4A">
+      <property name="Type" value="Quest" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+      <alternate name="Old One Lair - 4B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Encounter Set" value="Foundations of Stone" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="When Revealed: Create your own staging area. Reveal 4 cards from the encounter deck and add them to your staging area.&#xA;&#xA;Forced: After the 5th progress token is placed on Old One Lair, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together." />
+        <property name="Shadow" value="" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="5" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9004" name="Below the Mines - 4A">
+      <property name="Type" value="Quest" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+      <alternate name="Sheltered Rocks - 4B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Encounter Set" value="Foundations of Stone" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="When Revealed: Create your own staging area. Reveal 2 cards from the encounter deck and add them to your staging area.&#xA;&#xA;Forced: After the 11th progress token is placed on Sheltered Rocks, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together." />
+        <property name="Shadow" value="" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="11" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9006" name="Below the Mines - 4A">
+      <property name="Type" value="Quest" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+      <alternate name="The Endless Caves - 4B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Encounter Set" value="Foundations of Stone" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="When Revealed: Create your own staging area. Discard all resources from your heroes.&#xA;&#xA;Forced: After the 17th progress token is placed on The Endless Caves, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together." />
+        <property name="Shadow" value="" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="17" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9008" name="Below the Mines - 4A">
+      <property name="Type" value="Quest" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+      <alternate name="The Shivering Bank - 4B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Encounter Set" value="Foundations of Stone" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="When Revealed: Create your own staging area. Discard your hand. Reveal 2 cards from the encounter deck and add them to your staging area.&#xA;&#xA;Forced: After the 7th progress token is placed on The Shivering Bank, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together." />
+        <property name="Shadow" value="" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="7" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9010" name="Daeron's Runes">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Lore" />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="0" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Draw 2 cards. Then, discard 1 card from your hand." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9011" name="Deep Deep Dark">
+      <property name="Type" value="Treachery" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Quantity" value="4" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Attach 1 card from the top of the first player's deck to each Nameless enemy in play, if able." />
+      <property name="Shadow" value="Shadow: If attacking enemy is Nameless, the defending player must discard his hand." />
+      <property name="Keywords" value="Doomed 1. Surge." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9012" name="Drowned Treasury">
+      <property name="Type" value="Location" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Traits" value="Underground. Underwater." />
+      <property name="Quantity" value="3" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="If Drowned Treasury is the active location at the end of the quest phase, each player must discard 1 character he controls.&#xA;&#xA;Response: After Drowned Treasury leaves play as an explored location, each player may draw 2 cards or claim 1 objective in play." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9013" name="Durin's Axe">
+      <property name="Type" value="Objective" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Traits" value="Weapon. Artifact." />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Attached hero gets +3 Û. If attached hero is a Dwarf, it gets +1 Ò.&#xA;&#xA;Action: Exhaust a hero to claim this objective. Then, attach Durin's Axe to that hero as an attachment." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Surge. Restricted." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9014" name="Durin's Helm">
+      <property name="Type" value="Objective" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Traits" value="Armor. Artifact." />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Attached hero gets +1 Ú. If attached hero is a Dwarf, it gets +2 hit points.&#xA;&#xA;Action: Exhaust a hero to claim this objective. Then, attach Durin's Helm to that hero as an attachment." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Surge." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9015" name="Elder Nameless Thing">
+      <property name="Type" value="Enemy" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Traits" value="Nameless." />
+      <property name="Quantity" value="3" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="40" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="X" />
+      <property name="Defense" value="4" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="X" />
+      <property name="Text" value="Forced: After Elder Nameless Thing engages a player, attach the top 3 cards of that player's deck to it.&#xA;&#xA;X is the printed cost of all attached cards on this card. If there are no cards attached, X is 4." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="4" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="3" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9016" name="Glorfindel">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Traits" value="Noldor. Noble. Warrior." />
+      <property name="Quantity" value="1" />
+      <property name="Cost" value="5" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="3" />
+      <property name="Health" value="5" />
+      <property name="Text" value="Forced: After Glorfindel exhausts to commit to a quest, raise your threat by 1." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9017" name="Healing Herbs">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Lore" />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="0" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Discard Healing Herbs and exhaust attached hero to heal all damage on 1 character." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a Î hero." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9018" name="Heavy Stroke">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Response: After a Dwarf deals X damage to an enemy during combat, deal an additional X damage to that enemy. (Limit once per phase.)" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9019" name="Imladris Stargazer">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Traits" value="Noldor." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="0" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="0" />
+      <property name="Health" value="1" />
+      <property name="Text" value="Action: Exhaust Imladris Stargazer to choose a player. That player looks at the top 5 cards of his deck and then returns them to the top of his deck in any order." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9020" name="Light of Valinor">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Traits" value="Condition." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Attached hero does not exhaust to commit to a quest." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a Noldor or Silvan hero." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9021" name="Longbeard Elder">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Traits" value="Dwarf." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="2" />
+      <property name="Health" value="2" />
+      <property name="Text" value="Response: After Longbeard Elder commits to a quest, look at the top card of the encounter deck. If that card is a location, place 1 progress token on the current quest. Otherwise, Longbeard Elder gets -1 Ò until the end of the phase." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9022" name="Lost and Alone">
+      <property name="Type" value="Treachery" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Quantity" value="2" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Each player chooses and shuffles a hero he controls into his deck. When he draws that hero, he puts it into play." />
+      <property name="Shadow" value="Shadow: If attacking enemy is Nameless, the defending player must discard his hand." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9023" name="Mithril Lode">
+      <property name="Type" value="Location" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Traits" value="Underground." />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="While Mithril Lode is the active location, it gains: &quot;Refresh Action: Exhaust a character you control to place X progress tokens on the current quest card, bypassing any active location. X is the exhausted character's Ò. (Limit once per round.)&quot;" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Doomed 1." />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="5" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9024" name="Moria Bats">
+      <property name="Type" value="Enemy" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Traits" value="Creature." />
+      <property name="Quantity" value="4" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="33" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="1" />
+      <property name="Text" value="Only characters with ranged can attack or defend against Moria Bats.&#xA;&#xA;While Moria Bats is engaged with a player, it gets +1 Û for each other enemy engaged with that player." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9025" name="Nameless Thing">
+      <property name="Type" value="Enemy" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Traits" value="Nameless." />
+      <property name="Quantity" value="5" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="27" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="X" />
+      <property name="Defense" value="3" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="X" />
+      <property name="Text" value="Forced: After Nameless Thing engages a player, attach the top 2 cards of that player's deck to it.&#xA;&#xA;X is the printed cost of all attached cards on this card. If there are no cards attached, X is 3." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="3" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="1" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9026" name="Out of the Depths - 5A">
+      <property name="Type" value="Quest" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+      <alternate name="Out of the Depths - 5B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Encounter Set" value="Foundations of Stone" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area.&#xA;&#xA;Each player cannot commit more allies to the quest than the number of heroes he is also committing to the quest.&#xA;&#xA;If the players defeat this stage, they have won the game." />
+        <property name="Shadow" value="" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="11" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9028" name="Path of Need">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Traits" value="Condition." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="4" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Heroes do not exhaust to attack, defend, or commit to a quest while attached location is the active location." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Limit 1 per deck. Attach to a location." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9029" name="The Dripping Walls - 1A">
+      <property name="Type" value="Quest" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="t" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Setup: Place the Foundations of Stone encounter set aside, out of play. The first player attaches Cave Torch to a hero of his choice." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+      <alternate name="The Dripping Walls - 1B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Encounter Set" value="Foundations of Stone" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area." />
+        <property name="Shadow" value="" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="9" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9031" name="The Water's Edge - 2A">
+      <property name="Type" value="Quest" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+      <alternate name="The Water's Edge - 2B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Encounter Set" value="Foundations of Stone" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="Forced: After a player commits characters to the quest, he must discard the top 2 cards of his deck." />
+        <property name="Shadow" value="" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="12" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9033" name="Trollshaw Scout">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Traits" value="Noldor. Scout." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="0" />
+      <property name="Health" value="2" />
+      <property name="Text" value="Trollshaw Scout does not exhaust to attack.&#xA;&#xA;Forced: After Trollshaw Scout attacks, either discard it from play or discard 1 card from your hand." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Ranged." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801212c9034" name="Washed Away! - 3A">
+      <property name="Type" value="Quest" />
+      <property name="Encounter Set" value="Foundations of Stone" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+      <alternate name="Washed Away! - 3B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Encounter Set" value="Foundations of Stone" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="When Revealed: Discard all Item, Armor, Weapon, Light cards and all encounter deck cards from play. Shuffle all enemy and treachery cards in the encounter discard pile together with the Foundations of Stone encounter set. This deck becomes the new encounter deck. remove all other encounter deck cards from the game. Then, starting with the first player, each player draws a random stage 4 quest card. Remove all other stage 4 quest cards from the game." />
+        <property name="Shadow" value="" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="0" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+  </cards>
+</set>

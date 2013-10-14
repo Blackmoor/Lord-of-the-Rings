@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="080c8c11-0e46-424d-b866-570f902315bd">Chestwood Outskirts - 1A</card>
+    <card qty="1" id="cc906386-f8ec-4fd2-9ca6-74be679bc98c">Searching for Stolen Treasure - 2A</card>
+    <card qty="1" id="7d77ed0c-4967-4a18-b639-79358939077a">Adella's Fight - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="4bf49a9c-504a-4237-a293-a780c3ff6585">Bandit Thug</card>
+    <card qty="2" id="dc7c65eb-fe1e-4810-95b1-10f7334fcb1c">Chetwood Tracker</card>
+    <card qty="2" id="9e082289-d5ec-4d13-98af-fa8880f02346">Tracked!</card>
+    <card qty="2" id="5cb4f13a-2bfa-4eda-8072-2fee102a5570">Chestwood Lookout</card>
+    <card qty="2" id="3b4c6041-12c2-44f9-8c41-6c3ccade2856">Ambuscade</card>
+    <card qty="1" id="28a8f872-d99f-42bf-86a9-92ee2a3c656d">Chetwood Path</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9074">King Spider</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9075">Hummerhorns</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9076">Ungoliant's Spawn</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9077">Great Forest Web</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9078">Mountains of Mirkwood</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9079">Eyes of the Forest</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9080">Caught in a Web</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801200c9096">Forest Spider</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9097">East Bight Patrol</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9098">Black Forest Bats</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9099">Old Forest Road</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9100">Forest Gate</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="28a8f872-d99f-42bf-86a9-92ee2a3c656d">Chetwood Path</card>
+    <card qty="1" id="5cb4f13a-2bfa-4eda-8072-2fee102a5570">Chestwood Lookout</card>
+    <card qty="8" id="181196c2-08f8-4a35-8a85-baf4cc7eb464">Bree Land Treasure</card>
+    <card qty="2" id="2c3eee61-f1dc-4a5d-843e-a4f87a04f66e">Bandit Hideout</card>
+    <card qty="1" id="23d1dee5-1d13-4846-82e5-83d4039c9649">Sam Aspensor</card>
+    <card qty="1" id="6a72382b-384c-48a2-bd06-88975b871a91">Adella Aspensor</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

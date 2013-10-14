@@ -1,0 +1,572 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Long Dark" id="51223bd0-ffd1-11df-a976-0801211c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
+  <cards>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9001" name="Abandoned Mine">
+      <property name="Type" value="Location" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Traits" value="Underground. Dark." />
+      <property name="Quantity" value="3" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Lost: Return the top 2 Goblin enemies in the encounter discard pile to the staging area, if able." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="3" />
+      <property name="Quest Points" value="3" />
+      <property name="Victory Points" value="PASS" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9002" name="Cave Spider">
+      <property name="Type" value="Enemy" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Traits" value="Spider. Creature." />
+      <property name="Quantity" value="3" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="31" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="4" />
+      <property name="Text" value="When Revealed: The first player draws 1 card. Then, that player must choose and discard 4 cards from his hand, if able.&#xA;&#xA;Forced: After Cave Spider engages a player, that player must choose and discard 1 card from his hand, if able." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="3" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9003" name="Continuing Eastward - 2A">
+      <property name="Type" value="Quest" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+      <alternate name="Continuing Eastward - 2B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Encounter Set" value="The Long Dark" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="When Revealed: The first player makes a locate test. If this test is failed, reveal cards from the encounter deck equal to the number of players in the game and add them to the staging area. Then, trigger all &quot;Lost:&quot; effects in play.&#xA;&#xA;If the players quest unsuccessfully, trigger all &quot;Lost:&quot; effects in play.&#xA;If the players defeat this stage, they have won the game." />
+        <property name="Shadow" value="" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="17" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9005" name="Durin's Greaves">
+      <property name="Type" value="Objective" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Traits" value="Artifact. Armour." />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="When Revealed: The first player attaches Durin's Greaves to a hero of his choice as an attachment.&#xA;&#xA;Attached hero gets +1 Ú." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9006" name="Dwarven Forge">
+      <property name="Type" value="Location" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Traits" value="Underground. Dark." />
+      <property name="Quantity" value="2" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Lost: Each player must choose and discard 1 card from his hand." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="4" />
+      <property name="Victory Points" value="PASS" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9007" name="Erebor Battle Master">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Traits" value="Dwarf. Warrior." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="0" />
+      <property name="Health" value="2" />
+      <property name="Text" value="Erebor Battle Master gets +1 Û for each other Dwarf character you control." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9008" name="Erestor">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Traits" value="Noldor." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="4" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="0" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="2" />
+      <property name="Health" value="3" />
+      <property name="Text" value="Action: Choose and discard 1 card from your hand to draw 1 card. (Limit once per round.)" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9009" name="Ever My Heart Rises">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Traits" value="Condition." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="0" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Response: After you travel to a Mountain or Underground location, ready attached character and reduce your threat by 1." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a Dwarf character." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9010" name="Fatigue">
+      <property name="Type" value="Treachery" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Quantity" value="2" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Each player must exhaust 1 character he controls, if able. Then, if any player controls no unexhausted characters, Fatigue gains surge." />
+      <property name="Shadow" value="Shadow: The defending player must exhaust 1 character he controls, if able." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9011" name="Foul Air">
+      <property name="Type" value="Treachery" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Quantity" value="4" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: The first player makes a locate test. If this test is failed, deal 2 damage to all characters and trigger all &quot;Lost:&quot; effects in play." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="PASS" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9012" name="Fresh Tracks">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Response: After an enemy is added to the staging area, deal 1 damage to that enemy. Players ignore that enemy while making engagement checks this round." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9013" name="Gathering Ground">
+      <property name="Type" value="Treachery" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Attach this card to a location in the staging area with the highest combined threat and remaining quest points. (Counts as a Condition attachment with the text: &quot;Each enemy revealed from the encounter deck gains surge.&quot;)" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="PASS" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9014" name="Goblin Sneak">
+      <property name="Type" value="Enemy" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Traits" value="Goblin. Orc." />
+      <property name="Quantity" value="4" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="15" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="2" />
+      <property name="Text" value="Forced: After Goblin Sneak engages a player, discard the top card of the encounter deck. If it is a treachery card, Goblin Sneak engages the next player, if able." />
+      <property name="Shadow" value="Shadow: Add Goblin Sneak to the staging area." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9015" name="Goblin Warlord">
+      <property name="Type" value="Enemy" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Traits" value="Goblin. Orc." />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="39" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="3" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="5" />
+      <property name="Text" value="Lost: Each player must choose and discard 1 ally he controls from play, if able." />
+      <property name="Shadow" value="Shadow: Trigger all &quot;Lost:&quot; effects in play." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="4" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9016" name="Hama">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Traits" value="Rohan. Warrior." />
+      <property name="Quantity" value="1" />
+      <property name="Cost" value="9" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="4" />
+      <property name="Text" value="Response: After Hama is declared as an attacker, return a Ï event from your discard pile to your hand. Then, choose and discard 1 card from your hand." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9017" name="Journey in the Black Pit - 1A">
+      <property name="Type" value="Quest" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="t" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Setup: The first player attaches Cave Torch to a hero of his choice." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+      <alternate name="Journey in the Black Pit - 1B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Encounter Set" value="The Long Dark" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="When Revealed: Discard cards from the top of the encounter deck until you discard X locations, where X is one less than the number of players in the game (minimum of 1). Add those locations to the staging area, and shuffle the other discarded cards back into the encounter deck.&#xA;&#xA;Each location gets +1 $. If the players quest unsuccessfully, trigger all &quot;Lost:&quot; effects in play." />
+        <property name="Shadow" value="" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="13" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9019" name="Love of Tales">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Lore" />
+      <property name="Traits" value="Condition." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="0" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Response: After a Song card is played, add 1 resource to attached hero's resource pool." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a Î hero. Limit 1 per hero." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9020" name="Out of Sight">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="5" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Enemies engaged with you cannot attack you this phase." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Secrecy 3." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9021" name="Ring Mail">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Traits" value="Item. Armor." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Attached character gets +1 hit point and +1 Ú." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a Dwarf or Hobbit character. Restricted." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9022" name="Rock Adder">
+      <property name="Type" value="Enemy" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Traits" value="Creature." />
+      <property name="Quantity" value="3" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="20" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="3" />
+      <property name="Text" value="Rock Adder cannot be attacked unless it has dealt at least 1 damage this round." />
+      <property name="Shadow" value="Shadow: If this attack is undefended, the defending player must discard 1 character he controls from play." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9023" name="Silent Caverns">
+      <property name="Type" value="Location" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Traits" value="Underground." />
+      <property name="Quantity" value="2" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Lost: Exhaust all characters." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="3" />
+      <property name="Victory Points" value="PASS" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9024" name="Twisting Passage">
+      <property name="Type" value="Location" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Traits" value="Underground. Dark." />
+      <property name="Quantity" value="2" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Forced: Before placing progress tokens on Twisting Passage, the first player must make a locate test. If this test is failed, do not place any progress tokens on Twisting Passage and trigger all &quot;Lost:&quot; effects in play." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="3" />
+      <property name="Quest Points" value="5" />
+      <property name="Victory Points" value="PASS" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9025" name="Vast and Intricate">
+      <property name="Type" value="Treachery" />
+      <property name="Encounter Set" value="The Long Dark" />
+      <property name="Quantity" value="2" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: The first player makes a locate test. If this test is failed, raise each player's threat by 7, remove all progress tokens from play, and trigger all &quot;Lost:&quot; effects in play." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9026" name="Warden of Healing">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Lore" />
+      <property name="Traits" value="Gondor. Healer." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="0" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="1" />
+      <property name="Text" value="Action: Exhaust Warden of Healing to heal 1 damage on up to 2 different characters. Then, you may pay 2 Î resources to ready Warden of Healing." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801211c9027" name="Word of Command">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Lore" />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Exhaust an Istari character to search your deck for 1 card and add it to your hand. Shuffle your deck." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+  </cards>
+</set>

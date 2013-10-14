@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Markers and Tokens" id="21573ac7-f7f6-49e5-a26f-5070573374f1" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.0" version="2.0.0.0">
+  <markers>
+    <marker id="62a2ba76-9872-481b-b8fc-ec35447ca640" name="Resource" />
+    <marker id="38d55f36-04d7-4cf9-a496-06cb84de567d" name="Damage" />
+    <marker id="e9a419ff-5154-41cf-b84f-95149cc19a2a" name="Progress" />
+    <marker id="04d7b7bb-13ee-499c-97c0-c1b96a897560" name="Lock" />
+    <marker id="e0a54bea-6e30-409d-82cd-44a944e591dc" name="Turn" />
+  </markers>
+  <cards>
+    <card id="15e40d4f-b763-4dcc-aa52-e32b64a992dd" name="1st Player Token">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="72e54fdf-17b1-4358-b696-6c195e9696d1" name="Automation Help">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="4a4206d6-2ede-4d4a-bb11-c97cceaa7665" name="Done">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="5b015ce5-9282-402f-8fae-2ee819bd1545" name="Resource Phase">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="All players may play events or trigger actions and responses" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="947e9e24-08bb-4193-98dc-88eb72107b7c" name="Planning Phase">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="In player order, play allys and attachments" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="656f896c-f45f-4ee4-bc44-aa8fd1eada55" name="Quest Phase - Commit characters">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="In player order, exhaust to commit characters to the quest" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="40046ed1-70c5-4a0e-914a-0a897f6cd644" name="Quest phase - staging">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="Reveal 1 card per player from the encounter deck" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="04fbf669-68c4-40c5-ae4d-0e06539497f1" name="Quest phase - Resolve">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="Compare $ with Ò" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="95fd357a-c0f1-4046-8b7a-4baf9abf36fc" name="Travel phase">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="If there is no active location the first player may pick a location to become active. All players may play events or trigger actions and responses." />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="fbc17c02-086a-45d5-897b-d3732818b42f" name="Encounter phase">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="Each player may optionally engage 1 enemy then, in player order, make engagement checks" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="9c0f0325-4262-4a1d-8b1d-f415a6910f03" name="Combat phase - defend">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="Deal shadow cards then in player order, for each engaged enemy declare defender and resolve shadow card" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="b3ecfc10-176d-4971-820d-6d1227697d23" name="Combat phase - Attack">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="In player order, for each enemy declare attackers and deal damage" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="aa8cd34c-cf6a-440e-a05f-c05f84446a72" name="Combat - Actions">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="All players may play events or trigger actions and responses" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="700e2c2e-bb49-40a9-a9ea-f51be3ffe5b4" name="Refresh phase">
+      <property name="Type" value="Internal" />
+      <property name="Sphere" value="" />
+      <property name="Unique" value="" />
+      <property name="Keywords" value="" />
+      <property name="Setup" value="" />
+      <property name="Cost" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Traits" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Text" value="All players may play events or trigger actions and responses" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Shadow" value="" />
+      <property name="Threat" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+  </cards>
+</set>

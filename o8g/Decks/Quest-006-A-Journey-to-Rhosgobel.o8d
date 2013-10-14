@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801203c9020">The Wounded Eagle - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801203c9022">Radagast's Request - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801203c9024">Return to Rhosgobel - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801203c9011">Festering Wounds</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801203c9012">Athelas</card>
+    <card qty="5" id="51223bd0-ffd1-11df-a976-0801203c9013">Black Forest Bats</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801203c9014">Exhaustion</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801203c9015">Forest Grove</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801203c9016">Mirkwood Flock</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801203c9018">Swarming Insects</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9089">Dol Guldur Orcs</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9090">Chieftan Ufthak</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9091">Dol Guldur Beastmaster</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9092">Driven by Shadow</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9093">The Necromancer's Reach</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9094">Necromancer's Pass</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9095">Enchanted Stream</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9074">King Spider</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9075">Hummerhorns</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9076">Ungoliant's Spawn</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9077">Great Forest Web</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9078">Mountains of Mirkwood</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9079">Eyes of the Forest</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9080">Caught in a Web</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801203c9017">Rhosgobel</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801203c9019">Wilyador</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

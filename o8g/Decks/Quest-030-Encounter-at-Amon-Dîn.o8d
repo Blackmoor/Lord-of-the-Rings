@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="fd89bdbf-7475-4f3e-96fc-8f5315a93001">Savagery of the Orcs - 1A</card>
+    <card qty="1" id="fd89bdbf-7475-4f3e-96fc-8f5315a93002">Protect the Villagers - 1A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="4" id="fd89bdbf-7475-4f3e-96fc-8f5315a93072">Marauding Orc</card>
+    <card qty="3" id="fd89bdbf-7475-4f3e-96fc-8f5315a93073">Orc Ravager</card>
+    <card qty="2" id="fd89bdbf-7475-4f3e-96fc-8f5315a93074">Craven Eagle</card>
+    <card qty="3" id="fd89bdbf-7475-4f3e-96fc-8f5315a93075">Burning Farmhouse</card>
+    <card qty="4" id="fd89bdbf-7475-4f3e-96fc-8f5315a93076">Gondorian Hamlet</card>
+    <card qty="3" id="fd89bdbf-7475-4f3e-96fc-8f5315a93077">Secluded Farmhouse</card>
+    <card qty="2" id="fd89bdbf-7475-4f3e-96fc-8f5315a93078">Burnt Homestead</card>
+    <card qty="2" id="fd89bdbf-7475-4f3e-96fc-8f5315a93079">Trapped Inside</card>
+    <card qty="2" id="fd89bdbf-7475-4f3e-96fc-8f5315a93080">Panicked!</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9062">Orc Arsonist</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9064">Orc Rabble</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9072">Scourge of Mordor</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="fd89bdbf-7475-4f3e-96fc-8f5315a93071">Ghulat</card>
+    <card qty="1" id="fd89bdbf-7475-4f3e-96fc-8f5315a93070">Lord Alcaron</card>
+    <card qty="1" id="fd89bdbf-7475-4f3e-96fc-8f5315a93075">Burning Farmhouse</card>
+    <card qty="1" id="fd89bdbf-7475-4f3e-96fc-8f5315a93068">Rescued Villagers</card>
+    <card qty="1" id="fd89bdbf-7475-4f3e-96fc-8f5315a93069">Dead Villagers</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

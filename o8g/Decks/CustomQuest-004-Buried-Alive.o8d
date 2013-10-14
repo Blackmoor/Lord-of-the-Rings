@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="61377eb5-4d26-4769-a6f0-21e352ea26aa">The Mountain Pass - 1a</card>
+    <card qty="1" id="09848c47-f593-4daa-9b1d-aa27240e5f77">The Diversion - 2a</card>
+    <card qty="1" id="f3cfdaa0-7ffb-4129-9460-f0a18979ecf8">The Rescue - 3a</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9009">Bitter Wind</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801207c9010">Black Uruks</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9045">Knees of the Mountain</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9049">Mountain Warg</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9081">Turbulent Waters</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9086">Warg Lair</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9019">Chance Encounter</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9042">Great Cave-troll</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9048">Massing in the Deep</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9052">Orc Drummer</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9075">Stray Goblin</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9079">The Mountains' Roots</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9020">Chieftain of the Pit</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9034">Goblin Archer</card>
+    <card qty="5" id="51223bd0-ffd1-11df-a976-0801207c9039">Goblin Spearman</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9055">Plundered Armoury</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9082">Undisturbed Bones</card>
+    <card qty="1" id="61377eb5-4d26-4769-a6f0-21e352ea26aa">The Mountain Pass - 1a</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="85c0fdb3-618f-45cb-953c-c3f18fec2ebb">Treacherous Slope</card>
+    <card qty="1" id="90e18195-713d-4013-9f8b-c09660d9faf4">Nor</card>
+    <card qty="1" id="e0fc8401-09b4-4856-a029-a8c9d7752437">Longbeard Cavern</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9042">Great Cave-troll</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

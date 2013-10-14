@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Hills of Emyn Muil" id="51223bd0-ffd1-11df-a976-0801204c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
+  <cards>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9001" name="Amon Hen">
+      <property name="Type" value="Location" />
+      <property name="Traits" value="Emyn Muil." />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="While Amon Hen is the active location, players cannot play events." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="X is double the number of players in the game." />
+      <property name="Threat" value="X" />
+      <property name="Quest Points" value="5" />
+      <property name="Encounter Set" value="The Hills of Emyn Muil" />
+      <property name="Victory Points" value="5" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9002" name="Amon Lhaw">
+      <property name="Type" value="Location" />
+      <property name="Traits" value="Emyn Muil." />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="While Amon Lhaw is the active location, treat all attachments as if their printed text boxes were blank." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="X is double the number of players in the game." />
+      <property name="Threat" value="X" />
+      <property name="Quest Points" value="5" />
+      <property name="Encounter Set" value="The Hills of Emyn Muil" />
+      <property name="Victory Points" value="5" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9003" name="Brand son of Bain">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Traits" value="Dale." />
+      <property name="Quantity" value="1" />
+      <property name="Cost" value="10" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="2" />
+      <property name="Health" value="3" />
+      <property name="Text" value="Response: After Brand son of Bain attacks and defeats an enemy engaged with another player, choose and ready one of that player's characters." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Ranged." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9004" name="Descendant of Thorondor">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Traits" value="Creature. Eagle." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="4" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="2" />
+      <property name="Text" value="Descendant of Thorondor cannot have restricted attachments.&#xA;&#xA;Response: After Descendant of Thorondor enters or leaves play, deal 2 damage to any 1 enemy in the staging area." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9005" name="Gildor Inglorion">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Lore" />
+      <property name="Traits" value="Noldor." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="5" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="3" />
+      <property name="Willpower" value="3" />
+      <property name="Health" value="3" />
+      <property name="Text" value="Action: Exhaust Gildor Inglorion to look at the top 3 cards of your deck. Switch one of those cards with a card from your hand. Then, return the 3 cards to the top of your deck, in any order." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9006" name="Gildor's Counsel">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Lore" />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Play during the Quest phase, before characters are committed to the Quest.&#xA;&#xA;Action: Reveal 1 less card from the encounter deck this phase. (To a minimum of 1.)" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9007" name="Impassable Chasm">
+      <property name="Type" value="Treachery" />
+      <property name="Traits" value="Hazard." />
+      <property name="Quantity" value="4" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="When Revealed: If there is an active location, remove all progress tokens from that location and return it to the staging area. If no location is moved by this effect, this card gains surge." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="The Hills of Emyn Muil" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9008" name="Keen-eyed Took">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Traits" value="Hobbit." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="0" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="2" />
+      <property name="Text" value="Response: After Keen-eyed Took enters play, reveal the top card of each player's deck.&#xA;&#xA;Action: Return Keen-eyed Took to your hand to discard the top card of each player's deck." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9009" name="Meneldor's Flight">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="0" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Choose an Eagle ally. Return that character to its owner's hand." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9010" name="Orc Horse Thieves">
+      <property name="Type" value="Enemy" />
+      <property name="Traits" value="Mordor. Orc." />
+      <property name="Quantity" value="3" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="35" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="6" />
+      <property name="Text" value="Orc Horse Thieves get +1 Û for each location in the staging area." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Doomed 2." />
+      <property name="Threat" value="3" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="The Hills of Emyn Muil" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9011" name="Rauros Falls">
+      <property name="Type" value="Location" />
+      <property name="Traits" value="Emyn Muil." />
+      <property name="Quantity" value="2" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="While Rauros Falls is the active location, all characters must commit to the current quest during the quest phase." />
+      <property name="Shadow" value="Shadow: After this attack resolves, return attacking enemy to the staging area." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="4" />
+      <property name="Encounter Set" value="The Hills of Emyn Muil" />
+      <property name="Victory Points" value="3" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9012" name="Rear Guard">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Quest Action: Discard a Ì ally to give each hero committed to this quest +1 Ò until the end of the phase." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9013" name="Ride to Ruin">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Discard a Rohan ally to choose a location. Place 3 progress tokens on that location." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9014" name="Rockslide">
+      <property name="Type" value="Treachery" />
+      <property name="Traits" value="Hazard." />
+      <property name="Quantity" value="3" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="When Revealed: Deal 2 damage to each character committed to this quest." />
+      <property name="Shadow" value="Shadow: Remove defending character from combat. This attack is considered undefended." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="The Hills of Emyn Muil" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9015" name="Slick Footing">
+      <property name="Type" value="Treachery" />
+      <property name="Traits" value="Hazard." />
+      <property name="Quantity" value="3" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="When Revealed: Remove 1 progress token from each location in play. Then, discard the top card of each player's deck for each progress token removed by this effect." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="The Hills of Emyn Muil" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9016" name="Song of Travel">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Neutral" />
+      <property name="Traits" value="Song." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Attached hero gains a Ê resource icon." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9017" name="The East Wall of Rohan">
+      <property name="Type" value="Location" />
+      <property name="Traits" value="Emyn Muil." />
+      <property name="Quantity" value="2" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="While The East Wall of Rohan is the active location, non-Rohan characters cost 2 additional matching resources to play." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="4" />
+      <property name="Quest Points" value="2" />
+      <property name="Encounter Set" value="The Hills of Emyn Muil" />
+      <property name="Victory Points" value="3" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9018" name="The Highlands">
+      <property name="Type" value="Location" />
+      <property name="Traits" value="Emyn Muil." />
+      <property name="Quantity" value="4" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Travel: In order to travel to The Highlands, the players must reveal the top card of the encounter deck, and add it to the staging area." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="1" />
+      <property name="Encounter Set" value="The Hills of Emyn Muil" />
+      <property name="Victory Points" value="1" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9019" name="The Hills of Emyn Muil - 1A">
+      <property name="Type" value="Quest" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="ss" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Setup: Search the encounter deck for Amon Hen and Amon Lhaw, and add them to the staging area. Then shuffle the encounter deck." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="The Hills of Emyn Muil" />
+      <property name="Victory Points" value="" />
+      <alternate name="The Hills of Emyn Muil - 1B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="Forced: If there are no location cards in the staging area, the first treachery card revealed during the quest phase gains surge.&#xA;&#xA;Players cannot defeat this stage unless there are no Emyn Muil locations in play, and they have collected at least 20 victory points." />
+        <property name="Shadow" value="" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="1" />
+        <property name="Encounter Set" value="The Hills of Emyn Muil" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9021" name="The North Stair">
+      <property name="Type" value="Location" />
+      <property name="Traits" value="Emyn Muil." />
+      <property name="Quantity" value="2" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Forced: After traveling to The North Stair, move the top card of the encounter discard pile to the staging area. Resolve any &quot;when revealed&quot; effects on that card." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="3" />
+      <property name="Quest Points" value="3" />
+      <property name="Encounter Set" value="The Hills of Emyn Muil" />
+      <property name="Victory Points" value="3" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9022" name="The Outer Ridge">
+      <property name="Type" value="Location" />
+      <property name="Traits" value="Emyn Muil." />
+      <property name="Quantity" value="3" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="While The Outer Ridge is the active location, each location in the staging area gets +1 $." />
+      <property name="Shadow" value="Shadow: After this attack resolves, return attacking enemy to the staging area." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="2" />
+      <property name="Encounter Set" value="The Hills of Emyn Muil" />
+      <property name="Victory Points" value="2" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9023" name="The Riddermark's Finest">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Traits" value="Creature. Rohan." />
+      <property name="Quantity" value="3" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="2" />
+      <property name="Text" value="Action: Exhaust and discard The Riddermark's Finest to place 2 progress tokens on any location." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801204c9024" name="The Shores of Nen Hithoel">
+      <property name="Type" value="Location" />
+      <property name="Traits" value="Emyn Muil." />
+      <property name="Quantity" value="3" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Text" value="Travel: The first player must discard 1 event card from his hand to travel to this location." />
+      <property name="Shadow" value="Shadow: After this attack resolves, return attacking enemy to the staging area." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="2" />
+      <property name="Encounter Set" value="The Hills of Emyn Muil" />
+      <property name="Victory Points" value="2" />
+    </card>
+  </cards>
+</set>

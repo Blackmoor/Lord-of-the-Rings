@@ -1,0 +1,2021 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Black Riders" id="b5a36fbd-c194-47f0-9e81-0fb71aecda31" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.2.0" version="1.0.0.0">
+	<cards>
+		<card id="4124136c-8c86-4f86-830c-94c8c76df161" name="Sam Gamgee">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Hero" />
+			<property name="Sphere" value="Leadership" />
+			<property name="Cost" value="8" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="3" />
+			<property name="Attack" value="1" />
+			<property name="Defense" value="1" />
+			<property name="Health" value="3" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Hobbit." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="052b1f85-8b9c-4bb0-a735-bdbd5ac1b2c4" name="Merry">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Hero" />
+			<property name="Sphere" value="Tactics" />
+			<property name="Cost" value="6" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="2" />
+			<property name="Attack" value="0" />
+			<property name="Defense" value="1" />
+			<property name="Health" value="2" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Hobbit." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="ce96b767-c569-48b8-a998-d8009b0143c7" name="Pippin">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Hero" />
+			<property name="Sphere" value="Lore" />
+			<property name="Cost" value="6" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="2" />
+			<property name="Attack" value="1" />
+			<property name="Defense" value="1" />
+			<property name="Health" value="2" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Hobbit." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="5d75d4dd-7300-43d7-87f2-963271c9c904" name="Fatty Bolger">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Hero" />
+			<property name="Sphere" value="Spirit" />
+			<property name="Cost" value="7" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="1" />
+			<property name="Attack" value="1" />
+			<property name="Defense" value="2" />
+			<property name="Health" value="3" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Hobbit." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="3217a119-6b86-47dd-b451-c5e45be3f874" name="Frodo Baggins">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Hero" />
+			<property name="Sphere" value="Fellowship" />
+			<property name="Cost" value="0" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="2" />
+			<property name="Attack" value="1" />
+			<property name="Defense" value="2" />
+			<property name="Health" value="2" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Hobbit. Ring-bearer." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="c9575426-59ea-4863-bf6a-407e9eae3f33" name="The One Ring">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Objective" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Artifact. Item. Ring." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="77f58774-86e7-4449-b31e-3833700b3e60" name="Barliman Butterbur">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Ally" />
+			<property name="Sphere" value="Lore" />
+			<property name="Cost" value="2" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="1" />
+			<property name="Attack" value="0" />
+			<property name="Defense" value="1" />
+			<property name="Health" value="3" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Bree." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="9bb32f2c-29fb-43ba-b7ba-2227b28f7b58" name="Elf-stone">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Attachment" />
+			<property name="Sphere" value="Lore" />
+			<property name="Cost" value="1" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Artifact. Item." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="9d8ccd1a-48d3-4123-bcca-3c0ab88347ec" name="Farmer Maggot">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Ally" />
+			<property name="Sphere" value="Tactics" />
+			<property name="Cost" value="3" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="1" />
+			<property name="Attack" value="2" />
+			<property name="Defense" value="0" />
+			<property name="Health" value="2" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Hobbit." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="8e7e5c8d-0ea4-46df-ae38-d8d2fee7ca8b" name="Halfling Determination">
+			<property name="Unique" value="" />
+			<property name="Type" value="Event" />
+			<property name="Sphere" value="Tactics" />
+			<property name="Cost" value="1" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="418e6de7-af19-4ea7-bfbe-2a02838c6de4" name="Dagger of Westernesse">
+			<property name="Unique" value="" />
+			<property name="Type" value="Attachment" />
+			<property name="Sphere" value="Tactics" />
+			<property name="Cost" value="1" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Artifact. Item. Weapon." />
+			<property name="Keywords" value="Attach to the hero. Restricted." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="1f7fc118-94a7-48a0-bd0c-9c15a36ddc23" name="Bill the Pony">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Ally" />
+			<property name="Sphere" value="Leadership" />
+			<property name="Cost" value="2" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="1" />
+			<property name="Attack" value="1" />
+			<property name="Defense" value="0" />
+			<property name="Health" value="2" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Creature. Pony." />
+			<property name="Keywords" value="Cannot have attachments." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="768ae041-2d15-44a3-a928-62838536a160" name="Take No Notice">
+			<property name="Unique" value="" />
+			<property name="Type" value="Event" />
+			<property name="Sphere" value="Lore" />
+			<property name="Cost" value="3" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="9418c634-54c6-47de-9aae-798038a4a35b" name="Smoke Rings">
+			<property name="Unique" value="" />
+			<property name="Type" value="Event" />
+			<property name="Sphere" value="Spirit" />
+			<property name="Cost" value="2" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="96350b97-5c68-4033-bb2f-4305696a7ae7" name="Frodo's Intuition">
+			<property name="Unique" value="" />
+			<property name="Type" value="Event" />
+			<property name="Sphere" value="Fellowship" />
+			<property name="Cost" value="2" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="8e49ea86-375a-472e-b497-16a1164ae27f" name="Hobbit Cloak">
+			<property name="Unique" value="" />
+			<property name="Type" value="Attachment" />
+			<property name="Sphere" value="Leadership" />
+			<property name="Cost" value="1" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Item." />
+			<property name="Keywords" value="Attach to a Hobbit hero. Limit 1 per hero." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="9c455b1a-a2d4-44f7-a9d3-9a3134c21a2a" name="Hobbit Pipe">
+			<property name="Unique" value="" />
+			<property name="Type" value="Attachment" />
+			<property name="Sphere" value="Spirit" />
+			<property name="Cost" value="0" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Item." />
+			<property name="Keywords" value="Attach to a Hobbit. Limit 1 per character." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="d0ed393c-162a-4715-bed4-e338c24e9e36" name="Mr Underhill">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Attachment" />
+			<property name="Sphere" value="Boon" />
+			<property name="Cost" value="0" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Title." />
+			<property name="Keywords" value="Permanent." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="1" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="t" />
+		</card>
+		<card id="ff574390-bd68-4277-9065-dd9dbf552d00" name="Valiant Warrior">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Attachment" />
+			<property name="Sphere" value="Boon" />
+			<property name="Cost" value="0" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Title." />
+			<property name="Keywords" value="Permanent." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="t" />
+		</card>
+		<card id="af49e5ea-c6a2-4be4-bbf3-ac53c100e887" name="Noble Hero">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Attachment" />
+			<property name="Sphere" value="Boon" />
+			<property name="Cost" value="0" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Title." />
+			<property name="Keywords" value="Permanent." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="t" />
+		</card>
+		<card id="1d1ab8a3-ad76-4992-ae5c-6a89fd0ed463" name="Skilled Healer">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Attachment" />
+			<property name="Sphere" value="Boon" />
+			<property name="Cost" value="0" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Title." />
+			<property name="Keywords" value="Permanent." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="t" />
+		</card>
+		<card id="ef014a91-c2d9-44ca-acd0-cc1a339c051f" name="Tireless Ranger">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Attachment" />
+			<property name="Sphere" value="Boon" />
+			<property name="Cost" value="0" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Title." />
+			<property name="Keywords" value="Permanent." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="t" />
+		</card>
+		<card id="6c04a40a-0666-4b4f-a768-ddff46857cf0" name="Gildor Inglorian">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Objective" />
+			<property name="Sphere" value="Boon" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="3" />
+			<property name="Attack" value="2" />
+			<property name="Defense" value="3" />
+			<property name="Health" value="3" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Noldor." />
+			<property name="Keywords" value="The first player gains control of Gildor Inglorian." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="cdc303cb-bb1a-4409-a479-aa4155bd8ed5" name="Overcome by Terror">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="Burden" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Surge." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="074cad39-ce55-4dc1-9775-e95363682ef7" name="Fear of Discovery">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="Burden" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Surge." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="e8f413bf-3593-47fc-8813-4553d55dbb2a" name="Eaten Alive!">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="Burden" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Surge." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="50c19cd1-3094-4bf7-b2dc-e21b145827b7" name="Panicked">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="Burden" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Surge." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="40c95b3d-6216-4def-bb93-f44871f3ec70" name="Weight of the Ring">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="Burden" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Surge." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="1c5f4854-c10c-430b-9c40-2d84c5997b8f" name="The Ring Draws Them">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="Burden" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Surge." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="d95a6076-3ead-4ff6-a1ba-ca320d2bd4e1" name="Gandalf's Delay">
+			<property name="Unique" value="" />
+			<property name="Type" value="Objective" />
+			<property name="Sphere" value="Burden" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="s" />
+		</card>
+		<card id="307411f3-4a45-44ae-bc64-4e16deb97d10" name="A Shadow of the Past">
+			<property name="Unique" value="" />
+			<property name="Type" value="Campaign" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="You are playing Campaign Mode." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="The Lord of the Rings Part 1" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="-----" />
+			<alternate name="A Shadow of the Past" type="B">
+			  <property name="Type" value="Campaign" />
+			  <property name="Sphere" value="" />
+			  <property name="Cost" value="" />
+			  <property name="Engagement Cost" value="" />
+			  <property name="Unique" value="" />
+			  <property name="Setup" value="" />
+			  <property name="Attack" value="" />
+			  <property name="Defense" value="" />
+			  <property name="Willpower" value="" />
+			  <property name="Health" value="" />
+			  <property name="Traits" value="" />
+			  <property name="Text" value="" />
+			  <property name="Shadow" value="" />
+			  <property name="Keywords" value="" />
+			  <property name="Threat" value="" />
+			  <property name="Quest Points" value="" />
+			  <property name="Encounter Set" value="The Lord of the Rings Part 1" />
+			  <property name="Quantity" value="1" />
+			  <property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="2efa631a-eb16-4078-84a5-18c7033b86f3" name="A Knife in the Dark">
+			<property name="Unique" value="" />
+			<property name="Type" value="Campaign" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="You are playing Campaign Mode." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="The Lord of the Rings Part 2" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="-----------" />
+			<alternate name="A Knife in the Dark" type="B">
+			  <property name="Type" value="Campaign" />
+			  <property name="Sphere" value="" />
+			  <property name="Cost" value="" />
+			  <property name="Engagement Cost" value="" />
+			  <property name="Unique" value="" />
+			  <property name="Setup" value="" />
+			  <property name="Attack" value="" />
+			  <property name="Defense" value="" />
+			  <property name="Willpower" value="" />
+			  <property name="Health" value="" />
+			  <property name="Traits" value="" />
+			  <property name="Text" value="" />
+			  <property name="Shadow" value="" />
+			  <property name="Keywords" value="" />
+			  <property name="Threat" value="" />
+			  <property name="Quest Points" value="" />
+			  <property name="Encounter Set" value="The Lord of the Rings Part 2" />
+			  <property name="Quantity" value="1" />
+			  <property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="0ee09c42-34c9-41aa-aa98-b582608b15bb" name="Flight to the Ford">
+			<property name="Unique" value="" />
+			<property name="Type" value="Campaign" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="You are playing Campaign Mode." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="The Lord of the Rings Part 3" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="----------" />
+			<alternate name="Flight to the Ford" type="B">
+			  <property name="Type" value="Campaign" />
+			  <property name="Sphere" value="" />
+			  <property name="Cost" value="" />
+			  <property name="Engagement Cost" value="" />
+			  <property name="Unique" value="" />
+			  <property name="Setup" value="" />
+			  <property name="Attack" value="" />
+			  <property name="Defense" value="" />
+			  <property name="Willpower" value="" />
+			  <property name="Health" value="" />
+			  <property name="Traits" value="" />
+			  <property name="Text" value="" />
+			  <property name="Shadow" value="" />
+			  <property name="Keywords" value="" />
+			  <property name="Threat" value="" />
+			  <property name="Quest Points" value="" />
+			  <property name="Encounter Set" value="The Lord of the Rings Part 3" />
+			  <property name="Quantity" value="1" />
+			  <property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="6b34adb4-b510-4db9-aaba-9a1876626dce" name="Three is Company - 1A">
+			<property name="Unique" value="" />
+			<property name="Type" value="Quest" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="ttsl" />
+			<alternate name="Three is Company - 1B" type="B">
+			  <property name="Type" value="Quest" />
+			  <property name="Sphere" value="" />
+			  <property name="Cost" value="" />
+			  <property name="Engagement Cost" value="" />
+			  <property name="Unique" value="" />
+			  <property name="Setup" value="" />
+			  <property name="Attack" value="" />
+			  <property name="Defense" value="" />
+			  <property name="Willpower" value="" />
+			  <property name="Health" value="" />
+			  <property name="Traits" value="" />
+			  <property name="Text" value="" />
+			  <property name="Shadow" value="" />
+			  <property name="Keywords" value="" />
+			  <property name="Threat" value="" />
+			  <property name="Quest Points" value="1" />
+			  <property name="Encounter Set" value="A Shadow of the Past" />
+			  <property name="Quantity" value="1" />
+			  <property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="40c7a675-d48f-4e71-8818-5f0ffb9fa0dd" name="A Shortcut to Mushrooms - 2A">
+			<property name="Unique" value="" />
+			<property name="Type" value="Quest" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+			<alternate name="A Shortcut to Mushrooms - 2B" type="B">
+			  <property name="Type" value="Quest" />
+			  <property name="Sphere" value="" />
+			  <property name="Cost" value="" />
+			  <property name="Engagement Cost" value="" />
+			  <property name="Unique" value="" />
+			  <property name="Setup" value="" />
+			  <property name="Attack" value="" />
+			  <property name="Defense" value="" />
+			  <property name="Willpower" value="" />
+			  <property name="Health" value="" />
+			  <property name="Traits" value="" />
+			  <property name="Text" value="" />
+			  <property name="Shadow" value="" />
+			  <property name="Keywords" value="" />
+			  <property name="Threat" value="" />
+			  <property name="Quest Points" value="14" />
+			  <property name="Encounter Set" value="A Shadow of the Past" />
+			  <property name="Quantity" value="1" />
+			  <property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="7371cfea-03d0-4bc0-98a1-d99e0acdbf88" name="Escape to Buckland - 3A">
+			<property name="Unique" value="" />
+			<property name="Type" value="Quest" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+			<alternate name="Escape to Buckland - 3B" type="B">
+			  <property name="Type" value="Quest" />
+			  <property name="Sphere" value="" />
+			  <property name="Cost" value="" />
+			  <property name="Engagement Cost" value="" />
+			  <property name="Unique" value="" />
+			  <property name="Setup" value="" />
+			  <property name="Attack" value="" />
+			  <property name="Defense" value="" />
+			  <property name="Willpower" value="" />
+			  <property name="Health" value="" />
+			  <property name="Traits" value="" />
+			  <property name="Text" value="" />
+			  <property name="Shadow" value="" />
+			  <property name="Keywords" value="" />
+			  <property name="Threat" value="" />
+			  <property name="Quest Points" value="-" />
+			  <property name="Encounter Set" value="A Shadow of the Past" />
+			  <property name="Quantity" value="1" />
+			  <property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="d0b6992d-9dc4-41fa-a483-b4ad0a3d60b3" name="Trouble in Bree - 1A">
+			<property name="Unique" value="" />
+			<property name="Type" value="Quest" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="ttttsstttt" />
+			<alternate name="Trouble in Bree - 1B" type="B">
+			  <property name="Type" value="Quest" />
+			  <property name="Sphere" value="" />
+			  <property name="Cost" value="" />
+			  <property name="Engagement Cost" value="" />
+			  <property name="Unique" value="" />
+			  <property name="Setup" value="" />
+			  <property name="Attack" value="" />
+			  <property name="Defense" value="" />
+			  <property name="Willpower" value="" />
+			  <property name="Health" value="" />
+			  <property name="Traits" value="" />
+			  <property name="Text" value="" />
+			  <property name="Shadow" value="" />
+			  <property name="Keywords" value="" />
+			  <property name="Threat" value="" />
+			  <property name="Quest Points" value="8" />
+			  <property name="Encounter Set" value="A Knife in the Dark" />
+			  <property name="Quantity" value="1" />
+			  <property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="28a4721b-3696-4fae-9eea-01b5a250c892" name="Into the Wild - 2A">
+			<property name="Unique" value="" />
+			<property name="Type" value="Quest" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+			<alternate name="Into the Wild - 2B" type="B">
+			  <property name="Type" value="Quest" />
+			  <property name="Sphere" value="" />
+			  <property name="Cost" value="" />
+			  <property name="Engagement Cost" value="" />
+			  <property name="Unique" value="" />
+			  <property name="Setup" value="" />
+			  <property name="Attack" value="" />
+			  <property name="Defense" value="" />
+			  <property name="Willpower" value="" />
+			  <property name="Health" value="" />
+			  <property name="Traits" value="" />
+			  <property name="Text" value="" />
+			  <property name="Shadow" value="" />
+			  <property name="Keywords" value="" />
+			  <property name="Threat" value="" />
+			  <property name="Quest Points" value="6" />
+			  <property name="Encounter Set" value="A Knife in the Dark" />
+			  <property name="Quantity" value="1" />
+			  <property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="257f9b44-2744-4f02-bbf6-115d12b52e8d" name="The Ringwraiths Attack - 3A">
+			<property name="Unique" value="" />
+			<property name="Type" value="Quest" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+			<alternate name="The Ringwraiths Attack - 3B" type="B">
+			  <property name="Type" value="Quest" />
+			  <property name="Sphere" value="" />
+			  <property name="Cost" value="" />
+			  <property name="Engagement Cost" value="" />
+			  <property name="Unique" value="" />
+			  <property name="Setup" value="" />
+			  <property name="Attack" value="" />
+			  <property name="Defense" value="" />
+			  <property name="Willpower" value="" />
+			  <property name="Health" value="" />
+			  <property name="Traits" value="" />
+			  <property name="Text" value="" />
+			  <property name="Shadow" value="" />
+			  <property name="Keywords" value="" />
+			  <property name="Threat" value="" />
+			  <property name="Quest Points" value="-" />
+			  <property name="Encounter Set" value="A Knife in the Dark" />
+			  <property name="Quantity" value="1" />
+			  <property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="f9824e39-fda8-4e4b-bc74-83b4bd40c72d" name="Pursued by the Enemy - 1A">
+			<property name="Unique" value="" />
+			<property name="Type" value="Quest" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="ttttstttt" />
+			<alternate name="Pursued by the Enemy - 1B" type="B">
+			  <property name="Type" value="Quest" />
+			  <property name="Sphere" value="" />
+			  <property name="Cost" value="" />
+			  <property name="Engagement Cost" value="" />
+			  <property name="Unique" value="" />
+			  <property name="Setup" value="" />
+			  <property name="Attack" value="" />
+			  <property name="Defense" value="" />
+			  <property name="Willpower" value="" />
+			  <property name="Health" value="" />
+			  <property name="Traits" value="" />
+			  <property name="Text" value="" />
+			  <property name="Shadow" value="" />
+			  <property name="Keywords" value="" />
+			  <property name="Threat" value="" />
+			  <property name="Quest Points" value="15" />
+			  <property name="Encounter Set" value="Flight to the Ford" />
+			  <property name="Quantity" value="1" />
+			  <property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="6b2673af-c764-4599-a265-6e43d3b75310" name="Race To Rivendell - 2A">
+			<property name="Unique" value="" />
+			<property name="Type" value="Quest" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+			<alternate name="Race To Rivendell - 2B" type="B">
+			  <property name="Type" value="Quest" />
+			  <property name="Sphere" value="" />
+			  <property name="Cost" value="" />
+			  <property name="Engagement Cost" value="" />
+			  <property name="Unique" value="" />
+			  <property name="Setup" value="" />
+			  <property name="Attack" value="" />
+			  <property name="Defense" value="" />
+			  <property name="Willpower" value="" />
+			  <property name="Health" value="" />
+			  <property name="Traits" value="" />
+			  <property name="Text" value="" />
+			  <property name="Shadow" value="" />
+			  <property name="Keywords" value="" />
+			  <property name="Threat" value="" />
+			  <property name="Quest Points" value="15" />
+			  <property name="Encounter Set" value="Flight to the Ford" />
+			  <property name="Quantity" value="1" />
+			  <property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="71a2ca21-ff50-4a8a-b30b-7c8eaf6bf6b6" name="An Evil Wound">
+			<property name="Unique" value="" />
+			<property name="Type" value="Objective" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Morgul." />
+			<property name="Keywords" value="Attach to the Ring-bearer. Attached hero cannot be healed." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="bc43ae57-6010-4924-919c-b37d1e33b958" name="The Last Bridge">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="X" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="4" />
+			<property name="Traits" value="Bridge. River." />
+			<property name="Keywords" value="Immune to player card effects" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="3" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="36dd0d2a-ba57-4ca0-b750-967c958e8bfb" name="The Troll's Camp">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="1" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="2" />
+			<property name="Traits" value="Forest." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="1" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="98bf5fdc-ff74-48e2-88c8-0e4134fd6984" name="Pain Assaulted Him">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="3cd4bb66-1621-4534-aa25-421d0d8b7189" name="Ford of Bruinen">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="2" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="6" />
+			<property name="Traits" value="River." />
+			<property name="Keywords" value="Immune to player card effects" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="5" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="0e12b3e5-d330-4a13-be7b-5a07a57a2273" name="The Enemy is Upon Us!">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="821a078b-ae42-4b69-bd49-cc235916be77" name="Stricken Dumb">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Peril." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="98a2fb10-f2fc-462c-9f2e-8945419d9c4f" name="The Nine are Abroad">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Peril." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="ae435070-552a-43a9-816f-9f23f1a6dbba" name="Ettenmoors">
+			<property name="Unique" value="" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="2" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="3" />
+			<property name="Traits" value="Forest." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="edae55ef-8025-4553-9ff8-e81526effd59" name="The Old Road">
+			<property name="Unique" value="" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="3" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="4" />
+			<property name="Traits" value="Road." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="5c31f690-9802-4638-8316-5380ef32575b" name="Fell Rider">
+			<property name="Unique" value="" />
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="30" />
+			<property name="Threat" value="2" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="4" />
+			<property name="Defense" value="3" />
+			<property name="Health" value="6" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Nazgul." />
+			<property name="Keywords" value="Cannot have non-Morgul attachments." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Flight to the Ford" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="4" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="795579db-249d-4c9d-850f-6f39bc96c063" name="Squint-Eyed Southerner">
+			<property name="Unique" value="" />
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="33" />
+			<property name="Threat" value="2" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="2" />
+			<property name="Defense" value="2" />
+			<property name="Health" value="3" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Spy." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="6a3e1c91-accd-476b-9ecc-ace35274a052" name="Bill Ferny">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="38" />
+			<property name="Threat" value="3" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="1" />
+			<property name="Defense" value="3" />
+			<property name="Health" value="5" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Bree. Spy." />
+			<property name="Keywords" value="Players cannot optionally engage Bill Ferny." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="1" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="0e1451ba-5fa6-4a13-869b-d23d9ecef15e" name="Shady Bree-Lander">
+			<property name="Unique" value="" />
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="28" />
+			<property name="Threat" value="2" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="3" />
+			<property name="Defense" value="1" />
+			<property name="Health" value="4" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Bree. Spy." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="4" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="33a575b4-e373-46db-b11e-90f8fc41ef6e" name="Rider of Mordor">
+			<property name="Unique" value="" />
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="35" />
+			<property name="Threat" value="4" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="4" />
+			<property name="Defense" value="3" />
+			<property name="Health" value="5" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Nazgul." />
+			<property name="Keywords" value="Cannot have non-Morgul attachments." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="ddb20145-e570-4099-8d8a-11d64895939b" name="Weather Hills">
+			<property name="Unique" value="" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="3" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="2" />
+			<property name="Traits" value="Forest. Hills." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="df23bd50-5ca3-4a0e-a83c-a349632b0ff4" name="Chetwood">
+			<property name="Unique" value="" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="2" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="2" />
+			<property name="Traits" value="Forest." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="984d2a01-f12a-4e8b-800c-6a04b1904049" name="The Prancing Pony">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="2" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="4" />
+			<property name="Traits" value="Bree." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="1" />
+			<property name="Quantity" value="2" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="90d620e5-d7be-42e6-9756-b92761ecd8c9" name="Midgewater">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="3" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="6" />
+			<property name="Traits" value="Marshland." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="1" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="ad09f848-9430-41c8-8723-671f08b79078" name="Weathertop">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="4" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="4" />
+			<property name="Traits" value="Hills. Ruins." />
+			<property name="Keywords" value="Immune to player card effects." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="4" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="d47ece86-2645-4d35-8ab7-c439d12abe65" name="Unwanted Attention">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Peril." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="e6721e44-5706-4a0f-a895-ced75f9c6219" name="Black Breath">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Peril." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Knife in the Dark" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="3104ef1f-4f1c-4603-87cb-f3a70f5e6710" name="Have You Seen Baggins?">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Peril. Surge." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="79b5dd16-2427-4950-94e9-46905eebe56d" name="Crawling Towards Him">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Peril. Hide 2." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="a46578d6-303e-4f35-9a11-8b9f807427ba" name="Hunting For The Ring">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Doomed 2." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="57107fd1-0092-41d3-ae9d-8ff6c06933eb" name="Black Rider">
+			<property name="Unique" value="" />
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="35" />
+			<property name="Threat" value="4" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="5" />
+			<property name="Defense" value="4" />
+			<property name="Health" value="6" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Nazgul." />
+			<property name="Keywords" value="Hide 2. Cannot have non-Morgul attachments." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="5" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="ff597a85-6a02-4301-a9dc-4dcb4cf9b626" name="Evil Crow">
+			<property name="Unique" value="" />
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="25" />
+			<property name="Threat" value="2" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="0" />
+			<property name="Defense" value="1" />
+			<property name="Health" value="2" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Creature." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="0d30fbf1-6e8f-480f-9f2f-3196777f6e11" name="Bag End">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="0" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="3" />
+			<property name="Traits" value="Shire." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="1" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="b194fe1c-18c8-47d2-a674-8e209339c7e2" name="Woody End">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="1" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="1" />
+			<property name="Traits" value="Forest." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="1" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="2b38254c-e992-4fb5-89e8-e7f636658ce0" name="Stock-Brook">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="1" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="5" />
+			<property name="Traits" value="Forest. Stream." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="1" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="82c68020-eb2e-4853-9919-df3066d13721" name="Bamfurlong">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="2" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="2" />
+			<property name="Traits" value="Shire." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="1" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="409bc89e-b5af-4626-ade6-60bcfcb290b7" name="The Marish">
+			<property name="Unique" value="" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="3" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="4" />
+			<property name="Traits" value="Marshland." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="8df24501-bfd8-4602-92e1-61f5d5cf7035" name="Stock Road">
+			<property name="Unique" value="" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="3" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="3" />
+			<property name="Traits" value="Road." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="98dff367-a068-4aac-a46b-7dc201aff42d" name="Green Hill Country">
+			<property name="Unique" value="" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="2" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="3" />
+			<property name="Traits" value="Forest." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="53ac8ba6-0487-4b1f-91e9-cf7ca9e7c1d0" name="Bucklebury Ferry">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="3" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="9" />
+			<property name="Traits" value="River." />
+			<property name="Keywords" value="Immune to player card effects." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="A Shadow of the Past" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="4765cbea-5ae8-4e39-a811-a67f1f6ca2a0" name="Power In Their Terror">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="The Nazgul" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="4b36df3f-d75b-4b3a-9324-9ab31c10d7b9" name="Pale Blade">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Surge." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="The Nazgul" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="c5657436-d6c8-400d-ba1f-a723799ac685" name="The Witch-king">
+			<property name="Unique" value="‰" />
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="45" />
+			<property name="Threat" value="5" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="6" />
+			<property name="Defense" value="5" />
+			<property name="Health" value="9" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Nazgul." />
+			<property name="Keywords" value="Immune to player card effects." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="The Nazgul" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="2d819f76-77dd-47a2-9a3f-ac8b8018f0df" name="Ringwraith">
+			<property name="Unique" value="" />
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="35" />
+			<property name="Threat" value="3" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="5" />
+			<property name="Defense" value="4" />
+			<property name="Health" value="5" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="Nazgul." />
+			<property name="Keywords" value="Cannot have non-Morgul attachments." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="The Nazgul" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="4" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="09aeff64-6e0d-4dfa-af21-2e7805441376" name="Black Steed">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Surge." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="The Black Riders" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="1851fafb-7f9a-46d7-a0f0-7fb2ad9ee567" name="Rode Like a Gale">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="The Black Riders" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="48384e79-d397-4dcd-9862-8a72acb448d0" name="Lure of the Ring">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Surge." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="The Ring" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="32416ec8-b50d-4cd2-a62f-10f97c87be73" name="Pathless Country">
+			<property name="Unique" value="" />
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="2" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="3" />
+			<property name="Traits" value="Forest." />
+			<property name="Keywords" value="" />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Hunted" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+		<card id="7e470346-1828-49c0-b241-58d0dbf27b4b" name="Piercing Cry">
+			<property name="Unique" value="" />
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Cost" value="" />
+			<property name="Engagement Cost" value="" />
+			<property name="Threat" value="" />
+			<property name="Willpower" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Health" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Traits" value="" />
+			<property name="Keywords" value="Peril." />
+			<property name="Text" value="" />
+			<property name="Shadow" value="" />
+			<property name="Encounter Set" value="Hunted" />
+			<property name="Victory Points" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Setup" value="" />
+		</card>
+	</cards>
+</set>

@@ -1,0 +1,2903 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Core Set" id="51223bd0-ffd1-11df-a976-0801200c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
+  <cards>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9001" name="Aragorn">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="12" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="2" />
+      <property name="Health" value="5" />
+      <property name="Traits" value="Dunedain. Noble. Ranger." />
+      <property name="Text" value="Response: After Aragorn commits to a quest, spend 1 resource from his resource pool to ready him." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Sentinel." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9002" name="Theodred">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="8" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="4" />
+      <property name="Traits" value="Noble. Rohan. Warrior." />
+      <property name="Text" value="Response: After Theodred commits to a quest, choose a hero committed to that quest. Add 1 resource to that hero's resource pool." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9003" name="Gloin">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="9" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="2" />
+      <property name="Health" value="4" />
+      <property name="Traits" value="Dwarf. Noble." />
+      <property name="Text" value="Response: After Gloin suffers damage, add 1 resource to his resource pool for each point of damage he just suffered." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9004" name="Gimli">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="11" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="2" />
+      <property name="Health" value="5" />
+      <property name="Traits" value="Dwarf. Noble. Warrior." />
+      <property name="Text" value="Gimli gets +1 Û for each damage token on him." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9005" name="Legolas">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="9" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="4" />
+      <property name="Traits" value="Noble. Silvan. Warrior." />
+      <property name="Text" value="Response: After Legolas participates in an attack that destroys an enemy, place 2 progress tokens on the current quest." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Ranged." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9006" name="Thalin">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="9" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="4" />
+      <property name="Traits" value="Dwarf. Warrior." />
+      <property name="Text" value="While Thalin is committed to a quest, deal 1 damage to each enemy as it is revealed by the encounter deck." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9007" name="Eowyn">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="9" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="4" />
+      <property name="Health" value="3" />
+      <property name="Traits" value="Noble. Rohan." />
+      <property name="Text" value="Action: Discard 1 card from your hand to give Eowyn +1 Ò until the end of the phase. This effect may be triggered by each player once each round." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9008" name="Eleanor">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="7" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="3" />
+      <property name="Traits" value="Gondor. Noble." />
+      <property name="Text" value="Response: Exhaust Eleanor to cancel the &quot;when revealed&quot; effects of a treachery card just revealed by the encounter deck. Then, discard that card, and replace it with the next card from the encounter deck." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9009" name="Dunhere">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="8" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="4" />
+      <property name="Traits" value="Rohan. Warrior." />
+      <property name="Text" value="Dunhere can target enemies in the staging area when he attacks alone. When doing so, he gets +1 Û." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9010" name="Denethor">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="8" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="3" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="3" />
+      <property name="Traits" value="Gondor. Noble. Steward." />
+      <property name="Text" value="Action: Exhaust Denethor to look at the top card of the encounter deck. You may move that card to the bottom of the deck." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9011" name="Glorfindel">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="12" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="3" />
+      <property name="Health" value="5" />
+      <property name="Traits" value="Noble. Noldor. Warrior." />
+      <property name="Text" value="Action: Pay 1 resource from Glorfindel's pool to heal 1 damage on any character. (Limit once per round.)" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9012" name="Beravor">
+      <property name="Type" value="Hero" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="10" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="2" />
+      <property name="Health" value="4" />
+      <property name="Traits" value="Dunedain. Ranger." />
+      <property name="Text" value="Action: Exhaust Beravor to choose a player. That player draws 2 cards. Limit once per round." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9013" name="Guard of the Citadel">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="2" />
+      <property name="Traits" value="Gondor. Warrior." />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9014" name="Faramir">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="4" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="2" />
+      <property name="Health" value="3" />
+      <property name="Traits" value="Gondor. Noble. Ranger." />
+      <property name="Text" value="Action: Exhaust Faramir to choose a player. Each character controlled by that player gets +1 Ò until the end of the phase." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9015" name="Son of Arnor">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="0" />
+      <property name="Health" value="2" />
+      <property name="Traits" value="Dunedain." />
+      <property name="Text" value="Response: After Son of Arnor enters play, choose an enemy card in the staging area or currently engaged with another player. Engage that enemy." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9016" name="Snowbourn Scout">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="0" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="0" />
+      <property name="Health" value="1" />
+      <property name="Traits" value="Rohan. Scout." />
+      <property name="Text" value="Response: After Snowbourn Scout enters play, choose a location. Place 1 progress token on that location." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9017" name="Silverlode Archer">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="1" />
+      <property name="Traits" value="Archer. Silvan." />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Ranged." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9018" name="Longbeard Orc Slayer">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="4" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="0" />
+      <property name="Health" value="3" />
+      <property name="Traits" value="Dwarf. Warrior." />
+      <property name="Text" value="Response: After Longbeard Orc Slayer enters play, deal 1 damage to each Orc enemy in play." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9019" name="Brok Ironfist">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="6" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="2" />
+      <property name="Health" value="4" />
+      <property name="Traits" value="Dwarf. Warrior." />
+      <property name="Text" value="Response: After a Dwarf hero you control leaves play, put Brok Ironfist into play from your hand." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9020" name="Ever Vigilant">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Choose and ready 1 ally card." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9021" name="Common Cause">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="0" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Exhaust 1 hero you control to choose and ready a different hero." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9022" name="For Gondor!">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Until the end of the phase, all characters get +1 Û. All Gondor characters also get +1 Ú until the end of the phase." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9023" name="Sneak Attack">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Put 1 ally card into play from your hand. At the end of the phase, if that ally is still in play, return it to your hand." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9024" name="Valiant Sacrifice">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Response: After an ally card leaves play, that card's controller draws 2 cards." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9025" name="Grim Resolve">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="5" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Ready all character cards in play." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9026" name="Steward of Gondor">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Gondor. Title." />
+      <property name="Text" value="Attached hero gains the Gondor trait.&#10;&#10;Action: Exhaust Steward of Gondor to add 2 resources to attached hero's resource pool." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9027" name="Celebrian's Stone">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Leadership" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Artifact. Item." />
+      <property name="Text" value="Attached hero gains +2 Ò.&#10;&#10;If attached hero is Aragorn, he also gains a Ê resource icon." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero. Restricted." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9028" name="Veteran Axehand">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="0" />
+      <property name="Health" value="2" />
+      <property name="Traits" value="Dwarf. Warrior." />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9029" name="Gondorian Spearman">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="0" />
+      <property name="Health" value="1" />
+      <property name="Traits" value="Gondor. Warrior." />
+      <property name="Text" value="Response: After Gondorian Spearman is declared as a defender, deal 1 damage to the attacking enemy." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Sentinel." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9030" name="Horseback Archer">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="0" />
+      <property name="Health" value="2" />
+      <property name="Traits" value="Rohan. Archer." />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Ranged." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9031" name="Beorn">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="6" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="3" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="6" />
+      <property name="Traits" value="Beorning. Warrior." />
+      <property name="Text" value="Action: Beorn gains +5 Û until the end of the phase. At the end of the phase in which you trigger this effect, shuffle Beorn back into your deck. (Limit once per round.)" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9032" name="Blade Mastery">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Choose a character. Until the end of the phase, that character gains +1 Û and +1 Ú." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9033" name="Rain of Arrows">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Exhaust a character you control with the ranged keyword to choose a player. Deal 1 damage to each enemy engaged with that player." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9034" name="Feint">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Combat Action: Choose an enemy engaged with a player. That enemy cannot attack that player this phase." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9035" name="Quick Strike">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Exhaust a character you control to immediately declare it as an attacker (and resolve its attack) against any eligible enemy target." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9036" name="Thicket of Spears">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="You must use resources from 3 different heroes' pools to pay for this card.&#10;&#10;Action: Choose a player. That player's engaged enemies cannot attack that player this phase." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9037" name="Swift Strike">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Response: After a character is declared as a defender, deal 2 damage to the attacking enemy." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9038" name="Stand Together">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="0" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Choose a player. That player may declare any number of his eligible characters as defenders against each enemy attacking him this phase." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9039" name="Blade of Gondolin">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Item. Weapon." />
+      <property name="Text" value="Attached hero gets +1 Û when attacking an Orc .&#10;&#10;Response: After attached hero attacks and destroys an enemy, place 1  progress token on the current quest." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero. Restricted." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9040" name="Citadel Plate">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="4" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Item. Armor." />
+      <property name="Text" value="Attached hero gets +4 Hit Points." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero. Restricted." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9041" name="Dwarven Axe">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Item. Weapon." />
+      <property name="Text" value="Attached hero gains +1 Û. (+2 Û instead if attached hero is a Dwarf.)" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero. Restricted." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9042" name="Horn of Gondor">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Tactics" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Item. Artifact." />
+      <property name="Text" value="Response: After a character leaves play, add 1 resource to attached hero's pool." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero. Restricted." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9043" name="Wandering Took">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="2" />
+      <property name="Traits" value="Hobbit." />
+      <property name="Text" value="Action: Reduce your threat by 3 to give control of Wandering Took to another player. Raise that player's threat by 3." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9044" name="Lórien Guide">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="2" />
+      <property name="Traits" value="Silvan. Scout." />
+      <property name="Text" value="Response: After Lórien Guide commits to a quest, place 1 progress token on the active location." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9045" name="Northern Tracker">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="4" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="3" />
+      <property name="Traits" value="Dunedain. Ranger." />
+      <property name="Text" value="Response: After Northern Tracker commits to a quest, place 1 progress token on each location in the staging area." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9046" name="The Galadhrim's Greeting">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Reduce one player's threat by 6, or reduce each player's threat by 2." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9047" name="Strength of Will">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="0" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Response: After you travel to a location, exhaust a Ê character to place 2 progress tokens on that location." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9048" name="Hasty Stroke">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Response: Cancel a shadow effect just triggered during combat." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9049" name="Will of the West">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Choose a player. Shuffle that player's discard pile back into his deck." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9050" name="A Test of Will">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Response: Cancel the &quot;when revealed&quot; effects of a card that was just revealed from the encounter deck." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9051" name="Stand and Fight">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="X" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Choose an ally with a printed cost of X in any player's discard pile. Put that ally into play under your control. (The chosen ally can belong to any sphere of influence.)" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9052" name="A Light in the Dark">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Choose an enemy engaged with a player. Return that enemy to the staging area." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9053" name="Dwarven Tomb">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Return 1 Ê card from your discard pile to your hand." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9054" name="Fortune or Fate">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="5" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Choose a hero in any player's discard pile. Put that card into play, under its owner's control." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9055" name="The Favor of the Lady">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Condition." />
+      <property name="Text" value="Attached hero gains +1 Ò." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9056" name="Power in the Earth">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Condition." />
+      <property name="Text" value="Attached location gets -1 $." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a location." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9057" name="Unexpected Courage">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Spirit" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Condition." />
+      <property name="Text" value="Action: Exhaust Unexpected Courage to ready attached hero." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9058" name="Daughter of the Nimrodel">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="0" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="1" />
+      <property name="Traits" value="Silvan." />
+      <property name="Text" value="Action: Exhaust Daughter of the Nimrodel to heal up to 2 damage on any 1 hero." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9059" name="Erebor Hammersmith">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="3" />
+      <property name="Traits" value="Dwarf. Craftsman." />
+      <property name="Text" value="Response: After you play Erebor Hammersmith, return the topmost attachment in any player's discard pile to his hand." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9060" name="Henamarth Riversong">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="1" />
+      <property name="Traits" value="Silvan." />
+      <property name="Text" value="Action: Exhaust Henamarth Riversong to look at the top card of the encounter deck." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9061" name="Miner of the Iron Hills">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="0" />
+      <property name="Health" value="2" />
+      <property name="Traits" value="Dwarf." />
+      <property name="Text" value="Response: After Miner of the Iron Hills enters play, choose and discard 1 Condition attachment from play." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9062" name="Gleowine">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="0" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="1" />
+      <property name="Health" value="2" />
+      <property name="Traits" value="Minstrel. Rohan." />
+      <property name="Text" value="Action: Exhaust Gléowine to choose a player. That player draws 1 card." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9063" name="Lore of Imladris">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="2" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Choose a character. Heal all damage from that character." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9064" name="Lorien's Wealth">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Choose a player. That player draws 3 cards." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9065" name="Radagast's Cunning">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Quest Action: Choose an enemy in the staging area. Until the end of the phase, that enemy does not contribute its $." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9066" name="Secret Paths">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Quest Action: Choose a location in the staging area. Until the end of the phase, that location does not contribute its $." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9067" name="Gandalf's Search">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="X" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Look at the top X cards of any player's deck, add 1 of those cards to its owner's hand, and return the rest to the top of the deck in any order." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9068" name="Beorn's Hospitality">
+      <property name="Type" value="Event" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="5" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Action: Choose a player. Heal all damage on each hero controlled by that player." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9069" name="Forest Snare">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Item. Trap." />
+      <property name="Text" value="Attached enemy cannot attack." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to an enemy engaged with a player." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9070" name="Protector of Lorien">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Title." />
+      <property name="Text" value="Action: Discard a card from your hand to give attached hero +1 Ú or +1 Ò until the end of the phase. Limit 3 times per phase." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9071" name="Dark Knowledge">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="1" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Condition." />
+      <property name="Text" value="Response: Exhaust Dark Knowledge to look at 1 shadow card that was just dealt to an enemy attacking you." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a hero. Attached hero gets -1 Ò." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9072" name="Self Preservation">
+      <property name="Type" value="Attachment" />
+      <property name="Sphere" value="Lore" />
+      <property name="Cost" value="3" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Skill." />
+      <property name="Text" value="Action: Exhaust Self Preservation to heal 2 points of damage from attached character." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Attach to a character." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9073" name="Gandalf">
+      <property name="Type" value="Ally" />
+      <property name="Sphere" value="Neutral" />
+      <property name="Cost" value="5" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="‰" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="4" />
+      <property name="Defense" value="4" />
+      <property name="Willpower" value="4" />
+      <property name="Health" value="4" />
+      <property name="Traits" value="Istari." />
+      <property name="Text" value="Response: After Gandalf enters play, (choose 1): draw 3 cards, deal 4 damage to 1 enemy in play, or reduce your threat by 5." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="At the end of the round, discard Gandalf from play." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="" />
+      <property name="Quantity" value="4" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9074" name="King Spider">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="20" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="3" />
+      <property name="Traits" value="Creature. Spider." />
+      <property name="Text" value="When Revealed: Each player must choose and exhaust 1 character he controls." />
+      <property name="Shadow" value="Shadow: Defending player must choose and exhaust 1 character he controls. (2 characters instead if this attack is undefended.)" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Spiders of Mirkwood" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9075" name="Hummerhorns">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="40" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="3" />
+      <property name="Traits" value="Creature. Insect." />
+      <property name="Text" value="Forced: After Hummerhorns engages you, deal 5 damage to a single hero you control." />
+      <property name="Shadow" value="Shadow: Deal 1 damage to each character the defending player controls. (2 damage instead if this attack is undefended.)" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Spiders of Mirkwood" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="5" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9076" name="Ungoliant's Spawn">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="32" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="5" />
+      <property name="Defense" value="2" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="9" />
+      <property name="Traits" value="Creature. Spider." />
+      <property name="Text" value="When Revealed: Each character currently committed to a quest gets -1 Ò until the end of the phase." />
+      <property name="Shadow" value="Shadow: Raise defending player's threat by 4. (Raise defending player's threat by 8 instead if this attack is undefended.)" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="3" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Spiders of Mirkwood" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9077" name="Great Forest Web">
+      <property name="Type" value="Location" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Forest." />
+      <property name="Text" value="Travel: Each player must exhaust 1 hero he controls to travel here." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="2" />
+      <property name="Encounter Set" value="Spiders of Mirkwood" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9078" name="Mountains of Mirkwood">
+      <property name="Type" value="Location" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Forest. Mountain." />
+      <property name="Text" value="Travel: Reveal the top card of the encounter deck and add it to the staging area to travel here.&#10;&#10;Response: After Mountains of Mirkwood leaves play as an explored location, each player may search the top 5 cards of his deck for 1 card and add it to his hand. Shuffle the rest of the searched cards back into their owners' decks." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="3" />
+      <property name="Encounter Set" value="Spiders of Mirkwood" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9079" name="Eyes of the Forest">
+      <property name="Type" value="Treachery" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Each player discards all event cards in his hand." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Spiders of Mirkwood" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9080" name="Caught in a Web">
+      <property name="Type" value="Treachery" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: The player with the highest threat level attaches this card to one of his heroes. (Counts as a Condition attachment with the text: &quot;Attached hero does not ready during the refresh phase unless you pay 2 resources from that hero's pool.&quot;)" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Spiders of Mirkwood" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9081" name="Wolf Rider">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="10" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="2" />
+      <property name="Traits" value="Goblin. Orc." />
+      <property name="Text" value=" " />
+      <property name="Shadow" value="Shadow: Wolf Rider attacks the defending player. That player may declare 1 character as a defender. Deal Wolf Rider its own Shadow card. After combat, return Wolf Rider to the top of the encounter deck." />
+      <property name="Keywords" value="Surge." />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Wilderlands" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9082" name="Hill Troll">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="30" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="6" />
+      <property name="Defense" value="3" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="9" />
+      <property name="Traits" value="Troll." />
+      <property name="Text" value="Excess combat damage dealt by Hill Troll (damage that is dealt beyond the remaining hit points of the character damaged by its attack) must be assigned as an increase to your threat." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Wilderlands" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="4" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9083" name="Goblin Sniper">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="48" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="2" />
+      <property name="Traits" value="Goblin. Orc." />
+      <property name="Text" value="During the encounter phase, players cannot optionally engage Goblin Sniper if there are other enemies in the staging area.&#10;&#10;Forced: If Goblin Sniper is in the staging area at the end of the combat phase, each player deals 1 point of damage to 1 character he controls." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Wilderlands" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9084" name="Marsh Adder">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="40" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="4" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="7" />
+      <property name="Traits" value="Creature." />
+      <property name="Text" value="Forced: Each time Marsh Adder attacks you, raise your threat by 1." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="3" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Wilderlands" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="3" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9085" name="Wargs">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="20" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="3" />
+      <property name="Traits" value="Creature." />
+      <property name="Text" value="Forced: If Wargs is dealt a shadow card with no effect, return Wargs to the staging area after it attacks." />
+      <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+2 Û instead if this attack is undefended.)" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Wilderlands" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9086" name="Despair">
+      <property name="Type" value="Treachery" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Remove 4 progress tokens from the current quest card. (If there are fewer than 4 progress tokens on the quest, remove all progress tokens from that quest.)" />
+      <property name="Shadow" value="Shadow: Defending character does not count its Ú." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Wilderlands" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9087" name="The Brown Lands">
+      <property name="Type" value="Location" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Wasteland." />
+      <property name="Text" value="Forced: After the players travel to The Brown Lands, place 1 progress token on it." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="5" />
+      <property name="Quest Points" value="1" />
+      <property name="Encounter Set" value="Wilderlands" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9088" name="The East Bight">
+      <property name="Type" value="Location" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Wasteland." />
+      <property name="Text" value="When faced with the option to travel, the players must travel to The East Bight if there is no active location." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="6" />
+      <property name="Encounter Set" value="Wilderlands" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9089" name="Dol Guldur Orcs">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="10" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="3" />
+      <property name="Traits" value="Dol Guldur. Orc." />
+      <property name="Text" value="When Revealed: The first player chooses 1 character currently committed to a quest. Deal 2 damage to that character." />
+      <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+3 Û instead if this attack is undefended.)" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Dol Guldur Orcs" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9090" name="Chieftan Ufthak">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="35" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="3" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="6" />
+      <property name="Traits" value="Dol Guldur. Orc." />
+      <property name="Text" value="Forced: After Chieftain Ufthak attacks, place 1 resource token on him." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Chieftain Ufthak get +2Attack for each resource token on him." />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Dol Guldur Orcs" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="4" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9091" name="Dol Guldur Beastmaster">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="35" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="5" />
+      <property name="Traits" value="Dol Guldur. Orc." />
+      <property name="Text" value="Forced: When Dol Guldur Beastmaster attacks, deal it 1 additional shadow card." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Dol Guldur Orcs" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9092" name="Driven by Shadow">
+      <property name="Type" value="Treachery" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Each enemy and each location currently in the staging area gets +1 $ until the end of the phase. If there are no cards in the staging area, Driven by Shadow gains surge." />
+      <property name="Shadow" value="Shadow: Choose and discard 1 attachment from the defending character. (If this attack is undefended, discard all attachments you control.)" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Dol Guldur Orcs" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9093" name="The Necromancer's Reach">
+      <property name="Type" value="Treachery" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Deal 1 damage to each exhausted character." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Dol Guldur Orcs" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9094" name="Necromancer's Pass">
+      <property name="Type" value="Location" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Stronghold. Dol Guldur." />
+      <property name="Text" value="Travel: The first player must discard 2 cards from his hand at random to travel here." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="3" />
+      <property name="Quest Points" value="2" />
+      <property name="Encounter Set" value="Dol Guldur Orcs" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9095" name="Enchanted Stream">
+      <property name="Type" value="Location" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Forest." />
+      <property name="Text" value="While Enchanted Stream is the active location, players cannot draw cards." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="2" />
+      <property name="Encounter Set" value="Dol Guldur Orcs" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9096" name="Forest Spider">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="25" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="4" />
+      <property name="Traits" value="Creature. Spider." />
+      <property name="Text" value="Forced: After Forest Spider engages a player, it gets +1 Û until the end of the round." />
+      <property name="Shadow" value="Shadow: Defending player must choose and discard 1 attachment he controls." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Passage Through Mirkwood" />
+      <property name="Quantity" value="4" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9097" name="East Bight Patrol">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="5" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="3" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="2" />
+      <property name="Traits" value="Goblin. Orc." />
+      <property name="Text" value=" " />
+      <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (If this attack is undefended, also raise your threat by 3.)" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="3" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Passage Through Mirkwood" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9098" name="Black Forest Bats">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="15" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="2" />
+      <property name="Traits" value="Creature." />
+      <property name="Text" value="When Revealed: Each player must choose 1 character currently committed to a quest, and remove that character from the quest. (The chosen character does not ready.)" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Passage Through Mirkwood" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9099" name="Old Forest Road">
+      <property name="Type" value="Location" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Forest." />
+      <property name="Text" value="Response: After you travel to Old Forest Road, the first player may choose and ready 1 character he controls." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="3" />
+      <property name="Encounter Set" value="Passage Through Mirkwood" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9100" name="Forest Gate">
+      <property name="Type" value="Location" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Forest." />
+      <property name="Text" value="Response: After you travel to Forest Gate, the first player may draw 2 cards." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="4" />
+      <property name="Encounter Set" value="Passage Through Mirkwood" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9101" name="Dungeon Jailor">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="38" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="3" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="5" />
+      <property name="Traits" value="Dol Guldur. Orc." />
+      <property name="Text" value="Forced: If Dungeon Jailor is in the staging area after the players have just quested unsuccessfully, shuffle 1 unclaimed objective card from the staging area back into the encounter deck." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Escape from Dol Guldur" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="5" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9102" name="Nazgul of Dol Guldur">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="40" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="4" />
+      <property name="Defense" value="3" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="9" />
+      <property name="Traits" value="Nazgul." />
+      <property name="Text" value="Forced: When the prisoner is &quot;rescued&quot;, move Nazgul of Dol Guldur into the staging area.&#10;&#10;Forced: After a shadow effect dealt to Nazgul of Dol Guldur resolves, the engaged player must choose and discard 1 character he controls." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="No attachments can be played on Nazgul of Dol Guldur." />
+      <property name="Threat" value="5" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Escape from Dol Guldur" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9103" name="Cavern Guardian">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="8" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="2" />
+      <property name="Traits" value="Undead." />
+      <property name="Text" value=" " />
+      <property name="Shadow" value="Shadow: Choose and discard 1 attachment you control. Discarded  objective cards are returned to the staging area. (If this attack is  undefended, discard all attachments you control.)" />
+      <property name="Keywords" value="Doomed 1." />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Escape from Dol Guldur" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9104" name="Under the Shadow">
+      <property name="Type" value="Treachery" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Until the end of the phase, raise the total $ in the  staging area by X, where X is the number of players in the game." />
+      <property name="Shadow" value="Shadow: Defending player raises his threat by the number of enemies  with which he is engaged." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Escape from Dol Guldur" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9105" name="Iron Shackles">
+      <property name="Type" value="Treachery" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Attach Iron Shackles to the top of the first player's deck. (Counts as a Condition attachment with the text: &quot;The next time a player would draw 1 or more cards from attached deck, discard Iron Shackles instead.&quot;)" />
+      <property name="Shadow" value="Shadow: Resolve the &quot;When Revealed&quot; effect of Iron Shackles." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Escape from Dol Guldur" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9106" name="Endless Caverns">
+      <property name="Type" value="Location" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Dungeon." />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Doomed 1. Surge." />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="3" />
+      <property name="Encounter Set" value="Escape from Dol Guldur" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9107" name="Tower Gate">
+      <property name="Type" value="Location" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Dungeon." />
+      <property name="Text" value="Forced: After travelling to Tower Gate, each player places the top card of his deck, face down in front of him, as if it just engaged him from the staging area. These cards are called &quot;Orc Guard&quot;, and act as enemies with: 1 hit point, 1 Û, and 1 Ú." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="1" />
+      <property name="Encounter Set" value="Escape from Dol Guldur" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9108" name="Gandalf's Map">
+      <property name="Type" value="Objective" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Item." />
+      <property name="Text" value="Action: Raise your threat by 2 to claim this objective when it is free of encounters. When claimed, attach Gandalf's Map to a hero you control. (Counts as an attachment. If detached, return Gandalf's Map to the staging area.) &#10;&#10;Attached hero cannot attack or defend." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Guarded. Restricted." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Escape from Dol Guldur" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9109" name="Dungeon Torch">
+      <property name="Type" value="Objective" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Item." />
+      <property name="Text" value="Action: Raise your threat by 2 to claim this objective when it is free of encounters. When claimed, attach Dungeon Torch to a hero you control. (Counts as an attachment. If detached, return Dungeon Torch to the staging area.)&#10;&#10;Forced: At the end of each round, raise attached hero's controller's threat by 2." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Guarded. Restricted." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Escape from Dol Guldur" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9110" name="Shadow Key">
+      <property name="Type" value="Objective" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Item." />
+      <property name="Text" value="Action: Raise your threat by 2 to claim this objective when it is free of encounters. When claimed, attach Shadow Key to a hero you control. (Counts as an attachment. If detached, return Shadow Key to the staging area.)&#10;&#10;Forced: At the end of each round, attached hero suffers 1 damage." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="Guarded. Restricted." />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Escape from Dol Guldur" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9111" name="Misty Mountain Goblins">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="15" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="2" />
+      <property name="Defense" value="1" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="3" />
+      <property name="Traits" value="Goblin. Orc." />
+      <property name="Text" value="Forced: After Misty Mountain Goblins attacks, remove 1 progress token from the current quest." />
+      <property name="Shadow" value="Shadow: Remove 1 progress token from the current quest. (3 progress tokens instead if this attack is undefended.)" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="2" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Journey Down the Anduin" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9112" name="Massing at Night">
+      <property name="Type" value="Treachery" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Reveal X additional cards from the encounter deck. X is the number of players in the game." />
+      <property name="Shadow" value="Shadow: Deal X shadow cards to this attacker. X is the number of players in the game." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Journey Down the Anduin" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9113" name="Banks of the Anduin">
+      <property name="Type" value="Location" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Riverland." />
+      <property name="Text" value="Forced: If Banks of the Anduin leaves play, return it to the top of the encounter deck instead of placing it in the discard pile." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="3" />
+      <property name="Encounter Set" value="Journey Down the Anduin" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9114" name="Gladden Fields">
+      <property name="Type" value="Location" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="Marshland." />
+      <property name="Text" value="Forced: While Gladden Fields is the active location, each player must raise his threat by an additional point during the refresh phase." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="3" />
+      <property name="Quest Points" value="3" />
+      <property name="Encounter Set" value="Journey Down the Anduin" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="3" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9115" name="Eastern Crows">
+      <property name="Type" value="Enemy" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="30" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="1" />
+      <property name="Defense" value="0" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="1" />
+      <property name="Traits" value="Creature." />
+      <property name="Text" value="Forced: After Eastern Crows is defeated, shuffle it back into the encounter deck." />
+      <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+2 Û instead if defending player's threat is 35 or higher.)" />
+      <property name="Keywords" value="Surge." />
+      <property name="Threat" value="1" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Sauron's Reach" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9116" name="Evil Storm">
+      <property name="Type" value="Treachery" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Deal 1 damage to each character controlled by each player with a threat of 35 or higher." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Sauron's Reach" />
+      <property name="Quantity" value="3" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9117" name="Pursued by Shadow">
+      <property name="Type" value="Treachery" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Each player raises his threat by 1 for each character he controls that is not currently committed to a quest." />
+      <property name="Shadow" value="Shadow: Defending player chooses and returns 1 exhausted ally he controls to its owner's hand. If he controls no exhausted allies, raise his threat by 3." />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Sauron's Reach" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9118" name="Treacherous Fog">
+      <property name="Type" value="Treachery" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="When Revealed: Each location in the staging area gets +1 $ until the end of the phase. Then, each player with a threat of 35 or higher chooses and discards 1 card from his hand." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Sauron's Reach" />
+      <property name="Quantity" value="2" />
+      <property name="Victory Points" value="" />
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9119" name="Flies and Spiders - 1A">
+      <property name="Type" value="Quest" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="ss" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Setup: Search the encounter deck for 1 copy of the Forest Spider and 1 copy of the Old Forest Road, and add them to the staging area. Then, shuffle the encounter deck." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Passage Through Mirkwood" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+		<alternate name="Flies and Spiders - 1B" type="B">
+		  <property name="Type" value="Quest" />
+		  <property name="Sphere" value="" />
+		  <property name="Cost" value="" />
+		  <property name="Engagement Cost" value="" />
+		  <property name="Unique" value="" />
+		  <property name="Setup" value="" />
+		  <property name="Attack" value="" />
+		  <property name="Defense" value="" />
+		  <property name="Willpower" value="" />
+		  <property name="Health" value="" />
+		  <property name="Traits" value="" />
+		  <property name="Text" value="" />
+		  <property name="Shadow" value="" />
+		  <property name="Keywords" value="" />
+		  <property name="Threat" value="" />
+		  <property name="Quest Points" value="8" />
+		  <property name="Encounter Set" value="Passage Through Mirkwood" />
+		  <property name="Quantity" value="1" />
+		  <property name="Victory Points" value="" />
+		</alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9121" name="A Fork in the Road - 2A">
+      <property name="Type" value="Quest" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Passage Through Mirkwood" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+		<alternate name="A Fork in the Road - 2B" type="B">
+		  <property name="Type" value="Quest" />
+		  <property name="Sphere" value="" />
+		  <property name="Cost" value="" />
+		  <property name="Engagement Cost" value="" />
+		  <property name="Unique" value="" />
+		  <property name="Setup" value="" />
+		  <property name="Attack" value="" />
+		  <property name="Defense" value="" />
+		  <property name="Willpower" value="" />
+		  <property name="Health" value="" />
+		  <property name="Traits" value="" />
+		  <property name="Text" value="Forced: When you defeat this stage, proceed to one of the 2 &quot;A Chosen Path&quot; stages, at random." />
+		  <property name="Shadow" value="" />
+		  <property name="Keywords" value="" />
+		  <property name="Threat" value="" />
+		  <property name="Quest Points" value="2" />
+		  <property name="Encounter Set" value="Passage Through Mirkwood" />
+		  <property name="Quantity" value="1" />
+		  <property name="Victory Points" value="" />
+		</alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9123" name="A Chosen Path - 3A">
+      <property name="Type" value="Quest" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Passage Through Mirkwood" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+		<alternate name="&quot;Don't Leave the Path!&quot; - 3B" type="B">
+		  <property name="Type" value="Quest" />
+		  <property name="Sphere" value="" />
+		  <property name="Cost" value="" />
+		  <property name="Engagement Cost" value="" />
+		  <property name="Unique" value="" />
+		  <property name="Setup" value="" />
+		  <property name="Attack" value="" />
+		  <property name="Defense" value="" />
+		  <property name="Willpower" value="" />
+		  <property name="Health" value="" />
+		  <property name="Traits" value="" />
+		  <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for 1 Spider card of his choice, and add it to the staging area.&#10;&#10;The players must find and defeat Ungoliant's Spawn to win this game." />
+		  <property name="Shadow" value="" />
+		  <property name="Keywords" value="" />
+		  <property name="Threat" value="" />
+		  <property name="Quest Points" value="0" />
+		  <property name="Encounter Set" value="Passage Through Mirkwood" />
+		  <property name="Quantity" value="1" />
+		  <property name="Victory Points" value="" />
+		</alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9125" name="A Chosen Path - 3A">
+      <property name="Type" value="Quest" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Passage Through Mirkwood" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+		<alternate name="Beorn's Path - 3B" type="B">
+		  <property name="Type" value="Quest" />
+		  <property name="Sphere" value="" />
+		  <property name="Cost" value="" />
+		  <property name="Engagement Cost" value="" />
+		  <property name="Unique" value="" />
+		  <property name="Setup" value="" />
+		  <property name="Attack" value="" />
+		  <property name="Defense" value="" />
+		  <property name="Willpower" value="" />
+		  <property name="Health" value="" />
+		  <property name="Traits" value="" />
+		  <property name="Text" value="Players cannot defeat this stage while Ungoliant's Spawn is in play. If players defeat this stage, they have won the game." />
+		  <property name="Shadow" value="" />
+		  <property name="Keywords" value="" />
+		  <property name="Threat" value="" />
+		  <property name="Quest Points" value="10" />
+		  <property name="Encounter Set" value="Passage Through Mirkwood" />
+		  <property name="Quantity" value="1" />
+		  <property name="Victory Points" value="" />
+		</alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9127" name="The Necromancer's Tower - 1A">
+      <property name="Type" value="Quest" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="ssst" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Setup: Search the encounter deck for the 3 objective cards, reveal and place them in the staging area. Also, place the Nazgul of Dol Guldur face up but out of play, alongside the quest deck. Then, shuffle the encounter deck, and attach 1 encounter to each objective card." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Escape from Dol Guldur" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+		<alternate name="The Necromancer's Tower - 1B" type="B">
+		  <property name="Type" value="Quest" />
+		  <property name="Sphere" value="" />
+		  <property name="Cost" value="" />
+		  <property name="Engagement Cost" value="" />
+		  <property name="Unique" value="" />
+		  <property name="Setup" value="" />
+		  <property name="Attack" value="" />
+		  <property name="Defense" value="" />
+		  <property name="Willpower" value="" />
+		  <property name="Health" value="" />
+		  <property name="Traits" value="" />
+		  <property name="Text" value="When Revealed: Randomly select 1 hero card (among all the heroes controlled by the players) and turn it facedown. That hero is now considered a &quot;prisoner&quot;, cannot be used, cannot be damaged, and does not collect resources, until it is &quot;rescued&quot; (as instructed by card effects) later in this quest.&#10;&#10;The players, as a group, cannot play more than 1 ally card each round.&#10;&#10;Players cannot advance to the next stage of this quest unless they have at least 1 objective card." />
+		  <property name="Shadow" value="" />
+		  <property name="Keywords" value="" />
+		  <property name="Threat" value="" />
+		  <property name="Quest Points" value="9" />
+		  <property name="Encounter Set" value="Escape from Dol Guldur" />
+		  <property name="Quantity" value="1" />
+		  <property name="Victory Points" value="" />
+		</alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9129" name="Through the Caverns - 2A">
+      <property name="Type" value="Quest" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Escape from Dol Guldur" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+		<alternate name="Through the Caverns - 2B" type="B">
+		  <property name="Type" value="Quest" />
+		  <property name="Sphere" value="" />
+		  <property name="Cost" value="" />
+		  <property name="Engagement Cost" value="" />
+		  <property name="Unique" value="" />
+		  <property name="Setup" value="" />
+		  <property name="Attack" value="" />
+		  <property name="Defense" value="" />
+		  <property name="Willpower" value="" />
+		  <property name="Health" value="" />
+		  <property name="Traits" value="" />
+		  <property name="Text" value="Response: After placing any number of progress tokens on this card, flip the &quot;prisoner&quot; hero card face-up, and place 1 damage token on it. This hero has been &quot;rescued&quot;, and may now be used by its controller.&#10;&#10;The players, as a group, cannot play more than 1 ally card each round.&#10;&#10;Players cannot advance to the next stage of this quest unless they have rescued the prisoner and have all 3 &quot;Escape from Dol Guldur&quot; objective cards." />
+		  <property name="Shadow" value="" />
+		  <property name="Keywords" value="" />
+		  <property name="Threat" value="" />
+		  <property name="Quest Points" value="15" />
+		  <property name="Encounter Set" value="Escape from Dol Guldur" />
+		  <property name="Quantity" value="1" />
+		  <property name="Victory Points" value="" />
+		</alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9131" name="Out of the Dungeons - 3A">
+      <property name="Type" value="Quest" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Escape from Dol Guldur" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+		<alternate name="Out of the Dungeons - 3B" type="B">
+		  <property name="Type" value="Quest" />
+		  <property name="Sphere" value="" />
+		  <property name="Cost" value="" />
+		  <property name="Engagement Cost" value="" />
+		  <property name="Unique" value="" />
+		  <property name="Setup" value="" />
+		  <property name="Attack" value="" />
+		  <property name="Defense" value="" />
+		  <property name="Willpower" value="" />
+		  <property name="Health" value="" />
+		  <property name="Traits" value="" />
+		  <property name="Text" value="Forced: At the beginning of each quest phase, each player places the top card of his deck, face down in front of him, as if it just engaged him from the staging area. These cards are called &quot;Orc Guard&quot;, and act as enemies with: 1 hit point, 1 Û, and 1 Ú.&#10;&#10;Players cannot defeat this stage while Nazgul of Dol Guldur is in play. If this stage is defeated and Nazgul of Dol Guldur is not in play, the players have won the game." />
+		  <property name="Shadow" value="" />
+		  <property name="Keywords" value="" />
+		  <property name="Threat" value="" />
+		  <property name="Quest Points" value="7" />
+		  <property name="Encounter Set" value="Escape from Dol Guldur" />
+		  <property name="Quantity" value="1" />
+		  <property name="Victory Points" value="" />
+		</alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9133" name="To the River... - 1A">
+      <property name="Type" value="Quest" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Setup: Each player reveals 1 card from the top of the encounter deck, and adds it to the staging area." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Journey Down the Anduin" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+		<alternate name="To the River... - 1B" type="B">
+		  <property name="Type" value="Quest" />
+		  <property name="Sphere" value="" />
+		  <property name="Cost" value="" />
+		  <property name="Engagement Cost" value="" />
+		  <property name="Unique" value="" />
+		  <property name="Setup" value="" />
+		  <property name="Attack" value="" />
+		  <property name="Defense" value="" />
+		  <property name="Willpower" value="" />
+		  <property name="Health" value="" />
+		  <property name="Traits" value="" />
+		  <property name="Text" value="When Revealed: Search the encounter deck for 1 Hill Troll (if one is not already in play), and place it in the staging area. Shuffle the encounter deck.&#10;&#10;Players cannot defeat this stage while any Hill Troll cards are in play." />
+		  <property name="Shadow" value="" />
+		  <property name="Keywords" value="" />
+		  <property name="Threat" value="" />
+		  <property name="Quest Points" value="8" />
+		  <property name="Encounter Set" value="Journey Down the Anduin" />
+		  <property name="Quantity" value="1" />
+		  <property name="Victory Points" value="" />
+		</alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9135" name="Anduin Passage - 2A">
+      <property name="Type" value="Quest" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Journey Down the Anduin" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+		<alternate name="Anduin Passage - 2B" type="B">
+		  <property name="Type" value="Quest" />
+		  <property name="Sphere" value="" />
+		  <property name="Cost" value="" />
+		  <property name="Engagement Cost" value="" />
+		  <property name="Unique" value="" />
+		  <property name="Setup" value="" />
+		  <property name="Attack" value="" />
+		  <property name="Defense" value="" />
+		  <property name="Willpower" value="" />
+		  <property name="Health" value="" />
+		  <property name="Traits" value="" />
+		  <property name="Text" value="Reveal 1 additional card from the encounter deck each quest phase. Do not make engagement checks during the encounter phase. (Each player may still optionally engage 1 enemy each encounter phase.)" />
+		  <property name="Shadow" value="" />
+		  <property name="Keywords" value="" />
+		  <property name="Threat" value="" />
+		  <property name="Quest Points" value="16" />
+		  <property name="Encounter Set" value="Journey Down the Anduin" />
+		  <property name="Quantity" value="1" />
+		  <property name="Victory Points" value="" />
+		</alternate>
+    </card>
+    <card id="51223bd0-ffd1-11df-a976-0801200c9137" name="Ambush on the Shore - 3A">
+      <property name="Type" value="Quest" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="" />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Journey Down the Anduin" />
+      <property name="Quantity" value="1" />
+      <property name="Victory Points" value="" />
+		<alternate name="Ambush on the Shore - 3B" type="B">
+		  <property name="Type" value="Quest" />
+		  <property name="Sphere" value="" />
+		  <property name="Cost" value="" />
+		  <property name="Engagement Cost" value="" />
+		  <property name="Unique" value="" />
+		  <property name="Setup" value="" />
+		  <property name="Attack" value="" />
+		  <property name="Defense" value="" />
+		  <property name="Willpower" value="" />
+		  <property name="Health" value="" />
+		  <property name="Traits" value="" />
+		  <property name="Text" value="When Revealed: Reveal 2 encounter cards per player, and add them to the staging area.&#10;&#10;Skip the staging step of the quest phase for the remainder of the game.&#10;&#10;Once there are no enemies in play, the players have won the game." />
+		  <property name="Shadow" value="" />
+		  <property name="Keywords" value="" />
+		  <property name="Threat" value="" />
+		  <property name="Quest Points" value="0" />
+		  <property name="Encounter Set" value="Journey Down the Anduin" />
+		  <property name="Quantity" value="1" />
+		  <property name="Victory Points" value="" />
+		</alternate>
+    </card>
+  </cards>
+</set>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801203c9020">Terror from the Mountain - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801203c9006">Fire and Water - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801203c9022">The Dragon's Wrath - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801203c9001">Catching Fire</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801203c9002">Close to the Flame</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801203c9003">Dire Magnificence</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801203c9004">East Pier</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-1801203c9005">Esgaroth Wharf</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-1801203c9008">Fisherman's Dock</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801203c9009">Great Bridge</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801203c9010">Great House</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-1801203c9012">Merchant's District</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801203c9013">North Pier</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801203c9014">Reckless in His Rage</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801203c9015">Scorching Blast</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801203c9019">South Pier</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801203c9024">The Master's Manor</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801203c9025">The Old Thrush</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801203c9026">Town-Baiting</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801203c9027">West Pier</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801203c9016">Smaug the Magnificent</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801203c9017">Smaug the Mighty</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801203c9018">Smaug the Terrible</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801203c9011">Lake-town</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

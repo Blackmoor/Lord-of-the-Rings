@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - Trouble with Trolls" id="e99d464e-4e7b-4988-bb7d-c628ad9d7f30" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="1.0.0.0">
+  <cards>
+    <card id="7d2fe683-0ad6-4269-867d-bbdd7368a4d4" name="Trouble with Trolls - 1A">
+      <property name="Type" value="Quest" />
+      <property name="Quantity" value="1" />
+      <property name="Sphere" value="" />
+      <property name="Cost" value="" />
+      <property name="Engagement Cost" value="" />
+      <property name="Unique" value="" />
+      <property name="Setup" value="tt" />
+      <property name="Attack" value="" />
+      <property name="Defense" value="" />
+      <property name="Willpower" value="" />
+      <property name="Health" value="" />
+      <property name="Traits" value="" />
+      <property name="Text" value="Remove the following cards from the encounter deck: 2 Hobbit-lands; 2 A Nice Pickle; More like a Grocer; Troll Cave; Troll Purse; and the 7 Sack cards. Add only the enemy cards from the Wilderlands and Seventh Level encounter sets to the encounter deck and shuffle it. Shuffle the 7 Sack cards face down to form a Sack deck." />
+      <property name="Shadow" value="" />
+      <property name="Keywords" value="" />
+      <property name="Threat" value="" />
+      <property name="Quest Points" value="" />
+      <property name="Encounter Set" value="Trouble with Trolls" />
+      <property name="Victory Points" value="" />
+      <alternate name="Trouble with Trolls - 1B" type="B">
+        <property name="Type" value="Quest" />
+        <property name="Quantity" value="1" />
+        <property name="Sphere" value="" />
+        <property name="Cost" value="" />
+        <property name="Engagement Cost" value="" />
+        <property name="Unique" value="" />
+        <property name="Setup" value="" />
+        <property name="Attack" value="" />
+        <property name="Defense" value="" />
+        <property name="Willpower" value="" />
+        <property name="Health" value="" />
+        <property name="Traits" value="" />
+        <property name="Text" value="Response: After a unqiue Troll enemy (Bert, Tom, William) is defeated or after a Troll Camp leaves play as an explored location, the first player chooses and discards a Sack card from play.&#10;&#10;Forced: At the start of the refresh phase, remove all Troll enemies from the discard pile and add them to the staging area.&#10;&#10;The players win if there at least 5 Troll enemies in the victory display and there are no Troll enemies in play" />
+        <property name="Shadow" value="" />
+        <property name="Keywords" value="" />
+        <property name="Threat" value="" />
+        <property name="Quest Points" value="0" />
+        <property name="Encounter Set" value="Trouble with Trolls" />
+        <property name="Victory Points" value="" />
+      </alternate>
+    </card>
+  </cards>
+</set>

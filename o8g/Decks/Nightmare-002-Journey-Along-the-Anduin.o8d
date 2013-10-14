@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="e84f94bf-201b-4adf-95d2-0012e0bb5003">Journey Along the Anduin</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9133">To the River... - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9135">Anduin Passage - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9137">Ambush on the Shore - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9081">Wolf Rider</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9082">Hill Troll</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9083">Goblin Sniper</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9084">Marsh Adder</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9085">Wargs</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9090">Chieftan Ufthak</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9091">Dol Guldur Beastmaster</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9115">Eastern Crows</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9092">Driven by Shadow</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9093">The Necromancer's Reach</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9112">Massing at Night</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9117">Pursued by Shadow</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9087">The Brown Lands</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9088">The East Bight</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9114">Gladden Fields</card>
+    <card qty="2" id="e84f94bf-201b-4adf-95d2-0012e0bb5007">A Flooded Ford</card>
+    <card qty="3" id="e84f94bf-201b-4adf-95d2-0012e0bb5008">Anduin Troll Spawn</card>
+    <card qty="3" id="e84f94bf-201b-4adf-95d2-0012e0bb5010">Brown Water Rats</card>
+    <card qty="3" id="e84f94bf-201b-4adf-95d2-0012e0bb5016">Gladden Marshlands</card>
+    <card qty="2" id="e84f94bf-201b-4adf-95d2-0012e0bb5018">Marshland Outlaws</card>
+    <card qty="2" id="e84f94bf-201b-4adf-95d2-0012e0bb5019">Pursuit on the Shore</card>
+    <card qty="2" id="e84f94bf-201b-4adf-95d2-0012e0bb5021">Smoking Blood</card>
+    <card qty="2" id="e84f94bf-201b-4adf-95d2-0012e0bb5027">Troll Attack</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

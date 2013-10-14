@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9017">Bilbo Baggins</card>
+  </section>
+  <section name="Quest" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9066">Out of the Frying Pan - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9069">Riddles in the Dark - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9052">Into the Fire - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9023">Come Down Little Bird</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9046">Great Gray Wolf</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9049">Hiding In The Trees</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9054">It Likes Riddles</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9063">Not Fair! Not Fair!</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9082">The Wargs' Glade</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9090">What's In My Pocket</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-1801204c9091">Wild Wargs</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9038">Goblin Axeman</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9040">Goblin Driver</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9041">Goblin Miners</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9042">Goblin Runners</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9047">Grip, Grab! Pinch, Nab!</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9077">The Goblins' Caves</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9056">Lake in the Cavern</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9044">Gollum</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9018">Bilbo's Magic Ring</card>
+  </section>
+</deck>

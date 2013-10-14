@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="1c016459-deb9-43a8-a49a-42eb123de850">1A - Only the Living Choose Their Destiny</card>
+    <card qty="1" id="94667783-b697-40a7-a1a7-d97eeabf26aa">2A - Onto the Green Ocean</card>
+    <card qty="1" id="bf76394e-3e4d-47c3-8433-f8d7a8f144e0">3A - A Curious Key</card>
+    <card qty="1" id="9b7313d2-e96b-4d6d-83f6-cd26d5aea53a">3A - A Mirror in the Grove</card>
+    <card qty="1" id="1b041307-e4d7-4545-8db7-ff5056fc8059">3A - The White Wizard Writings</card>
+    <card qty="1" id="6eeef7e8-d785-4e21-a333-faee980911aa">4A - A Flint of Light in the Darkness</card>
+    <card qty="1" id="36f3a685-8e32-4e4a-b881-affa2bacf2dc">5A - On the Way</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="b5d09c9d-0a09-4a4c-a2f5-aa49ccf1a1ac">Azygous Swamp</card>
+    <card qty="2" id="9de4d74f-6617-491b-b08e-08e24d186901">Descendant of Numenor</card>
+    <card qty="1" id="c609c79f-d625-4d9d-84de-5ebeaff013ee">Elenna</card>
+    <card qty="2" id="48e060f9-97d8-4ca3-a196-85ba0b83a51b">Ent-Draught</card>
+    <card qty="1" id="008314f7-38a1-4302-bb11-ac7bd4c12d6b">Fladrif</card>
+    <card qty="4" id="655f1fc8-9a03-41fb-a74b-0aca8790de2c">Green Scout</card>
+    <card qty="3" id="4061a42e-39be-4035-8b6e-7f877a6cf9c5">Huorn</card>
+    <card qty="2" id="ba23f965-0074-4230-b57c-b400e7b9f23b">Poisoned Arrow</card>
+    <card qty="1" id="a57551f4-a360-4b65-b3bd-e6bb248198b7">Sassafras</card>
+    <card qty="2" id="7138c934-1dea-4373-814e-2a04578eb460">Scouting Far Ahead</card>
+    <card qty="1" id="93c0e429-b5b4-4e53-a505-5edba0556f95">Skeleton King</card>
+    <card qty="2" id="d9eb291e-99f1-461e-9404-f39f751fb8e5">Spike-Tip Arrow</card>
+    <card qty="2" id="8d3939fd-1636-4e7c-ac0e-baeaeb481e1b">Tall Tree, Deep Shadow</card>
+    <card qty="3" id="1fd3c108-31bc-41f1-b34c-d6443c4225d2">Tall-Mark Grove</card>
+    <card qty="1" id="a2a03412-e692-4a34-89cf-6c4e05859f8a">Tamarack</card>
+    <card qty="3" id="22253188-b1dd-4990-a2a0-ec8944398265">The Darkest Corner</card>
+    <card qty="3" id="b2bce54e-bf9f-44ef-8d76-e270dba55b8d">The Outskirts</card>
+    <card qty="3" id="d48549de-4755-49e9-ab7b-440b8d57011e">Trap-Maker</card>
+    <card qty="2" id="c2fc133c-cc23-43b9-b7cd-728fb870d74b">Veteran Ranger</card>
+    <card qty="1" id="0634f1a1-6bed-44b3-980d-30af86da3aeb">Wandering Ent</card>
+    <card qty="2" id="fa5b1ac3-0e14-4e58-a917-2b422003da1c">We've been here already</card>
+    <card qty="1" id="df3f71b4-b0ca-4b01-8193-ae35cec653c0">Basswood</card>
+    <card qty="3" id="cdd1c620-f2dd-4750-9cfe-c538e8ca6733">Blades from the Woods</card>
+    <card qty="2" id="735fce2a-9e90-4f12-bdee-e97cde331e39">Distractions on the Road</card>
+    <card qty="5" id="b736f146-48ba-405b-9cc5-40754155944c">Foreign Eagle</card>
+    <card qty="3" id="078cb8fb-47da-4d35-be83-87a080a479c0">Great-River Valley Beast</card>
+    <card qty="2" id="b26c34a0-6577-4abc-88ff-37f2b0e6b6a3">Great-River Valley Rider</card>
+    <card qty="2" id="153bb215-8713-4c62-829c-b79bc306efd6">Morraine-Dammed Lake</card>
+    <card qty="2" id="414f261f-21ba-4902-8e58-035d5671ae72">The Gladden Pass</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="04f27850-3573-4a39-aa76-9497a7aa27b1">Pool of Divination</card>
+    <card qty="1" id="a17baad8-3efa-43a9-b7ed-8c1b7e8dbcfb">Saruman's Journal</card>
+    <card qty="1" id="806a6e7c-dcef-4d40-a31a-360444ea192c">The Shapeless Key</card>
+    <card qty="1" id="9c9dc6e7-80ea-4ab3-b849-2c72e2102e70">Rules Sheet</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

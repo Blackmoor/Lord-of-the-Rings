@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9001">Aragorn</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9002">Theodred</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9003">Gloin</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9013">Guard of the Citadel</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9014">Faramir</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9015">Son of Arnor</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9016">Snowbourn Scout</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9017">Silverlode Archer</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9018">Longbeard Orc Slayer</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9019">Brok Ironfist</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9073">Gandalf</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9020">Ever Vigilant</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9021">Common Cause</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9022">For Gondor!</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9023">Sneak Attack</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9024">Valiant Sacrifice</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9025">Grim Resolve</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9026">Steward of Gondor</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9027">Celebrian's Stone</card>
+  </section>
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

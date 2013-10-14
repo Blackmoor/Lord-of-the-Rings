@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="f710d9bb-10a3-4714-a179-fa525936f1a0">1A - Solving the Trouble</card>
+    <card qty="1" id="18f421eb-541f-4ec7-8601-0ea73e904edd">2A - Uninvited Guests</card>
+    <card qty="1" id="78e6a828-32e2-4d0c-b190-f8f887b4b683">3A - Searching for Remnants</card>
+    <card qty="1" id="19769b48-6716-4cd3-9184-d9b63c72e086">4A - Problem Eliminated</card>
+    <card qty="1" id="3a6e8a37-c2d8-4a2a-badc-28e82d21c9ba">4A - Enemy Reorganized</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9081">Wolf Rider</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9082">Hill Troll</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9083">Goblin Sniper</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9084">Marsh Adder</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9085">Wargs</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9086">Despair</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9087">The Brown Lands</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9088">The East Bight</card>
+    <card qty="3" id="cdd1c620-f2dd-4750-9cfe-c538e8ca6733">Blades from the Woods</card>
+    <card qty="2" id="735fce2a-9e90-4f12-bdee-e97cde331e39">Distractions on the Road</card>
+    <card qty="5" id="b736f146-48ba-405b-9cc5-40754155944c">Foreign Eagle</card>
+    <card qty="3" id="078cb8fb-47da-4d35-be83-87a080a479c0">Great-River Valley Beast</card>
+    <card qty="2" id="b26c34a0-6577-4abc-88ff-37f2b0e6b6a3">Great-River Valley Rider</card>
+    <card qty="2" id="153bb215-8713-4c62-829c-b79bc306efd6">Morraine-Dammed Lake</card>
+    <card qty="1" id="f0194e48-d63d-4d5e-97af-76d1fdafc1f3">Mouth of Sauron</card>
+    <card qty="2" id="414f261f-21ba-4902-8e58-035d5671ae72">The Gladden Pass</card>
+    <card qty="2" id="427d5bc6-33ce-4e21-8bc0-f8d06a174c17">Calling the Eagles</card>
+    <card qty="3" id="86754bc2-4741-4c50-bc11-eac78d32dfd6">Eagle Infighting</card>
+    <card qty="4" id="454d4ae9-8efe-46de-949a-bff7f1999e72">Methedras Caves</card>
+    <card qty="3" id="9a7fbbef-7741-41e4-9734-b715b2e8a07b">Mirrormere</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="d75f0078-86b0-4f2b-929f-51bb428937b4">Armenel</card>
+    <card qty="1" id="fbf04a68-5e61-4a88-8413-39d34ee0ab6b">Baranthor</card>
+    <card qty="1" id="3154f5d7-f160-4ce4-9188-cb8e2327df5e">Beleram</card>
+    <card qty="1" id="12494a02-48b2-4f41-b922-6e464341a805">Melendor</card>
+    <card qty="1" id="4335e3f9-961c-455f-a201-1fa5bc4c46dd">Wilyador</card>
+    <card qty="1" id="2a4549c0-061a-47d9-b1cc-93c60e175423">Nest of the Eagles</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

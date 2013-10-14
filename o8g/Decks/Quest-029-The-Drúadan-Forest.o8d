@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="71079813-3afe-41b7-8746-92dcc1f91084">The Pursuit - 1A</card>
+    <card qty="1" id="346fda89-94df-410a-8027-41eacbf27238">An Untimely End - 2A</card>
+    <card qty="1" id="f6578eb7-1b94-458b-aba1-82b406507a4d">The Passage Out - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="e2c02f11-fdfb-402b-89de-1729d1364e4c">Drúadan Drummer</card>
+    <card qty="3" id="607c3e44-5add-4c80-bb3b-55b016b6cd0e">Drúadan Elite</card>
+    <card qty="4" id="809ff5de-8273-4491-adfb-3a27d4b316f3">Drúadan Hunter</card>
+    <card qty="3" id="85045e14-3abc-4d58-824f-249b1fb3643d">Drúadan Thief</card>
+    <card qty="1" id="0ebedc5b-fd8b-46b8-a2a1-1a6f739e8819">Ancestral Clearing</card>
+    <card qty="3" id="41c3779a-a28a-44db-8b9b-bc5e81d1111a">Garden of Poisons</card>
+    <card qty="3" id="801078c6-56a9-45f2-b5a4-7e38cb5bc507">Glade of Cleansing</card>
+    <card qty="3" id="24e431be-cde9-4f93-943a-de5e5ca9108b">Men in the Dark</card>
+    <card qty="3" id="7cbf23fd-28c4-494c-97aa-b7fed050ad8b">Stars in Sky</card>
+    <card qty="2" id="9dda3cf1-e5bd-4cab-8c3b-b29db1220249">Leaves on Tree</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9053">Lost Companion</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9068">Overgrown Trail</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9073">Secluded Glade</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="19b732b9-a26a-4535-a438-7dd83cd4ecf2">Drû-buri-Drû</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

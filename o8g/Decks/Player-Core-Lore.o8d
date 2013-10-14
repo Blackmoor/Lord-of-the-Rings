@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9010">Denethor</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9011">Glorfindel</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9012">Beravor</card>
+  </section>
+  <section name="Ally" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9058">Daughter of the Nimrodel</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9059">Erebor Hammersmith</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9060">Henamarth Riversong</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9061">Miner of the Iron Hills</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9062">Gleowine</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9073">Gandalf</card>
+  </section>
+  <section name="Event" shared="False">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9063">Lore of Imladris</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9064">Lorien's Wealth</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9065">Radagast's Cunning</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9066">Secret Paths</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9067">Gandalf's Search</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9068">Beorn's Hospitality</card>
+  </section>
+  <section name="Attachment" shared="False">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9069">Forest Snare</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9070">Protector of Lorien</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9071">Dark Knowledge</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9072">Self Preservation</card>
+  </section>
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

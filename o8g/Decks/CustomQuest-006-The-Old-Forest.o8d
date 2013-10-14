@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="57f1c0b6-2b4f-4165-87e9-4d1a60ec56b6">Follow the Withywindle - 1A</card>
+    <card qty="1" id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ec">Follow the Withywindle - 2A</card>
+    <card qty="1" id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ed">Follow the Withywindle - 2A</card>
+    <card qty="1" id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ee">Follow the Withywindle - 2A</card>
+    <card qty="1" id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ef">Follow the Withywindle - 2A</card>
+    <card qty="1" id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f0">Follow the Withywindle - 2A</card>
+    <card qty="1" id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f1">Follow the Withywindle - 2A</card>
+    <card qty="1" id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f2">Follow the Withywindle - 2A</card>
+    <card qty="1" id="d9744022-31fb-4d4d-bb8e-89254b4b7e21">Follow the Withywindle - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9074">King Spider</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9075">Hummerhorns</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9076">Ungoliant's Spawn</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9077">Great Forest Web</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9078">Mountains of Mirkwood</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9079">Eyes of the Forest</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9080">Caught in a Web</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9081">Wolf Rider</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9082">Hill Troll</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9083">Goblin Sniper</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9084">Marsh Adder</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9085">Wargs</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9086">Despair</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9088">The East Bight</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801200c9096">Forest Spider</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9097">East Bight Patrol</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9098">Black Forest Bats</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9099">Old Forest Road</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9100">Forest Gate</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="87829466-4503-4eb5-ab23-2e8b2c274483">Old Man Willow</card>
+    <card qty="1" id="c166c81e-6327-4bd5-b913-197219c39e25">Barrow Wight</card>
+    <card qty="1" id="6a3c0e41-0111-4496-9178-56f0ccc0c2f9">Barrow Blade</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

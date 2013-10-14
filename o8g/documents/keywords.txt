@@ -1,0 +1,59 @@
+Keywords
+========
+
+Ambush
+When an enemy with the ambush keyword enters play, each player, starting with the first player and proceeding clockwise, must make an engagement check. 
+The engagement check is only made against the enemy that just entered play, and not other enemies that are in the staging area.
+If the enemy engages a player as the result of this effect, then no further engagement checks are made against it.
+
+Archery X
+While a card with the archery keyword is in play, players must deal damage to character cards in play equal to the specified archery value at the beginning of each combat phase.
+This damage can be dealt to characters under any player’s control, and it can be divided among the players as they see fit.
+If there is disagreement as to where to assign archery damage, the first player makes the final decision.
+If multiple cards with the archery keyword are in play, the effects are cumulative.
+
+Battle
+If a quest card has the battle keyword, when characters are committed to that quest, they count their total attack strength instead of their total Willpower when resolving the quest.
+
+Doomed X
+Each player must raise their threat by X
+
+Guarded
+Reveal and attach the next encounter card
+
+Hide X
+Make a hide test. Exhaust any number of characters then discard X cards from the encounter deck. Compare the willpower of the exhausted characters to the threat of the discarded cards.
+If the threat is greater the hide test is failed. If the willpower is greater the hide test is successful.
+
+Peril
+When a player reveals an encounter card with the Peril keyword they must resolve the staging of that card on their own. Other players cannot activate actions or responses during the resolution.
+
+Prowl X: When a card with prowl is revealed from the encounter deck, the players, as a group, must discard the specified number of resources from their heroes’ resource pools.
+If the players do not have enough resources to match the specified value, then they must discard as many resources as they can.
+
+Ranged
+May attack enemies engaged with other players
+
+Restricted
+A character can have at most 2 restricted attachments.
+
+Secrecy X
+Secrecy lowers the cost to play the card by the specified value, provided the threat of the player who is playing the card is 20 or below. Secrecy only applies when the card is played from hand, and never modifies the printed cost of the card.
+
+Seige
+If a quest card has the battle keyword, when characters are committed to that quest, they count their total defense strength instead of their total Willpower when resolving the quest.
+
+Spectral
+When characters attack an enemy with the Spectral keyword, they must use their Willpower instead of their Attack to determine their attack strength.
+Effects that deal direct damage will still effect an enemy with the Spectral keyword.
+
+Surge
+Reveal 1 additional encounter card
+
+Underworld X
+When a location with the underworld keyword enters play, take cards from the top underworld deck equal to the specified value and stack them facedown underneath that location.
+When a location leaves play, any facedown cards stacked underneath that location are revealed one at a time, and added to the staging area.
+
+Villagers X
+When a location with the villages keyword enters play, or a quest card with villages is revealed, place resource tokens on it equal to the specified value. Resource tokens placed on a location or quest this way are villager tokens.
+Villager tokens to not count as resources. When a villager token is discarded, return that token to the token bank.
