@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Assault on Osgiliath" id="fd89bdbf-7475-4f3e-96fc-8f5315a94000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.16" version="0.1">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Assault on Osgiliath" id="fd89bdbf-7475-4f3e-96fc-8f5315a94000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.16" version="1.0">
 	<cards>
 		<card id="323ebfa3-57e5-4394-9f55-284b2f7ee0be" name="Faramir">
 			<property name="Unique" value="‰" />
@@ -15,7 +15,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Gondor. Ranger. Noble." />
 			<property name="Keywords" value="Ranged." />
-			<property name="Text" value="" />
+			<property name="Text" value="Faramir gets +1 Û for each enemy in the staging area." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -36,7 +36,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Item. Weapon." />
 			<property name="Keywords" value="Attach to a Gondor ally." />
-			<property name="Text" value="" />
+			<property name="Text" value="Attached ally gains the Outlands trait." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -57,7 +57,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Outlands." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Action: Return X Outlands allies from your discard pile to your hand." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -78,7 +78,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Gondor. Warrior." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="If each of your heroes has a printed Ï resource icon, Knight of Minas Tirith gains: &#10;&quot;Response: After Knight of Minas Tirith enters play, choose an enemy in the staging area. Engage that enemy and exhaust Knight of Minas Tirith to declare it as attacker (and resolve its attack) against that enemy.&quot;" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -99,7 +99,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Gondor." />
 			<property name="Keywords" value="Attach to a Gondor or Dunedain hero." />
-			<property name="Text" value="" />
+			<property name="Text" value="Action: Spend 1 resource from attached hero's resource pool to give attached hero +1 Û for each resource in its resource pool until the end of the phase. (Limit once per phase.)" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -120,7 +120,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Gondor. Craftsman." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Pelargir Shipwright gets +1 Ò for each hero you control with a printed Ê resource icon." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -141,7 +141,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Record." />
 			<property name="Keywords" value="Attach to a Ê hero." />
-			<property name="Text" value="" />
+			<property name="Text" value="Reduce the cost to play Map of Earnil by 1 for each hero you control with a printed Ê resource icon. &#10;&#10;Action: Discard Map of Earnil to play any Ê event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -162,7 +162,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Weapon." />
 			<property name="Keywords" value="Attach to a Ranger character. Restricted." />
-			<property name="Text" value="" />
+			<property name="Text" value="Action: Exhaust Ranger Bow and attached character to deal 1 damage to an enemy in the staging area." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -183,7 +183,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Trap." />
 			<property name="Keywords" value="Play only if you control at least 1 Ranger character." />
-			<property name="Text" value="" />
+			<property name="Text" value="Action: Deal 3 damage to an enemy with at least 1 Trap card attached to it." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -204,7 +204,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Artifact. Item." />
 			<property name="Keywords" value="Attach to a Noble hero." />
-			<property name="Text" value="" />
+			<property name="Text" value="Planning Action: Exhaust Palantir and attached hero to name a card type and look at the top 3 cards of the encounter deck. For each of those cards that matches the named type, draw a card. For each of those cards that does not match the named type, raise your threat by 2." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -225,7 +225,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Setup: Each player chooses 1 enemy and 1 unique location and add them to the staging area. Shuffle the encounter deck." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
@@ -245,7 +245,7 @@
 				<property name="Quest Points" value="-" />
 				<property name="Traits" value="" />
 				<property name="Keywords" value="Player card effects cannot place progress tokens in the staging area." />
-				<property name="Text" value="" />
+				<property name="Text" value="Forced: When an Osgiliath location leaves play as an explored location, the first player takes control of that location.&#10;&#10;If the players control all Osgiliath locations in play at the end of the round, they have won the game." />
 				<property name="Shadow" value="" />
 				<property name="Encounter Set" value="Assault on Osgiliath" />
 				<property name="Victory Points" value="" />
@@ -267,8 +267,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Orc. Uruk. Mordor." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: Add the topmost Orc enemy from the encounter discard pile to the staging area." />
+			<property name="Shadow" value="Shadow: Defending player discards an attachment he controls. (All attachments he controls instead if undefended.)" />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="2" />
@@ -288,8 +288,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Orc. Uruk. Mordor." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="Forced: After Uruk Soldier attacks and destroys a character, that character's controller returns a location he controls to the staging area, if able." />
+			<property name="Shadow" value="Shadow: Defending player raises his threat by 1 for each location he controls." />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="4" />
@@ -309,8 +309,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Harad." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="While engaged with a player, Southron Phalanx gets +1 Û for each location that player controls." />
+			<property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each location the defending player controls." />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="3" />
@@ -330,7 +330,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Harad." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: Southron Commander makes an immediate attack from the staging area against each player who controls at least 1 location." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
@@ -351,7 +351,7 @@
 			<property name="Quest Points" value="5" />
 			<property name="Traits" value="Osgiliath." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Action: If there is no active location, search the encounter deck and discard pile for an Osgiliath location, reveal it and add it to the staging area. Then, make West Gate the active location. Shuffle the encounter deck.&#10;&#10;Forced: After the player who controls West Gate lets an attack go undefended, return West Gate to the staging area." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
@@ -372,7 +372,7 @@
 			<property name="Quest Points" value="3" />
 			<property name="Traits" value="Osgiliath." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Travel: Reveal the top card of the encounter deck and add it to the staging area to travel here.&#10;&#10;Forced: After the player who controls The King's Library lets an attack go undefended, return The King's Library to the staging area." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
@@ -393,7 +393,7 @@
 			<property name="Quest Points" value="5" />
 			<property name="Traits" value="Osgiliath." />
 			<property name="Keywords" value="The players cannot travel here." />
-			<property name="Text" value="" />
+			<property name="Text" value="Combat Action: Exhaust a hero to place 1 progress token on Ancient Harbor.&#10;&#10;Forced: After the player who controls Ancient Harbor lets an attack go undefended, return Ancient Harbor to the staging area." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
@@ -414,7 +414,7 @@
 			<property name="Quest Points" value="6" />
 			<property name="Traits" value="Osgiliath." />
 			<property name="Keywords" value="The players cannot travel here." />
-			<property name="Text" value="" />
+			<property name="Text" value="Planning Action: Spend 2 resources to place 1 progress token on The Old Bridge. (1 resource instead if there is another Osgiliath location in the staging area.)&#10;&#10;Forced: After the player who controls The Old Bridge lets an attack go undefended, return The Old Bridge to the staging area." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
@@ -435,8 +435,8 @@
 			<property name="Quest Points" value="3" />
 			<property name="Traits" value="Osgiliath." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="While West Quarter is the active location, the current quest gains siege. (Characters quest using Ú instead of Ò.)" />
+			<property name="Shadow" value="Shadow: If this attack destroys a character, that character's controller must return a location he controls with the highest $ to the staging area." />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="2" />
@@ -456,8 +456,8 @@
 			<property name="Quest Points" value="3" />
 			<property name="Traits" value="Osgiliath." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="While East Quarter is the active location, the current quest gains battle. (Characters quest using Û instead of Ò.)" />
+			<property name="Shadow" value="Shadow: If this attack destroys a character, that character's controller must return a location he controls with the highest $ to the staging area." />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="2" />
@@ -477,7 +477,7 @@
 			<property name="Quest Points" value="2" />
 			<property name="Traits" value="Osgiliath." />
 			<property name="Keywords" value="Surge." />
-			<property name="Text" value="" />
+			<property name="Text" value="Response: After an enemy is defeated, place 1 progress token on Ruined Square.&#10;&#10;Forced: If a player controls Ruined Square when a character leaves play, return Ruined Square to the staging area." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
@@ -498,7 +498,7 @@
 			<property name="Quest Points" value="2" />
 			<property name="Traits" value="Osgiliath." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Travel: If there is 1 active location, exhaust a character to travel here. (There are now 2 active locations.)&#10;&#10;Forced: After the player who controls Ruined Tower loses control of a location, return Ruined Tower to the staging area." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
@@ -519,8 +519,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: Add X to the archery total this round. X is the number of locations the players control. If the players control less than 4 locations, Pinned Down gains surge." />
+			<property name="Shadow" value="Shadow: If this attack destroys a character, that character's controller must return a location he controls with the highest $ to the staging area." />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="2" />
@@ -540,7 +540,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: Discard cards from the top of the encounter deck until an Osgiliath location is discarded. The first player may exhaust a hero to take control of that location. Otherwise, add that location to the staging area. This effect cannot be canceled." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
@@ -561,7 +561,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Surge." />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: Each player must return the location he controls with the highest $ to the staging area, or raise his threat by the total $ of all locations he controls." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Assault on Osgiliath" />
 			<property name="Victory Points" value="" />
