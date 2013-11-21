@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="30a319ff-6092-4d5f-9b94-2a9b4f44f9c1">The Rearguard - 1A</card>
+    <card qty="1" id="49aa4e88-3774-43f7-ab8d-05268ed3fb7e">The Betrayal - 2A</card>
+    <card qty="1" id="8b4dd0c5-3847-46f6-a69b-a4c7ee2b21c8">The Morgul Rider - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="4" id="aca1ee7f-ad29-4218-8dd5-f7f7a8e617fe">Morgul Bodyguard</card>
+    <card qty="2" id="c12057ee-64d0-419a-adb8-17632e3182b0">Morgul Sorcerer</card>
+    <card qty="3" id="6987d363-bcba-4f34-97b1-d26f080c843e">Morgul Tracker</card>
+    <card qty="3" id="3e0e63ba-d11b-4c8a-aab6-047f19013ca7">Morgul Road</card>
+    <card qty="2" id="e176b4d7-2fae-4025-8a71-5c3bc843e2e1">Morgul Vale</card>
+    <card qty="2" id="418e1e02-52fe-4aef-b543-3875837dd38a">Impenetrable Fog</card>
+    <card qty="2" id="46c7bfd7-96b7-4fe4-a110-3464ba6c0023">Sleepless Malice</card>
+    <card qty="3" id="08af0240-fb38-4a33-a1f0-af07fd496b42">Terror Drives Them</card>
+    <card qty="2" id="8ac2d3ea-7e6d-4e9e-9cc5-70b65b24b835">The Dead City Looms</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9017">Forest Bat</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9058">Morgul Spider</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9086">Watcher in the Wood</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9049">Lieutenant of Mordor</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9061">Orc Arbalesters</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9066">Orc Vanguard</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9067">Orc War Camp</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9083">The Master's Malice</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9084">The Power of Mordor</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="499195c5-389f-4a56-b67e-b6e5b8f2fb91">Lord Alcaron</card>
+    <card qty="1" id="3ef4f724-8f91-42d3-9ba2-5d731283c069">Nazgûl of Minas Morgul</card>
+    <card qty="1" id="95f2f7ac-5d85-43e5-930d-d866b00bef26">The White Bridge</card>
+    <card qty="1" id="a6dd52d0-375a-41ea-ae77-b0fd9bcb6629">To the Tower</card>
+    <card qty="1" id="a305f78f-0d26-4a56-9d5b-7fb0210e6bd4">Murzag</card>
+    <card qty="1" id="e176b4d7-2fae-4025-8a71-5c3bc843e2e1">Morgul Vale</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
