@@ -45,7 +45,7 @@ def toggleDebug(group, x=0, y=0):
 	
 #Return the default x coordinate of the players hero
 def heroX(player, hero=0):
-	return hero*Spacing + (BoardWidth * player / len(players)) - BoardWidth / 2
+	return hero*Spacing + (BoardWidth * player / len(getPlayers())) - BoardWidth / 2
 
 def num(s):
    if not s: return 0
@@ -91,7 +91,7 @@ def firstHero(player):
 	return first
 
 def getPlayer(id):
-	for p in players:
+	for p in getPlayers():
 		if playerID(p) == id:
 			return p
 	return None
@@ -121,7 +121,7 @@ def eliminated(p):
 
 def activePlayers():
 	count=0
-	for p in players:
+	for p in getPlayers():
 		if not eliminated(p):
 			count+=1
 	return count
@@ -134,8 +134,8 @@ def nextPlayer(current):
 			
 	np = me		
 	tries = 0
-	while tries < len(players):
-		current = (current + 1) % len(players)
+	while tries < len(getPlayers()):
+		current = (current + 1) % len(getPlayers())
 		p = getPlayer(current)
 		if not eliminated(p):
 			np = p
@@ -243,7 +243,7 @@ def setupDeck():
 	return shared.piles['Setup']
 
 def isPlayerCard(card):
-	return card.owner in players
+	return card.owner in getPlayers()
 	
 #------------------------------------------------------------
 # Global variable manipulations function
@@ -258,7 +258,7 @@ def getLock():
 		return False
 	
 	setGlobalVariable("lock", str(me._id))
-	if len(players) > 1:
+	if len(getPlayers()) > 1:
 		#time.sleep(2)
 		update()
 	return getGlobalVariable("lock") == str(me._id)
@@ -316,7 +316,7 @@ def setReady():
 	
 def numReady():
 	val = ""
-	for p in players:
+	for p in getPlayers():
 		if isReady(p):
 			val += "{}|".format(playerID(p))
 	setGlobalVariable("playersReady", val)
@@ -455,13 +455,13 @@ def deckLoaded(player, groups):
 		
 def numDone():
 	count = 0
-	for p in players:
+	for p in getPlayers():
 		if isPlayerDone(p): count += 1
 	debug("numDone() == {}".format(count))
 	return count
 	
 def highlightPlayer(p, state):
-	if len(players) <= 1:
+	if len(getPlayers()) <= 1:
 		return
 	debug("highlightPlayer {} = {}".format(p, state))
 	for card in table:
@@ -480,7 +480,7 @@ def highlightPlayers():
 	else:
 		paused = None
 	debug("highlightPlayers: active = {}, paused = {}".format(active, paused))
-	for p in players:
+	for p in getPlayers():
 		c = None
 		if eliminated(p):
 			c = EliminatedColour
@@ -752,6 +752,7 @@ def flipCoin(group, x = 0, y = 0):
 
 def randomPlayer(group, x=0, y=0):
 	mute()
+	players = getPlayers()
 	if len(players) <= 1:
 		notify("{} randomly selects {}".format(me, me))
 	else:
@@ -981,7 +982,7 @@ def doNextRound(group):
 	if me.isActivePlayer:
 		#Check to see if all other expected players are ready
 		if numReady() < expected:
-			for p in players:
+			for p in getPlayers():
 				if isReady(p):
 					debug("{} is ready".format(p))
 				elif p != me:
@@ -1022,7 +1023,7 @@ def doNextRound(group):
 	if shared.counters['Round'].value > 0 and me.isActivePlayer:
 		setActiveSet(first)			
 	setFirstPlayer(playerID(first))				
-	if len(players) > 1: #Put the first player token onto the table
+	if len(getPlayers()) > 1: #Put the first player token onto the table
 		x, y = firstHero(first).position
 		c = moveFirstPlayerToken(x, y+Spacing)
 		c.markers[Turn] = shared.counters['Round'].value + 1
@@ -1107,7 +1108,7 @@ def calcScore(group=None, x=0, y=0):
 	notify(":::Calculating Score...:::")
 	scoreRound = completedRounds * 10
 	notify("{} completed rounds = {}".format(completedRounds,scoreRound))
-	for player in players:
+	for player in getPlayers():
 		scoreThreat += player.counters['Threat_level'].value
 		for card in player.piles['Discard Pile']:
 			if card.Type == "Hero": scoreDeadHeroes += num(card.Cost)
