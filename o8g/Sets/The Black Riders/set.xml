@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Black Riders" id="b5a36fbd-c194-47f0-9e81-0fb71aecda31" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.2.0" version="1.0.0.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Black Riders" id="b5a36fbd-c194-47f0-9e81-0fb71aecda31" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.2.0" version="2.0.0.0">
 	<cards>
 		<card id="4124136c-8c86-4f86-830c-94c8c76df161" name="Sam Gamgee">
 			<property name="Unique" value="‰" />
@@ -15,7 +15,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Hobbit." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Response: After you engage an enemy with a higher engagement cost than your threat, ready Sam Gamgee.  He gets +1 Ò, +1 Û, and +1 Ú until the end of the round." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -36,7 +36,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Hobbit." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Merry get +1 Û for each Hobbit hero you control.&#10;&#10;Response: After Merry participates in an attack that destroys an enemy, ready another character that participated in that attack." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -57,7 +57,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Hobbit." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Each enemy in play gets +1 engagement cost for each Hobbit hero you control.&#10;&#10;Response: After you engage an enemy with a engagement cost higher than your threat, draw a card." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -78,7 +78,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Hobbit." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Action: Exhaust Fatty Bolger to choose an enemy in the staging area and raise you threat by that enemy's $. Until the end of the phase, that enemy does not contribute its $. (Limit once per round.)" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -99,7 +99,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Hobbit. Ring-bearer." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Response: Spend 1 ☺ resource and exhaust The One Ring to cancel the effects of an encounter card just revealed from the encounter deck.  Shuffle that card back into the encounter deck and reveal another encounter card." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -120,7 +120,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Artifact. Item. Ring." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Setup: The first player claims The One Ring and attaches it to the Ring-bearer.&#10;&#10;Attached hero does not count against the hero limit. The first player gains control of the attached hero.&#10;&#10;If The One Ring leaves play, the players lose the game." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -141,7 +141,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Bree." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="If each hero you control has the Hobbit trait, damage from undefended attacks against you may be assigned to Barliman Butterbur." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -162,7 +162,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Artifact. Item." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Attach to the active location.  Attached location gets +1 quest point.&#10;&#10;Response: After attached location leaves play as an explored location, the first player puts 1 ally into play from his hand." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -183,7 +183,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Hobbit." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Response: After Farmer Maggot enters play, deal 1 damage to an enemy engaged with you. (Deal 2 damage instead if that enemy's engagement cost is higher than your threat.)" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -204,7 +204,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Action: Choose a Hobbit character. That character gets +2 Ò, +2 Û, and +2 Ú until the end of the phase." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -225,7 +225,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Artifact. Item. Weapon." />
 			<property name="Keywords" value="Attach to the hero. Restricted." />
-			<property name="Text" value="" />
+			<property name="Text" value="Attached hero gets +1 Û (+2 Û instead if attacking an enemy with an engagement cost higher than your threat)." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -246,7 +246,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Creature. Pony." />
 			<property name="Keywords" value="Cannot have attachments." />
-			<property name="Text" value="" />
+			<property name="Text" value="Lower the cost to play Bill the Pony by 2 if you control Sam Gamgee.&#10;&#10;Each Hobbit character gets +1 hit point." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -267,7 +267,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Lower the cost to play Take No Notice by 1 for each Hobbit or Ranger hero you control.&#10;&#10;Action: Add 5 to each enemy's engagement cost until the end of the round." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -288,7 +288,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Action: Reduce your threat by 1 for each Pipe you control.  Each hero with a Pipe attachment gets +1 Ò until the end of the phase." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -309,7 +309,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Action: Each hero you control gets +1 Ò until the end of the round.  Draw 1 card for each Hobbit hero you control." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -330,7 +330,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Item." />
 			<property name="Keywords" value="Attach to a Hobbit hero. Limit 1 per hero." />
-			<property name="Text" value="" />
+			<property name="Text" value="Attached hero gets +2 Ú while defending against an attack made by an enemy with an engagement cost higher than your threat." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -351,7 +351,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Item." />
 			<property name="Keywords" value="Attach to a Hobbit. Limit 1 per character." />
-			<property name="Text" value="" />
+			<property name="Text" value="Response. After your threat is reduced by an event card effect, exhaust Hobbit Pipe to draw a card." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -372,7 +372,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Title." />
 			<property name="Keywords" value="Permanent." />
-			<property name="Text" value="" />
+			<property name="Text" value="Setup: Attach to the Ring-bearer.&#10;&#10;Action: Add Mr. Underhill to the Victory display to choose an enemy engaged with you.  Until the end of the round, that enemy cannot attack you." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="1" />
@@ -393,7 +393,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Title." />
 			<property name="Keywords" value="Permanent." />
-			<property name="Text" value="" />
+			<property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +1 Û and gains the Warrior trait." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -414,7 +414,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Title." />
 			<property name="Keywords" value="Permanent." />
-			<property name="Text" value="" />
+			<property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +1 Ò and gains the Noble trait." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -435,7 +435,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Title." />
 			<property name="Keywords" value="Permanent." />
-			<property name="Text" value="" />
+			<property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +2 hit points and gains the Healer trait." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -456,7 +456,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Title." />
 			<property name="Keywords" value="Permanent." />
-			<property name="Text" value="" />
+			<property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +1 Ú and gains the Ranger trait." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -477,7 +477,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Noldor." />
 			<property name="Keywords" value="The first player gains control of Gildor Inglorian." />
-			<property name="Text" value="" />
+			<property name="Text" value="Forced: At the end of the round, discard Gildor Inglorion.  The first player may spend 1 ☺ resource to cancel this effect." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="" />
 			<property name="Victory Points" value="" />
@@ -498,8 +498,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Surge." />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: The first player must exhaust The One Ring. If The One Ring is already exhausted, the first player must discard 2 cards at random from his hand." />
+			<property name="Shadow" value="Shadow: Defending player discards 1 card at random from his hand." />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="1" />
@@ -519,8 +519,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Surge." />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: The first player must either exhaust the Ring-bearer or an additional encounter card." />
+			<property name="Shadow" value="Shadow: Defending player raises his threat by 3." />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="1" />
@@ -540,8 +540,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Surge." />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: The first player must deal X damage divided among heroes he controls where X is the number of players in the game." />
+			<property name="Shadow" value="Shadow: Deal 1 damage to the defending character." />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="1" />
@@ -561,8 +561,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Surge." />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: The first player raises his threat by 3 and passes the first player token to the next player." />
+			<property name="Shadow" value="Shadow: Defending player exhausts a character he controls." />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="1" />
@@ -582,7 +582,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Surge." />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: Attach to the Ring-bearer. (Counts as a Condition attachment with the text: &quot;Forced: At the beginning of each quest phase, either exhaust The One Ring or reveal an additional encounter card this phase.&quot;)" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
@@ -603,7 +603,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Surge." />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: At the end of the phase, each enemy in the staging area engages the first player.  If The One Ring is exhausted, this effect cannot be cancelled." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Shadow of the past" />
 			<property name="Victory Points" value="" />
@@ -624,7 +624,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Setup: Add Gandalf's Delay to the staging area.&#10;&#10;Each player draws 1 less card in his starting hand." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Shadow of the past" />
 			<property name="Victory Points" value="" />
@@ -645,7 +645,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="You are playing Campaign Mode." />
-			<property name="Text" value="" />
+			<property name="Text" value="Setup: Attach Mr. Underhill to the Ring-bearer. Add Gandalf's Delay to the staging area. Shuffle Gildor Inglorion and the The Ring Draws Them into the encounter deck." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="The Lord of the Rings Part 1" />
 			<property name="Victory Points" value="" />
@@ -663,7 +663,7 @@
 			  <property name="Willpower" value="" />
 			  <property name="Health" value="" />
 			  <property name="Traits" value="" />
-			  <property name="Text" value="" />
+			  <property name="Text" value="Resolution: Choose Gandalf's Delay or The Ring Draws Them and add it to the Campaign Pool.  Then, choose Gildor Inglorion or Mr. Underhill and add it to the Campaign Pool.  The chosen cards have been earned by the players." />
 			  <property name="Shadow" value="" />
 			  <property name="Keywords" value="" />
 			  <property name="Threat" value="" />
@@ -705,7 +705,7 @@
 			  <property name="Willpower" value="" />
 			  <property name="Health" value="" />
 			  <property name="Traits" value="" />
-			  <property name="Text" value="" />
+			  <property name="Text" value="Resolution: Starting with the first player, each player may choose one of the following boon cards and attach it to a hero he controls: Tireless Ranger, Skilled Healer, Valiant Warrior, Noble Hero. The chosen cards have been earned by the players." />
 			  <property name="Shadow" value="" />
 			  <property name="Keywords" value="" />
 			  <property name="Threat" value="" />
@@ -729,7 +729,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="You are playing Campaign Mode." />
-			<property name="Text" value="" />
+			<property name="Text" value="Response: After an enemy is declared as an attacker, shuffle the top card of the burden deck into the encounter deck to cancel that attack. (Any player may trigger that ability.)" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="The Lord of the Rings Part 3" />
 			<property name="Victory Points" value="" />
@@ -747,7 +747,7 @@
 			  <property name="Willpower" value="" />
 			  <property name="Health" value="" />
 			  <property name="Traits" value="" />
-			  <property name="Text" value="" />
+			  <property name="Text" value="Resolution: Add each burden card in player, in the encounter deck, and in the discard pile to the Campaign Pool.  Then added cards have been earned by the players." />
 			  <property name="Shadow" value="" />
 			  <property name="Keywords" value="" />
 			  <property name="Threat" value="" />
@@ -771,7 +771,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Setup: Set Bucklebury Ferry aside, out of play.  Add 1 Black Rider to the staging area and make Bag End the active location.  Shuffle the encounter deck." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="" />
@@ -789,7 +789,7 @@
 			  <property name="Willpower" value="" />
 			  <property name="Health" value="" />
 			  <property name="Traits" value="" />
-			  <property name="Text" value="" />
+			  <property name="Text" value="When a player fails a Hide test, each Nazgul enemy in the staging area engages that player. (Trigger Forced effects after resolving this effect.)&#10;&#10;The players cannot advance unless Bag End is in the victory display." />
 			  <property name="Shadow" value="" />
 			  <property name="Keywords" value="" />
 			  <property name="Threat" value="" />
@@ -831,7 +831,7 @@
 			  <property name="Willpower" value="" />
 			  <property name="Health" value="" />
 			  <property name="Traits" value="" />
-			  <property name="Text" value="" />
+			  <property name="Text" value="When Revealed: The first player searches the encounter deck and discard pile for a Black Rider, reveals it (cannot be cancelled), and adds it to the staging area.  Shuffle the encounter deck.&#10;&#10;When a player makes a Hide test, add 1 to the total $ for each ally that player controls.&#10;&#10;When a player fails a Hide test, each Nazgul enemy in the staging area engages that player. (Trigger Forced effects after resolving this effect.)" />
 			  <property name="Shadow" value="" />
 			  <property name="Keywords" value="" />
 			  <property name="Threat" value="" />
@@ -855,7 +855,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: Add Bucklebury Ferry to the staging area." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="" />
@@ -873,7 +873,7 @@
 			  <property name="Willpower" value="" />
 			  <property name="Health" value="" />
 			  <property name="Traits" value="" />
-			  <property name="Text" value="" />
+			  <property name="Text" value="When Revealed: The first player searches the encounter deck and discard pile for a Black Rider, reveals it (cannot be cancelled), and adds it to the staging area.  Shuffle the encounter deck.&#10;&#10;When a player fails a Hide test, each Nazgul enemy in the staging area engages that player. (Trigger Forced effects after resolving this effect.)&#10;&#10;Response: After a player makes a successful Hide test, place X progress on a non-unique location in play.  X is twice the number of players in the game." />
 			  <property name="Shadow" value="" />
 			  <property name="Keywords" value="" />
 			  <property name="Threat" value="" />
@@ -897,7 +897,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Setup: Set all copies of Ringwraith, The Witch-king, Midgewater, and Weathertop aside, out of play.  Add The Prancing Pony and Bill Ferny to the staging area.  Shuffle the encounter deck." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Knife in the Dark" />
 			<property name="Victory Points" value="" />
@@ -915,7 +915,7 @@
 			  <property name="Willpower" value="" />
 			  <property name="Health" value="" />
 			  <property name="Traits" value="" />
-			  <property name="Text" value="" />
+			  <property name="Text" value="The players cannot advance while The Prancing Pony is in play." />
 			  <property name="Shadow" value="" />
 			  <property name="Keywords" value="" />
 			  <property name="Threat" value="" />
@@ -957,7 +957,7 @@
 			  <property name="Willpower" value="" />
 			  <property name="Health" value="" />
 			  <property name="Traits" value="" />
-			  <property name="Text" value="" />
+			  <property name="Text" value="When Revealed: Add Midgewater to the staging area.  Each player places 1 progress on the current quest.&#10;&#10;Forced: At the end of the round, either remove X progress from the current quest or shuffle 1 out of play Ringwraith into the encounter deck.  X is the number of players in the game.&#10;&#10;The players cannot advance while Midgewater is in play." />
 			  <property name="Shadow" value="" />
 			  <property name="Keywords" value="" />
 			  <property name="Threat" value="" />
@@ -981,7 +981,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: Add Weathertop and The Witch-king to the staging area.  Search the encounter deck and discard pile and add each Nazgul enemy found to the staging area.  Shuffle the encounter deck." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Knife in the Dark" />
 			<property name="Victory Points" value="" />
@@ -999,7 +999,7 @@
 			  <property name="Willpower" value="" />
 			  <property name="Health" value="" />
 			  <property name="Traits" value="" />
-			  <property name="Text" value="" />
+			  <property name="Text" value="If there are no Nazgul enemies in play, the players win the game." />
 			  <property name="Shadow" value="" />
 			  <property name="Keywords" value="" />
 			  <property name="Threat" value="" />
@@ -1023,7 +1023,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Setup: Shuffle each burden card from the Flight to the Ford burden set into a Burden deck. Attach An Evil Wound to the Ring-bearer.  Set Ford of Bruinen and The Witch-King aside, out of play.  Add The Last Bridge and 1 Fell Rider per player to the staging area.  Set the Ring-bearer's life at 15. Shuffle the encounter deck." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
@@ -1041,7 +1041,7 @@
 			  <property name="Willpower" value="" />
 			  <property name="Health" value="" />
 			  <property name="Traits" value="" />
-			  <property name="Text" value="" />
+			  <property name="Text" value="The players cannot advance unless The Last Bridge is in the victory display.&#10;&#10;Forced: At the end of the round, reduce the Ring-bearer's life by 1." />
 			  <property name="Shadow" value="" />
 			  <property name="Keywords" value="" />
 			  <property name="Threat" value="" />
@@ -1083,7 +1083,7 @@
 			  <property name="Willpower" value="" />
 			  <property name="Health" value="" />
 			  <property name="Traits" value="" />
-			  <property name="Text" value="" />
+			  <property name="Text" value="When Revealed: Add Ford of Bruinen and The Witch-king to the staging area.&#10;&#10;While at least 1 Nazgul enemy is in play, Race to Rivendell gets +15 quest points.&#10;&#10;Forced: At the end of the round. Reduce the Ring-bearer's life by 1.&#10;&#10;If the players defeat this stage, they have won the game." />
 			  <property name="Shadow" value="" />
 			  <property name="Keywords" value="" />
 			  <property name="Threat" value="" />
@@ -1107,7 +1107,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Morgul." />
 			<property name="Keywords" value="Attach to the Ring-bearer. Attached hero cannot be healed." />
-			<property name="Text" value="" />
+			<property name="Text" value="When attached hero would take any amount of damage, reduce the Ring-bearer's life an equal amount instead.&#10;&#10;If the Ring-bearer's life reaches zero, the players lose the game." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
@@ -1128,7 +1128,7 @@
 			<property name="Quest Points" value="4" />
 			<property name="Traits" value="Bridge. River." />
 			<property name="Keywords" value="Immune to player card effects" />
-			<property name="Text" value="" />
+			<property name="Text" value="X is the number of players in the game.&#10;&#10;Travel: The first player must reveal the top card of the burden deck and resolve that card as if it were just revealed from the encounter deck to travel here." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="3" />
@@ -1149,7 +1149,7 @@
 			<property name="Quest Points" value="2" />
 			<property name="Traits" value="Forest." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="While The Troll's Camp is the active location, each hero gets +1 Ò, +1 Û +1 Ú." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="1" />
@@ -1170,8 +1170,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: Reduce the Ring-bearer's life by 1.  Then, reduce the Ring-bearers Ò, Û, and Ú to 0 until the end of the round." />
+			<property name="Shadow" value="Shadow: If this attack destroys a character, reduce the Ring-bearer's life by 1." />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="3" />
@@ -1191,7 +1191,7 @@
 			<property name="Quest Points" value="6" />
 			<property name="Traits" value="River." />
 			<property name="Keywords" value="Immune to player card effects" />
-			<property name="Text" value="" />
+			<property name="Text" value="Response: After Ford of Bruinen leaves play as an explored location, all engaged enemies are discarded.&#10;&#10;Travel: The first player must reveal the top card of the encounter deck to travel here." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="5" />
@@ -1212,8 +1212,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: Each engaged enemy makes an immediate attack.  If no attack is made this way, The Enemy is Upon Us! gains surge." />
+			<property name="Shadow" value="Shadow: If this attack destroys a character, remove all progress from the current quest." />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="2" />
@@ -1233,7 +1233,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Peril." />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: You must either shuffle the top card of the burden deck into the encounter deck and reveal an additional encounter card, or raise each player's threat by 3 and immediately end the quest phase (do not resolve the quest)." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
@@ -1254,8 +1254,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Peril." />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: Treat the text box of each character in play as blank (except for Traits) until the end of the round.  If there is a Nazgul enemy in the staging area, The Nine are Abroad gains surge." />
+			<property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack." />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="2" />
@@ -1275,7 +1275,7 @@
 			<property name="Quest Points" value="3" />
 			<property name="Traits" value="Forest." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="While Ettenmoors is the active location, do not deal Nazgul enemies a shadow card during the combat phase.&#10;&#10;Forced: After any amount of progress is placed on Ettenmoors, reduce the Ring-bearer's life by 1." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
@@ -1296,7 +1296,7 @@
 			<property name="Quest Points" value="4" />
 			<property name="Traits" value="Road." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Action: Place the top card of the burden deck on the encounter deck to place 4 progress on The Old Road. (Use this action only if you are playing campaign mode.)" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
@@ -1317,7 +1317,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Nazgul." />
 			<property name="Keywords" value="Cannot have non-Morgul attachments." />
-			<property name="Text" value="" />
+			<property name="Text" value="While Fell Rider is in the staging area, it gains: &quot;Forced: At the beginning of the encounter phase, the first player must either reduce the Ring-bearer's life by 1 or engage Fell Rider.&quot;" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="Flight to the Ford" />
 			<property name="Victory Points" value="" />
@@ -1338,7 +1338,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Spy." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: You must either shuffle an out of play Ringwraith into the encounter deck or reveal an additional encounter card." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Knife in the Dark" />
 			<property name="Victory Points" value="" />
@@ -1359,7 +1359,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Bree. Spy." />
 			<property name="Keywords" value="Players cannot optionally engage Bill Ferny." />
-			<property name="Text" value="" />
+			<property name="Text" value="Forced: At the beginning of the staging step, either shuffle 1 out of play Ringwraith into the encounter deck or each player raises his threat by 1 for each non-☺ hero he committed to the quest." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Knife in the Dark" />
 			<property name="Victory Points" value="1" />
@@ -1380,8 +1380,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Bree. Spy." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="While the One Ring is exhausted, Shady Bree-lander gains: &quot;Cannot be optionally engaged.&quot;" />
+			<property name="Shadow" value="Shadow: Defending character gets -1 Ú (-2 Ú instead if The One Ring is exhausted)." />
 			<property name="Encounter Set" value="A Knife in the Dark" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="4" />
@@ -1401,7 +1401,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Nazgul." />
 			<property name="Keywords" value="Cannot have non-Morgul attachments." />
-			<property name="Text" value="" />
+			<property name="Text" value="While Rider of Mordor is engaged with a player, characters that player controls get -1 Ò.&#10;&#10;While The One Ring is exhausted, Rider of Mordor gets -10 engagement cost." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Knife in the Dark" />
 			<property name="Victory Points" value="" />
@@ -1422,7 +1422,7 @@
 			<property name="Quest Points" value="2" />
 			<property name="Traits" value="Forest. Hills." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Response: After the players travel here, place 1 non-unique enemy in play facedown under this location.  While an enemy is under this location, it is out of play.&#10;&#10;Forced: After this location leaves play, return each enemy under it to the staging area face-up." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Knife in the Dark" />
 			<property name="Victory Points" value="" />
@@ -1443,8 +1443,8 @@
 			<property name="Quest Points" value="2" />
 			<property name="Traits" value="Forest." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="While Chetwood is in the staging area, Spy enemies get +1 $ and +1 Û." />
+			<property name="Shadow" value="Shadow: Defending player discards 1 random card from his hand." />
 			<property name="Encounter Set" value="A Knife in the Dark" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="3" />
@@ -1464,7 +1464,7 @@
 			<property name="Quest Points" value="4" />
 			<property name="Traits" value="Bree." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Response: After the players travel here, the first player puts 1 ally into play from his hand.&#10;&#10;Forced: After the Prancing Pony leaves play, discard cards from the top of the encounter deck until X enemies have been discarded.  X is the number of players in the game. Put each enemy discarded by this effect into play engaged with the first player." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Knife in the Dark" />
 			<property name="Victory Points" value="1" />
@@ -1485,7 +1485,7 @@
 			<property name="Quest Points" value="6" />
 			<property name="Traits" value="Marshland." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="While Midgewater is the active location, enemies cannot attack, take damage, or be engaged.&#10;&#10;Forced: After Midgewater becomes the active location, return each engaged enemy in play to the staging area." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Knife in the Dark" />
 			<property name="Victory Points" value="1" />
@@ -1506,7 +1506,7 @@
 			<property name="Quest Points" value="4" />
 			<property name="Traits" value="Hills. Ruins." />
 			<property name="Keywords" value="Immune to player card effects." />
-			<property name="Text" value="" />
+			<property name="Text" value="While Weathertop is in the victory display, each enemy in play gets -1 $.&#10;&#10;Travel: The first player must exhaust The One Ring to travel here." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Knife in the Dark" />
 			<property name="Victory Points" value="4" />
@@ -1527,8 +1527,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Peril." />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: You must either remove 2 heroes you control from the quest or shuffle an out of play Ringwraith into the encounter deck." />
+			<property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack." />
 			<property name="Encounter Set" value="A Knife in the Dark" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="3" />
@@ -1548,7 +1548,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Peril." />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: Attach to a hero you control.  (Counts as a Condition attachment with the text: &quot;Limit 1 per hero. Reduce attached hero's Ò, Û, and Ú to 0.&quot;)" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Knife in the Dark" />
 			<property name="Victory Points" value="" />
@@ -1569,7 +1569,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Peril. Surge." />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: Attach to a hero. (Counts as a Condition attachment with the text: &quot;Limit 1 per hero. Forced: After a player fails a Hide test, discard attached hero.&quot;)" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="" />
@@ -1590,8 +1590,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Peril. Hide 2." />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: If you have failed a Hide test this phase, remove each character you control form the quest." />
+			<property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack." />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="3" />
@@ -1611,7 +1611,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Doomed 2." />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: Starting with the first player, each player much either return a Nazgul enemy engaged with him to the staging area or make a Hide 2 test." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="" />
@@ -1632,7 +1632,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Nazgul." />
 			<property name="Keywords" value="Hide 2. Cannot have non-Morgul attachments." />
-			<property name="Text" value="" />
+			<property name="Text" value="Forced: After engaged player fails a Hide test, Black Rider makes an immediate attack." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="" />
@@ -1653,8 +1653,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Creature." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="While Evil Crow is engaged with a player, that player adds 1 to the Hide value for each Hide test he makes." />
+			<property name="Shadow" value="Shadow: If you have failed a Hide test this round, this attack is considered undefended." />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="3" />
@@ -1674,7 +1674,7 @@
 			<property name="Quest Points" value="3" />
 			<property name="Traits" value="Shire." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Response: After Bag End leaves play, each player draws 1 card for each Hobbit hero he controls." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="1" />
@@ -1695,7 +1695,7 @@
 			<property name="Quest Points" value="1" />
 			<property name="Traits" value="Forest." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="While Woody End is the Active location, reduce each Hide X value by 1." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="1" />
@@ -1716,7 +1716,7 @@
 			<property name="Quest Points" value="5" />
 			<property name="Traits" value="Forest. Stream." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: Immediately travel to Stock-Brook.  If another location is currently active, return it to the staging area." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="1" />
@@ -1737,7 +1737,7 @@
 			<property name="Quest Points" value="2" />
 			<property name="Traits" value="Shire." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="Response: After the players travel to Bamfurlong, each player engaged with a Nazgul enemy may ready a hero he controls." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="1" />
@@ -1758,8 +1758,8 @@
 			<property name="Quest Points" value="4" />
 			<property name="Traits" value="Marshland." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="Forced: After a player fails a Hide test, shuffle a Nazgul enemy from the discard pile into the encounter deck, if able." />
+			<property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if the defending player failed a Hide test this round)." />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="2" />
@@ -1779,7 +1779,7 @@
 			<property name="Quest Points" value="3" />
 			<property name="Traits" value="Road." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
+			<property name="Text" value="While Stock Road is in the staging area, add 2 to the total $ of the discarded cards when a player resolves a Hide test.&#10;&#10;Travel: The first player must make a Hide 1 test to travel here." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="" />
@@ -1800,8 +1800,8 @@
 			<property name="Quest Points" value="3" />
 			<property name="Traits" value="Forest." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="While Green Hill Country is the active location, characters get +1 Ò while committed to Hide tests." />
+			<property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if you have failed a Hide test this round)." />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="3" />
@@ -1821,7 +1821,7 @@
 			<property name="Quest Points" value="9" />
 			<property name="Traits" value="River." />
 			<property name="Keywords" value="Immune to player card effects." />
-			<property name="Text" value="" />
+			<property name="Text" value="While there is at least 1 other location in play, the players cannot travel here.&#10;&#10;Travel: The first player must make a Hide 3 test to travel here.&#10;&#10;After Bucklebury Ferry leaves play as an explored location, the players win the game." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="A Shadow of the Past" />
 			<property name="Victory Points" value="" />
@@ -1842,8 +1842,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: Each ally gets -1 Ò until the end of the round. Deal 2 damage to each ally with 0 Ò." />
+			<property name="Shadow" value="Shadow: Discard a non-objective attachment you control." />
 			<property name="Encounter Set" value="The Nazgul" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="3" />
@@ -1863,7 +1863,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Surge." />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: Attach to a Nazgul enemy in play, if able. (Counts as a Weapon attachment with the text: &quot;Limit 1 per enemy.  Attached enemy gets +1 Û and cannot take non-combat damage.&quot;)" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="The Nazgul" />
 			<property name="Victory Points" value="" />
@@ -1884,7 +1884,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Nazgul." />
 			<property name="Keywords" value="Immune to player card effects." />
-			<property name="Text" value="" />
+			<property name="Text" value="The Witch-king gets -30 engagement cost while The One Ring is exhausted.&#10;&#10;Characters with 1 Ò or less cannot defend attacks made by The Witch-king." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="The Nazgul" />
 			<property name="Victory Points" value="" />
@@ -1905,8 +1905,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Nazgul." />
 			<property name="Keywords" value="Cannot have non-Morgul attachments." />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="Forced: When Ringwraith attacks, deal it an additional shadow card if The One Ring is exhausted." />
+			<property name="Shadow" value="Shadow: Shuffle this card into the encounter deck." />
 			<property name="Encounter Set" value="The Nazgul" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="4" />
@@ -1926,7 +1926,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Surge." />
-			<property name="Text" value="" />
+			<property name="Text" value="When Revealed: Attach to a Nazgul enemy in play, if able. (Counts a Mount attachment with the text: &quot;Limit 1 per enemy. Attached enemy gets -10 engagement cost and gains. 'Forced: At the end of the refresh phase, return attached enemy to the staging area.'&quot;)" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="The Black Riders" />
 			<property name="Victory Points" value="" />
@@ -1947,8 +1947,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: Return each engaged Nazgul enemy to the staging area.  If no enemies were returned to the staging area by this effect, Rode Like a Gale gains surge." />
+			<property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack." />
 			<property name="Encounter Set" value="The Black Riders" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="2" />
@@ -1968,8 +1968,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Surge." />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: The first player must either exhaust The One Ring or raise his threat by 3." />
+			<property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if The One Ring is exhausted)." />
 			<property name="Encounter Set" value="The Ring" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="3" />
@@ -1989,8 +1989,8 @@
 			<property name="Quest Points" value="3" />
 			<property name="Traits" value="Forest." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="Pathless Country gets +4 quest points while in the staging area." />
+			<property name="Shadow" value="Shadow: After this attack, the attacking enemy engages the next player then makes an immediate attack." />
 			<property name="Encounter Set" value="Hunted" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="3" />
@@ -2010,8 +2010,8 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="" />
 			<property name="Keywords" value="Peril." />
-			<property name="Text" value="" />
-			<property name="Shadow" value="" />
+			<property name="Text" value="When Revealed: Search the encounter deck and discard pile for a Nazgul enemy. Either add it to the staging area or put it into play engaged with the first player.  Shuffle the encounter deck." />
+			<property name="Shadow" value="Shadow: Attacking enemy makes an additional attack after this one." />
 			<property name="Encounter Set" value="Hunted" />
 			<property name="Victory Points" value="" />
 			<property name="Quantity" value="3" />
