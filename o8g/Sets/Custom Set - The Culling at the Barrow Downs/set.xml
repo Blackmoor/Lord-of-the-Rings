@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - The Culling at the Barrow Downs" id="51223bd0-ffd1-11df-a976-2801201c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - The Culling at the Barrow Downs" id="51223bd0-ffd1-11df-a976-2801201c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.1">
   <cards>
     <card id="51223bd0-ffd1-11df-a976-2801201c9001" name="Anborn">
       <property name="Type" value="Hero" />
       <property name="Sphere" value="Spirit" />
-      <property name="Cost" value="" />
+      <property name="Cost" value="9" />
       <property name="Engagement Cost" value="" />
       <property name="Unique" value="" />
       <property name="Setup" value="" />
