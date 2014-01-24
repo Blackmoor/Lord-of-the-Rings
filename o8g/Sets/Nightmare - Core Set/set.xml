@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Core Set - Nightmare" id="e84f94bf-201b-4adf-95d2-0012e0bb5000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.1.1" version="1.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Core Set - Nightmare" id="e84f94bf-201b-4adf-95d2-0012e0bb5000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.1.1" version="1.1">
 	<cards>
 		<card id="e84f94bf-201b-4adf-95d2-0012e0bb5001" name="Passage Through Mirkwood">
 			<property name="Unique" value="" />
@@ -76,7 +76,7 @@
 				<property name="Health" value="" />
 				<property name="Attack" value="" />
 				<property name="Defense" value="" />
-				<property name="Text" value="You are playing Nightmare mode. &#10;&#10;All Troll enemies gain the test: &quot;Cannot have attachments.&quot;&#10;&#10;If the encounter deck is empty (at any time), shuffle the encounter discard pile back into the encounter deck." />
+				<property name="Text" value="You are playing Nightmare mode. &#10;&#10;All Troll enemies gain the text: &quot;Cannot have attachments.&quot;&#10;&#10;If the encounter deck is empty (at any time), shuffle the encounter discard pile back into the encounter deck." />
 				<property name="Quest Points" value="" />
 				<property name="Encounter Set" value="Journey Along the Anduin - Nightmare" />
 				<property name="Engagement Cost" value="" />

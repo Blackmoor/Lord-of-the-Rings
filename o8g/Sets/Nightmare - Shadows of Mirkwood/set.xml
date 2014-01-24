@@ -1,0 +1,1330 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Shadows of Mirkwood - Nightmare" id="e84f94bf-201b-4adf-95d2-0012e0bb5100" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.16" version="1.3">
+	<cards>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0001" name="The Hunt for Gollum">
+			<property name="Type" value="Nightmare" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Hunt for Gollum - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+			<alternate name="The Hunt for Gollum" type="B">
+				<property name="Type" value="Nightmare" />
+				<property name="Sphere" value="" />
+				<property name="Unique" value="" />
+				<property name="Keywords" value="" />
+				<property name="Setup" value="" />
+				<property name="Cost" value="" />
+				<property name="Quantity" value="1" />
+				<property name="Traits" value="" />
+				<property name="Willpower" value="" />
+				<property name="Health" value="" />
+				<property name="Attack" value="" />
+				<property name="Defense" value="" />
+				<property name="Text" value="" />
+				<property name="Quest Points" value="" />
+				<property name="Encounter Set" value="The Hunt for Gollum - Nightmare" />
+				<property name="Engagement Cost" value="" />
+				<property name="Shadow" value="" />
+				<property name="Threat" value="" />
+				<property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0003" name="The Enemy's Trail">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Hunt for Gollum - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0004" name="Restless Hunters">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="Surge." />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Hunt for Gollum - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0005" name="The Trail Goes Cold">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Hunt for Gollum - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0006" name="Ravenous Hawk">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Creature." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="3" />
+			<property name="Attack" value="3" />
+			<property name="Defense" value="3" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Hunt for Gollum - Nightmare" />
+			<property name="Engagement Cost" value="42" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="2" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0007" name="Hunting Warg">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Creature. Mordor." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="3" />
+			<property name="Attack" value="3" />
+			<property name="Defense" value="2" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Hunt for Gollum - Nightmare" />
+			<property name="Engagement Cost" value="15" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="1" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0008" name="Watched Path">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Forest. Road." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="4" />
+			<property name="Encounter Set" value="The Hunt for Gollum - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="3" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0009" name="Hunter's Lookout">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Riverland." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="6" />
+			<property name="Encounter Set" value="The Hunt for Gollum - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="2" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0010" name="Dark Pools">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Marshland." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="2" />
+			<property name="Encounter Set" value="The Hunt for Gollum - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="3" />
+			<property name="Victory Points" value="" />
+		</card>
+		
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0041" name="Conflict at the Carrock">
+			<property name="Type" value="Nightmare" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="sttttttttt" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Conflict at the Carrock - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+			<alternate name="Conflict at the Carrock" type="B">
+				<property name="Type" value="Nightmare" />
+				<property name="Sphere" value="" />
+				<property name="Unique" value="" />
+				<property name="Keywords" value="" />
+				<property name="Setup" value="" />
+				<property name="Cost" value="" />
+				<property name="Quantity" value="1" />
+				<property name="Traits" value="" />
+				<property name="Willpower" value="" />
+				<property name="Health" value="" />
+				<property name="Attack" value="" />
+				<property name="Defense" value="" />
+				<property name="Text" value="" />
+				<property name="Quest Points" value="" />
+				<property name="Encounter Set" value="Conflict at the Carrock - Nightmare" />
+				<property name="Engagement Cost" value="" />
+				<property name="Shadow" value="" />
+				<property name="Threat" value="" />
+				<property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0043" name="Grimbeorn's Folly - 3A">
+			<property name="Type" value="Quest" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Conflict at the Carrock - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+			<alternate name="Grimbeorn's Folly - 3B" type="B">
+				<property name="Type" value="Quest" />
+				<property name="Sphere" value="" />
+				<property name="Unique" value="" />
+				<property name="Keywords" value="" />
+				<property name="Setup" value="" />
+				<property name="Cost" value="" />
+				<property name="Quantity" value="1" />
+				<property name="Traits" value="" />
+				<property name="Willpower" value="" />
+				<property name="Health" value="" />
+				<property name="Attack" value="" />
+				<property name="Defense" value="" />
+				<property name="Text" value="" />
+				<property name="Quest Points" value="" />
+				<property name="Encounter Set" value="Conflict at the Carrock - Nightmare" />
+				<property name="Engagement Cost" value="" />
+				<property name="Shadow" value="" />
+				<property name="Threat" value="" />
+				<property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0045" name="Savage Hill-troll">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="4" />
+			<property name="Traits" value="Troll." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="6" />
+			<property name="Attack" value="3" />
+			<property name="Defense" value="2" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Conflict at the Carrock - Nightmare" />
+			<property name="Engagement Cost" value="21" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="1" />
+			<property name="Victory Points" value="1" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0046" name="Rob &amp; Bob">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="‰" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="Troll." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="10" />
+			<property name="Attack" value="5" />
+			<property name="Defense" value="4" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Conflict at the Carrock - Nightmare" />
+			<property name="Engagement Cost" value="34" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="4" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0047" name="Louis">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="‰" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="Troll." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="10" />
+			<property name="Attack" value="4" />
+			<property name="Defense" value="2" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Conflict at the Carrock - Nightmare" />
+			<property name="Engagement Cost" value="34" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="4" />
+			<property name="Victory Points" value="2" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0048" name="Morris">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="‰" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="Troll." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="10" />
+			<property name="Attack" value="5" />
+			<property name="Defense" value="2" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Conflict at the Carrock - Nightmare" />
+			<property name="Engagement Cost" value="34" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="3" />
+			<property name="Victory Points" value="2" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0049" name="Rupert">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="‰" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="Troll." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="10" />
+			<property name="Attack" value="5" />
+			<property name="Defense" value="3" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Conflict at the Carrock - Nightmare" />
+			<property name="Engagement Cost" value="34" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="2" />
+			<property name="Victory Points" value="2" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0050" name="Stuart">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="‰" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="Troll." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="10" />
+			<property name="Attack" value="4" />
+			<property name="Defense" value="4" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Conflict at the Carrock - Nightmare" />
+			<property name="Engagement Cost" value="34" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="2" />
+			<property name="Victory Points" value="2" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0051" name="Time for Supper">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Conflict at the Carrock - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0052" name="Troll Lair">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Forest." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="5" />
+			<property name="Encounter Set" value="Conflict at the Carrock - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="2" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0053" name="Hives and Hives">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Wilderlands." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="3" />
+			<property name="Encounter Set" value="Conflict at the Carrock - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="3" />
+			<property name="Victory Points" value="" />
+		</card>
+		
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0031" name="A Journey to Rhosgobel">
+			<property name="Type" value="Nightmare" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="sss" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+			<alternate name="A Journey to Rhosgobel" type="B">
+				<property name="Type" value="Nightmare" />
+				<property name="Sphere" value="" />
+				<property name="Unique" value="" />
+				<property name="Keywords" value="" />
+				<property name="Setup" value="" />
+				<property name="Cost" value="" />
+				<property name="Quantity" value="1" />
+				<property name="Traits" value="" />
+				<property name="Willpower" value="" />
+				<property name="Health" value="" />
+				<property name="Attack" value="" />
+				<property name="Defense" value="" />
+				<property name="Text" value="" />
+				<property name="Quest Points" value="" />
+				<property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare" />
+				<property name="Engagement Cost" value="" />
+				<property name="Shadow" value="" />
+				<property name="Threat" value="" />
+				<property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0033" name="Goblin Eagle-hunter">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Goblin. Orc." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="4" />
+			<property name="Attack" value="5" />
+			<property name="Defense" value="3" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare" />
+			<property name="Engagement Cost" value="48" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="2" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0034" name="Shot from the Sky">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="Surge." />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0035" name="Dark-wood Grove">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Forest." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="4" />
+			<property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="3" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0036" name="Noxious Supplies">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="Surge." />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0037" name="Labyrinthine Woods">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Forest." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="5" />
+			<property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="2" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0038" name="Pitch-dark Thicket">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Forest." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="2" />
+			<property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="4" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0039" name="Treetop Bird-eater">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Creature. Spider." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="5" />
+			<property name="Attack" value="4" />
+			<property name="Defense" value="3" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare" />
+			<property name="Engagement Cost" value="11" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="2" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0061" name="The Hills of Emyn Muil">
+			<property name="Type" value="Nightmare" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="ss" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+			<alternate name="The Hunt for Gollum" type="B">
+				<property name="Type" value="Nightmare" />
+				<property name="Sphere" value="" />
+				<property name="Unique" value="" />
+				<property name="Keywords" value="" />
+				<property name="Setup" value="" />
+				<property name="Cost" value="" />
+				<property name="Quantity" value="1" />
+				<property name="Traits" value="" />
+				<property name="Willpower" value="" />
+				<property name="Health" value="" />
+				<property name="Attack" value="" />
+				<property name="Defense" value="" />
+				<property name="Text" value="" />
+				<property name="Quest Points" value="" />
+				<property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare" />
+				<property name="Engagement Cost" value="" />
+				<property name="Shadow" value="" />
+				<property name="Threat" value="" />
+				<property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0063" name="Tunneling Nameless Thing">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Nameless." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="10" />
+			<property name="Attack" value="6" />
+			<property name="Defense" value="4" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare" />
+			<property name="Engagement Cost" value="50" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="4" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0064" name="Orc Interceptor">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Mordor. Orc." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="5" />
+			<property name="Attack" value="2" />
+			<property name="Defense" value="3" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare" />
+			<property name="Engagement Cost" value="39" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="2" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0065" name="Brambles and Thorns">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Emyn Muil." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="5" />
+			<property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="3" />
+			<property name="Victory Points" value="3" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0066" name="Sarn Gebir Rapids">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Emyn Muil." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="5" />
+			<property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="5" />
+			<property name="Victory Points" value="2" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0067" name="A Hurrying Darkness">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Hazard." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0068" name="Blast of Savage Wind">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="Doomed 2." />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Hazard." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0069" name="Hazardous Terrain">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="Surge. Doomed 2." />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0070" name="Retraced Steps">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="Surge." />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0071" name="The Dead Marshes">
+			<property name="Type" value="Nightmare" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="ss" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Dead Marshes - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+			<alternate name="The Dead Marshes" type="B">
+				<property name="Type" value="Nightmare" />
+				<property name="Sphere" value="" />
+				<property name="Unique" value="" />
+				<property name="Keywords" value="" />
+				<property name="Setup" value="" />
+				<property name="Cost" value="" />
+				<property name="Quantity" value="1" />
+				<property name="Traits" value="" />
+				<property name="Willpower" value="" />
+				<property name="Health" value="" />
+				<property name="Attack" value="" />
+				<property name="Defense" value="" />
+				<property name="Text" value="" />
+				<property name="Quest Points" value="" />
+				<property name="Encounter Set" value="The Dead Marshes - Nightmare" />
+				<property name="Engagement Cost" value="" />
+				<property name="Shadow" value="" />
+				<property name="Threat" value="" />
+				<property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0072" name="The Mere of Dead Faces">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="‰" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="Dead Marshes." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="-" />
+			<property name="Encounter Set" value="The Dead Marshes - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="X" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0073" name="Stagnant Quagmire">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Dead Marshes." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="5" />
+			<property name="Encounter Set" value="The Dead Marshes - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="3" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0074" name="Things in the Pools">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Undead." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="8" />
+			<property name="Attack" value="4" />
+			<property name="Defense" value="2" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Dead Marshes - Nightmare" />
+			<property name="Engagement Cost" value="50" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="3" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0075" name="Marsh-wight">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Undead. Wight." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="5" />
+			<property name="Attack" value="3" />
+			<property name="Defense" value="2" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Dead Marshes - Nightmare" />
+			<property name="Engagement Cost" value="40" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="4" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0076" name="Lost Soul of Lórien">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Spirit. Undead." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="3" />
+			<property name="Attack" value="5" />
+			<property name="Defense" value="2" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Dead Marshes - Nightmare" />
+			<property name="Engagement Cost" value="30" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="1" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0077" name="Ill-fated Guard">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Spirit. Undead." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="7" />
+			<property name="Attack" value="2" />
+			<property name="Defense" value="3" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Dead Marshes - Nightmare" />
+			<property name="Engagement Cost" value="18" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="2" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0078" name="Candles of Corpses">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="Escape." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Dead Marshes - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0079" name="Swarming Mosquitoes">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Escape." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Dead Marshes - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0080" name="Devilry of the Dark Land">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="Corruption." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="The Dead Marshes - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0081" name="Return to Mirkwood">
+			<property name="Type" value="Nightmare" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="s" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="1" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Return to Mirkwood - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+			<alternate name="Return to Mirkwood" type="B">
+				<property name="Type" value="Nightmare" />
+				<property name="Sphere" value="" />
+				<property name="Unique" value="" />
+				<property name="Keywords" value="" />
+				<property name="Setup" value="" />
+				<property name="Cost" value="" />
+				<property name="Quantity" value="1" />
+				<property name="Traits" value="" />
+				<property name="Willpower" value="" />
+				<property name="Health" value="" />
+				<property name="Attack" value="" />
+				<property name="Defense" value="" />
+				<property name="Text" value="" />
+				<property name="Quest Points" value="" />
+				<property name="Encounter Set" value="Return to Mirkwood - Nightmare" />
+				<property name="Engagement Cost" value="" />
+				<property name="Shadow" value="" />
+				<property name="Threat" value="" />
+				<property name="Victory Points" value="" />
+			</alternate>
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0082" name="Ambushing Orcs">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Mordor. Orc." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="7" />
+			<property name="Attack" value="4" />
+			<property name="Defense" value="3" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Return to Mirkwood - Nightmare" />
+			<property name="Engagement Cost" value="28" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="2" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0083" name="Pursuing Warg-rider">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="Cannot be optionally engaged." />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Goblin. Orc." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="4" />
+			<property name="Attack" value="4" />
+			<property name="Defense" value="2" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Return to Mirkwood - Nightmare" />
+			<property name="Engagement Cost" value="48" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="3" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0084" name="Web-spinner">
+			<property name="Type" value="Enemy" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Creature. Spider." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="5" />
+			<property name="Attack" value="3" />
+			<property name="Defense" value="2" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Return to Mirkwood - Nightmare" />
+			<property name="Engagement Cost" value="33" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="3" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0085" name="Deceptive Path">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Forest." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="1" />
+			<property name="Encounter Set" value="Return to Mirkwood - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="4" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0086" name="Web-wall">
+			<property name="Type" value="Location" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="3" />
+			<property name="Traits" value="Forest." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="6" />
+			<property name="Encounter Set" value="Return to Mirkwood - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="3" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0087" name="Isolation">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="Surge" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="" />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Return to Mirkwood - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0088" name="Befouled Equipment">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Tantrum." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Return to Mirkwood - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+		<card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0089" name="Wickedness and Mischief">
+			<property name="Type" value="Treachery" />
+			<property name="Sphere" value="" />
+			<property name="Unique" value="" />
+			<property name="Keywords" value="" />
+			<property name="Setup" value="" />
+			<property name="Cost" value="" />
+			<property name="Quantity" value="2" />
+			<property name="Traits" value="Tantrum." />
+			<property name="Willpower" value="" />
+			<property name="Health" value="" />
+			<property name="Attack" value="" />
+			<property name="Defense" value="" />
+			<property name="Text" value="" />
+			<property name="Quest Points" value="" />
+			<property name="Encounter Set" value="Return to Mirkwood - Nightmare" />
+			<property name="Engagement Cost" value="" />
+			<property name="Shadow" value="" />
+			<property name="Threat" value="" />
+			<property name="Victory Points" value="" />
+		</card>
+	</cards>
+</set>

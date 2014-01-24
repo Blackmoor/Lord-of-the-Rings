@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0061">The Hills of Emyn Muil</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9019">The Hills of Emyn Muil - 1A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801204c9007">Impassable Chasm</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9010">Orc Horse Thieves</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801204c9011">Rauros Falls</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9014">Rockslide</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9015">Slick Footing</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9017">The East Wall of Rohan</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9021">The North Stair</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801204c9022">The Outer Ridge</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9024">The Shores of Nen Hithoel</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9089">Dol Guldur Orcs</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9092">Driven by Shadow</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9093">The Necromancer's Reach</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9115">Eastern Crows</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9118">Treacherous Fog</card>
+    <card qty="3" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0063">Tunneling Nameless Thing</card>
+    <card qty="2" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0064">Orc Interceptor</card>
+    <card qty="3" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0065">Brambles and Thorns</card>
+    <card qty="2" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0066">Sarn Gebir Rapids</card>
+    <card qty="2" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0067">A Hurrying Darkness</card>
+    <card qty="3" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0068">Blast of Savage Wind</card>
+    <card qty="2" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0069">Hazardous Terrain</card>
+    <card qty="2" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0070">Retraced Steps</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9001">Amon Hen</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9002">Amon Lhaw</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

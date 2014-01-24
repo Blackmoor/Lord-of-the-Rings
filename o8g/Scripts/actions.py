@@ -438,7 +438,7 @@ def deckLoaded(player, groups):
 	#Check for cards with a Setup effects and move other cards back into the correct pile
 	for p in groups:
 		for card in p:
-			if card.Type == 'Quest':
+			if card.Type in [ 'Quest', 'Nightmare', 'Campaign' ]:
 				continue
 			elif card.Setup == 't':
 				addToTable(card)

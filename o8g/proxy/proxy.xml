@@ -744,7 +744,7 @@
     </matches>
     <textblocks>
 	  <link block="nightmare_name">
-	   <property name="Encounter Set" />
+	   <property name="Name" />
 	  </link>
 	  <link block="nightmare_description">
 	   <property name="Text" />

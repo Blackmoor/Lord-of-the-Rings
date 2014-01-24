@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0071">The Dead Marshes</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801205c9011">Into the Marshes - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801205c9017">The Capture - 2A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801205c9001">A Wisp of Pale Sheen</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801205c9013">Nightfall</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801205c9020">The Lights of the Dead</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801205c9021">Through the Mist</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801205c9008">Giant Marsh Worm</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801205c9010">Impassable Bog</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801205c9019">The Heart of the Marshes</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9116">Evil Storm</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9084">Marsh Adder</card>
+    <card qty="3" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0073">Stagnant Quagmire</card>
+    <card qty="3" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0074">Things in the Pools</card>
+    <card qty="2" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0075">Marsh-wight</card>
+    <card qty="3" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0076">Lost Soul of Lórien</card>
+    <card qty="3" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0077">Ill-fated Guard</card>
+    <card qty="1" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0078">Candles of Corpses</card>
+    <card qty="2" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0079">Swarming Mosquitoes</card>
+    <card qty="1" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0080">Devilry of the Dark Land</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0072">The Mere of Dead Faces</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801205c9009">Gollum</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

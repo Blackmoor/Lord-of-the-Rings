@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" shared="True">
+	<section name="Quest">
+		<card qty="1" id="b91cc63a-7fa3-46b4-b5b2-9da1663f0001">The Hunt for Gollum</card>
+		<card qty="1" id="51223bd0-ffd1-11df-a976-0801201c9022">The Hunt Begins - 1A</card>
+		<card qty="1" id="51223bd0-ffd1-11df-a976-0801201c9024">A New Terror Abroad - 2A</card>
+		<card qty="1" id="51223bd0-ffd1-11df-a976-0801201c9026">On the Trail - 3A</card>
+	</section>
+	<section name="Encounter">
+		<card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9012">Flooding</card>
+		<card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9013">Goblintown Scavengers</card>
+		<card qty="5" id="51223bd0-ffd1-11df-a976-0801201c9014">Hunters from Mordor</card>
+		<card qty="3" id="51223bd0-ffd1-11df-a976-0801201c9015">Old Wives' Tales</card>
+		<card qty="4" id="51223bd0-ffd1-11df-a976-0801201c9017">Signs of Gollum</card>
+		<card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9018">The East Bank</card>
+		<card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9019">The Eaves of Mirkwood</card>
+		<card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9020">The Old Ford</card>
+		<card qty="2" id="51223bd0-ffd1-11df-a976-0801201c9021">The West Bank</card>
+		<card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9117">Pursued by Shadow</card>
+		<card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9111">Misty Mountain Goblins</card>
+		<card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9112">Massing at Night</card>
+		<card qty="2" id="b91cc63a-7fa3-46b4-b5b2-9da1663f0003">The Enemy's Trail</card>
+		<card qty="3" id="b91cc63a-7fa3-46b4-b5b2-9da1663f0004">Restless Hunters</card>
+		<card qty="2" id="b91cc63a-7fa3-46b4-b5b2-9da1663f0005">The Trail Goes Cold</card>
+		<card qty="3" id="b91cc63a-7fa3-46b4-b5b2-9da1663f0006">Ravenous Hawk</card>
+		<card qty="2" id="b91cc63a-7fa3-46b4-b5b2-9da1663f0007">Hunting Warg</card>
+		<card qty="2" id="b91cc63a-7fa3-46b4-b5b2-9da1663f0008">Watched Path</card>
+		<card qty="2" id="b91cc63a-7fa3-46b4-b5b2-9da1663f0009">Hunter's Lookout</card>
+		<card qty="3" id="b91cc63a-7fa3-46b4-b5b2-9da1663f0010">Dark Pools</card>
+	</section>
+	<section name="Hero" />
+	<section name="Ally" />
+	<section name="Attachment" />
+	<section name="Event" />
+	<section name="Special" />
+	<section name="Setup" />
+</deck>
