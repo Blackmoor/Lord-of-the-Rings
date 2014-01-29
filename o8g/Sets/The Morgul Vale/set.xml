@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Morgul Vale" id="4dd22911-a412-4d78-b5ae-6714c3342e9d" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="1.0.0.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Morgul Vale" id="4dd22911-a412-4d78-b5ae-6714c3342e9d" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.1">
   <cards>
     <card id="29d5feef-6165-4077-bb80-692526a8a924" name="Theoden">
       <property name="Type" value="Hero" />
@@ -13,7 +13,7 @@
       <property name="Willpower" value="2" />
       <property name="Health" value="4" />
       <property name="Traits" value="Rohan. Noble. Warrior." />
-      <property name="Text" value="" />
+      <property name="Text" value="Each hero with a printed Ï resource icon gets +1 Ò." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="Sentinel." />
       <property name="Threat" value="" />
@@ -34,7 +34,7 @@
       <property name="Willpower" value="1" />
       <property name="Health" value="2" />
       <property name="Traits" value="Gondor." />
-      <property name="Text" value="" />
+      <property name="Text" value="Response: After Pelargir Ship Captain enters play, move 1 resource from the resource pool of a hero you control to another hero's resource pool." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -55,7 +55,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="Skill." />
-      <property name="Text" value="" />
+      <property name="Text" value="While attached hero has at least 1 resource in its resource pool, Gondor characters get +1 Ò." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="Attach to a Gondor hero." />
       <property name="Threat" value="" />
@@ -76,7 +76,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="Item. Weapon." />
-      <property name="Text" value="" />
+      <property name="Text" value="Attached character gets +1 Û. (+2 Û instead if attacking an enemy in the staging area.)" />
       <property name="Shadow" value="" />
       <property name="Keywords" value="Attach to a Rohan character. Restricted." />
       <property name="Threat" value="" />
@@ -97,7 +97,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="Combat Action: Each Rohan hero can be declared as an attacker against enemies in the staging area this phase." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -118,7 +118,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="Mount." />
-      <property name="Text" value="" />
+      <property name="Text" value="Response: After attached hero commits to a quest, spend 1 resource from attached hero's resource pool to ready attached hero." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="Attach to a Gondor or Rohan character." />
       <property name="Threat" value="" />
@@ -139,7 +139,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="Song." />
-      <property name="Text" value="" />
+      <property name="Text" value="Action: Choose a Ê hero. Until the end of the phase, that hero gets +1 Ò for each resource in its resource pool." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -160,7 +160,7 @@
       <property name="Willpower" value="1" />
       <property name="Health" value="2" />
       <property name="Traits" value="Dwarf." />
-      <property name="Text" value="" />
+      <property name="Text" value="Response: After Ered Nimrais Prospector enters play, discard the top 3 cards of your deck. Then, choose and shuffle 1 card from your discard pile back into your deck." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -181,7 +181,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="Record." />
-      <property name="Text" value="" />
+      <property name="Text" value="Reduce the cost to play Scroll of Isildur by 1 for each hero you control with a printed resource Î icon.&#10;&#10;Action: Discard Scroll of Isildur to play any Î event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="Attach to a Î hero." />
       <property name="Threat" value="" />
@@ -202,7 +202,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="Response: After Hidden Cache is discarded from your deck, add 2 resources to the resource pool of a hero you control.&#10;&#10;Action: Action: Spend 1 resource to draw 1 card." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -224,7 +224,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="Setup: Set aside Lord Alcaron, Nazgûl of Minas Morgul, and The White Bridge. Add To the Tower, Murzag, and 1 copy of Morgul Vale to the staging area." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -244,7 +244,7 @@
         <property name="Willpower" value="" />
         <property name="Health" value="" />
         <property name="Traits" value="" />
-        <property name="Text" value="" />
+        <property name="Text" value="Murzag cannot leave play unless destroyed. If Murzag is defeated, advance to the next stage." />
         <property name="Shadow" value="" />
         <property name="Keywords" value="" />
         <property name="Threat" value="" />
@@ -266,7 +266,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="When Revealed: Add Lord Alcaron to the staging area." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -286,7 +286,7 @@
         <property name="Willpower" value="" />
         <property name="Health" value="" />
         <property name="Traits" value="" />
-        <property name="Text" value="" />
+        <property name="Text" value="Lord Alcaron cannot leave play unless destroyed. If Lord Alcaron is defeated, advance to the next stage." />
         <property name="Shadow" value="" />
         <property name="Keywords" value="" />
         <property name="Threat" value="" />
@@ -308,7 +308,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="When Revealed: Add Nazgûl of Minas Morgul and The White Bridge to the staging area." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -328,7 +328,7 @@
         <property name="Willpower" value="" />
         <property name="Health" value="" />
         <property name="Traits" value="" />
-        <property name="Text" value="" />
+        <property name="Text" value="When Revealed: Reveal 1 card per player from the encounter deck and add it to the staging area.&#10;&#10;Nazgûl of Minas Morgul cannot leave play unless destroyed.&#10;&#10;If Nazgûl of Minas Morgul is defeated, the players have won the game." />
         <property name="Shadow" value="" />
         <property name="Keywords" value="" />
         <property name="Threat" value="" />
@@ -349,7 +349,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="Captured." />
-      <property name="Text" value="" />
+      <property name="Text" value="To the Tower cannot leave the staging area.&#10;&#10;Remove Faramir from the game.&#10;&#10;If 10 or more progress tokens are on To the Tower, the players have lost the game." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -370,8 +370,8 @@
       <property name="Willpower" value="" />
       <property name="Health" value="6" />
       <property name="Traits" value="Mordor." />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Text" value="Any damage that would be dealt to a Captain is dealt to 1 Morgul Bodyguard instead." />
+      <property name="Shadow" value="Shadow: Attacking enemy engages the next player and makes an immediate attack, if able." />
       <property name="Keywords" value="" />
       <property name="Threat" value="1" />
       <property name="Quest Points" value="" />
@@ -391,8 +391,8 @@
       <property name="Willpower" value="" />
       <property name="Health" value="3" />
       <property name="Traits" value="Mordor." />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Text" value="Forced: After any number of progress tokens are placed on To the Tower, deal Morgul Sorcerer a shadow card." />
+      <property name="Shadow" value="Shadow: Defending player must place 1 progress token on To the Tower or treat this attack as undefended." />
       <property name="Keywords" value="" />
       <property name="Threat" value="1" />
       <property name="Quest Points" value="" />
@@ -412,8 +412,8 @@
       <property name="Willpower" value="" />
       <property name="Health" value="3" />
       <property name="Traits" value="Orc. Mordor." />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Text" value="Forced: When Morgul Tracker is optionally engaged, place 1 progress token on To the Tower." />
+      <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If undefended, place 1 progress token on To the Tower as well." />
       <property name="Keywords" value="Surge." />
       <property name="Threat" value="4" />
       <property name="Quest Points" value="" />
@@ -433,7 +433,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="7" />
       <property name="Traits" value="Orc. Uruk. Captain." />
-      <property name="Text" value="" />
+      <property name="Text" value="Forced: After Murzag attacks, reveal the top card of the encounter deck. If that card is an enemy, put it into play engaged with the defending player." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="2" />
@@ -454,7 +454,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="5" />
       <property name="Traits" value="Gondor. Traitor. Captain." />
-      <property name="Text" value="" />
+      <property name="Text" value="Forced: When Lord Alcaron attacks, place 1 progress token on To the Tower.&#10;&#10;Forced: When Lord Alcaron is dealt a shadow card with no shadow effect, he makes an additional attack after this one (deal and resolve another shadow card)." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="3" />
@@ -475,7 +475,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="5" />
       <property name="Traits" value="Nazgûl. Captain." />
-      <property name="Text" value="" />
+      <property name="Text" value="Nazgûl of Minas Morgul cannot have attachments.&#10;&#10;Reduce any amount of damage dealt to Nazgûl of Minas Morgul to 1." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="4" />
@@ -496,8 +496,8 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="Road." />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Text" value="Response: After Morgul Road leaves play as an explored location, the first player may remove 1 progress token from To the Tower or deal 1 damage to an enemy in play." />
+      <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack." />
       <property name="Keywords" value="" />
       <property name="Threat" value="2" />
       <property name="Quest Points" value="5" />
@@ -517,8 +517,8 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="Valley." />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Text" value="Forced: At the end of the round, each player returns 1 enemy engaged with him to the staging area." />
+      <property name="Shadow" value="Shadow: If this attack destroys a character, place 1 progress token on To the Tower." />
       <property name="Keywords" value="" />
       <property name="Threat" value="3" />
       <property name="Quest Points" value="3" />
@@ -538,7 +538,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="Bridge." />
-      <property name="Text" value="" />
+      <property name="Text" value="X is the number of progress tokens on To the Tower." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="X" />
@@ -559,7 +559,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="When Revealed: The first player places 3 progress tokens on To the Tower or reveals X additional cards from the encounter deck and adds them to the staging area. X is the number of players in the game." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -580,8 +580,8 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Text" value="When Revealed: Each player must discard 3 random cards from his hand or place 1 progress token on To the Tower." />
+      <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack." />
       <property name="Keywords" value="Doomed 2" />
       <property name="Threat" value="" />
       <property name="Quest Points" value="" />
@@ -601,8 +601,8 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Text" value="When Revealed: Place 1 progress token on To the Tower." />
+      <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each progress token on To the Tower." />
       <property name="Keywords" value="Surge." />
       <property name="Threat" value="" />
       <property name="Quest Points" value="" />
@@ -622,8 +622,8 @@
       <property name="Willpower" value="" />
       <property name="Health" value="" />
       <property name="Traits" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Text" value="When Revealed: Raise each player's threat by the number of progress tokens on To the Tower. If there are no progress tokens on To the Tower, The Dead City Looms gains surge." />
+      <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each progress token on To the Tower." />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
       <property name="Quest Points" value="" />

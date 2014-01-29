@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Stone of Erech" id="4f22640f-ac14-4af3-8d94-c37adbb39703" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.1.4" version="1.0.0.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Stone of Erech" id="4f22640f-ac14-4af3-8d94-c37adbb39703" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.1.4" version="2.0.0.1">
   <cards>
     <card id="14f7c98c-b425-4fac-850a-729d8fcdaa0c" name="Banks of Morthond">
       <property name="Type" value="Location" />
@@ -15,8 +15,8 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Text" value="While Banks of Morthond is the active location, each location in the staging area gets -1 $" />
+      <property name="Shadow" value="Shadow: If this attack destroys a character, add 1 progress to the current Night objective." />
       <property name="Keywords" value="" />
       <property name="Threat" value="2" />
       <property name="Quest Points" value="7" />
@@ -36,8 +36,8 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Text" value="Forced: When Blackroot Graves is explored, return the topmost Undead enemy in the encounter discard pile to play, engaged with the first player." />
+      <property name="Shadow" value="Shadow: If defending character has 0 Ò, deal 2 damage to that character." />
       <property name="Keywords" value="" />
       <property name="Threat" value="4" />
       <property name="Quest Points" value="1" />
@@ -57,7 +57,7 @@
       <property name="Defense" value="1" />
       <property name="Willpower" value="3" />
       <property name="Health" value="2" />
-      <property name="Text" value="" />
+      <property name="Text" value="Forced: After the players travel to The Stone of Erech, the first player gains control of Derufin.&#xA;&#xA;Dusk. Derufin gets -1 Ò.&#xA;&#xA;Midnight. Derufin gets -2 Ò.&#xA;&#xA;If Derufin leaves play, the players lose the game." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -78,7 +78,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="When Revealed: The first player attaches Driven by Fear to a hero he controls. Counts as a Condition attachment with the text: &quot;Attached character's Ò is reduced to 0. Treat attached character's text box as if it was blank (except for Traits.)&quot;" />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -99,7 +99,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="Forced: At the end of the round, place 1 progress on Dusk.&#xA;&#xA;If there are 4 or more progress on Dusk, add it to the victory display and put Midnight into play." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -120,7 +120,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="Forced: At the end of the round, place 1 progress on Eventide.&#xA;&#xA;If there are 4 or more progress on Eventide, add it to the victory display and put Dusk into play." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -141,7 +141,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="When Revealed: The first player must choose: skip the next travel phase, or each player must pass his hand to the player on his left (discard your hand instead if you are the only player in the game).&#xA;&#xA;Midnight. Groping Horror gains surge." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -162,7 +162,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="While this location is in the staging area, all ready heroes lose all Î, Ì, Ê, and Ï icons.&#xA;&#xA;Planning Action: Exhaust a hero. Any player may trigger this action." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="2" />
@@ -183,7 +183,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="Forced: At the end of the round, place 1 progress on Midnight. Then, raise each player's threat by the number of progress on Midnight." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -204,8 +204,8 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Text" value="When Revealed: Starting with the first player, each player must search the encounter deck and discard pile for an Undead enemy, reveal it, and add it to the staging area. Shuffle the encounter deck.&#xA;&#xA;Midnight. This effect cannot be canceled." />
+      <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (Dusk. +2 Û instead. Midnight. +3 Û instead)" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
       <property name="Quest Points" value="" />
@@ -225,8 +225,8 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Text" value="When Revealed: All character get -1 Ò until the end of the round." />
+      <property name="Shadow" value="Shadow: Dusk/Midnight. Attacking enemy makes an additional attack after this one.&#xA;Midnight. This effect cannot be canceled." />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
       <property name="Quest Points" value="" />
@@ -247,7 +247,7 @@
       <property name="Willpower" value="" />
       <property name="Health" value="3" />
       <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Shadow" value="Shadow: Deal attacking enemy 1 additional shadow card (Dusk. 2 additional cards instead. Midnight. 3 additional cards instead)." />
       <property name="Keywords" value="Spectral. Surge." />
       <property name="Threat" value="1" />
       <property name="Quest Points" value="" />
@@ -267,7 +267,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="Midnight. Action: Claim this objective and attach it to a hero you control. Counts as an Artifact attachment with the text: &quot;When attached hero attacks an Oathbreaker, that enemy loses the Spectral keyword until the end of the phase.&quot;" />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -288,7 +288,7 @@
       <property name="Defense" value="0" />
       <property name="Willpower" value="" />
       <property name="Health" value="2" />
-      <property name="Text" value="" />
+      <property name="Text" value="When Revealed: Return the topmost Undead enemy in the encounter discard pile to the staging area." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="Spectral." />
       <property name="Threat" value="2" />
@@ -309,7 +309,7 @@
       <property name="Defense" value="1" />
       <property name="Willpower" value="" />
       <property name="Health" value="6" />
-      <property name="Text" value="" />
+      <property name="Text" value="Dusk. Shadow Host Captain gets +1 Û and +1 Ú.&#xA;&#xA;Midnight. Shadow Host Captain gains +2 Û and +2 Ú." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="Spectral." />
       <property name="Threat" value="3" />
@@ -330,8 +330,8 @@
       <property name="Defense" value="1" />
       <property name="Willpower" value="" />
       <property name="Health" value="5" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
+      <property name="Text" value="When Revealed: Players cannot play events until the end of the round." />
+      <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (Dusk. +2 Û instead. Midnight. +3 Û instead)" />
       <property name="Keywords" value="Spectral." />
       <property name="Threat" value="2" />
       <property name="Quest Points" value="" />
@@ -351,7 +351,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="Dusk. Shadow of Dwimorberg gets +2 $.&#xA;&#xA;Midnight. Shadow of Dwimorberg gets +4 $." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="1" />
@@ -372,7 +372,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="While Tarlang's Neck is the active location, it gains, &quot;Forced: At the beginning of the encounter phase, the players must either immediately end the encounter phase, or the first player must engage all enemies in the staging area.&quot;" />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="3" />
@@ -393,7 +393,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="When Revealed: Add The Stone of Erech to the staging area and attach Derufin to it." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -413,7 +413,7 @@
         <property name="Willpower" value="" />
         <property name="Health" value="" />
         <property name="Traits" value="" />
-        <property name="Text" value="" />
+        <property name="Text" value="Forced: At the beginning of each round, the players must choose: each player skips the next planning phase, or heroes do not collect resources during the resource phase this round." />
         <property name="Shadow" value="" />
         <property name="Keywords" value="" />
         <property name="Threat" value="" />
@@ -435,7 +435,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="When Revealed: Deal 1 damage to each character with less than 2 Ò (Dusk. less than 3 Ò instead. Midnight. less than 4 Ò instead)." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -456,7 +456,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="Setup: Make Tarlang's Neck the active location. Set Derufin, The Lord of the Dead, The Stone of Erech, and the 3 Night objectives aside, out of play. Shuffle the encounter deck. Place Eventide into play, next to the current quest." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -476,7 +476,7 @@
         <property name="Willpower" value="" />
         <property name="Health" value="" />
         <property name="Traits" value="" />
-        <property name="Text" value="" />
+        <property name="Text" value="When Revealed: Reveal 1 encounter card per player, adding them to the staging area.&#xA;&#xA;Players cannot defeat this stage while Tarlang's Neck is in play." />
         <property name="Shadow" value="" />
         <property name="Keywords" value="" />
         <property name="Threat" value="" />
@@ -498,7 +498,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="When Revealed: Add 1 progress to the current Night objective." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="Surge" />
       <property name="Threat" value="" />
@@ -519,7 +519,7 @@
       <property name="Defense" value="3" />
       <property name="Willpower" value="" />
       <property name="Health" value="9" />
-      <property name="Text" value="" />
+      <property name="Text" value="While you are engaged with The Lord of the Dead, treat all printed text boxes on characters you control as if they were blank (except for Traits)." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="Spectral. Cannot have attachments." />
       <property name="Threat" value="5" />
@@ -540,7 +540,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="When Revealed: Starting with the first player, each player searches the encounter deck and discard pile for 1 Oathbreaker enemy, reveals it, and adds it to the staging area. Add the Lord of the Dead to the staging area. Shuffle the encounter deck." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
@@ -560,7 +560,7 @@
         <property name="Willpower" value="" />
         <property name="Health" value="" />
         <property name="Traits" value="" />
-        <property name="Text" value="" />
+        <property name="Text" value="Players cannot place progress on this stage unless they control Derufin.&#xA;&#xA;If the players defeat this stage, they have escaped the Blackroot Vale with Derufin and won the game." />
         <property name="Shadow" value="" />
         <property name="Keywords" value="Midnight. Battle (Characters use their Û instead of Ò when questing)." />
         <property name="Threat" value="" />
@@ -582,7 +582,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="While The Stone of Erech is the active location, characters with less than 2 Ò cannot ready.&#xA;&#xA;Travel: Exhaust each character with less than 2 Ò." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="Immune to player card effects. X is twice the number of players in the game." />
       <property name="Threat" value="X" />
@@ -603,7 +603,7 @@
       <property name="Defense" value="" />
       <property name="Willpower" value="" />
       <property name="Health" value="" />
-      <property name="Text" value="" />
+      <property name="Text" value="When Revealed: Make Vale of Shadows the active location. If another location is currently active, return it to the staging area.&#xA;&#xA;Dusk. Vale of Shadows gets +2 quest points.&#xA;&#xA;Midnight. Vale of Shadows gets +4 quest points." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="1" />
@@ -624,7 +624,7 @@
       <property name="Defense" value="2" />
       <property name="Willpower" value="" />
       <property name="Health" value="4" />
-      <property name="Text" value="" />
+      <property name="Text" value="Dusk. Whisperer gets +1 $.&#xA;&#xA;Midnight. Whisperer gets +2 $ and gains doomed 2." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="Spectral." />
       <property name="Threat" value="2" />
