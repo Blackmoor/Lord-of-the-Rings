@@ -345,12 +345,6 @@ def getFirstPlayerID():
 	
 def setFirstPlayer(id):
 	setGlobalVariable("firstPlayer", str(id))
-	p = getPlayer(id)
-	if p is not None:
-		token = getFirstPlayerToken()
-		if token is not None:	
-			token.setController(p)
-	update()
 	
 #activeSet - set to 1 when active player has been set this round	
 def setActiveSet(p):
@@ -835,7 +829,7 @@ def addEncounter(group=None, x=0, y=0):
 def addEncounterSpecial(group=None, x=0, y=0):
 	nextEncounter(specialDeck(), x, y, False)
 
-def addToStagingArea(card, facedown=False):
+def addToStagingArea(card, facedown=False, who=me):
 	#Check to see if there is already an encounter card here.
 	#If so shuffle it left to make room
 	ex = StagingStart + StagingWidth - card.width()
@@ -846,13 +840,13 @@ def addToStagingArea(card, facedown=False):
 		move = cardHere(ex, ey)
 	card.moveToTable(ex, ey, facedown)			
 	layoutStage(card)
-	notify("{} adds '{}' to the staging area.".format(me, card))
+	notify("{} adds '{}' to the staging area.".format(who, card))
 	
 def nextEncounter(group, x, y, facedown, who=me):
 	mute()
 
-	if encounterDeck().controller != me:
-		remoteCall(encounterDeck().controller, "nextEncounter", [group, x, y, facedown, me])
+	if group.controller != me:
+		remoteCall(group.controller, "nextEncounter", [group, x, y, facedown, me])
 		return
 		
 	if len(group) == 0:
@@ -862,12 +856,12 @@ def nextEncounter(group, x, y, facedown, who=me):
 		
 	clearTargets()
 	card = group.top()
-	card.setController(who)
 	if x == 0 and y == 0:  #Move to default position in the staging area
-		addToStagingArea(card, facedown)		
+		addToStagingArea(card, facedown, who)		
 	else:
 		card.moveToTable(x-card.width()/2, y-card.height()/2, facedown)
 		notify("{} places '{}' on the table.".format(who, card))
+	card.setController(who)
 	if len(group) == 0:
 		resetEncounterDeck(group)
 	
@@ -1021,15 +1015,17 @@ def doNextRound(group):
 	debug("New first player will be {}".format(first))
 	
 	if shared.counters['Round'].value > 0 and me.isActivePlayer:
-		setActiveSet(first)			
-	setFirstPlayer(playerID(first))				
+		setActiveSet(first)						
 	if len(getPlayers()) > 1: #Put the first player token onto the table
 		x, y = firstHero(first).position
 		c = moveFirstPlayerToken(x, y+Spacing)
 		c.markers[Turn] = shared.counters['Round'].value + 1
+		c.setController(first)
+	setFirstPlayer(playerID(first))	
 	shared.counters['Round'].value += 1
 	shared.counters['Phase'].value = 1
 	shared.counters['Step'].value = 1
+
 	clearReady()
 	clearActiveSet()
 	if not phaseManagement():
