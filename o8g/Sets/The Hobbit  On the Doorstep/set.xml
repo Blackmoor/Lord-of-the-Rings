@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Hobbit: On the Doorstep" id="1490fecb-d07e-48e0-96fe-46260fa17f19" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Hobbit: On the Doorstep" id="1490fecb-d07e-48e0-96fe-46260fa17f19" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.1.0">
   <cards>
     <card id="bf2cb5a8-2ec6-4366-89f6-7e3010686a85" name="Balin">
       <property name="Type" value="Hero" />
@@ -194,7 +194,7 @@
       <property name="Type" value="Attachment" />
       <property name="Sphere" value="Lore" />
       <property name="Unique" value="" />
-      <property name="Keywords" value="Attach to a hero." />
+      <property name="Keywords" value="Attach to a hero. Limit 1 per hero." />
       <property name="Setup" value="" />
       <property name="Cost" value="0" />
       <property name="Quantity" value="3" />

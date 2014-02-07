@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Long Dark" id="51223bd0-ffd1-11df-a976-0801211c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Long Dark" id="51223bd0-ffd1-11df-a976-0801211c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.1.0">
   <cards>
     <card id="51223bd0-ffd1-11df-a976-0801211c9001" name="Abandoned Mine">
       <property name="Type" value="Location" />
@@ -140,7 +140,7 @@
       <property name="Defense" value="1" />
       <property name="Willpower" value="0" />
       <property name="Health" value="2" />
-      <property name="Text" value="Erebor Battle Master gets +1 Û for each other Dwarf character you control." />
+      <property name="Text" value="Erebor Battle Master gets +1 Û for each other Dwarf ally you control." />
       <property name="Shadow" value="" />
       <property name="Keywords" value="" />
       <property name="Threat" value="" />
