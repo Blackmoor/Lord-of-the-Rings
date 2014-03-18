@@ -1446,6 +1446,37 @@ def drawMany(group, count = None):
 		c.moveTo(me.hand)
 		notify("{} draws '{}'".format(me, c))
  
+def search(group, count = None):
+	mute()
+	if len(group) == 0: return
+	if count is None:
+		count = askInteger("Search how many cards?", 1)
+	if count is None or count <= 0:
+		whisper("search: invalid card count")
+		return
+		
+	notify("{} searches top {} cards".format(me, count))	
+	moved = 0
+	for c in group.top(count):
+		c.moveTo(me.piles['Discard Pile'])
+		moved += 1
+	me.piles['Discard Pile'].lookAt(moved)
+	
+def moveMany(group, count = None):
+	if len(group) == 0: return
+	mute()
+	if count is None:
+		count = askInteger("Move how many cards to secondary deck?", 1)
+		if count is None or count <= 0: return
+	
+	moved = 0
+	pile = me.piles['Secondary Deck']
+	for c in group.top(count):
+		c.moveTo(pile)
+		moved += 1
+	notify("{} moves {} cards to the secondary deck".format(me, moved))
+	if pile.collapsed:
+		pile.collapsed = False
 
 def discardMany(group, count = None):
 	if len(group) == 0: return

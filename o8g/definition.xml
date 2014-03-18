@@ -4,7 +4,7 @@
 		name="Lord of the Rings - The Card Game"
 		id="a21af4e8-be4b-4cda-a6b6-534f9717391f" 
 		octgnVersion="3.1.12.79"
-		version="2.3.3.0"
+		version="2.3.4.1"
 		markersize="16"
 		tags="LotR LCG cooperative"
 		description="A cooperative card game that puts 1-4 players in control of the most powerful characters and artifacts of Middle-earth.&#10;&#10;Players will select heroes, gather allies, acquire artifacts, and coordinate their efforts to face Middle-earth’s most dangerous fiends. By cooperating to overcome the obstacles drawn from the encounter deck, you will complete the quest before you and claim victory!"
@@ -117,6 +117,7 @@
       <groupaction menu="Draw" default="True" shortcut="ctrl+D" execute="draw" />
       <groupaction menu="Draw Many" default="False" shortcut="ctrl+shift+D" execute="drawMany" />
       <groupaction menu="Discard Many" default="False" execute="discardMany" />
+	  <groupaction menu="Move Many" default="False" execute="moveMany" />
       <groupaction menu="Lock / Unlock Deck" default="False" execute="toggleLock" />
     </group>
     <group name="Discard Pile" visibility="all" ordered="True" width="63" height="88" icon="groups/discard.png" collapsed="False">
@@ -125,6 +126,7 @@
 	<group name="Secondary Deck" visibility="none" ordered="True" width="63" height="88" icon="groups/player2.png" collapsed="True">
       <groupaction menu="Shuffle" default="False" execute="shuffle" />
 	  <groupaction menu="Draw" default="True" execute="draw" />
+	  <groupaction menu="Search X" default="False" execute="search" />
 	  <groupaction menu="Toggle Debug" default="False" execute="toggleDebug" />
     </group>
   </player>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="0e0b125c-ffed-4473-9a64-7d709b16cca5">Orders From Orthanc</card>
+    <card qty="1" id="8472068c-fdd7-4197-8046-b9da12c29135">Searching for Mugash</card>
+    <card qty="1" id="c71fa40c-524e-43ec-b058-7ea239fdfd1d">The Wizard's Prize</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="cd883a3f-65b8-473e-97f7-b8ac12f91194">Methedras Orc</card>
+    <card qty="4" id="05a0e539-e140-4dfc-a151-21cd8aaef094">Methedras</card>
+    <card qty="3" id="de212258-f124-4cda-baab-4f696c2b5766">Orc Cave</card>
+    <card qty="2" id="8dad9a85-eae9-4a39-a823-1c58d8c0f86b">Mugash's Lair</card>
+    <card qty="3" id="ded946a7-99f0-42bf-92f6-a2c46ca64d98">Orc Skirmisher</card>
+    <card qty="1" id="a835576b-6a6c-4407-8f40-0151b70f5902">Orc Hunter</card>
+    <card qty="1" id="119cfabc-2cbf-4ffd-a25e-00ec140b8f26">Orc Hound</card>
+    <card qty="2" id="bc041e0b-dd7f-4b82-8eb0-d155b1b08398">Orc Hunting Party</card>
+    <card qty="3" id="7c463bf7-9a1a-4d8a-879b-f966f19d0695">Prowling Wolf</card>
+    <card qty="3" id="838eebac-81db-4f00-aaba-024d70a1582d">Broken Lands</card>
+    <card qty="2" id="8f3395ff-bccf-4620-beec-581c585682f2">Take Cover!</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="6b8ca34a-1f6f-4eed-841c-a5d0db80619a">Mugash</card>
+    <card qty="3" id="7d55e738-cc23-4e78-9a88-2a25fa4f3ca4">Mugash's Guard</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

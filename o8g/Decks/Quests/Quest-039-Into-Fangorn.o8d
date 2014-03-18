@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Hero" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="99bdb330-27f2-4534-a355-0bb9f1682a8d">Into Fangorn</card>
+    <card qty="1" id="c7e3bde9-8348-41d6-8272-aa733f60a108">Escape From Fangorn</card>
+    <card qty="1" id="d8c6d8df-9856-4fad-ba85-a96d17b67cfd">The Angry Forest</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="c319315a-e506-45a2-8ec0-c98e4bd9bad5">Ancient Forest</card>
+    <card qty="3" id="be6cf29d-bb8b-494a-9635-85ee9322a690">Tangled Woods</card>
+    <card qty="3" id="6fe8d036-9b7a-4ca4-bab4-272d2a6a8949">Turned Around</card>
+    <card qty="4" id="eccef05c-0f43-4cfa-91c6-e9eaf0eff7c9">Dark-Hearted Huorn</card>
+    <card qty="3" id="25ae9bce-b4c0-4ff8-aeb3-d0b57d3914d2">Angry Huorn</card>
+    <card qty="3" id="cd628acc-acdf-48c5-a9cc-136eb9bc3095">Deadly Huorn</card>
+    <card qty="3" id="c3907d39-6fd7-4b33-8fe2-215fd9f90be2">Heart of Fangorn</card>
+    <card qty="4" id="3bc03452-6c37-45e2-9241-e626ea51f382">The Forest's Malice</card>
+    <card qty="3" id="5f18c4ca-fcda-46d2-874b-3a1a73ef7c53">Low on Provisions</card>
+    <card qty="2" id="7fc629f3-3115-47df-b997-4a5026d97d2b">Off Track</card>
+    <card qty="2" id="3a8869dc-077e-4b8c-b3d5-474e4f9c14ba">In Need of Rest</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="16b71211-85c1-4ad4-8879-831bc7b50ac4">Mugash</card>
+    <card qty="1" id="20c5f7b7-cfc4-44e1-aaf5-0010ceb9a1b9">Edge of Fangorn</card>
+  </section>
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>
