@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9017">Bilbo Baggins</card>
+  </section>
+  <section name="Quest" shared="True">
+    <card qty="1" id="a0a4d2cf-ed07-4942-9588-8fca05f75bbf">Dungeons Deep and Caverns Dim</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9066">Out of the Frying Pan - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9069">Riddles in the Dark - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9052">Into the Fire - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9023">Come down little bird</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9046">Great Gray Wolf</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9049">Hiding in the Trees</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9054">It Likes Riddles?</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9082">The Wargs' Glade</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9090">What's In My Pocket?</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-1801204c9091">Wild Wargs</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9040">Goblin Driver</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9042">Goblin Runners</card>
+    <card qty="3" id="b0caeaa6-2c96-4d92-9cca-7cb55387d8c0">Wicked Wolf</card>
+    <card qty="3" id="a25d1abc-f24e-4ce7-bf14-cb5adb007a4d">Lower Gate Sentries</card>
+    <card qty="3" id="15e5feb5-73f4-4472-b279-1887ff29f691">Pine Slopes</card>
+    <card qty="3" id="536fa3c6-a078-4e79-b316-70cdc826e5d7">Fallen Stones</card>
+    <card qty="3" id="f631b06f-1f0c-45aa-b5af-c4f9b9a41455">Where isss It?</card>
+    <card qty="3" id="fb951af8-2bc7-4529-8e16-ca85a362aac1">We Hates It!</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9056">Lake in the Cavern</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9044">Gollum</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9018">Bilbo's Magic Ring</card>
+    <card qty="1" id="94c35d99-945d-470d-9914-331e480c8cce">The Lower Gate</card>
+  </section>
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

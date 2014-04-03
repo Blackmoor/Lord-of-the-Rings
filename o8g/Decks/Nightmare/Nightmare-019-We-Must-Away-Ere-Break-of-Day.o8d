@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Hero" shared="False">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9017">Bilbo Baggins</card>
+  </section>
+  <section name="Quest" shared="True">
+    <card qty="1" id="1c31e98f-1c81-4d10-b434-3b4e66c49f3c">We Must Away, Ere Break of Day</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9013">An Unexpected Party - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9072">Roast Mutton - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9025">Dawn Take You All - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9051">Hungry Troll</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9059">Lots or None at All</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9071">Roast 'Em or Boil 'Em?</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-1801204c9086">Troll Camp</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9088">Troll Key</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9089">Troll Purse</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9021">Cave Entrance</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9030">Dreary Hills</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9058">Lone-Lands</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9060">More Like a Grocer</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9061">No Campfire</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-1801204c9093">Wind-whipped Rain</card>
+    <card qty="3" id="4f73ca81-67c1-44db-a7ca-63a762748fc4">A Murder of Crows</card>
+    <card qty="3" id="0071049b-ca5b-4083-b955-a74da4aad5f1">Red River-bank</card>
+    <card qty="3" id="f036c797-cede-404b-8cc3-d975a9f86ebc">Wicked Hilltops</card>
+    <card qty="3" id="f4f20186-79fb-4d53-9431-ecd719fd152b">Comfortable Light</card>
+    <card qty="3" id="aebb2c2f-859e-4f08-9017-1fcc4a4cc528">Mince Them Fine</card>
+    <card qty="2" id="1d23916d-4e14-4b1f-ab4b-02a231870465">Night Wanes Slow</card>
+    <card qty="2" id="5c4fb1ac-a989-463d-a622-367882c56d4e">One by One</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9001">A Deep Sack</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9002">A Foul Sack</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9003">A Large Sack</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9007">A Smelly Sack</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9008">A Strong Sack</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9010">A Tough Sack</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9012">A Worn Sack</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9085">Tom</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9016">Bert</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9092">William</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-1801204c9087">Troll Cave</card>
+  </section>
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>
