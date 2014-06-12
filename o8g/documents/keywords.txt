@@ -43,6 +43,9 @@ Secrecy lowers the cost to play the card by the specified value, provided the th
 Seige
 If a quest card has the battle keyword, when characters are committed to that quest, they count their total defense strength instead of their total Willpower when resolving the quest.
 
+Sentinel
+A character with the sentinel keyword can be declared by its controller as a defender during enemy attacks that are made against other players.
+
 Spectral
 When characters attack an enemy with the Spectral keyword, they must use their Willpower instead of their Attack to determine their attack strength.
 Effects that deal direct damage will still effect an enemy with the Spectral keyword.
