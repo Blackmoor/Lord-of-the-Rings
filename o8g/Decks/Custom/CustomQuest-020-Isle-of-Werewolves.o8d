@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="c794640f-5ecb-4ba2-a414-374ccc8d466f">Upon the Bridge</card>
+    <card qty="1" id="62abfd48-b415-402f-bcd8-df92ae5a1b27">The Pits of Sauron</card>
+    <card qty="1" id="4016a752-46bf-4574-9c14-a51e4835bc0b">Tol-in-Gaurhoth</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="47fafb31-e329-4fc6-aa95-93a9ffb3dc8e">Song of Wizardry</card>
+    <card qty="2" id="4bcbe3a9-c908-46f8-b5b0-a459564067fa">Weight of Horror</card>
+    <card qty="2" id="5f59b83c-45bc-4625-9ff9-160019cb9ae2">Lord of Werewolves</card>
+    <card qty="2" id="48540efb-e1d0-4453-a50e-c5cbb80fc176">Master of Shadows</card>
+    <card qty="2" id="ec67d8da-eac3-461b-ab76-e7eea78542a4">No Living Creature</card>
+    <card qty="2" id="9f27803d-8a57-4512-914c-9a9435e947b6">Foul Vapour</card>
+    <card qty="2" id="020cc51d-16d3-4c81-9223-8e19874ead9d">Deep Pit</card>
+    <card qty="2" id="a9e19cb1-947a-49f4-a1b9-afbd9ce3da09">Gates of Tol-in-Gaurhoth</card>
+    <card qty="3" id="eb292959-22e1-4e25-ae41-b2ad77549962">Walls of Stone</card>
+    <card qty="1" id="0951f775-17ab-465f-9776-7495f45fa3b0">High Tower</card>
+    <card qty="2" id="655a251a-c839-4d93-a455-4cb7ac94f57a">Dark Hills</card>
+    <card qty="2" id="db13208a-926b-4037-bda4-aa5461efd0f3">Vacant Pit</card>
+    <card qty="2" id="111d8917-7733-41a8-8941-b24698ed17e4">Eyes in the Dark</card>
+    <card qty="1" id="829081e4-0ffa-41ea-9bb4-cb6d64aa06cc">Finrod Felagund</card>
+    <card qty="4" id="9e13b25d-2797-42be-812a-3af05738318e">Ravenous Werewolf</card>
+    <card qty="1" id="29d1487e-e223-4569-96ba-ac53a251eaba">Thuringwethil</card>
+    <card qty="2" id="cb6a1b6a-3f57-4184-90cb-7d46d0173457">Monstruous Bat</card>
+    <card qty="3" id="282c7b69-c8c3-454f-ac9d-3d99175dd6c2">Guard Wolf</card>
+    <card qty="4" id="7e54d64b-8b77-467c-b482-352cd9f9d9ef">Hunting Wolf</card>
+    <card qty="3" id="eb8ca983-1634-4be3-a327-e2c881a9490a">Crazed Thrall</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="86c20ae9-1c32-4ea5-aacc-ac8e470fbb10">Bridge to the Isle</card>
+    <card qty="1" id="fe9fb08b-52e3-4bc1-b55d-d5994fbab19c">Draugluin</card>
+    <card qty="1" id="86f818f2-aad7-4a8f-9bc8-c06ef4fae756">Wolf-Sauron</card>
+    <card qty="1" id="bcbde72b-55fa-487e-a3ff-9547c34d7e5e">Devouring Werewolf</card>
+    <card qty="1" id="f03bc416-e4cd-4bda-944c-51a33a55b1d0">Isle of Werewolves rules</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

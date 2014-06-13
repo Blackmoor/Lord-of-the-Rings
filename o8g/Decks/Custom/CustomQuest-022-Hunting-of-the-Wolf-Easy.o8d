@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="1187c127-c5ef-45fa-962f-ff3d54ac7fe9">Ride Forth in the Morning</card>
+    <card qty="1" id="e0d350d5-742f-4924-863a-4db922a71a8a">At Last Upon the Wolf</card>
+    <card qty="1" id="444d39bf-aee8-488e-ad06-ee36445e5ec4">Ruin Upon the World</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="a89e2f4f-67fd-41e8-aae4-2635b066784c">Dimbar Field</card>
+    <card qty="3" id="f477641e-650d-4025-9abb-a5ef12bd9663">Neldoreth Settlement</card>
+    <card qty="3" id="2c2b1c05-919a-43a3-bccb-828d09d4a1f2">Eaves of Region</card>
+    <card qty="2" id="20e151a1-5ed2-49c7-9d6c-f8fa7cea829d">Banks of the Esgalduin</card>
+    <card qty="1" id="36475989-914f-4190-a619-6bc032c19034">Iant Iaur</card>
+    <card qty="2" id="e24b29f1-50ac-4c3d-a844-a5d75298f1c7">Dark Valley</card>
+    <card qty="3" id="59f3a810-fc7e-4aa3-bbc6-2d66dc489909">A Doom Fulfilled</card>
+    <card qty="3" id="62db2179-f1a9-4447-957e-9ca03f503cc5">Fled in Fear</card>
+    <card qty="2" id="9a0d9373-9886-4f4a-848e-969d612b5212">Stood Now in Wrath</card>
+    <card qty="3" id="170846a1-d160-43fd-b56d-83bcb97c661a">Flame of Anguish</card>
+    <card qty="1" id="c851ed2b-b69b-4f99-94cd-62c078e3d260">Espied from Afar</card>
+    <card qty="3" id="3cd659f1-0aa4-4466-a654-f9a4bd4ecc6a">Evil Days</card>
+    <card qty="3" id="e6eb53ee-ae0c-4cec-b221-10fbe03b6d91">Brethil Dwelling</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="3" id="b2fb8e22-c2c4-4cab-be7a-2fb1f30916bc">Carcharoth the Red Maw</card>
+    <card qty="3" id="0577b869-c00d-47dd-bb49-95e0b08022ec">Carcaroth the Wolf of Angband</card>
+    <card qty="3" id="63ab237a-2da9-41a1-977a-9a64cd17cb74">Carcharoth the Devouring Spirit</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="da73fa42-76b3-4ca0-8d93-339a6c503691">Gates of Menegroth</card>
+    <card qty="1" id="1b1b1030-6a1c-43dc-94d3-85a2515e4e81">Carcharoth the Tormented</card>
+    <card qty="1" id="db41eb04-4428-4b6f-8a7f-358cb4507a74">Hunting of the Wolf rules</card>
+    <card qty="1" id="cad9261a-140a-4aaf-82d3-07229e9f1fce">Beleg Strongbow</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

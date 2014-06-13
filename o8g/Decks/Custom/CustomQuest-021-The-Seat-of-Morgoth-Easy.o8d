@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="5d55e464-f59d-454f-971c-a35f1376a420">Doors of Angband</card>
+    <card qty="1" id="53d6dc87-a084-4220-ad38-a39e655f1d44">Descent into Darkness</card>
+    <card qty="1" id="7272499a-1047-4431-82d8-83e88e7de3e5">The Greatest Deed</card>
+    <card qty="1" id="8432e9fc-ecb8-4948-a6dd-d75dad26e42e">To See the Light</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="e1a095dc-996f-4b3c-b17a-a20bc10f8953">Fire-drake</card>
+    <card qty="1" id="28ae9d78-15e7-4fbe-b156-e9ead6a37886">Gothmog</card>
+    <card qty="3" id="ad8cf095-594e-4d14-adef-aafa4f31e60c">Troll of Angband</card>
+    <card qty="2" id="08a9cee0-543b-4251-a085-2cb869140cd4">Orc Captain</card>
+    <card qty="3" id="c020347f-a024-48f6-97de-8a9e73003739">Angband Orc</card>
+    <card qty="2" id="4f26696d-0dc1-4e1e-883d-5ee7789c6339">Long-worm</card>
+    <card qty="2" id="074cb89d-4815-49d8-aa9b-07abd3c5331a">Filth and Desolation</card>
+    <card qty="2" id="47564431-f77f-4389-879f-491e580d1704">Subterranean Furnace</card>
+    <card qty="3" id="d4263007-1ce9-4437-92a8-e6031cff3b09">Labyrinthine Stairs</card>
+    <card qty="2" id="fb3baa06-68d4-40c8-8154-97c1ee0f156b">Trackless Cavern</card>
+    <card qty="2" id="692fd26f-06c5-4375-ba1c-ed7cf26df1d9">Orc Armory</card>
+    <card qty="3" id="715771dc-35aa-477e-a28f-e0d9e2954b54">Foolish Ruckus</card>
+    <card qty="1" id="083af9c9-b1b3-4185-b09b-59eff4440f10">Heroic Diversion</card>
+    <card qty="2" id="11916b96-fe83-4a57-985d-4fb1746d4cfc">Devouring Spirit</card>
+    <card qty="3" id="d17ece37-4951-4dbf-a5b9-0b07092e8c5f">Clumsy Step</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="ad033513-3b27-4410-9171-5e890667fa15">Carcharoth</card>
+    <card qty="1" id="f01c44ef-3494-48b4-abe7-f4d5213a3216">Morgoth</card>
+    <card qty="1" id="85a7618b-8f0c-4ba2-8489-00aa65c9610c">Thrall Quarters</card>
+    <card qty="1" id="8b38140d-9a06-4155-8bb3-f803ff353520">Silmaril</card>
+    <card qty="1" id="0921abfd-2cd7-493f-878b-ad4cb99e010c">Angband Sword</card>
+    <card qty="1" id="c74ed070-15f4-4f80-bbe9-ce678a9cb935">Tunnels of Shadow</card>
+    <card qty="1" id="d6362581-bf1a-4e9f-9059-9ef492ed157f">Pits of Angband</card>
+    <card qty="1" id="32bd3aaa-a8bb-4258-9b17-28beeeb3430b">Nethermost Hall</card>
+    <card qty="1" id="78db9650-a652-4a3d-bff4-1423cbfb83e2">Dreadful Garments</card>
+    <card qty="1" id="d2d61431-56a0-4aa4-8900-d9ba9aec4703">Element of Surprise</card>
+    <card qty="1" id="1ad0b223-e659-4358-bf3e-fbc687cba2aa">Seat of Morgoth rules</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>
