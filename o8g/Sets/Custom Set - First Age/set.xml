@@ -435,7 +435,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Hound." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="Action: Huan gets +5 Û until the end of the phase. At the end of the phase in which you trigger this effect, discard Huan.&#10;&#10;Action: Attach Huan to Beren or Lúthien. (Counts as a Mount attachment with the text: &quot;While attached hero is committed to the quest, deal 2 damage to each enemy revealed during staging.&quot;" />
+			<property name="Text" value="Action: Huan gets +5 Û until the end of the phase. At the end of the phase in which you trigger this effect, discard Huan. (Limit once per round.)&#10;&#10;Action: Attach Huan to Beren or Lúthien. (Counts as a Mount attachment with the text: &quot;While attached hero is committed to the quest, deal 2 damage to each enemy revealed during staging.&quot;" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="First Age" />
 			<property name="Victory Points" value="" />
@@ -561,7 +561,7 @@
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Half-elven." />
 			<property name="Keywords" value="" />
-			<property name="Text" value="While Eärendil is in play, Elwing gains: &quot;Response: After Elwing is destroyed, you may immediately put her back into play for 1 Ê resource.&quot;" />
+			<property name="Text" value="While Eärendil is in play, Elwing gains: &quot;Response: After Elwing is destroyed, you may immediately put her back into play for 1 Ê resource. (Limit once per round.)&quot;" />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="First Age" />
 			<property name="Victory Points" value="" />
@@ -959,7 +959,7 @@
 			<property name="Health" value="" />
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Condition." />
-			<property name="Keywords" value="" />
+			<property name="Keywords" value="Limit 1 per hero." />
 			<property name="Text" value="Setup: Attach to a hero. This hero must be the only hero you control.&#10;&#10;Attached hero gets +2 Ò, +2 Û, +2 Ú, +2 hit points and does not exhaust to quest." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="First Age" />
@@ -2597,7 +2597,7 @@
 			<property name="Health" value="10" />
 			<property name="Quest Points" value="" />
 			<property name="Traits" value="Creature. Werewolf." />
-			<property name="Keywords" value="Immune to player card effects." />
+			<property name="Keywords" value="Immune to player card effects. Cannot leave the pit area." />
 			<property name="Text" value="Forced: Characters destroyed by Devouring Werewolf are removed from the game." />
 			<property name="Shadow" value="" />
 			<property name="Encounter Set" value="The Isle of Werewolves" />
