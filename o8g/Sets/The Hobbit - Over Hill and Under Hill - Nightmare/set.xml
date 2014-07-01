@@ -3,10 +3,12 @@
  <cards>
   <card id="1c31e98f-1c81-4d10-b434-3b4e66c49f3c" name="We Must Away, Ere Break of Day">
     <property name="Type" value="Nightmare"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day - Nightmare"/>
     <property name="Quantity" value="1"/>
     <property name="Setup" value="tttt"/>
     <alternate name="We Must Away, Ere Break of Day" type="B">
+      <property name="Text" value="You are playing Nightmare mode. &#10;&#10;The objective cards Troll Key and Troll Purse gain surge."/>
     </alternate>
   </card>
   <card id="4f73ca81-67c1-44db-a7ca-63a762748fc4" name="A Murder of Crows">
@@ -17,6 +19,7 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="When Revealed: Reveal a random card from the encounter discard pile and add it to the staging area, if able.&#10;&#10;Forced: If A Murder of Crows would be destroyed, shuffle it back into the encounter deck instead."/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day - Nightmare"/>
     <property name="Quantity" value="3"/>
   </card>
@@ -24,6 +27,7 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Western Lands. Riverland."/>
     <property name="Threat" value="2"/>
+    <property name="Text" value="Forced: At the beginning of the refresh phase, place the top card of the encounter discard pile on the bottom of the encounter deck and raise each player's threat by that card's $."/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day - Nightmare"/>
     <property name="Quantity" value="3"/>
   </card>
@@ -31,6 +35,8 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Western Lands. Hills."/>
     <property name="Threat" value="3"/>
+    <property name="Text" value="Forced: After placing 1 or more progress tokens on Wicked Hilltops, each player must discard an ally he controls without an attached Sack card."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +2 Û. (+3 Û instead if attacking enemy is a Troll.)"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day - Nightmare"/>
     <property name="Quantity" value="3"/>
   </card>
@@ -38,26 +44,32 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Trollshaws."/>
     <property name="Threat" value="5"/>
+    <property name="Text" value="Progress cannot be placed here.&#10;&#10;Travel: Sack 1&#10;&#10;Forced: After Comfortable Light becomes the active location, discard it."/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day - Nightmare"/>
     <property name="Quantity" value="3"/>
   </card>
   <card id="aebb2c2f-859e-4f08-9017-1fcc4a4cc528" name="Mince Them Fine">
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each engaged Troll enemy makes an immediate attack. If the players are at stage 1, immediately advance to stage 2A."/>
+    <property name="Shadow" value="Shadow: If attacking enemy is a Troll, return it to the staging area after this attack."/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day - Nightmare"/>
     <property name="Quantity" value="3"/>
   </card>
   <card id="1d23916d-4e14-4b1f-ab4b-02a231870465" name="Night Wanes Slow">
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="Forced: When this card is discarded from the top of the encounter deck as a result of a quest card effect, immediately stop making progress and end the quest phase.&#10;&#10;When Revealed: Shuffle the encounter discard pile into the encounter deck. Reveal 1 additional encounter card."/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day - Nightmare"/>
     <property name="Quantity" value="2"/>
   </card>
   <card id="5c4fb1ac-a989-463d-a622-367882c56d4e" name="One by One">
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Choose and destroy a character with a Sack card attached. Then, return that Sack card to the top of the Sack deck and Sack 1."/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day - Nightmare"/>
     <property name="Quantity" value="2"/>
   </card>
   <card id="d70f1956-fa20-4237-8a75-ab7678ed9840" name="Over the Misty Mountains Grim">
     <property name="Type" value="Nightmare"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Encounter Set" value="Over the Misty Mountains Grim - Nightmare"/>
     <property name="Quantity" value="1"/>
     <property name="Setup" value="s"/>
@@ -66,6 +78,8 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Mountain."/>
     <property name="Threat" value="4"/>
+    <property name="Text" value="While Narrow Ledge is the active location, each player cannot commit more than 3 characters to the quest."/>
+    <property name="Shadow" value="Shadow: Shuffle all copies of Galloping Boulders from the encounter discard pile into the encounter deck."/>
     <property name="Encounter Set" value="Over the Misty Mountains Grim - Nightmare"/>
     <property name="Quantity" value="3"/>
   </card>
@@ -73,11 +87,13 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Mountain."/>
     <property name="Threat" value="3"/>
+    <property name="Text" value="Action: Exhaust Bilbo Baggins and spend 1 Í resource to place 5 progress on Dim Valley.&#10;&#10;Forced: At the end of the round, each player must discard a random card from his hand."/>
     <property name="Encounter Set" value="Over the Misty Mountains Grim - Nightmare"/>
     <property name="Quantity" value="4"/>
   </card>
   <card id="364ef18d-2a93-4ea9-a2f6-799a4e1b7617" name="Lightning Splinters">
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each player must choose and discard 3 cards from his hand. Each player assigns X damage among characters he controls, where X is the combined printed cost of the cards he discarded."/>
     <property name="Encounter Set" value="Over the Misty Mountains Grim - Nightmare"/>
     <property name="Quantity" value="2"/>
   </card>
@@ -90,6 +106,7 @@
     <property name="Attack" value="6"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="11"/>
+    <property name="Text" value="Progress cannot be placed on the current quest.&#10;&#10;Forced: When The Great Goblin attacks, discard the top card of the encounter deck. If it is a Goblin enemy, put it into play engaged with the defending player and deal it a shadow card."/>
     <property name="Encounter Set" value="The Great Goblin - Nightmare"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="3"/>
@@ -102,6 +119,7 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Goblin Prowler gets -30 engagement cost if The Great Goblin is in the victory display.&#10;&#10;Forced: When Goblin Prowler engages you, discard a character you control."/>
     <property name="Encounter Set" value="The Great Goblin - Nightmare"/>
     <property name="Quantity" value="4"/>
   </card>
@@ -109,19 +127,24 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Cave."/>
     <property name="Threat" value="4"/>
+    <property name="Text" value="When Revealed: Choose a location in the staging area with a title other than Dark Passages and make it the active location. (If there was already an active location, there are now 2 active locations.)&#10;&#10;Travel: Raise each player's threat by X to travel here, where X is the number of Cave locations in the staging area."/>
     <property name="Encounter Set" value="The Great Goblin - Nightmare"/>
     <property name="Quantity" value="3"/>
   </card>
   <card id="7d3ef70c-4107-4747-9913-048224ba6e76" name="Swish, smack! Whip crack!">
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each player must assign damage among characters he controls equal to the total number of Goblin enemies engaged with him and in the staging area."/>
+    <property name="Shadow" value="Shadow: Attacking enemy cannot take damage this round."/>
     <property name="Encounter Set" value="The Great Goblin - Nightmare"/>
   </card>
   <card id="a0a4d2cf-ed07-4942-9588-8fca05f75bbf" name="Dungeons Deep and Caverns Dim">
     <property name="Type" value="Nightmare"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim - Nightmare"/>
     <property name="Quantity" value="1"/>
     <property name="Setup" value="stt"/>
     <alternate name="Dungeons Deep and Caverns Dim" type="B">
+      <property name="Text" value="You are playing Nightmare mode. &#10;&#10;Gollum cannot take damage.&#10;&#10;Setup: Search the encounter deck for The Lower Gate and set it aside, out of play.&#10;&#10;Forced: When stage 3B is revealed, add The Lower Gate to the staging area."/>
     </alternate>
   </card>
   <card id="94c35d99-945d-470d-9914-331e480c8cce" name="The Lower Gate">
@@ -129,6 +152,7 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Mountain."/>
     <property name="Threat" value="4"/>
+    <property name="Text" value="No more than 4 progress can be placed on the current quest each round.&#10;&#10;Creature enemies get +1 Û.&#10;&#10;Goblin enemies get +1 Ú."/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim - Nightmare"/>
     <property name="Quantity" value="1"/>
   </card>
@@ -140,6 +164,8 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Forced: If Wicked Wolf is dealt a shadow card with a riddle, the defending player must exhaust a character he controls."/>
+    <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack."/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim - Nightmare"/>
     <property name="Quantity" value="3"/>
   </card>
@@ -147,6 +173,8 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="3"/>
+    <property name="Text" value="Forced: Each time a Í resource is spent or discarded, raise each player's threat by 1."/>
+    <property name="Shadow" value="Shadow: Deal attacking enemy 2 additional shadow cards for this attack."/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim - Nightmare"/>
     <property name="Quantity" value="3"/>
   </card>
@@ -158,6 +186,8 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Bilbo's Magic Ring does not ready during the refresh phase."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. (+3 Û instead if Bilbo's Magic Ring is exhausted.)"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim - Nightmare"/>
     <property name="Quantity" value="3"/>
   </card>
@@ -165,16 +195,19 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Mountain."/>
     <property name="Threat" value="4"/>
+    <property name="Text" value="Travel: Deal 3 damage to each ready character. The first player may spend up to 3 Í resources to reduce the damage dealt to each character by 1 for each Í resource spent.&#10;&#10;Riddle: The first player names a card title, shuffles his deck, and discards the top 5 cards. For each card that matches, place 1 progress on stage 2."/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim - Nightmare"/>
     <property name="Quantity" value="3"/>
   </card>
   <card id="f631b06f-1f0c-45aa-b5af-c4f9b9a41455" name="Where isss It?">
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Discard 2 resources from Bilbo Baggins's resource pool, or Gollum makes an attack against Bilbo Baggins.&#10;&#10;Riddle: The first player names a sphere, a cost, and a card type, shuffles his deck, and discards the top 3 cards. For each card that matches all three items, place 1 progress on stage 2."/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim - Nightmare"/>
     <property name="Quantity" value="3"/>
   </card>
   <card id="fb951af8-2bc7-4529-8e16-ca85a362aac1" name="We Hates It!">
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Attach We Hates It! to Gollum. (Counts as a Condition attachment with the text: &quot;If the players are on stage 3, Gollum gets +2 Û.&quot;)&#10;&#10;Riddle: THe first player names a Trait, shuffles his deck, and discards the top card. For each card that has at least 1 matching Trait, place 1 progress on stage 2."/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim - Nightmare"/>
     <property name="Quantity" value="3"/>
   </card>
