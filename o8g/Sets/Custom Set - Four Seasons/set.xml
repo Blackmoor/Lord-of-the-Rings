@@ -1,152 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - Four Seasons" id="b0d63521-04f7-49fa-a028-84b7efa7bd33" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
-  <cards>
-    <card id="481eb8da-3657-486a-89d3-f27333d9d74c" name="Anarchy">
-      <property name="Type" value="Location" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Traits" value="Enchanted Grove" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="X equals the number of heroes with a Ì resource icon&#xA;&#xA;Travel: Each players must discard 1 character to travel here.&#xA;&#xA;Forced: While this is the active location you may not activate action or response effects on Ì cards nor may you play Ì cards." />
-      <property name="Quest Points" value="6" />
-      <property name="Encounter Set" value="Four Seasons" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="X" />
-      <property name="Victory Points" value="2" />
-      <property name="Setup" value="" />
-    </card>
-    <card id="67c6566a-50e2-41f8-90d6-0bd11a6e1b2b" name="Foolishness">
-      <property name="Type" value="Location" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Traits" value="Enchanted Grove" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="X equals the number of heroes with a Ï resource icon&#xA;&#xA;Travel: Deal 1 damage to each character to travel here.&#xA;&#xA;Forced: While this is the active location you may not activate action or response effects on Ï cards nor may you play Ï cards." />
-      <property name="Quest Points" value="6" />
-      <property name="Encounter Set" value="Four Seasons" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="X" />
-      <property name="Victory Points" value="2" />
-      <property name="Setup" value="" />
-    </card>
-    <card id="219710c5-5420-4a2c-8974-293e0f8de32b" name="Ignorance">
-      <property name="Type" value="Location" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Traits" value="Enchanted Grove" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="X equals the number of heroes with a Î resource icon&#xA;&#xA;Travel: Each players must discard 3 cards to travel here.&#xA;&#xA;Forced: While this is the active location you may not activate action or response effects on Î cards nor may you play Î cards." />
-      <property name="Quest Points" value="6" />
-      <property name="Encounter Set" value="Four Seasons" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="X" />
-      <property name="Victory Points" value="2" />
-      <property name="Setup" value="" />
-    </card>
-    <card id="5ea747b0-1f9a-4d5b-92c0-8d6fcd7b1f43" name="Repose">
-      <property name="Type" value="Location" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Traits" value="Enchanted Grove" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="X equals the number of heroes with a Ê resource icon&#xA;&#xA;Travel: The first player must exhaust a hero to travel here. Skip the refresh phase at the end of this round.&#xA;&#xA;Forced: While this is the active location you may not activate action or response effects on Ê cards nor may you play Ê cards." />
-      <property name="Quest Points" value="6" />
-      <property name="Encounter Set" value="Four Seasons" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="X" />
-      <property name="Victory Points" value="2" />
-      <property name="Setup" value="" />
-    </card>
-    <card id="c527de7f-f40d-4792-978d-5811aa55757b" name="Incatasi">
-      <property name="Type" value="Enemy" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Keywords" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Traits" value="Wyrm" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="9" />
-      <property name="Attack" value="X" />
-      <property name="Defense" value="5" />
-      <property name="Text" value="X equals the number of attachments in play.&#xA;Forced: If the first player controls 3 or more attachments Incatasi will always engage then irrespective of threat.&#xA;Forced: At the start of combat, the player engaged with Incatasi must discard an attachment on a character they control. If they can't they may not declare a defender for Incatasi this round.&#xA;Forced: During the refresh step return Incatasi to the staging area if the player engaged with Incatasi controls no attachments." />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="Four Seasons" />
-      <property name="Engagement Cost" value="44" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="X" />
-      <property name="Victory Points" value="4" />
-      <property name="Setup" value="" />
-    </card>
-    <card id="32861eab-7f7e-4f92-8c7b-f79c472a0754" name="In One Day - 1A">
-      <property name="Type" value="Quest" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Traits" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="Setup: Remove Wilyador and Rhosgobel from the deck. Put the 4 Enchanted Groves and Incatasi into the staging area." />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="Four Seasons" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-      <property name="Victory Points" value="" />
-      <property name="Setup" value="sssss" />
-      <alternate name="In One Day - 1B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Sphere" value="" />
-        <property name="Unique" value="" />
-        <property name="Keywords" value="" />
-        <property name="Cost" value="" />
-        <property name="Quantity" value="1" />
-        <property name="Traits" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Text" value="Forced: Progress tokens may not be placed on Enchanted Grove locations in the staging area nor may they be placed on this quest unless each player controls a hero with Athelas attached.&#xA;Forced: If a card targets Wilyador, the first player chooses a hero to be the target of that card instead.&#xA;&#xA;You cannot complete this quest until you have 4 Enchanted Groves in your victory display. When you complete this quest you wake up and have won." />
-        <property name="Quest Points" value="12" />
-        <property name="Encounter Set" value="Four Seasons" />
-        <property name="Engagement Cost" value="" />
-        <property name="Shadow" value="" />
-        <property name="Threat" value="" />
-        <property name="Victory Points" value="" />
-        <property name="Setup" value="" />
-      </alternate>
-    </card>
-  </cards>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - Four Seasons" id="b0d63521-04f7-49fa-a028-84b7efa7bd33" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
+ <cards>
+  <card id="c527de7f-f40d-4792-978d-5811aa55757b" name="Incatasi">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Wyrm"/>
+    <property name="Engagement Cost" value="44"/>
+    <property name="Threat" value="X"/>
+    <property name="Attack" value="X"/>
+    <property name="Defense" value="5"/>
+    <property name="Health" value="9"/>
+    <property name="Text" value="X equals the number of attachments in play.&#10;Forced: If the first player controls 3 or more attachments Incatasi will always engage then irrespective of threat.&#10;Forced: At the start of combat, the player engaged with Incatasi must discard an attachment on a character they control. If they can't they may not declare a defender for Incatasi this round.&#10;Forced: During the refresh step return Incatasi to the staging area if the player engaged with Incatasi controls no attachments."/>
+    <property name="Encounter Set" value="Four Seasons"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="4"/>
+  </card>
+  <card id="481eb8da-3657-486a-89d3-f27333d9d74c" name="Anarchy">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Enchanted Grove"/>
+    <property name="Threat" value="X"/>
+    <property name="Text" value="X equals the number of heroes with a Ì resource icon&#10;&#10;Travel: Each players must discard 1 character to travel here.&#10;&#10;Forced: While this is the active location you may not activate action or response effects on Ì cards nor may you play Ì cards."/>
+    <property name="Encounter Set" value="Four Seasons"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="2"/>
+  </card>
+  <card id="67c6566a-50e2-41f8-90d6-0bd11a6e1b2b" name="Foolishness">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Enchanted Grove"/>
+    <property name="Threat" value="X"/>
+    <property name="Text" value="X equals the number of heroes with a Ï resource icon&#10;&#10;Travel: Deal 1 damage to each character to travel here.&#10;&#10;Forced: While this is the active location you may not activate action or response effects on Ï cards nor may you play Ï cards."/>
+    <property name="Encounter Set" value="Four Seasons"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="2"/>
+  </card>
+  <card id="219710c5-5420-4a2c-8974-293e0f8de32b" name="Ignorance">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Enchanted Grove"/>
+    <property name="Threat" value="X"/>
+    <property name="Text" value="X equals the number of heroes with a Î resource icon&#10;&#10;Travel: Each players must discard 3 cards to travel here.&#10;&#10;Forced: While this is the active location you may not activate action or response effects on Î cards nor may you play Î cards."/>
+    <property name="Encounter Set" value="Four Seasons"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="2"/>
+  </card>
+  <card id="5ea747b0-1f9a-4d5b-92c0-8d6fcd7b1f43" name="Repose">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Enchanted Grove"/>
+    <property name="Threat" value="X"/>
+    <property name="Text" value="X equals the number of heroes with a Ê resource icon&#10;&#10;Travel: The first player must exhaust a hero to travel here. Skip the refresh phase at the end of this round.&#10;&#10;Forced: While this is the active location you may not activate action or response effects on Ê cards nor may you play Ê cards."/>
+    <property name="Encounter Set" value="Four Seasons"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="2"/>
+  </card>
+  <card id="32861eab-7f7e-4f92-8c7b-f79c472a0754" name="In One Day - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Remove Wilyador and Rhosgobel from the deck. Put the 4 Enchanted Groves and Incatasi into the staging area."/>
+    <property name="Encounter Set" value="Four Seasons"/>
+    <property name="Quantity" value="1"/>
+    <property name="Setup" value="sssss"/>
+    <alternate name="In One Day - 1B" type="B">
+      <property name="Quest Points" value="12"/>
+      <property name="Text" value="Forced: Progress tokens may not be placed on Enchanted Grove locations in the staging area nor may they be placed on this quest unless each player controls a hero with Athelas attached.&#10;Forced: If a card targets Wilyador, the first player chooses a hero to be the target of that card instead.&#10;&#10;You cannot complete this quest until you have 4 Enchanted Groves in your victory display. When you complete this quest you wake up and have won."/>
+    </alternate>
+  </card>
+ </cards>
 </set>

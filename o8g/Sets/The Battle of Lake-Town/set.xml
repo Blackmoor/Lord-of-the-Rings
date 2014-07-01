@@ -1,572 +1,240 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Battle of Lake-Town" id="51223bd0-ffd1-11df-a976-1801203c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.1.0.0">
-  <cards>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9001" name="Catching Fire">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="When Revealed: Choose and shuffle 1 Pier location from the victory display back into the encounter deck. If no location was shuffled into the encounter deck by this effect, Catching Fire gains surge" />
-      <property name="Shadow" value="Shadow: Defending character gets -2 Ú" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9002" name="Close to the Flame">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="When Revealed: Deal 1 damage to each character in play" />
-      <property name="Shadow" value="Shadow: Deal 1 damage to each character in play. Any player may discard a hero to cancel this effect" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9003" name="Dire Magnificence">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="When Revealed: Each player must choose and discard 1 ally he controls if able. Deal 2 damage to Lake-town for each player that cannot." />
-      <property name="Shadow" value="Shadow: If this attack destroys a character, Smaug engages the next player and makes an immediate attack against that player." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9004" name="East Pier">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Lake-town. Pier." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="'When Revealed' effects cannot be canceled" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Burn 1." />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="2" />
-      <property name="Victory Points" value="2" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9005" name="Esgaroth Wharf">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Lake-town." />
-      <property name="Quantity" value="4" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="All locations are immune to player card effects." />
-      <property name="Shadow" value="Shadow: attacking enemy gets +2 Û. Then it make an additional attack after this one." />
-      <property name="Keywords" value="Burn 1." />
-      <property name="Threat" value="3" />
-      <property name="Quest Points" value="4" />
-      <property name="Victory Points" value="4" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9006" name="Fire and Water - 2A">
-      <property name="Type" value="Quest" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-      <alternate name="Fire and Water - 2B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Encounter Set" value="The Battle of Lake-Town" />
-        <property name="Quantity" value="1" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="Smaug cannot have more than 12 damage on him.&#xA;&#xA;When the players quest successfully and number of progress tokens that would be placed on this quest may instead be discarded to remove the same number of damage from Lake-town." />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="" />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="10" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9008" name="Fisherman's Dock">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Lake-town." />
-      <property name="Quantity" value="4" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Travel: If there is 1 active location exhaust a hero to travel here (There are now 2 active locations)" />
-      <property name="Shadow" value="Shadow: Add this location to the staging area." />
-      <property name="Keywords" value="Burn 1." />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="2" />
-      <property name="Victory Points" value="2" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9009" name="Great Bridge">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Lake-town." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: Discard X cards from each player's deck. X is the ammount of damage on Lake-town. (If no cards are discarded by this effect, Great Bridge gains surge.)" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Burn 2." />
-      <property name="Threat" value="3" />
-      <property name="Quest Points" value="4" />
-      <property name="Victory Points" value="4" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9010" name="Great House">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Lake-town." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: Resolve all burn damage from all locations in play." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Burn 3." />
-      <property name="Threat" value="6" />
-      <property name="Quest Points" value="6" />
-      <property name="Victory Points" value="6" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9011" name="Lake-town">
-      <property name="Type" value="Objective" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="City." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="If Lake-town has 50 or more damage on it, Lake-town has completely burned and the players have lost the game." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9012" name="Merchant's District">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Lake-town." />
-      <property name="Quantity" value="4" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Travel Action: Deal 2 damage per player to Lake-town to add this location to the victory display." />
-      <property name="Shadow" value="Shadow: Deal 1 damage to Lake-town (4 damage instead if undefended.)" />
-      <property name="Keywords" value="Burn 1." />
-      <property name="Threat" value="4" />
-      <property name="Quest Points" value="3" />
-      <property name="Victory Points" value="3" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9013" name="North Pier">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Lake-town. Pier." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Smaug cannot be damaged." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Burn 2." />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="2" />
-      <property name="Victory Points" value="2" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9014" name="Reckless in His Rage">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="When Revealed: If Smaug is in play, he gets +2 $, +2 Û, -2 Ú and gains the text: 'Allies cannot be declared as defenders'. This effect lasts until the end of the round" />
-      <property name="Shadow" value="Shadow: If this attack destroys a character, resolve all burn damage on locations in play." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9015" name="Scorching Blast">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="When Revealed: Resolve all burn damage from all locations in play." />
-      <property name="Shadow" value="Shadow: Resolve this card's 'When Revealed' effect. Any player may discard a hero to cancell this effect." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9016" name="Smaug the Magnificent">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Dragon." />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="Special" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="30" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="8" />
-      <property name="Defense" value="8" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="20" />
-      <property name="Text" value="Excess damage from attacks by Smaug the Magnificent must be assigned to Lake-town.&#xA;&#xA;When Revealed: Move 3 damage from Smaug the Magnificent to Lake-town." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Immune to player card effects." />
-      <property name="Threat" value="5" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9017" name="Smaug the Mighty">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Dragon." />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="Special" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="40" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="5" />
-      <property name="Defense" value="9" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="20" />
-      <property name="Text" value="When Revealed: Smaug the Mighty makes an immediate attack against each player (deal and resolve a shodow card for each attack)." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Immune to plater card effects." />
-      <property name="Threat" value="7" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9018" name="Smaug the Terrible">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Dragon." />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="Special" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="35" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="7" />
-      <property name="Defense" value="7" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="20" />
-      <property name="Text" value="When Revealed: Resolve all burn damage from all locations in play" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Immune to player card effects." />
-      <property name="Threat" value="6" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9019" name="South Pier">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Lake-town. Pier." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When faced with the option to travel, players cannot travel to other locations." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Burn 2." />
-      <property name="Threat" value="1" />
-      <property name="Quest Points" value="4" />
-      <property name="Victory Points" value="4" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9020" name="Terror from the Mountain - 1A">
-      <property name="Type" value="Quest" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="s" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Setup: Shuffle all copies of Smaug into a separate Smaug Deck. Search the encounter deck for Lake-town and add it to the staging area. Shuffle the encounter deck. Then reveal 1 card from the encounter deck per player, and add it to the staging area." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-      <alternate name="Terror from the Mountain - 1B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Encounter Set" value="The Battle of Lake-Town" />
-        <property name="Quantity" value="1" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="Smaug cannot have more than 6 damage on him.&#xA;&#xA;When Revealed: Deal 1 damage to Lake-town for each player in the game." />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="" />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="14" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9022" name="The Dragon's Wrath - 3A">
-      <property name="Type" value="Quest" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-      <alternate name="The Dragon's Wrath - 3B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Encounter Set" value="The Battle of Lake-Town" />
-        <property name="Quantity" value="1" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="Forced: During the quest phase, reveal 1 additional card from the encounter deck&#xA;&#xA;Refresh Action: Reset the quest deck to stage 2B.&#xA;&#xA;The players must defeat Smaug to defeat this stage. When Smaug is defeated, compare the number of damage tokens on Lake-town with the number of victory points in the victory display. If the players have more victory points, they have won the game. Otherwise, Lake-town has burned and the players have lost." />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="" />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="-" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9024" name="The Master's Manor">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Lake-town." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: Move all damage from Smaug to Lake-town" />
-      <property name="Shadow" value="Shadow: If this attack destroys a character, defending player discards his hand." />
-      <property name="Keywords" value="Burn 3." />
-      <property name="Threat" value="4" />
-      <property name="Quest Points" value="8" />
-      <property name="Victory Points" value="8" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9025" name="The Old Thrush">
-      <property name="Type" value="Objective" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Creature." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Action: Exhaust a hero to claim this objective and attach it to that hero when it is free of encounters. (Counts as an attachment with the text:&#xA;'If detached discard The Old Thrush&#xA;Response: After attached hero exhausts to attack Smaug, discard X cards from hand to reduce Smaug's Ú by X.')" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Guarded." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9026" name="Town-Baiting">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="When Revealed: Smaug make an attack against Lake-town. The last player may declare a defender against this attack. Excess damage from this attack must be placed on Lake-town. This effect cannot be canceled." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-1801203c9027" name="West Pier">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Battle of Lake-Town" />
-      <property name="Traits" value="Lake-town. Pier." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Each location in play gains Burn 1." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="2" />
-      <property name="Victory Points" value="2" />
-    </card>
-  </cards>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Battle of Lake-Town" id="51223bd0-ffd1-11df-a976-1801203c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
+ <cards>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9020" name="Terror from the Mountain - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Shuffle all copies of Smaug into a separate Smaug Deck. Search the encounter deck for Lake-town and add it to the staging area. Shuffle the encounter deck. Then reveal 1 card from the encounter deck per player, and add it to the staging area."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="1"/>
+    <property name="Setup" value="s"/>
+    <alternate name="Terror from the Mountain - 1B" type="B">
+      <property name="Quest Points" value="14"/>
+      <property name="Text" value="Smaug cannot have more than 6 damage on him.&#10;&#10;When Revealed: Deal 1 damage to Lake-town for each player in the game."/>
+    </alternate>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9006" name="Fire and Water - 2A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Fire and Water - 2B" type="B">
+      <property name="Quest Points" value="10"/>
+      <property name="Text" value="Smaug cannot have more than 12 damage on him.&#10;&#10;When the players quest successfully and number of progress tokens that would be placed on this quest may instead be discarded to remove the same number of damage from Lake-town."/>
+    </alternate>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9022" name="The Dragon's Wrath - 3A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="The Dragon's Wrath - 3B" type="B">
+      <property name="Quest Points" value="-"/>
+      <property name="Text" value="Forced: During the quest phase, reveal 1 additional card from the encounter deck&#10;&#10;Refresh Action: Reset the quest deck to stage 2B.&#10;&#10;The players must defeat Smaug to defeat this stage. When Smaug is defeated, compare the number of damage tokens on Lake-town with the number of victory points in the victory display. If the players have more victory points, they have won the game. Otherwise, Lake-town has burned and the players have lost."/>
+    </alternate>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9017" name="Smaug the Mighty">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Sphere" value="Special"/>
+    <property name="Traits" value="Dragon."/>
+    <property name="Keywords" value="Immune to plater card effects."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="7"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="9"/>
+    <property name="Health" value="20"/>
+    <property name="Text" value="When Revealed: Smaug the Mighty makes an immediate attack against each player (deal and resolve a shodow card for each attack)."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9018" name="Smaug the Terrible">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Sphere" value="Special"/>
+    <property name="Traits" value="Dragon."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="6"/>
+    <property name="Attack" value="7"/>
+    <property name="Defense" value="7"/>
+    <property name="Health" value="20"/>
+    <property name="Text" value="When Revealed: Resolve all burn damage from all locations in play"/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9016" name="Smaug the Magnificent">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Sphere" value="Special"/>
+    <property name="Traits" value="Dragon."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="5"/>
+    <property name="Attack" value="8"/>
+    <property name="Defense" value="8"/>
+    <property name="Health" value="20"/>
+    <property name="Text" value="Excess damage from attacks by Smaug the Magnificent must be assigned to Lake-town.&#10;&#10;When Revealed: Move 3 damage from Smaug the Magnificent to Lake-town."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9011" name="Lake-town">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="City."/>
+    <property name="Text" value="If Lake-town has 50 or more damage on it, Lake-town has completely burned and the players have lost the game."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9025" name="The Old Thrush">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Creature."/>
+    <property name="Keywords" value="Guarded."/>
+    <property name="Text" value="Action: Exhaust a hero to claim this objective and attach it to that hero when it is free of encounters. (Counts as an attachment with the text:&#10;'If detached discard The Old Thrush&#10;Response: After attached hero exhausts to attack Smaug, discard X cards from hand to reduce Smaug's Ú by X.')"/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9002" name="Close to the Flame">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Deal 1 damage to each character in play"/>
+    <property name="Shadow" value="Shadow: Deal 1 damage to each character in play. Any player may discard a hero to cancel this effect"/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9015" name="Scorching Blast">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Resolve all burn damage from all locations in play."/>
+    <property name="Shadow" value="Shadow: Resolve this card's 'When Revealed' effect. Any player may discard a hero to cancell this effect."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9026" name="Town-Baiting">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Smaug make an attack against Lake-town. The last player may declare a defender against this attack. Excess damage from this attack must be placed on Lake-town. This effect cannot be canceled."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9003" name="Dire Magnificence">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each player must choose and discard 1 ally he controls if able. Deal 2 damage to Lake-town for each player that cannot."/>
+    <property name="Shadow" value="Shadow: If this attack destroys a character, Smaug engages the next player and makes an immediate attack against that player."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9001" name="Catching Fire">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Choose and shuffle 1 Pier location from the victory display back into the encounter deck. If no location was shuffled into the encounter deck by this effect, Catching Fire gains surge"/>
+    <property name="Shadow" value="Shadow: Defending character gets -2 Ú"/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9014" name="Reckless in His Rage">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: If Smaug is in play, he gets +2 $, +2 Û, -2 Ú and gains the text: 'Allies cannot be declared as defenders'. This effect lasts until the end of the round"/>
+    <property name="Shadow" value="Shadow: If this attack destroys a character, resolve all burn damage on locations in play."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9027" name="West Pier">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Lake-town. Pier."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="Each location in play gains Burn 1."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="2"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9024" name="The Master's Manor">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Lake-town."/>
+    <property name="Keywords" value="Burn 3."/>
+    <property name="Threat" value="4"/>
+    <property name="Text" value="When Revealed: Move all damage from Smaug to Lake-town"/>
+    <property name="Shadow" value="Shadow: If this attack destroys a character, defending player discards his hand."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="8"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9019" name="South Pier">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Lake-town. Pier."/>
+    <property name="Keywords" value="Burn 2."/>
+    <property name="Threat" value="1"/>
+    <property name="Text" value="When faced with the option to travel, players cannot travel to other locations."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="4"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9013" name="North Pier">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Lake-town. Pier."/>
+    <property name="Keywords" value="Burn 2."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="Smaug cannot be damaged."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="2"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9012" name="Merchant's District">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Lake-town."/>
+    <property name="Keywords" value="Burn 1."/>
+    <property name="Threat" value="4"/>
+    <property name="Text" value="Travel Action: Deal 2 damage per player to Lake-town to add this location to the victory display."/>
+    <property name="Shadow" value="Shadow: Deal 1 damage to Lake-town (4 damage instead if undefended.)"/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="4"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9004" name="East Pier">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Lake-town. Pier."/>
+    <property name="Keywords" value="Burn 1."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="'When Revealed' effects cannot be canceled"/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="2"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9010" name="Great House">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Lake-town."/>
+    <property name="Keywords" value="Burn 3."/>
+    <property name="Threat" value="6"/>
+    <property name="Text" value="When Revealed: Resolve all burn damage from all locations in play."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="6"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9009" name="Great Bridge">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Lake-town."/>
+    <property name="Keywords" value="Burn 2."/>
+    <property name="Threat" value="3"/>
+    <property name="Text" value="When Revealed: Discard X cards from each player's deck. X is the ammount of damage on Lake-town. (If no cards are discarded by this effect, Great Bridge gains surge.)"/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="4"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9008" name="Fisherman's Dock">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Lake-town."/>
+    <property name="Keywords" value="Burn 1."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="Travel: If there is 1 active location exhaust a hero to travel here (There are now 2 active locations)"/>
+    <property name="Shadow" value="Shadow: Add this location to the staging area."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="4"/>
+    <property name="Victory Points" value="2"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-1801203c9005" name="Esgaroth Wharf">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Lake-town."/>
+    <property name="Keywords" value="Burn 1."/>
+    <property name="Threat" value="3"/>
+    <property name="Text" value="All locations are immune to player card effects."/>
+    <property name="Shadow" value="Shadow: attacking enemy gets +2 Û. Then it make an additional attack after this one."/>
+    <property name="Encounter Set" value="The Battle of Lake-Town"/>
+    <property name="Quantity" value="4"/>
+    <property name="Victory Points" value="4"/>
+  </card>
+ </cards>
 </set>

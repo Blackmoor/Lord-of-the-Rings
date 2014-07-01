@@ -1,635 +1,258 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Stone of Erech" id="4f22640f-ac14-4af3-8d94-c37adbb39703" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.1.4" version="2.0.0.1">
-  <cards>
-    <card id="14f7c98c-b425-4fac-850a-729d8fcdaa0c" name="Banks of Morthond">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Blackroot Vale. Riverland." />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="While Banks of Morthond is the active location, each location in the staging area gets -1 $" />
-      <property name="Shadow" value="Shadow: If this attack destroys a character, add 1 progress to the current Night objective." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="7" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="fc54b033-56cc-4ca9-8e0f-7f1c7b82bd6a" name="Blackroot Graves">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Blackroot Vale." />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Forced: When Blackroot Graves is explored, return the topmost Undead enemy in the encounter discard pile to play, engaged with the first player." />
-      <property name="Shadow" value="Shadow: If defending character has 0 Ò, deal 2 damage to that character." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="4" />
-      <property name="Quest Points" value="1" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="f93a8fda-7383-41c9-b86d-c5ba1fec760d" name="Derufin">
-      <property name="Type" value="Objective" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Gondor." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="1" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="3" />
-      <property name="Health" value="2" />
-      <property name="Text" value="Forced: After the players travel to The Stone of Erech, the first player gains control of Derufin.&#xA;&#xA;Dusk. Derufin gets -1 Ò.&#xA;&#xA;Midnight. Derufin gets -2 Ò.&#xA;&#xA;If Derufin leaves play, the players lose the game." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="cdf8dee9-b2ac-4e5f-bf4c-0b9c15cac142" name="Driven by Fear">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="" />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: The first player attaches Driven by Fear to a hero he controls. Counts as a Condition attachment with the text: &quot;Attached character's Ò is reduced to 0. Treat attached character's text box as if it was blank (except for Traits.)&quot;" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="d3c68791-c3f9-4e8d-9515-2496f9ca1895" name="Dusk">
-      <property name="Type" value="Objective" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Night." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Forced: At the end of the round, place 1 progress on Dusk.&#xA;&#xA;If there are 4 or more progress on Dusk, add it to the victory display and put Midnight into play." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="36a22f2b-56d9-4148-a962-f7fbdf60f3a1" name="Eventide">
-      <property name="Type" value="Objective" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Night." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Forced: At the end of the round, place 1 progress on Eventide.&#xA;&#xA;If there are 4 or more progress on Eventide, add it to the victory display and put Dusk into play." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="728f17db-d741-4f1b-92da-8aac3d78432d" name="Groping Horror">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="" />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: The first player must choose: skip the next travel phase, or each player must pass his hand to the player on his left (discard your hand instead if you are the only player in the game).&#xA;&#xA;Midnight. Groping Horror gains surge." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="7a3411df-76a0-432b-a64a-d499b0b1ae50" name="Haunted Valley">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Blackroot Vale." />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="While this location is in the staging area, all ready heroes lose all Î, Ì, Ê, and Ï icons.&#xA;&#xA;Planning Action: Exhaust a hero. Any player may trigger this action." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="3" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="0c15f99d-9066-4e7c-b364-104a0083d997" name="Midnight">
-      <property name="Type" value="Objective" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Night." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Forced: At the end of the round, place 1 progress on Midnight. Then, raise each player's threat by the number of progress on Midnight." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="c29c98de-5660-498c-a5cc-a1800985d221" name="Midnight Throng">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="" />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: Starting with the first player, each player must search the encounter deck and discard pile for an Undead enemy, reveal it, and add it to the staging area. Shuffle the encounter deck.&#xA;&#xA;Midnight. This effect cannot be canceled." />
-      <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (Dusk. +2 Û instead. Midnight. +3 Û instead)" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="f985bda2-5029-4c34-91f7-721f830cbd9c" name="Murmurs of Dread">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="" />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: All character get -1 Ò until the end of the round." />
-      <property name="Shadow" value="Shadow: Dusk/Midnight. Attacking enemy makes an additional attack after this one.&#xA;Midnight. This effect cannot be canceled." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="f079c496-20bf-4ce4-a5ca-d644172d83fe" name="Regretful Shade">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Undead. Oathbreaker." />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="23" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="2" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="3" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="Shadow: Deal attacking enemy 1 additional shadow card (Dusk. 2 additional cards instead. Midnight. 3 additional cards instead)." />
-      <property name="Keywords" value="Spectral. Surge." />
-      <property name="Threat" value="1" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="7b0eb4e5-962c-4041-baea-3a09a83fb996" name="Relic from the Dark Years">
-      <property name="Type" value="Objective" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Item. Artifact." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Midnight. Action: Claim this objective and attach it to a hero you control. Counts as an Artifact attachment with the text: &quot;When attached hero attacks an Oathbreaker, that enemy loses the Spectral keyword until the end of the phase.&quot;" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="65f48337-cec0-41a1-84ff-490c4f563ce4" name="Restless Dead">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Undead. Oathbreaker." />
-      <property name="Quantity" value="4" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="12" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="3" />
-      <property name="Defense" value="0" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="2" />
-      <property name="Text" value="When Revealed: Return the topmost Undead enemy in the encounter discard pile to the staging area." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Spectral." />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="a7d52939-2989-44d2-b81b-571db0ee8c16" name="Shadow Host Captain">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Undead. Oathbreaker." />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="42" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="4" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="6" />
-      <property name="Text" value="Dusk. Shadow Host Captain gets +1 Û and +1 Ú.&#xA;&#xA;Midnight. Shadow Host Captain gains +2 Û and +2 Ú." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Spectral." />
-      <property name="Threat" value="3" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="8ece887c-6ca7-467d-80d4-3f28afa13433" name="Shadow-man">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Undead. Oathbreaker." />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="27" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="4" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="5" />
-      <property name="Text" value="When Revealed: Players cannot play events until the end of the round." />
-      <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (Dusk. +2 Û instead. Midnight. +3 Û instead)" />
-      <property name="Keywords" value="Spectral." />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="02cae27a-3b0c-4396-aea3-8fc2bdd4ffe8" name="Shadow of Dwimorberg">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Blackroot Vale. Mountain." />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Dusk. Shadow of Dwimorberg gets +2 $.&#xA;&#xA;Midnight. Shadow of Dwimorberg gets +4 $." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="1" />
-      <property name="Quest Points" value="4" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="88df7c56-ee11-48f0-b6a0-0486e0a8ce92" name="Tarlang's Neck">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Blackroot Vale. Road." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="While Tarlang's Neck is the active location, it gains, &quot;Forced: At the beginning of the encounter phase, the players must either immediately end the encounter phase, or the first player must engage all enemies in the staging area.&quot;" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="3" />
-      <property name="Quest Points" value="6" />
-      <property name="Victory Points" value="1" />
-    </card>
-	<card id="ecc8fd11-b2b9-4adc-91eb-6fcc1212e7ce" name="Terror of the Dead - 2A">
-      <property name="Type" value="Quest" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: Add The Stone of Erech to the staging area and attach Derufin to it." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-	  <alternate name="Terror of the Dead - 2B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Encounter Set" value="The Stone of Erech" />
-        <property name="Quantity" value="1" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="Forced: At the beginning of each round, the players must choose: each player skips the next planning phase, or heroes do not collect resources during the resource phase this round." />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="" />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="8" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-	<card id="5e7c36de-a2bb-44e3-951b-80123788d571" name="The Dead Ride Behind">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="" />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: Deal 1 damage to each character with less than 2 Ò (Dusk. less than 3 Ò instead. Midnight. less than 4 Ò instead)." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="e4af5d7f-9af5-41bb-b22a-cce8b91ac791" name="The Disappearance - 1A">
-      <property name="Type" value="Quest" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="ltttttt" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Setup: Make Tarlang's Neck the active location. Set Derufin, The Lord of the Dead, The Stone of Erech, and the 3 Night objectives aside, out of play. Shuffle the encounter deck. Place Eventide into play, next to the current quest." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-	  <alternate name="The Disappearance - 1B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Encounter Set" value="The Stone of Erech" />
-        <property name="Quantity" value="1" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="When Revealed: Reveal 1 encounter card per player, adding them to the staging area.&#xA;&#xA;Players cannot defeat this stage while Tarlang's Neck is in play." />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="" />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="6" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-	<card id="d33ef89b-13c9-49b2-a921-a527f27a415a" name="The Gloaming">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="" />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: Add 1 progress to the current Night objective." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Surge" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="7b9dd852-ed19-4a00-b09e-f6c2cee549fa" name="The Lord of the Dead">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Undead. Oathbreaker." />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="30" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="6" />
-      <property name="Defense" value="3" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="9" />
-      <property name="Text" value="While you are engaged with The Lord of the Dead, treat all printed text boxes on characters you control as if they were blank (except for Traits)." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Spectral. Cannot have attachments." />
-      <property name="Threat" value="5" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="efd4cef9-ce8b-4985-8825-853ba98baa2b" name="The Shadow Host - 3A">
-      <property name="Type" value="Quest" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: Starting with the first player, each player searches the encounter deck and discard pile for 1 Oathbreaker enemy, reveals it, and adds it to the staging area. Add the Lord of the Dead to the staging area. Shuffle the encounter deck." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-	  <alternate name="The Shadow Host - 3B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Encounter Set" value="The Stone of Erech" />
-        <property name="Quantity" value="1" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="Players cannot place progress on this stage unless they control Derufin.&#xA;&#xA;If the players defeat this stage, they have escaped the Blackroot Vale with Derufin and won the game." />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="Midnight. Battle (Characters use their Û instead of Ò when questing)." />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="14" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-	<card id="822ca699-4763-4b8c-baff-d8d828c002a9" name="The Stone of Erech">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Blackroot Vale." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="While The Stone of Erech is the active location, characters with less than 2 Ò cannot ready.&#xA;&#xA;Travel: Exhaust each character with less than 2 Ò." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Immune to player card effects. X is twice the number of players in the game." />
-      <property name="Threat" value="X" />
-      <property name="Quest Points" value="6" />
-      <property name="Victory Points" value="5" />
-    </card>
-	<card id="c57661b7-62f9-4906-b2eb-73af91fd8252" name="Vale of Shadows">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Blackroot Vale." />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: Make Vale of Shadows the active location. If another location is currently active, return it to the staging area.&#xA;&#xA;Dusk. Vale of Shadows gets +2 quest points.&#xA;&#xA;Midnight. Vale of Shadows gets +4 quest points." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="1" />
-      <property name="Quest Points" value="3" />
-      <property name="Victory Points" value="" />
-    </card>
-	<card id="43bb02ff-9fcc-47e8-822c-ffcd620c9fc4" name="Whisperer">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="The Stone of Erech" />
-      <property name="Traits" value="Undead. Oathbreaker." />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="35" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="2" />
-      <property name="Defense" value="2" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="4" />
-      <property name="Text" value="Dusk. Whisperer gets +1 $.&#xA;&#xA;Midnight. Whisperer gets +2 $ and gains doomed 2." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Spectral." />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-  </cards>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Stone of Erech" id="4f22640f-ac14-4af3-8d94-c37adbb39703" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
+ <cards>
+  <card id="e4af5d7f-9af5-41bb-b22a-cce8b91ac791" name="The Disappearance - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Make Tarlang's Neck the active location. Set Derufin, The Lord of the Dead, The Stone of Erech, and the 3 Night objectives aside, out of play. Shuffle the encounter deck. Place Eventide into play, next to the current quest."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="1"/>
+    <property name="Setup" value="ltttttt"/>
+    <alternate name="The Disappearance - 1B" type="B">
+      <property name="Quest Points" value="6"/>
+      <property name="Text" value="When Revealed: Reveal 1 encounter card per player, adding them to the staging area.&#10;&#10;Players cannot defeat this stage while Tarlang's Neck is in play."/>
+    </alternate>
+  </card>
+  <card id="ecc8fd11-b2b9-4adc-91eb-6fcc1212e7ce" name="Terror of the Dead - 2A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="When Revealed: Add The Stone of Erech to the staging area and attach Derufin to it."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Terror of the Dead - 2B" type="B">
+      <property name="Quest Points" value="8"/>
+      <property name="Text" value="Forced: At the beginning of each round, the players must choose: each player skips the next planning phase, or heroes do not collect resources during the resource phase this round."/>
+    </alternate>
+  </card>
+  <card id="efd4cef9-ce8b-4985-8825-853ba98baa2b" name="The Shadow Host - 3A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="When Revealed: Starting with the first player, each player searches the encounter deck and discard pile for 1 Oathbreaker enemy, reveals it, and adds it to the staging area. Add the Lord of the Dead to the staging area. Shuffle the encounter deck."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="The Shadow Host - 3B" type="B">
+      <property name="Quest Points" value="14"/>
+      <property name="Text" value="Players cannot place progress on this stage unless they control Derufin.&#10;&#10;If the players defeat this stage, they have escaped the Blackroot Vale with Derufin and won the game."/>
+    </alternate>
+  </card>
+  <card id="f93a8fda-7383-41c9-b86d-c5ba1fec760d" name="Derufin">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Gondor."/>
+    <property name="Willpower" value="3"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Forced: After the players travel to The Stone of Erech, the first player gains control of Derufin.&#10;&#10;Dusk. Derufin gets -1 Ò.&#10;&#10;Midnight. Derufin gets -2 Ò.&#10;&#10;If Derufin leaves play, the players lose the game."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="7b9dd852-ed19-4a00-b09e-f6c2cee549fa" name="The Lord of the Dead">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Oathbreaker."/>
+    <property name="Keywords" value="Spectral. Cannot have attachments."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="5"/>
+    <property name="Attack" value="6"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="9"/>
+    <property name="Text" value="While you are engaged with The Lord of the Dead, treat all printed text boxes on characters you control as if they were blank (except for Traits)."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="822ca699-4763-4b8c-baff-d8d828c002a9" name="The Stone of Erech">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Blackroot Vale."/>
+    <property name="Keywords" value="Immune to player card effects. X is twice the number of players in the game."/>
+    <property name="Threat" value="X"/>
+    <property name="Text" value="While The Stone of Erech is the active location, characters with less than 2 Ò cannot ready.&#10;&#10;Travel: Exhaust each character with less than 2 Ò."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="5"/>
+  </card>
+  <card id="88df7c56-ee11-48f0-b6a0-0486e0a8ce92" name="Tarlang's Neck">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Blackroot Vale. Road."/>
+    <property name="Threat" value="3"/>
+    <property name="Text" value="While Tarlang's Neck is the active location, it gains, &quot;Forced: At the beginning of the encounter phase, the players must either immediately end the encounter phase, or the first player must engage all enemies in the staging area.&quot;"/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="36a22f2b-56d9-4148-a962-f7fbdf60f3a1" name="Eventide">
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Night."/>
+    <property name="Text" value="Forced: At the end of the round, place 1 progress on Eventide.&#10;&#10;If there are 4 or more progress on Eventide, add it to the victory display and put Dusk into play."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="d3c68791-c3f9-4e8d-9515-2496f9ca1895" name="Dusk">
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Night."/>
+    <property name="Text" value="Forced: At the end of the round, place 1 progress on Dusk.&#10;&#10;If there are 4 or more progress on Dusk, add it to the victory display and put Midnight into play."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="0c15f99d-9066-4e7c-b364-104a0083d997" name="Midnight">
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Night."/>
+    <property name="Text" value="Forced: At the end of the round, place 1 progress on Midnight. Then, raise each player's threat by the number of progress on Midnight."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="7b0eb4e5-962c-4041-baea-3a09a83fb996" name="Relic from the Dark Years">
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Item. Artifact."/>
+    <property name="Text" value="Midnight. Action: Claim this objective and attach it to a hero you control. Counts as an Artifact attachment with the text: &quot;When attached hero attacks an Oathbreaker, that enemy loses the Spectral keyword until the end of the phase.&quot;"/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="8ece887c-6ca7-467d-80d4-3f28afa13433" name="Shadow-man">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Oathbreaker."/>
+    <property name="Keywords" value="Spectral."/>
+    <property name="Engagement Cost" value="27"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="When Revealed: Players cannot play events until the end of the round."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (Dusk. +2 Û instead. Midnight. +3 Û instead)"/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="65f48337-cec0-41a1-84ff-490c4f563ce4" name="Restless Dead">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Oathbreaker."/>
+    <property name="Keywords" value="Spectral."/>
+    <property name="Engagement Cost" value="12"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="When Revealed: Return the topmost Undead enemy in the encounter discard pile to the staging area."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="43bb02ff-9fcc-47e8-822c-ffcd620c9fc4" name="Whisperer">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Oathbreaker."/>
+    <property name="Keywords" value="Spectral."/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Dusk. Whisperer gets +1 $.&#10;&#10;Midnight. Whisperer gets +2 $ and gains doomed 2."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="a7d52939-2989-44d2-b81b-571db0ee8c16" name="Shadow Host Captain">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Oathbreaker."/>
+    <property name="Keywords" value="Spectral."/>
+    <property name="Engagement Cost" value="42"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="6"/>
+    <property name="Text" value="Dusk. Shadow Host Captain gets +1 Û and +1 Ú.&#10;&#10;Midnight. Shadow Host Captain gains +2 Û and +2 Ú."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="f079c496-20bf-4ce4-a5ca-d644172d83fe" name="Regretful Shade">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Oathbreaker."/>
+    <property name="Keywords" value="Spectral. Surge."/>
+    <property name="Engagement Cost" value="23"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Shadow" value="Shadow: Deal attacking enemy 1 additional shadow card (Dusk. 2 additional cards instead. Midnight. 3 additional cards instead)."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="14f7c98c-b425-4fac-850a-729d8fcdaa0c" name="Banks of Morthond">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Blackroot Vale. Riverland."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="While Banks of Morthond is the active location, each location in the staging area gets -1 $"/>
+    <property name="Shadow" value="Shadow: If this attack destroys a character, add 1 progress to the current Night objective."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="c57661b7-62f9-4906-b2eb-73af91fd8252" name="Vale of Shadows">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Blackroot Vale."/>
+    <property name="Threat" value="1"/>
+    <property name="Text" value="When Revealed: Make Vale of Shadows the active location. If another location is currently active, return it to the staging area.&#10;&#10;Dusk. Vale of Shadows gets +2 quest points.&#10;&#10;Midnight. Vale of Shadows gets +4 quest points."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="fc54b033-56cc-4ca9-8e0f-7f1c7b82bd6a" name="Blackroot Graves">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Blackroot Vale."/>
+    <property name="Threat" value="4"/>
+    <property name="Text" value="Forced: When Blackroot Graves is explored, return the topmost Undead enemy in the encounter discard pile to play, engaged with the first player."/>
+    <property name="Shadow" value="Shadow: If defending character has 0 Ò, deal 2 damage to that character."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="02cae27a-3b0c-4396-aea3-8fc2bdd4ffe8" name="Shadow of Dwimorberg">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Blackroot Vale. Mountain."/>
+    <property name="Threat" value="1"/>
+    <property name="Text" value="Dusk. Shadow of Dwimorberg gets +2 $.&#10;&#10;Midnight. Shadow of Dwimorberg gets +4 $."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="7a3411df-76a0-432b-a64a-d499b0b1ae50" name="Haunted Valley">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Blackroot Vale."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="While this location is in the staging area, all ready heroes lose all Î, Ì, Ê, and Ï icons.&#10;&#10;Planning Action: Exhaust a hero. Any player may trigger this action."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="c29c98de-5660-498c-a5cc-a1800985d221" name="Midnight Throng">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Starting with the first player, each player must search the encounter deck and discard pile for an Undead enemy, reveal it, and add it to the staging area. Shuffle the encounter deck.&#10;&#10;Midnight. This effect cannot be canceled."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (Dusk. +2 Û instead. Midnight. +3 Û instead)"/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="f985bda2-5029-4c34-91f7-721f830cbd9c" name="Murmurs of Dread">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: All character get -1 Ò until the end of the round."/>
+    <property name="Shadow" value="Shadow: Dusk/Midnight. Attacking enemy makes an additional attack after this one.&#10;Midnight. This effect cannot be canceled."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="728f17db-d741-4f1b-92da-8aac3d78432d" name="Groping Horror">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: The first player must choose: skip the next travel phase, or each player must pass his hand to the player on his left (discard your hand instead if you are the only player in the game).&#10;&#10;Midnight. Groping Horror gains surge."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="cdf8dee9-b2ac-4e5f-bf4c-0b9c15cac142" name="Driven by Fear">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: The first player attaches Driven by Fear to a hero he controls. Counts as a Condition attachment with the text: &quot;Attached character's Ò is reduced to 0. Treat attached character's text box as if it was blank (except for Traits.)&quot;"/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="5e7c36de-a2bb-44e3-951b-80123788d571" name="The Dead Ride Behind">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Deal 1 damage to each character with less than 2 Ò (Dusk. less than 3 Ò instead. Midnight. less than 4 Ò instead)."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="d33ef89b-13c9-49b2-a921-a527f27a415a" name="The Gloaming">
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge"/>
+    <property name="Text" value="When Revealed: Add 1 progress to the current Night objective."/>
+    <property name="Encounter Set" value="The Stone of Erech"/>
+    <property name="Quantity" value="2"/>
+  </card>
+ </cards>
 </set>

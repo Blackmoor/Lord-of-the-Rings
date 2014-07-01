@@ -1,0 +1,808 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Hobbit - On the Doorstep" id="1490fecb-d07e-48e0-96fe-46260fa17f19" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
+ <cards>
+  <card id="4e61b160-2104-497f-9977-4b353e54fbb7" name="Bilbo Baggins">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Baggins"/>
+    <property name="Traits" value="Hobbit. Burglar."/>
+    <property name="Keywords" value="If Bilbo Baggins leaves play, the players have lost the game."/>
+    <property name="Cost" value="0"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Bilbo Baggins does not count against the hero limit and cannot gain resources from non-treasure cards. The first player gains control of Bilbo Baggins.&#10;&#10;Action: Spend 1 Í resource to search your deck for a treasure card and add it to your hand."/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="bf2cb5a8-2ec6-4366-89f6-7e3010686a85" name="Balin">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Dwarf."/>
+    <property name="Cost" value="9"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Response: Pay 1 resource from Balin's resource pool to cancel a shadow effect just triggered during an attack. Then, deal the attacking enemy another shadow card. (Limit once per attack.)"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="e2cf87be-ccdc-48e9-8127-57bee67d4a0c" name="Bard the Bowman">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Esgaroth. Warrior."/>
+    <property name="Keywords" value="Ranged."/>
+    <property name="Cost" value="11"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="When Bard the Bowman makes a ranged attack, the enemy he attacks gets -2 Ú until the end of the phase."/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="b21a2af5-7443-4630-9503-1b334ae51c6e" name="Oin">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Dwarf."/>
+    <property name="Cost" value="8"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="While you control at least 5 Dwarf characters, Oin gets +1 Û and gains the Ï resource icon."/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="66f66c2e-36e7-4d97-aebb-1ca413f9edeb" name="Bombur">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Dwarf."/>
+    <property name="Cost" value="8"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="When counting the number of Dwarf characters you control, Bombur counts as two."/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="6778eb01-6b07-4dbe-87f1-e854ab548813" name="Gloin">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Dwarf."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="While you control at least 5 Dwarf characters, Gloin gains: &quot;Response: After you play Gloin from your hand, choose a hero. Add 2 resources to that hero's resource pool.&quot;"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="c4b959f5-92a9-4f46-8656-f9da08a5cb86" name="Bifur">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Dwarf."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="While you control at least 5 Dwarf characters, Bifur gains: &quot;Response: After you play Bifur from your hand, draw 2 cards.&quot;"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="c66638a7-95ae-4913-bf11-2e8dcf8d6104" name="Dwalin">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Dwarf."/>
+    <property name="Keywords" value="Sentinel."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="While you control at least 5 Dwarf characters, lower the cost to play Dwalin by 2."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="c2a79823-e4f9-4449-b467-5916d7e58979" name="Straight Shot">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Action: Exhaust a Weapon attachment to choose a non-unique enemy with 0 Ú. Discard the chosen enemy."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="7465c18b-440e-4a90-8ac0-c50c0de03b5d" name="Desperate Alliance">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Action: Choose a hero you control. Until the end of the phase, give control of that hero and all resources in that hero's resource pool to another player. (Limit 1 per phase.)"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="6d442a61-e9e9-4729-bac1-da3d76af6afa" name="Ravens of the Mountain">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Exhaust a hero you control to shuffle the encounter deck and look at its top card. Place progress tokens on the current quest equal to the revealed card's $. Then, put that card back on top of the encounter deck."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="16ae4f56-d8bb-41b8-a992-1da3b6ec1fdb" name="To me! O my kinsfolk!">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Action: If you control at least 1 Dwarf hero, put a Dwarf ally from your discard pile into play under your control. Put that ally on the bottom of your deck at the end of the phase."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="65407141-e013-4d1c-8f70-4328e707d0cc" name="The Lucky Number">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Baggins"/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Choose a character in play (other than Bilbo Baggins). Add Bilbo Baggins' total Ò, Û, and Ú to that character's Ò, Û, and Ú respectively until the end of the phase."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="833664a0-6bab-4e93-b5f1-88e7b6456569" name="Great Yew Bow">
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Item. Weapon."/>
+    <property name="Keywords" value="Attach to a hero with the printed Ranged keyword. Restricted."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Combat Action: Choose an enemy in the staging area. Exhaust Great Yew Bow and attached hero to make a ranged attack against that enemy. Declare attached hero as the attacker. No other attackers can be declared for this attack."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="ae16236d-886e-4f65-9129-5ead1d373bfe" name="Black Arrow">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Artifact. Item."/>
+    <property name="Keywords" value="Limit 1 per deck. Attach to a hero with Ranged."/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Response: After attached hero declares an attack, add Black Arrow to the victory display to give attached hero +5 Û for this attack."/>
+    <property name="Quantity" value="3"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="f4490261-317e-4e9e-9440-a5c58dcddcbf" name="Thror's Key">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Artifact. Item."/>
+    <property name="Keywords" value="Attach to a hero."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After a location is added to the staging area, attach Thror's Key to that location. While attached to a location, Thror's Key gains: &quot;Treat attached location's printed text box as blank, except for traits.&quot;"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="2d550e71-f2a6-41f2-8aac-4533a965eb71" name="Expert Treasure-hunter">
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Skill."/>
+    <property name="Keywords" value="Attach to a hero. Limit 1 per hero."/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Response: After attached hero quests successfully, name a card type and discard the top card of your deck. If the discarded card is the named type, take it into your hand."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="9152834a-5355-42ba-9592-1a3c1940d1a8" name="King Under the Mountain">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Title."/>
+    <property name="Keywords" value="Attach to a Dwarf hero."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Action: Exhaust King Under the Mountain to look at the top 2 cards of your deck. Add 1 to your hand and discard the other."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="9dd6bf3e-e090-4ebf-a056-765c94e8a199" name="Bilbo's Magic Ring">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Treasure"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Artifact. Item. Ring."/>
+    <property name="Keywords" value="Attach to Bilbo Baggins."/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Action: Exhaust Bilbo's Magic Ring and raise your threat by 1 to gain 1 Í resource. (Limit once per round.)&#10;&#10;Response: After Bilbo Baggins exhausts to defend an attack, exhaust Bilbo's Magic Ring and raise your threat by 3 to cancel all damage from this attack."/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="ae774680-c6e9-49eb-96b8-fcdebe90b49d" name="The Arkenstone">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Treasure"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Artifact. Erebor. Item."/>
+    <property name="Keywords" value="Attach to a hero."/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Action: Exhaust The Arkenstone and raise your threat by X to lower by X the cost of the next ally you play this phase that matches the attached hero's sphere."/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="12d51424-0edd-4977-9df1-5f6a7a5a96e1" name="Mithril Shirt">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Treasure"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Artifact. Erebor. Item."/>
+    <property name="Keywords" value="Attach to Bilbo Baggins."/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Attached hero gets +1 Ú and +1 hit point."/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="857d6dc8-ba1e-4839-8e96-a8a0136a2302" name="Thror's Battle Axe">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Treasure"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Artifact. Erebor. Item."/>
+    <property name="Keywords" value="Attach to a hero. Restricted."/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Attached hero gets +2 Û.&#10;&#10;Response: After attached hero attacks and destroys an enemy, deal 1 damage to another enemy engaged with you."/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="7adc49c0-640d-4934-89c5-312ab584b77c" name="Thror's Hunting Bow">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Treasure"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Artifact. Erebor. Item."/>
+    <property name="Keywords" value="Attach to a hero. Restricted."/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Attached hero gains Ranged.&#10;&#10;When making a ranged attack, attached hero gets +2 Û."/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="ff7b0b9d-f8ae-4464-9db3-7205c5ae4db7" name="Thror's Golden Cup">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Treasure"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Artifact. Erebor. Item."/>
+    <property name="Keywords" value="Attach to a hero."/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Action: Add Thror's Golden Cup to the victory display to draw 3 cards."/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="4d423c39-09c1-4c0b-b46f-6983fae4c07b" name="The Spider's Glade">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="1"/>
+    <property name="Text" value="Travel: Exhaust Bilbo Baggins to travel here.&#10;&#10;Forced: At the start of each quest phase, search the encounter deck for 1 Spider enemy and add it to the staging area. (2 Spider enemies instead if 3 or more players are at this stage.) Shuffle the encounter deck."/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="eb353293-1a80-445c-b4a9-422c83dadfd5" name="Giant Web">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Threat" value="3"/>
+    <property name="Text" value="While Giant Web is the active location, each character gets -1 Ò, -1 Û, and -1 Ú for each poison it has.&#10;&#10;Response: After Giant Web leaves play as an explored location, ready an unconscious character."/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="818e2f2f-4070-4056-85bd-5e729ccbad30" name="Forest Stream">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest. River."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="While Forest Stream is the active location, poisoned characters cannot quest.&#10;&#10;Response: After Forest Stream leaves play as an explored location, discard 4 poison."/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="b0d31a1c-2155-4a97-a5ff-912e32a4809e" name="Old Tomnoddy">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Spider."/>
+    <property name="Keywords" value="Venom."/>
+    <property name="Engagement Cost" value="37"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Forced: At the end of each round, each player must give a hero he controls 1 poison."/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="b06030a9-7ab9-48a6-b7da-5ffd8ce3a1a6" name="Crazy Cob">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Spider."/>
+    <property name="Keywords" value="Venom."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="When Revealed: This enemy attacks the character with the most poison attached."/>
+    <property name="Shadow" value="Shadow: Defending character gets 1 poison."/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="8815a340-fc16-41c5-ac2c-d647876c2bbd" name="Lazy Lob">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Spider."/>
+    <property name="Keywords" value="Venom."/>
+    <property name="Engagement Cost" value="33"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="When Revealed: Each character committed to the quest gets 1 poison."/>
+    <property name="Shadow" value="Shadow: If defending character is poisoned, make that character unconscious."/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="5b038648-7a06-4014-b207-a5d68c99e76d" name="Fat Spider">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Spider."/>
+    <property name="Keywords" value="Venom."/>
+    <property name="Engagement Cost" value="28"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="6"/>
+    <property name="Text" value="This enemy gets +3 Û while engaged with a player who controls at least 1 poisoned character."/>
+    <property name="Shadow" value="Shadow: Defending character gets 1 poison. (Give 2 poison to a character you control if undefended.)"/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="2c20ea14-e7bc-4a38-a809-8834d659adf5" name="Wicked Spider">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Spider."/>
+    <property name="Keywords" value="Venom."/>
+    <property name="Engagement Cost" value="25"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Forced: When this enemy attacks, defending player must attach 1 poison to a character he controls."/>
+    <property name="Shadow" value="Shadow: Defending character gets 2 poison."/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="5"/>
+  </card>
+  <card id="7a165c5c-caba-4af1-880e-845a124344d7" name="Caught in Webs">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Choose a hero to be removed from the quest and make that hero unconscious. If no hero was removed from the quest by this effect, this card gains surge."/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="31ada226-448d-48f8-9f9a-c1f5046ad041" name="Poisoned by Spiders">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each character takes damage equal to the number of poison it has. If no characters were damaged by this effect, this card gains surge."/>
+    <property name="Shadow" value="Shadow: Discard an unconscious character you control."/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="3f78ed57-49cc-4886-b84f-3fe886203794" name="Hidden Path">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest. Mountain."/>
+    <property name="Threat" value="3"/>
+    <property name="Text" value="While Hidden Path is the active location, locations in the staging area get -1 $.&#10;&#10;Travel: Spend 2 Í resources to travel here."/>
+    <property name="Encounter Set" value="Wilderland"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="323842f5-457f-4dd4-95b8-eb19c24664cb" name="Dark Bats">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature."/>
+    <property name="Engagement Cost" value="15"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="1"/>
+    <property name="Text" value="Forced: After Dark Bats damages a character, attach it to that character. (While attached, counts as a Condition attachment with the text: &quot;Attached character gets -1 Ò, -1 Û, and -1 Ú.&quot;)"/>
+    <property name="Shadow" value="Shadow: Attach this card to the defending character."/>
+    <property name="Encounter Set" value="Wilderland"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="ffe307bf-dd8e-4df3-9355-55564137d311" name="Fighting Among Friends">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: The first player names a sphere. Then, all non-Baggins characters who do not belong to the named sphere are removed from the quest."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. (+2 Û instead if undefended.)"/>
+    <property name="Encounter Set" value="Wilderland"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="10c41b09-adf9-4a78-a67a-a9a1e04d7e8d" name="Weighed Down">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Until the end of the round, exhausted characters get -1 Ò, -1 Û, and -1 Ú."/>
+    <property name="Shadow" value="Shadow: If the defending character is destroyed by this attack, its controller must raise his threat by 5."/>
+    <property name="Encounter Set" value="Wilderland"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="9a37677f-6bb6-4ff1-bf0e-8d0798e268c9" name="A Bare Patch">
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Information."/>
+    <property name="Text" value="While attached, Smaug the Magnificent gets -3 Ú.&#10;&#10;Response: After the players quest successfully, the first player makes a burgle attempt. If successful, attach A Bare Patch to Smaug the Magnificent."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="81b31016-bcc3-4445-8f4d-64187e99aff3" name="Smaug the Golden">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Dragon."/>
+    <property name="Keywords" value="Indestructible. Immune to player card effects."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="X"/>
+    <property name="Attack" value="6"/>
+    <property name="Defense" value="9"/>
+    <property name="Health" value="20"/>
+    <property name="Text" value="Cannot be engaged.&#10;&#10;X is the number of non-Burglar characters committed to the quest.&#10;&#10;Forced: After the 6th progress token is placed here, the players advance to stage 4A."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="65ad784f-d82e-4659-8d1c-53d2e4d19336" name="Smaug the Magnificent">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Dragon."/>
+    <property name="Keywords" value="Indestructible. Immune to player card effects."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="6"/>
+    <property name="Attack" value="8"/>
+    <property name="Defense" value="8"/>
+    <property name="Health" value="20"/>
+    <property name="Text" value="Cannot leave the staging area (except by quest effect) but is considered to be engaged with the first player.&#10;&#10;Forced: If Smaug the Magnificent is dealt a shadow card with a burgle effect, he makes an additional attack immediately after this one."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="babeedb8-f7cd-4e8a-a5c4-fbfdd57238fb" name="Croaking Crows">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature."/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Engagement Cost" value="33"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Forced: When a location is revealed from the encounter deck, put 1 progress on Smaug the Golden.&#10;&#10;Burgle: The first player shuffles his deck and reveals the top card. He may discard 1 card from his hand that matches the revealed card's sphere and type."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="0554f2f9-c578-4644-9c28-b617e846b787" name="The Lonely Mountain">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mountain."/>
+    <property name="Threat" value="12"/>
+    <property name="Text" value="While at least 1 card is stacked underneath, The Lonely Mountain is immune to player card effects, cannot leave the staging area, and gets -2 $ for each card stacked under it.&#10;&#10;Action: While making a burgle attempt, the first player may spend 2 Í resources to take the revealed card into hand and reveal the next card of his deck."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="10"/>
+  </card>
+  <card id="1c65b78b-6b68-458f-9510-a00a9576a042" name="Great Hall">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Threat" value="4"/>
+    <property name="Text" value="While Great Hall is the active location, it gains: &quot;Forced: Put 1 progress on Smaug the Golden at the end of each round.&quot;&#10;&#10;Burgle: The first player shuffles his deck and reveals the top card. He may discard 3 cards from his hand that match the revealed card's type."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="de8d68fc-15c4-4689-933e-1b2ca638cd78" name="Secret Entrance">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mountain."/>
+    <property name="Threat" value="1"/>
+    <property name="Text" value="While Secret Entrance is the active location, The Lonely Mountain's $ is reduced by half (round up).&#10;&#10;Travel: The first player must exhaust a hero and name a card type to travel here. Then, reveal the top card of the encounter deck. If the revealed card is not the named type, return Secret Entrance to the staging area. (The players cannot travel again this round.)"/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="435e12a1-d479-42f6-a40d-8067615ec9e1" name="Desolation of Smaug">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Wasteland."/>
+    <property name="Threat" value="3"/>
+    <property name="Text" value="While Desolation of Smaug is the active location, the first treachery card revealed each round gains surge.&#10;&#10;Burgle: The first player shuffles his deck and reveals the top card. He may discard 2 cards from his hand that match the revealed card's cost."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="1e54fa6e-c2a1-4456-ac48-8912ecc4722a" name="Western Slopes">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mountain."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="Response: When Western Slopes leaves play as an explored location (choose one): the first player draws 2 cards, or remove 1 progress token from Smaug the Golden.&#10;&#10;Burgle: The first player shuffles his deck and reveals the top card. He may discard 2 cards from his hand that match the revealed card's sphere."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="b7b62c58-7d5d-483d-807e-f4d7e2869579" name="Pretending to Sleep">
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: Put 1 progress token on Smaug the Golden. Then, spend X Í resources or advance to stage 4A. X is the number of progress tokens on Smaug the Golden.&#10;&#10;Burgle: The first player shuffles his deck and reveals the top card. He may discard 2 cards from his hand that match the revealed card's type."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="da46fcb3-2810-4c21-9070-43969532ef9b" name="Known to an Ounce">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each player discards 2 random cards from hand. Until the end of the phase, each Dragon enemy in play gets +1 $ for each event discarded by this effect.&#10;&#10;Burgle: The first player shuffles his deck and reveals the top card. He may discard 1 card from his hand that matches the revealed card's sphere and cost."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="6f999889-bd70-42c9-ad2a-b159a5e2f73c" name="Belching Fire">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each Dragon enemy in the staging area makes an immediate attack against the player with the highest total Ò committed to the quest. (Do not deal a shadow card for this attack.)&#10;&#10;Burgle: The first player shuffles his deck and reveals the top card. He may discard 1 card from his hand that matches the revealed card's type and cost."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="db6355c7-3edd-4573-a63c-1b6fc08bb8fa" name="Dragon-Spell">
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Enchantment."/>
+    <property name="Text" value="When Revealed: Attach to the hero with the most resources without Dragon-Spell attached. (Counts as a Condition attachment with the text: &quot;Attached hero gets -1 Ò for each resource in its resource pool. Forced: When attached hero spends resources, attached hero takes X damage. X is equal to the number of resources spent.&quot;)"/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="6e193811-584d-4888-a1b8-5296522b5cd1" name="Misty Mountain Eagle">
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Creature. Eagle."/>
+    <property name="Willpower" value="3"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Action: The first player may spend 2 Í resources to (choose one): take control of Misty Mountain Eagle, or discard this ally to discard a non-unique enemy in the staging area."/>
+    <property name="Shadow" value="Shadow: Deal 3 damage to attacking enemy."/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="624d5999-1a76-4783-b4e4-d9b596242d18" name="Bolg">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Goblin. Orc."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="X"/>
+    <property name="Attack" value="6"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="8"/>
+    <property name="Text" value="X is the number of players in the game.&#10;&#10;Cannot leave the staging area.&#10;&#10;The first Goblin revealed each round gains surge."/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="66812347-fac2-4a76-aa69-ac0861071c0d" name="Bodyguard of Bolg">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Goblin. Orc."/>
+    <property name="Keywords" value="Bolg cannot take damage."/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="Forced: When this enemy attacks, deal it an additional shadow card for each quest stage in play with no progress tokens on it."/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="058a5508-6b20-4305-94ea-53d5d2f33595" name="Gundabad Wolf Rider">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Goblin. Orc."/>
+    <property name="Engagement Cost" value="15"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Forced: When this enemy attacks, remove 1 progress from the current quest."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each quest stage in play with no progress on it."/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="771c6c83-a602-4c35-92f6-5ac349c4ec8c" name="Gundabad Climber">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Goblin. Orc."/>
+    <property name="Engagement Cost" value="33"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="When Revealed: Remove 1 progress from every quest stage in play. (2 progress instead if 3 or more players in the game.)"/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="56e98bd5-c952-436e-b552-832031d4bb20" name="Vanguard of Bolg">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Goblin. Orc."/>
+    <property name="Engagement Cost" value="20"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="This enemy gets +1 $, +1 Û, and +1 Ú for each quest stage in play with no progress on it."/>
+    <property name="Shadow" value="Shadow: If this attack destroys a character, remove all progress from the current quest."/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="fca6840a-ae90-42c7-b0cb-79ef8c7de099" name="Gundabad Archer">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Goblin. Orc."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="When Revealed: Each player must deal 2 damage to a character he controls."/>
+    <property name="Shadow" value="Shadow: Deal 1 damage to defending character for each quest stage in play with no progress on it."/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="f29b2736-9499-4e1d-9e53-96be59f78741" name="Ravenous Warg">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Forced: When Ravenous Warg attacks, the defending player must declare the character he controls with the most damage as the defender. (Even if exhausted.)"/>
+    <property name="Shadow" value="Shadow: Defending character gets -1 Ú for each quest stage in play with no progress on it."/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="29005ca1-107a-4473-8769-ce7d944e9844" name="Northern Slopes">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mountain."/>
+    <property name="Threat" value="3"/>
+    <property name="Text" value="While Northern Slopes is in the staging area, each Goblin enemy gets +1 Û and +1 Ú.&#10;&#10;While Northern Slopes is the active location, it gains: &quot;Forced: When a character leaves play, remove 1 progress from the current quest, if able.&quot;"/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="ee451e81-d7ee-40a6-9079-7f6538a26a26" name="Ruins of Dale">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ruins. Valley."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="Forced: Remove 2 progress from stage 3B at the end of each round, if able.&#10;&#10;Travel: Spend 3 Í resources to travel here. (1 Í instead if stage 3B is the current quest.)"/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="f388bf8b-461c-4478-8155-74775bf27714" name="Ravenhill">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ruins. Mountain."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="Forced: Remove 2 progress from stage 4B at the end of each round, if able.&#10;&#10;Travel: Spend 3 Í resources to travel here. (1 Í instead if stage 4B is the current quest.)"/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="19f36ec5-7ad4-4dab-80a7-4a7a6c716941" name="The Front Gate">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ruins. Mountain."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="Forced: Remove 2 progress from stage 2B at the end of each round, if able.&#10;&#10;Travel: Spend 3 Í resources to travel here. (1 Í instead if stage 2B is the current quest.)"/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="87d2f0c4-8874-4910-9bb4-4f2d06c64168" name="Hatred Rekindled">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each enemy engaged with a player makes an immediate attack. Do not deal shadow cards for attacks made by this effect. If no attacks were made by this effect, this card gains surge."/>
+    <property name="Shadow" value="Shadow: Attacking enemy makes an additional attack immediately after this one."/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="ac4724db-a3cc-4984-bef5-f51b0f4421f8" name="Goblins are Upon You!">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for a Goblin enemy and put it into play, engaged with him. Then, shuffle the encounter deck. (This effect cannot be canceled.)"/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each Goblin enemy engaged with you."/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="19e2470a-94c6-4f14-b824-7d2f952b60fd" name="Heedless of Order">
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: Choose a different quest to be the current quest until the end of the round, if able. If the current quest did not change as a result of this effect, this card gains Doomed 3."/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="1866ce74-8552-4ac5-8b0a-1e7a6f3b4338" name="Into Mirkwood - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Each player may shuffle 1 copy Bilbo's Magic Ring into his deck. Search the encounter deck for The Spider's Glade and set it aside, out of play. Then, shuffle the encounter deck and reveal 1 encounter card per player."/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="1"/>
+    <property name="Setup" value="t"/>
+    <alternate name="Into Mirkwood - 1B" type="B">
+      <property name="Quest Points" value="9"/>
+      <property name="Text" value="Unconscious characters cannot quest, attack, defend, collect resources, trigger abilities, be poisoned, or ready (except by effects that target unconscious characters)."/>
+    </alternate>
+  </card>
+  <card id="a4ffb8cd-fd95-4b47-95d1-637bd2bd78a1" name="Lost in the Dark - 2A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Lost in the Dark - 2B" type="B">
+      <property name="Quest Points" value="-"/>
+      <property name="Text" value="When Revealed: Reveal stage 3 and create a separate staging area for the first player using that stage. If there are no other players in the game, discard this stage and each card in its staging area. All other players advance to stage 4."/>
+    </alternate>
+  </card>
+  <card id="d99e07f6-7a57-4b5f-a108-13bd7ce6fa4b" name="Captured by Spiders - 3A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="When Revealed: Remove all resources from each hero's resource pool. Then, make each character you control (except Bilbo Baggins) unconscious."/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Captured by Spiders - 3B" type="B">
+      <property name="Quest Points" value="11"/>
+      <property name="Text" value="Unconscious characters cannot quest, attack, defend, collect resources, trigger abilities, be poisoned, or ready (except by effects that target unconscious characters).&#10;&#10;Do not pass the first player token. When this stage is complete, do not advance to stage 4 until the end of the quest phase. (Combine staging areas if necessary.)&#10;&#10;Action: Spend 2 Í resources to ready an unconscious character you control."/>
+    </alternate>
+  </card>
+  <card id="1ee75e10-bcc5-4243-ab28-3dc1978a50af" name="Battle with the Spiders - 4A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="When Revealed: Add The Spider's Glade to the staging area."/>
+    <property name="Encounter Set" value="Flies and Spiders"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Battle with the Spiders - 4B" type="B">
+      <property name="Quest Points" value="3"/>
+      <property name="Text" value="Unconscious characters cannot quest, attack, defend, collect resources, trigger abilities, be poisoned, or ready (except by effects that target unconscious characters).&#10;&#10;Progress cannot be placed on this stage while The Spider's Glade is in play.&#10;&#10;Action: Spend 2 Í resources to ready an unconscious character you control.&#10;&#10;If the players defeat this stage, they have won the game and discovered the treasure card Bilbo's Magic Ring."/>
+    </alternate>
+  </card>
+  <card id="57fc374c-ca6d-4556-9181-c1b578d7a01d" name="A Warm Welcome - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Search the encounter deck for Smaug the Golden, Smaug the Magnificent, The Lonely Mountain, and A Bare Patch. Set Smaug the Magnificent and A Bare Patch aside, out of play. Add Smaug the Golden and The Lonely Mountain to the staging area. Shuffle the five Erebor treasure cards and stack them facedown under The Lonely Mountain."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="1"/>
+    <property name="Setup" value="sstt"/>
+    <alternate name="A Warm Welcome - 1B" type="B">
+      <property name="Quest Points" value="-"/>
+      <property name="Text" value="Skip the Quest phase.&#10;&#10;Forced: At the end of round, advance to stage 2."/>
+    </alternate>
+  </card>
+  <card id="4355352b-307e-407b-98f9-3d4fb2a14a49" name="The Burglar's Turn - 2A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="The Burglar's Turn - 2B" type="B">
+      <property name="Quest Points" value="-"/>
+      <property name="Text" value="Forced: After questing successfully, place 1 progress on Smaug the Golden. Then, the first player makes a burgle attempt. If successful, the first player takes the top treasure card from under The Lonely Mountain into his hand. Then, the players may advance to stage 3.&#10;&#10;Forced: After the first player makes an unsuccessful burgle attempt, Smaug the Golden attacks the first player."/>
+    </alternate>
+  </card>
+  <card id="a944e2e1-56e4-461d-b703-db991b673b9b" name="Inside Information - 3A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="When Revealed: Set Smaug the Golden aside, out of play. Add Smaug the Magnificent and A Bare Patch to the staging area."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Inside Information - 3B" type="B">
+      <property name="Quest Points" value="20"/>
+      <property name="Text" value="Players cannot defeat this stage while Smaug the Magnificent is in play.&#10;&#10;Forced: If the total number of progress on this stage is greater than the total remaining hit points on Smaug the Magnificent, remove Smaug the Magnificent from play.&#10;&#10;If the players defeat this stage, they have won the game and discovered any treasure successfully burgled from The Lonely Mountain."/>
+    </alternate>
+  </card>
+  <card id="240a9f5b-17dc-4182-b854-3d2dd5a33f68" name="Thieves! Fire! Murder! - 4A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="When Revealed: Remove all progress from Smaug the Golden and set him aside, out of play. Then, add Smaug the Magnificent to the staging area."/>
+    <property name="Encounter Set" value="The Lonely Mountain"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Thieves! Fire! Murder! - 4B" type="B">
+      <property name="Quest Points" value="7"/>
+      <property name="Text" value="Forced: After placing the 7th progress token on this stage, remove all damage from Smaug the Magnificent and set him aside, out of play. Then, add Smaug the Golden to the staging area and reset the quest deck to stage 2B."/>
+    </alternate>
+  </card>
+  <card id="dfd05c9f-1dc1-4af6-a22f-fe39969c6371" name="The Gathering of the Clouds - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Search the encounter deck for Bolg and add it to the staging area. Then, shuffle the encounter deck and reveal 1 encounter card per player."/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="1"/>
+    <property name="Setup" value="s"/>
+    <alternate name="The Gathering of the Clouds - 1B" type="B">
+      <property name="Quest Points" value="-"/>
+      <property name="Text" value="When Revealed: Put stage 2, stage 3, and stage 4 into play at the same time. Then, remove this stage from play."/>
+    </alternate>
+  </card>
+  <card id="aa3355cb-57e1-4d8b-8a1b-9be22581a9f3" name="The Eastern Spur - 2A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="The Eastern Spur - 2B" type="B">
+      <property name="Quest Points" value="8"/>
+      <property name="Text" value="Players cannot advance from this stage unless stage 3 and stage 4 are complete.&#10;&#10;Forced: If there is no progress on this stage at the end of the round, each player must discard 1 random card from his hand."/>
+    </alternate>
+  </card>
+  <card id="81e81787-13b1-4bbf-a9ef-b8516deebbbc" name="Battle in the Dale - 3A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Battle in the Dale - 3B" type="B">
+      <property name="Quest Points" value="8"/>
+      <property name="Text" value="Players cannot advance from this stage unless stage 2 and stage 4 are complete.&#10;&#10;Forced: If there is no progress on this stage at the end of the round, the first player adds the topmost enemy in the discard pile to the staging area, if able."/>
+    </alternate>
+  </card>
+  <card id="54ed3453-1df4-458d-bc7d-e1f7c10de237" name="The Defense of Ravenhill - 4A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="The Defense of Ravenhill - 4B" type="B">
+      <property name="Quest Points" value="8"/>
+      <property name="Text" value="Players cannot advance from this stage unless stage 2 and stage 3 are complete.&#10;&#10;Forced: If there is no progress on this stage at the end of the round, each player must discard all resources from each hero's resource pool."/>
+    </alternate>
+  </card>
+  <card id="82514713-7cc4-4b76-a5f2-42a69ccff76b" name="The Clouds Burst - 5A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="The Battle of Five Armies"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="The Clouds Burst - 5B" type="B">
+      <property name="Quest Points" value="-"/>
+      <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for a copy of Bodyguard of Bolg and add it to the staging area, if able. Shuffle the encounter deck.&#10;&#10;Progress cannot be placed on this stage. While Bolg is in the staging area, it is considered to be engaged with the first player.&#10;&#10;If Bolg is destroyed, the players win the game."/>
+    </alternate>
+  </card>
+ </cards>
+</set>

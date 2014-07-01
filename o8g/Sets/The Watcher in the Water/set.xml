@@ -1,551 +1,238 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Watcher in the Water" id="51223bd0-ffd1-11df-a976-0801210c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
-  <cards>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9001" name="Aragorn">
-      <property name="Type" value="Hero" />
-      <property name="Sphere" value="Lore" />
-      <property name="Traits" value="Dunedain. Ranger." />
-      <property name="Quantity" value="1" />
-      <property name="Cost" value="12" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="3" />
-      <property name="Defense" value="2" />
-      <property name="Willpower" value="2" />
-      <property name="Health" value="5" />
-      <property name="Text" value="Refresh Action: Reduce your threat to your starting threat level. (Limit once per game.)" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Sentinel." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9002" name="Arwen Undomiel">
-      <property name="Type" value="Ally" />
-      <property name="Sphere" value="Spirit" />
-      <property name="Traits" value="Noldor. Noble." />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="2" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="0" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="2" />
-      <property name="Health" value="2" />
-      <property name="Text" value="Response: After Arwen Undomiel exhausts, choose a character. That character gains sentinel and gets +1 Ú until the end of the round." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9003" name="Disturbed Waters">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Doomed 5." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9004" name="Doors of Durin">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Traits" value="Gate." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Progress tokens that would be placed on Doors of Durin are instead placed on the current quest card.&#xA;&#xA;Action: Each player may discard any number of cards from his hand. Then, discard the top card of the encounter deck. If the first letter of the encounter card's title matches that of one of the discarded player cards, add Doors of Durin to your victory display. (Limit once per round.)" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="-" />
-      <property name="Victory Points" value="3" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9005" name="Elrond's Counsel">
-      <property name="Type" value="Event" />
-      <property name="Sphere" value="Spirit" />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="0" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Action: If you control a unique Noldor character, give another character +1 Ò until the end of the phase and lower your threat by 3." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9006" name="Grasping Tentacle">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Traits" value="Tentacle." />
-      <property name="Quantity" value="4" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="12" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="3" />
-      <property name="Defense" value="0" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="3" />
-      <property name="Text" value="Forced: When Grasping Tentacle is attacked, discard the top card of the encounter deck. If that card has a shadow effect or is a Tentacle enemy, attach this card to an attacking character as a Tentacle attachment with the text: &quot;Attached character's Û and Ú are reduced to 0.&quot;" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9007" name="Grave Cairn">
-      <property name="Type" value="Event" />
-      <property name="Sphere" value="Leadership" />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="1" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Response: After a character leaves play, add its Û to another character's Û until the end of the round." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9008" name="Ill Purpose">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="When Revealed: All enemies in the staging area engage the player with the highest threat. Then, each player raises his threat by the total $ of all cards in the staging area." />
-      <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+3 Û instead if it is a Tentacle.)" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9009" name="Legacy of Durin">
-      <property name="Type" value="Attachment" />
-      <property name="Sphere" value="Lore" />
-      <property name="Traits" value="Condition." />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="1" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Response: After you play a Dwarf character from your hand, draw 1 card." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Attach to a Dwarf hero." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9010" name="Makeshift Passage">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Traits" value="Swamp." />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Forced: After you travel to Makeshift Passage, place 2 progress tokens on the current quest card, bypassing any active location." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="1" />
-      <property name="Quest Points" value="5" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9011" name="Perilous Swamp">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Traits" value="Swamp." />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="No more than 1 progress token can be placed on Perilous Swamp each round." />
-      <property name="Shadow" value="Shadow: Remove 1 progress token from the current quest." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="4" />
-      <property name="Quest Points" value="2" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9012" name="Resourceful">
-      <property name="Type" value="Attachment" />
-      <property name="Sphere" value="Neutral" />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="4" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Attach to a hero you control.&#xA;&#xA;Attached hero collects 1 additional resource during the resource phase each round." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Secrecy 3." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9013" name="Rivendell Bow">
-      <property name="Type" value="Attachment" />
-      <property name="Sphere" value="Tactics" />
-      <property name="Traits" value="Item. Weapon." />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="1" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Attach to a Noldor or Silvan character, or to Aragorn. Limit 1 per character.&#xA;&#xA;Attached character gains ranged.&#xA;&#xA;If attached character has a printed ranged keyword, it gets +1 Û during a ranged attack." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9014" name="Short Cut">
-      <property name="Type" value="Event" />
-      <property name="Sphere" value="Lore" />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="1" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Response: After a location enters play, exhaust a Hobbit character to shuffle that location back into the encounter deck. Then, reveal 1 card from the encounter deck and add it to the staging area." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9015" name="Stagnant Creek">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Traits" value="Swamp." />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: Discard the top card of the encounter deck. If the discarded card is a Tentacle enemy, add that card to the staging area and raise each player's threat by 5." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="3" />
-      <property name="Quest Points" value="3" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9016" name="Stair Falls">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Traits" value="Stair." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Travel: The first player must exhaust 2 characters to travel here." />
-      <property name="Shadow" value="Shadow: Remove 1 progress token from the current quest." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="4" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9017" name="Striking Tentacle">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Traits" value="Tentacle." />
-      <property name="Quantity" value="4" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="18" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="4" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="3" />
-      <property name="Text" value="Forced: When Striking Tentacle attacks, discard the top card of the encounter deck. If that card has a shadow effect or is a Tentacle enemy, this attack is considered undefended." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9018" name="Sword that was Broken">
-      <property name="Type" value="Attachment" />
-      <property name="Sphere" value="Leadership" />
-      <property name="Traits" value="Artifact." />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="3" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Attached hero gains a Ì resource icon.&#xA;&#xA;If attached hero is Aragorn, each character you control gets +1 Ò." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Attach to a hero." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9019" name="The Seething Lake - 2A">
-      <property name="Type" value="Quest" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-      <alternate name="The Seething Lake - 2B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Encounter Set" value="The Watcher in the Water" />
-        <property name="Quantity" value="1" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="When Revealed: Add The Watcher to the staging area. Doors of Durin becomes the active location, moving any previous active location to the staging area. Shuffle all Tentacle cards in the encounter discard pile back into the encounter deck.&#xA;&#xA;If the players have at least 3 victory points and defeat this stage, they have won the game." />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="" />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="5" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9021" name="The Watcher">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Traits" value="Creature. Tentacle." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="48" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="5" />
-      <property name="Defense" value="7" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="9" />
-      <property name="Text" value="While there is another Tentacle enemy in play, The Watcher cannot be optionally engaged.&#xA;&#xA;If The Watcher is in the staging area at the end of the combat phase, each player must deal 3 damage to 1 character he controls." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Regenerate 2." />
-      <property name="Threat" value="4" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="3" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9022" name="Thrashing Tentacle">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Traits" value="Tentacle." />
-      <property name="Quantity" value="4" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="12" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="3" />
-      <property name="Defense" value="0" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="3" />
-      <property name="Text" value="Forced: When Thrashing Tentacle is attacked, discard the top card of the encounter deck. If that card has a shadow effect or is a Tentacle enemy, deal the damage from the attack to 1 character an attacking player controls (ignoring defense)." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9023" name="To the West-door - 1A">
-      <property name="Type" value="Quest" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="tt" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Setup: Remove The Watcher and Doors of Durin from the encounter deck and set them aside, out of play." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-      <alternate name="To the West-door - 1B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Encounter Set" value="The Watcher in the Water" />
-        <property name="Quantity" value="1" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="When Revealed: Reveal cards from the encounter deck and add them to the staging area until there is at least X $ in the staging area. X is twice the number of players in the game." />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="" />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="13" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9025" name="Watcher of the Bruinen">
-      <property name="Type" value="Ally" />
-      <property name="Sphere" value="Tactics" />
-      <property name="Traits" value="Noldor. Warrior." />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="2" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="1" />
-      <property name="Defense" value="2" />
-      <property name="Willpower" value="0" />
-      <property name="Health" value="2" />
-      <property name="Text" value="Watcher of the Bruinen does not exhaust to defend.&#xA;&#xA;Forced: After Watcher of the Bruinen defends, either discard it from play or discard 1 card from your hand." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Sentinel." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801210c9026" name="Wrapped!">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="The Watcher in the Water" />
-      <property name="Traits" value="Tentacle." />
-      <property name="Quantity" value="4" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When Revealed: The first player attaches Wrapped! to a hero he controls. (Counts as a Tentacle attachment with the text: &quot;Limit 1 per hero. Attached hero cannot exhaust or ready. At the end of the round, discard attached hero from play. Combat Action: Exhaust a hero you control without a Tentacle attachment to discard Wrapped!.&quot;)" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-  </cards>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Watcher in the Water" id="51223bd0-ffd1-11df-a976-0801210c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
+ <cards>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9001" name="Aragorn">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Dunedain. Ranger."/>
+    <property name="Keywords" value="Sentinel."/>
+    <property name="Cost" value="12"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="Refresh Action: Reduce your threat to your starting threat level. (Limit once per game.)"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9007" name="Grave Cairn">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After a character leaves play, add its Û to another character's Û until the end of the round."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9018" name="Sword that was Broken">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Artifact."/>
+    <property name="Keywords" value="Attach to a hero."/>
+    <property name="Cost" value="3"/>
+    <property name="Text" value="Attached hero gains a Ì resource icon.&#10;&#10;If attached hero is Aragorn, each character you control gets +1 Ò."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9025" name="Watcher of the Bruinen">
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Noldor. Warrior."/>
+    <property name="Keywords" value="Sentinel."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Watcher of the Bruinen does not exhaust to defend.&#10;&#10;Forced: After Watcher of the Bruinen defends, either discard it from play or discard 1 card from your hand."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9013" name="Rivendell Bow">
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Item. Weapon."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Attach to a Noldor or Silvan character, or to Aragorn. Limit 1 per character.&#10;&#10;Attached character gains ranged.&#10;&#10;If attached character has a printed ranged keyword, it gets +1 Û during a ranged attack."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9002" name="Arwen Undomiel">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Noldor. Noble."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Response: After Arwen Undomiel exhausts, choose a character. That character gains sentinel and gets +1 Ú until the end of the round."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9005" name="Elrond's Counsel">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Action: If you control a unique Noldor character, give another character +1 Ò until the end of the phase and lower your threat by 3."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9014" name="Short Cut">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After a location enters play, exhaust a Hobbit character to shuffle that location back into the encounter deck. Then, reveal 1 card from the encounter deck and add it to the staging area."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9009" name="Legacy of Durin">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Condition."/>
+    <property name="Keywords" value="Attach to a Dwarf hero."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After you play a Dwarf character from your hand, draw 1 card."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9012" name="Resourceful">
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Keywords" value="Secrecy 3."/>
+    <property name="Cost" value="4"/>
+    <property name="Text" value="Attach to a hero you control.&#10;&#10;Attached hero collects 1 additional resource during the resource phase each round."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9023" name="To the West-door - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Remove The Watcher and Doors of Durin from the encounter deck and set them aside, out of play."/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="1"/>
+    <property name="Setup" value="tt"/>
+    <alternate name="To the West-door - 1B" type="B">
+      <property name="Quest Points" value="13"/>
+      <property name="Text" value="When Revealed: Reveal cards from the encounter deck and add them to the staging area until there is at least X $ in the staging area. X is twice the number of players in the game."/>
+    </alternate>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9019" name="The Seething Lake - 2A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="The Seething Lake - 2B" type="B">
+      <property name="Quest Points" value="5"/>
+      <property name="Text" value="When Revealed: Add The Watcher to the staging area. Doors of Durin becomes the active location, moving any previous active location to the staging area. Shuffle all Tentacle cards in the encounter discard pile back into the encounter deck.&#10;&#10;If the players have at least 3 victory points and defeat this stage, they have won the game."/>
+    </alternate>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9004" name="Doors of Durin">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Gate."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="Progress tokens that would be placed on Doors of Durin are instead placed on the current quest card.&#10;&#10;Action: Each player may discard any number of cards from his hand. Then, discard the top card of the encounter deck. If the first letter of the encounter card's title matches that of one of the discarded player cards, add Doors of Durin to your victory display. (Limit once per round.)"/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9015" name="Stagnant Creek">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Swamp."/>
+    <property name="Threat" value="3"/>
+    <property name="Text" value="When Revealed: Discard the top card of the encounter deck. If the discarded card is a Tentacle enemy, add that card to the staging area and raise each player's threat by 5."/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9011" name="Perilous Swamp">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Swamp."/>
+    <property name="Threat" value="4"/>
+    <property name="Text" value="No more than 1 progress token can be placed on Perilous Swamp each round."/>
+    <property name="Shadow" value="Shadow: Remove 1 progress token from the current quest."/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9010" name="Makeshift Passage">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Swamp."/>
+    <property name="Threat" value="1"/>
+    <property name="Text" value="Forced: After you travel to Makeshift Passage, place 2 progress tokens on the current quest card, bypassing any active location."/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9016" name="Stair Falls">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Stair."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="Travel: The first player must exhaust 2 characters to travel here."/>
+    <property name="Shadow" value="Shadow: Remove 1 progress token from the current quest."/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9008" name="Ill Purpose">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: All enemies in the staging area engage the player with the highest threat. Then, each player raises his threat by the total $ of all cards in the staging area."/>
+    <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+3 Û instead if it is a Tentacle.)"/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9003" name="Disturbed Waters">
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Doomed 5."/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9021" name="The Watcher">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Tentacle."/>
+    <property name="Keywords" value="Regenerate 2."/>
+    <property name="Engagement Cost" value="48"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="7"/>
+    <property name="Health" value="9"/>
+    <property name="Text" value="While there is another Tentacle enemy in play, The Watcher cannot be optionally engaged.&#10;&#10;If The Watcher is in the staging area at the end of the combat phase, each player must deal 3 damage to 1 character he controls."/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9006" name="Grasping Tentacle">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Tentacle."/>
+    <property name="Engagement Cost" value="12"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Forced: When Grasping Tentacle is attacked, discard the top card of the encounter deck. If that card has a shadow effect or is a Tentacle enemy, attach this card to an attacking character as a Tentacle attachment with the text: &quot;Attached character's Û and Ú are reduced to 0.&quot;"/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9017" name="Striking Tentacle">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Tentacle."/>
+    <property name="Engagement Cost" value="18"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Forced: When Striking Tentacle attacks, discard the top card of the encounter deck. If that card has a shadow effect or is a Tentacle enemy, this attack is considered undefended."/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9022" name="Thrashing Tentacle">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Tentacle."/>
+    <property name="Engagement Cost" value="12"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Forced: When Thrashing Tentacle is attacked, discard the top card of the encounter deck. If that card has a shadow effect or is a Tentacle enemy, deal the damage from the attack to 1 character an attacking player controls (ignoring defense)."/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9026" name="Wrapped!">
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Tentacle."/>
+    <property name="Text" value="When Revealed: The first player attaches Wrapped! to a hero he controls. (Counts as a Tentacle attachment with the text: &quot;Limit 1 per hero. Attached hero cannot exhaust or ready. At the end of the round, discard attached hero from play. Combat Action: Exhaust a hero you control without a Tentacle attachment to discard Wrapped!.&quot;)"/>
+    <property name="Encounter Set" value="The Watcher in the Water"/>
+    <property name="Quantity" value="4"/>
+  </card>
+ </cards>
 </set>

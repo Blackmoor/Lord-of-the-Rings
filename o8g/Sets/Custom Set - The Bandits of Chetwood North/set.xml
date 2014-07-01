@@ -1,350 +1,127 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - The Bandits of Chetwood North" id="f29996d5-da52-4019-9919-eb1f248c661b" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
-  <cards>
-    <card id="4bf49a9c-504a-4237-a293-a780c3ff6585" name="Bandit Thug">
-      <property name="Type" value="Enemy" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="3" />
-      <property name="Traits" value="Bandit" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="4" />
-      <property name="Attack" value="3" />
-      <property name="Defense" value="2" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="22" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="1" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="ecab9424-80f0-43c9-b89e-2b6096c421e7" name="Harding">
-      <property name="Type" value="Hero" />
-      <property name="Sphere" value="Tactics" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="" />
-      <property name="Cost" value="10" />
-      <property name="Quantity" value="" />
-      <property name="Traits" value="Rohan. Warrior." />
-      <property name="Willpower" value="1" />
-      <property name="Health" value="4" />
-      <property name="Attack" value="3" />
-      <property name="Defense" value="2" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="dc7c65eb-fe1e-4810-95b1-10f7334fcb1c" name="Chetwood Tracker">
-      <property name="Type" value="Enemy" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="2" />
-      <property name="Traits" value="Bandit." />
-      <property name="Willpower" value="" />
-      <property name="Health" value="3" />
-      <property name="Attack" value="2" />
-      <property name="Defense" value="1" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="28" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="2" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="6a72382b-384c-48a2-bd06-88975b871a91" name="Adella Aspensor">
-      <property name="Type" value="Enemy" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Traits" value="Bandit." />
-      <property name="Willpower" value="" />
-      <property name="Health" value="5" />
-      <property name="Attack" value="6" />
-      <property name="Defense" value="3" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="40" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="0" />
-      <property name="Victory Points" value="5" />
-    </card>
-    <card id="23d1dee5-1d13-4846-82e5-83d4039c9649" name="Sam Aspensor">
-      <property name="Type" value="Enemy" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Traits" value="Bandit." />
-      <property name="Willpower" value="" />
-      <property name="Health" value="6" />
-      <property name="Attack" value="4" />
-      <property name="Defense" value="3" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="34" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="3" />
-      <property name="Victory Points" value="5" />
-    </card>
-    <card id="181196c2-08f8-4a35-8a85-baf4cc7eb464" name="Bree Land Treasure">
-      <property name="Type" value="Objective" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="8" />
-      <property name="Traits" value="Item." />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-    </card>
-    <card id="2c3eee61-f1dc-4a5d-843e-a4f87a04f66e" name="Bandit Hideout">
-      <property name="Type" value="Location" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="2" />
-      <property name="Traits" value="Forest." />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="3" />
-    </card>
-    <card id="080c8c11-0e46-424d-b866-570f902315bd" name="Chestwood Outskirts - 1A">
-      <property name="Type" value="Quest" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="sstttttttttttt" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Traits" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-      <alternate name="Chestwood Outskirts - 1B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Sphere" value="" />
-        <property name="Unique" value="" />
-        <property name="Keywords" value="" />
-        <property name="Setup" value="" />
-        <property name="Cost" value="" />
-        <property name="Quantity" value="1" />
-        <property name="Traits" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Text" value="" />
-        <property name="Quest Points" value="4" />
-        <property name="Encounter Set" value="The Bandits of Chetwood North" />
-        <property name="Engagement Cost" value="" />
-        <property name="Shadow" value="" />
-        <property name="Threat" value="" />
-      </alternate>
-    </card>
-    <card id="9e082289-d5ec-4d13-98af-fa8880f02346" name="Tracked!">
-      <property name="Type" value="Treachery" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="2" />
-      <property name="Traits" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-    </card>
-    <card id="7d77ed0c-4967-4a18-b639-79358939077a" name="Adella's Fight - 3A">
-      <property name="Type" value="Quest" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Traits" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-      <alternate name="Adella's Fight - 3B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Sphere" value="" />
-        <property name="Unique" value="" />
-        <property name="Keywords" value="" />
-        <property name="Setup" value="" />
-        <property name="Cost" value="" />
-        <property name="Quantity" value="1" />
-        <property name="Traits" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Text" value="" />
-        <property name="Quest Points" value="14" />
-        <property name="Encounter Set" value="The Bandits of Chetwood North" />
-        <property name="Engagement Cost" value="" />
-        <property name="Shadow" value="" />
-        <property name="Threat" value="" />
-      </alternate>
-    </card>
-    <card id="5cb4f13a-2bfa-4eda-8072-2fee102a5570" name="Chestwood Lookout">
-      <property name="Type" value="Enemy" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="3" />
-      <property name="Traits" value="Bandit." />
-      <property name="Willpower" value="" />
-      <property name="Health" value="3" />
-      <property name="Attack" value="2" />
-      <property name="Defense" value="0" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="30" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="3" />
-    </card>
-    <card id="cc906386-f8ec-4fd2-9ca6-74be679bc98c" name="Searching for Stolen Treasure - 2A">
-      <property name="Type" value="Quest" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Traits" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-      <alternate name="Searching for Stolen Treasure - 2B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Sphere" value="" />
-        <property name="Unique" value="" />
-        <property name="Keywords" value="" />
-        <property name="Setup" value="" />
-        <property name="Cost" value="" />
-        <property name="Quantity" value="1" />
-        <property name="Traits" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Text" value="" />
-        <property name="Quest Points" value="8" />
-        <property name="Encounter Set" value="The Bandits of Chetwood North" />
-        <property name="Engagement Cost" value="" />
-        <property name="Shadow" value="" />
-        <property name="Threat" value="" />
-      </alternate>
-    </card>
-    <card id="3b4c6041-12c2-44f9-8c41-6c3ccade2856" name="Ambuscade">
-      <property name="Type" value="Treachery" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="2" />
-      <property name="Traits" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-    </card>
-    <card id="28a8f872-d99f-42bf-86a9-92ee2a3c656d" name="Chetwood Path">
-      <property name="Type" value="Location" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Setup" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="2" />
-      <property name="Traits" value="Forest." />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="The Bandits of Chetwood North" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-    </card>
-  </cards>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - The Bandits of Chetwood North" id="f29996d5-da52-4019-9919-eb1f248c661b" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
+ <cards>
+  <card id="ecab9424-80f0-43c9-b89e-2b6096c421e7" name="Harding">
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Rohan. Warrior."/>
+    <property name="Cost" value="10"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+  </card>
+  <card id="6a72382b-384c-48a2-bd06-88975b871a91" name="Adella Aspensor">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Bandit."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="0"/>
+    <property name="Attack" value="6"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="5"/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="5"/>
+  </card>
+  <card id="4bf49a9c-504a-4237-a293-a780c3ff6585" name="Bandit Thug">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Bandit"/>
+    <property name="Engagement Cost" value="22"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="5cb4f13a-2bfa-4eda-8072-2fee102a5570" name="Chestwood Lookout">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Bandit."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="3"/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="dc7c65eb-fe1e-4810-95b1-10f7334fcb1c" name="Chetwood Tracker">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Bandit."/>
+    <property name="Engagement Cost" value="28"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="23d1dee5-1d13-4846-82e5-83d4039c9649" name="Sam Aspensor">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Bandit."/>
+    <property name="Engagement Cost" value="34"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="6"/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="5"/>
+  </card>
+  <card id="2c3eee61-f1dc-4a5d-843e-a4f87a04f66e" name="Bandit Hideout">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Threat" value="3"/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="28a8f872-d99f-42bf-86a9-92ee2a3c656d" name="Chetwood Path">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="181196c2-08f8-4a35-8a85-baf4cc7eb464" name="Bree Land Treasure">
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Item."/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+    <property name="Quantity" value="8"/>
+  </card>
+  <card id="080c8c11-0e46-424d-b866-570f902315bd" name="Chestwood Outskirts - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+    <property name="Quantity" value="1"/>
+    <property name="Setup" value="sstttttttttttt"/>
+    <alternate name="Chestwood Outskirts - 1B" type="B">
+      <property name="Quest Points" value="4"/>
+    </alternate>
+  </card>
+  <card id="cc906386-f8ec-4fd2-9ca6-74be679bc98c" name="Searching for Stolen Treasure - 2A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Searching for Stolen Treasure - 2B" type="B">
+      <property name="Quest Points" value="8"/>
+    </alternate>
+  </card>
+  <card id="7d77ed0c-4967-4a18-b639-79358939077a" name="Adella's Fight - 3A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Adella's Fight - 3B" type="B">
+      <property name="Quest Points" value="14"/>
+    </alternate>
+  </card>
+  <card id="3b4c6041-12c2-44f9-8c41-6c3ccade2856" name="Ambuscade">
+    <property name="Type" value="Treachery"/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="9e082289-d5ec-4d13-98af-fa8880f02346" name="Tracked!">
+    <property name="Type" value="Treachery"/>
+    <property name="Encounter Set" value="The Bandits of Chetwood North"/>
+    <property name="Quantity" value="2"/>
+  </card>
+ </cards>
 </set>

@@ -1,593 +1,251 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Road to Rivendell" id="51223bd0-ffd1-11df-a976-0801209c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
-  <cards>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9001" name="Along the Misty Mountains - 1A">
-      <property name="Type" value="Quest" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="t" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Setup: Put Arwen Undomiel into play under the control of the first player. Shuffle the encounter deck. Reveal 1 card from the encounter deck per player, and add them to the staging area." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-      <alternate name="Along the Misty Mountains - 1B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Encounter Set" value="Road to Rivendell" />
-        <property name="Quantity" value="1" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="" />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="" />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="20" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9003" name="Approaching Rivendell - 3A">
-      <property name="Type" value="Quest" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-      <alternate name="Approaching Rivendell - 3B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Encounter Set" value="Road to Rivendell" />
-        <property name="Quantity" value="1" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area.&#xA;&#xA;Characters cannot be healed.&#xA;&#xA;If the players defeat this stage, they have won the game." />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="" />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="13" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9005" name="Arwen Undomiel">
-      <property name="Type" value="Objective" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Traits" value="Noldor. Noble. Ally." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="0" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="2" />
-      <property name="Health" value="2" />
-      <property name="Text" value="The first player gains control of Arwen Undomiel, as an ally.&#xA;&#xA;Response: After Arwen Undomiel exhausts, choose a hero. Add 1 resource to that hero's resource pool.&#xA;&#xA;If Arwen Undomiel leaves play, the players are defeated." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9006" name="Barren Hills">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Traits" value="Hills." />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="While Barren Hills is the active location, ignore ambush." />
-      <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="4" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9007" name="Bombur">
-      <property name="Type" value="Ally" />
-      <property name="Sphere" value="Lore" />
-      <property name="Traits" value="Dwarf." />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="3" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="0" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="0" />
-      <property name="Health" value="3" />
-      <property name="Text" value="Action: Exhaust Bombur to choose a location. That location gets -1 $ until the end of the phase. (That location does not contribute its $ instead if it is an Underground location.)" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9008" name="Crebain">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Traits" value="Creature." />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="35" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="0" />
-      <property name="Defense" value="0" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="3" />
-      <property name="Text" value="While Crebain is in the staging area, encounter card effects cannot be canceled." />
-      <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks." />
-      <property name="Keywords" value="Surge." />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9009" name="Dunedain Wanderer">
-      <property name="Type" value="Ally" />
-      <property name="Sphere" value="Leadership" />
-      <property name="Traits" value="Dunedain. Ranger." />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="5" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="2" />
-      <property name="Defense" value="2" />
-      <property name="Willpower" value="1" />
-      <property name="Health" value="2" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Ranged. Sentinel. Secrecy 3." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9010" name="Elladan">
-      <property name="Type" value="Hero" />
-      <property name="Sphere" value="Tactics" />
-      <property name="Traits" value="Noldor. Noble. Ranger." />
-      <property name="Quantity" value="1" />
-      <property name="Cost" value="10" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="1" />
-      <property name="Defense" value="2" />
-      <property name="Willpower" value="2" />
-      <property name="Health" value="4" />
-      <property name="Text" value="While Elrohir is in play, Elladan gets +2 Û.&#xA;&#xA;Response: After Elladan is declared as an attacker, pay 1 resource from his resource pool to ready him." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9011" name="Followed by Night">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="When Revealed: The first player (choose 1): deals 1 damage to all allies in play and Followed by Night gains surge, or all enemies engaged with players make an immediate attack, if able." />
-      <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9012" name="Goblin Gate">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Traits" value="Gate." />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="While Goblin Gate is the active location, the first enemy revealed from the encounter deck each round gains ambush. If that enemy engages a player, it makes an immediate attack (deal and resolve a shadow card)." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="5" />
-      <property name="Quest Points" value="4" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9013" name="Goblin Taskmaster">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Traits" value="Goblin. Orc." />
-      <property name="Quantity" value="4" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="27" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="2" />
-      <property name="Defense" value="2" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="4" />
-      <property name="Text" value="Forced: After Goblin Taskmaster engages a player, that player deals 2 damage to 1 character he controls." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Ambush." />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9014" name="Hail of Stones">
-      <property name="Type" value="Event" />
-      <property name="Sphere" value="Tactics" />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="1" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Action: Exhaust X characters to deal X damage to an enemy in the staging area." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9015" name="Lure of Moria">
-      <property name="Type" value="Event" />
-      <property name="Sphere" value="Leadership" />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="3" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Action: Ready all Dwarf characters." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9016" name="Orc Ambush">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="When Revealed: All Orc enemies in the staging area engage the first player. If there are no Orc enemies in the staging area, return all Orc enemies in the encounter discard pile to the staging area, if able." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Surge." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9017" name="Orc Outpost - 2A">
-      <property name="Type" value="Quest" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Quantity" value="1" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-      <alternate name="Orc Outpost - 2B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Encounter Set" value="Road to Rivendell" />
-        <property name="Quantity" value="1" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="When Revealed: Search the encounter deck and discard pile for Goblin Gate and add it to the staging area, if able. Then, if there is no active location, Goblin Gate becomes the active location." />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="" />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="7" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9019" name="Orc Raiders">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Traits" value="Orc." />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="21" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="3" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="3" />
-      <property name="Text" value="Forced: After Orc Raiders engages a player, that player discards 2 attachments he controls, if able." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Ambush." />
-      <property name="Threat" value="1" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9020" name="Out of the Wild">
-      <property name="Type" value="Event" />
-      <property name="Sphere" value="Lore" />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="3" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Action: Search the top 5 cards of the encounter deck for any 1 non-objective card worth no victory points and add it to your victory display. Shuffle the encounter deck." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Secrecy 2." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9021" name="Pathless Country">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Traits" value="Hills." />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Forced: After at least 1 progress token is placed on Pathless Country, remove 1 progress token from it." />
-      <property name="Shadow" value="Shadow: Deal 1 damage to each ally in play." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="3" />
-      <property name="Quest Points" value="5" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9022" name="Rider of the Mark">
-      <property name="Type" value="Ally" />
-      <property name="Sphere" value="Spirit" />
-      <property name="Traits" value="Rohan." />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="3" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="1" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="2" />
-      <property name="Health" value="2" />
-      <property name="Text" value="Action: Spend 1 Ê resource to give control of Rider of the Mark to another player. (Limit once per round.)&#xA;&#xA;Response: After Rider of the Mark changes control, discard a shadow card dealt to an enemy you are engaged with." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9023" name="Rivendell Blade">
-      <property name="Type" value="Attachment" />
-      <property name="Sphere" value="Tactics" />
-      <property name="Traits" value="Item. Weapon." />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="1" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="When attached character attacks an enemy, that enemy gets -2 Ú until the end of the phase." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Attach to a Noldor or Silvan character. Restricted." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9024" name="Ruined Road">
-      <property name="Type" value="Location" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Traits" value="Road." />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Response: After you travel to Ruined Road, the first player places 2 progress tokens on it or readies 1 hero he controls." />
-      <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="1" />
-      <property name="Quest Points" value="5" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9025" name="Sleeping Sentry">
-      <property name="Type" value="Treachery" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Quantity" value="2" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="When Revealed: Deal 1 damage to each exhausted character. Then, exhaust all ready characters." />
-      <property name="Shadow" value="Shadow: Defending player must discard all exhausted characters he controls." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9026" name="Song of Earendil">
-      <property name="Type" value="Attachment" />
-      <property name="Sphere" value="Spirit" />
-      <property name="Traits" value="Song." />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="1" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Text" value="Response: After Song of Earendil enters play, draw 1 card.&#xA;&#xA;Response: After another player raises his threat, raise your threat by 1 to reduce that player's threat by 1." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Attach to a Ê hero." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9027" name="The End Comes">
-      <property name="Type" value="Event" />
-      <property name="Sphere" value="Neutral" />
-      <property name="Quantity" value="3" />
-      <property name="Cost" value="0" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Response: After a Dwarf character leaves play, shuffle the encounter discard pile back into the encounter deck." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801209c9028" name="Wild Bear">
-      <property name="Type" value="Enemy" />
-      <property name="Encounter Set" value="Road to Rivendell" />
-      <property name="Traits" value="Creature." />
-      <property name="Quantity" value="3" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="34" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="2" />
-      <property name="Defense" value="3" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="5" />
-      <property name="Text" value="Forced: After Wild Bear engages a player, it makes an immediate attack." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Ambush." />
-      <property name="Threat" value="0" />
-      <property name="Quest Points" value="" />
-      <property name="Victory Points" value="" />
-    </card>
-  </cards>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Road to Rivendell" id="51223bd0-ffd1-11df-a976-0801209c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
+ <cards>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9010" name="Elladan">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Noldor. Noble. Ranger."/>
+    <property name="Cost" value="10"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="While Elrohir is in play, Elladan gets +2 Û.&#10;&#10;Response: After Elladan is declared as an attacker, pay 1 resource from his resource pool to ready him."/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9009" name="Dunedain Wanderer">
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Dunedain. Ranger."/>
+    <property name="Keywords" value="Ranged. Sentinel. Secrecy 3."/>
+    <property name="Cost" value="5"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9015" name="Lure of Moria">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Cost" value="3"/>
+    <property name="Text" value="Action: Ready all Dwarf characters."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9023" name="Rivendell Blade">
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Item. Weapon."/>
+    <property name="Keywords" value="Attach to a Noldor or Silvan character. Restricted."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="When attached character attacks an enemy, that enemy gets -2 Ú until the end of the phase."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9014" name="Hail of Stones">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Exhaust X characters to deal X damage to an enemy in the staging area."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9022" name="Rider of the Mark">
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Rohan."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Action: Spend 1 Ê resource to give control of Rider of the Mark to another player. (Limit once per round.)&#10;&#10;Response: After Rider of the Mark changes control, discard a shadow card dealt to an enemy you are engaged with."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9026" name="Song of Earendil">
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Song."/>
+    <property name="Keywords" value="Attach to a Ê hero."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After Song of Earendil enters play, draw 1 card.&#10;&#10;Response: After another player raises his threat, raise your threat by 1 to reduce that player's threat by 1."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9007" name="Bombur">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Dwarf."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Action: Exhaust Bombur to choose a location. That location gets -1 $ until the end of the phase. (That location does not contribute its $ instead if it is an Underground location.)"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9020" name="Out of the Wild">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Keywords" value="Secrecy 2."/>
+    <property name="Cost" value="3"/>
+    <property name="Text" value="Action: Search the top 5 cards of the encounter deck for any 1 non-objective card worth no victory points and add it to your victory display. Shuffle the encounter deck."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9027" name="The End Comes">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Response: After a Dwarf character leaves play, shuffle the encounter discard pile back into the encounter deck."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9001" name="Along the Misty Mountains - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Put Arwen Undomiel into play under the control of the first player. Shuffle the encounter deck. Reveal 1 card from the encounter deck per player, and add them to the staging area."/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="1"/>
+    <property name="Setup" value="t"/>
+    <alternate name="Along the Misty Mountains - 1B" type="B">
+      <property name="Quest Points" value="20"/>
+    </alternate>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9017" name="Orc Outpost - 2A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Orc Outpost - 2B" type="B">
+      <property name="Quest Points" value="7"/>
+      <property name="Text" value="When Revealed: Search the encounter deck and discard pile for Goblin Gate and add it to the staging area, if able. Then, if there is no active location, Goblin Gate becomes the active location."/>
+    </alternate>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9003" name="Approaching Rivendell - 3A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Approaching Rivendell - 3B" type="B">
+      <property name="Quest Points" value="13"/>
+      <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area.&#10;&#10;Characters cannot be healed.&#10;&#10;If the players defeat this stage, they have won the game."/>
+    </alternate>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9005" name="Arwen Undomiel">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Noldor. Noble. Ally."/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="The first player gains control of Arwen Undomiel, as an ally.&#10;&#10;Response: After Arwen Undomiel exhausts, choose a hero. Add 1 resource to that hero's resource pool.&#10;&#10;If Arwen Undomiel leaves play, the players are defeated."/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9024" name="Ruined Road">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Road."/>
+    <property name="Threat" value="1"/>
+    <property name="Text" value="Response: After you travel to Ruined Road, the first player places 2 progress tokens on it or readies 1 hero he controls."/>
+    <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks."/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9012" name="Goblin Gate">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Gate."/>
+    <property name="Threat" value="5"/>
+    <property name="Text" value="While Goblin Gate is the active location, the first enemy revealed from the encounter deck each round gains ambush. If that enemy engages a player, it makes an immediate attack (deal and resolve a shadow card)."/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9021" name="Pathless Country">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Hills."/>
+    <property name="Threat" value="3"/>
+    <property name="Text" value="Forced: After at least 1 progress token is placed on Pathless Country, remove 1 progress token from it."/>
+    <property name="Shadow" value="Shadow: Deal 1 damage to each ally in play."/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9006" name="Barren Hills">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Hills."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="While Barren Hills is the active location, ignore ambush."/>
+    <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks."/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9025" name="Sleeping Sentry">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Deal 1 damage to each exhausted character. Then, exhaust all ready characters."/>
+    <property name="Shadow" value="Shadow: Defending player must discard all exhausted characters he controls."/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9011" name="Followed by Night">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: The first player (choose 1): deals 1 damage to all allies in play and Followed by Night gains surge, or all enemies engaged with players make an immediate attack, if able."/>
+    <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks."/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9016" name="Orc Ambush">
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: All Orc enemies in the staging area engage the first player. If there are no Orc enemies in the staging area, return all Orc enemies in the encounter discard pile to the staging area, if able."/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9013" name="Goblin Taskmaster">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Goblin. Orc."/>
+    <property name="Keywords" value="Ambush."/>
+    <property name="Engagement Cost" value="27"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Forced: After Goblin Taskmaster engages a player, that player deals 2 damage to 1 character he controls."/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9019" name="Orc Raiders">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc."/>
+    <property name="Keywords" value="Ambush."/>
+    <property name="Engagement Cost" value="21"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Forced: After Orc Raiders engages a player, that player discards 2 attachments he controls, if able."/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9008" name="Crebain">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature."/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="While Crebain is in the staging area, encounter card effects cannot be canceled."/>
+    <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks."/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801209c9028" name="Wild Bear">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature."/>
+    <property name="Keywords" value="Ambush."/>
+    <property name="Engagement Cost" value="34"/>
+    <property name="Threat" value="0"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="Forced: After Wild Bear engages a player, it makes an immediate attack."/>
+    <property name="Encounter Set" value="Road to Rivendell"/>
+    <property name="Quantity" value="3"/>
+  </card>
+ </cards>
 </set>

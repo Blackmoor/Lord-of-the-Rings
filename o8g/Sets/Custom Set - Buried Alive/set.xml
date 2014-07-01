@@ -1,194 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - Buried Alive" id="fc89bdbf-7475-4f3e-96fc-8f5315a9d85d" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
-  <cards>
-    <card id="61377eb5-4d26-4769-a6f0-21e352ea26aa" name="The Mountain Pass - 1a">
-      <property name="Type" value="Quest" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="" />
-      <property name="Traits" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="Setup: Search the encounter deck for a Great Cave Troll. Set it aside for later use along with Nor, Longbeard Cavern and Treacherous Slope." />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="Buried Alive" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-      <property name="Victory Points" value="" />
-      <property name="Setup" value="----" />
-      <alternate name="The Mountain Pass - 1b" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Sphere" value="" />
-        <property name="Unique" value="" />
-        <property name="Keywords" value="" />
-        <property name="Cost" value="" />
-        <property name="Quantity" value="" />
-        <property name="Traits" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Text" value="When Revealed: Reveal 1 encounter card and add it to the staging area." />
-        <property name="Quest Points" value="10" />
-        <property name="Encounter Set" value="Buried Alive" />
-        <property name="Engagement Cost" value="" />
-        <property name="Shadow" value="" />
-        <property name="Threat" value="" />
-        <property name="Victory Points" value="" />
-        <property name="Setup" value="----" />
-      </alternate>
-    </card>
-    <card id="09848c47-f593-4daa-9b1d-aa27240e5f77" name="The Diversion - 2a">
-      <property name="Type" value="Quest" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="" />
-      <property name="Traits" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="When Revealed: Each player must choose at least 1 of their heros and any number of their allies to join the diversion party. Flip over all the characters not in the diversion party along with thier attachments. Face down cards are considered to be out of play." />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="Buried Alive" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-      <property name="Victory Points" value="" />
-      <property name="Setup" value="----" />
-      <alternate name="The Diversion - 2b" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Sphere" value="" />
-        <property name="Unique" value="" />
-        <property name="Keywords" value="" />
-        <property name="Cost" value="" />
-        <property name="Quantity" value="" />
-        <property name="Traits" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Text" value="When Revealed: Put Treacherous Slope into the staging area.&#xA;&#xA;You cannot complete this stage of the quest until the Treacherous Slope is in your victory display." />
-        <property name="Quest Points" value="2" />
-        <property name="Encounter Set" value="Buried Alive" />
-        <property name="Engagement Cost" value="" />
-        <property name="Shadow" value="" />
-        <property name="Threat" value="" />
-        <property name="Victory Points" value="" />
-        <property name="Setup" value="s---" />
-      </alternate>
-    </card>
-    <card id="f3cfdaa0-7ffb-4129-9460-f0a18979ecf8" name="The Rescue - 3a">
-      <property name="Type" value="Quest" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="" />
-      <property name="Traits" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="When Revealed: Discard all locations from play. Flip over all player cards (All cards involved in the diversion will now be face down and all other cards will be face up). Face down cards are considered to be out of play." />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="Buried Alive" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-      <property name="Victory Points" value="" />
-      <property name="Setup" value="---" />
-      <alternate name="The Rescue - 3b" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Sphere" value="" />
-        <property name="Unique" value="" />
-        <property name="Keywords" value="" />
-        <property name="Cost" value="" />
-        <property name="Quantity" value="" />
-        <property name="Traits" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Text" value="When revealed: Refresh all characters. Put the Greate Cave Troll and Longbeard Cavern into the staging area. The first player chooses a player, put Nor into play under control of that player.&#xA;&#xA;Players cannot place progress tokens on this quest while Great Cave Troll is in play.&#xA;&#xA;If players defeat this stage flip over all face down cards. Your allies return and the remaining Orcs flee, you have won the game." />
-        <property name="Quest Points" value="4" />
-        <property name="Encounter Set" value="Buried Alive" />
-        <property name="Engagement Cost" value="" />
-        <property name="Shadow" value="" />
-        <property name="Threat" value="" />
-        <property name="Victory Points" value="" />
-        <property name="Setup" value="tss" />
-      </alternate>
-    </card>
-    <card id="85c0fdb3-618f-45cb-953c-c3f18fec2ebb" name="Treacherous Slope">
-      <property name="Type" value="Objective" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="" />
-      <property name="Traits" value="Mountain, Hazard" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="Action: If there are more than X enemies in play, exhaust a Hero to claim Treacherous Slope. X equals twice the number of players. Attach Treacherous Slope to that Hero.&#xA;&#xA;Action: If claimed, place Treacherous Slope in the victory display to trigger an avalanche. Each player may reduce thier threat by 2 for each enemy engaged with them then discard all enemies from play." />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="Buried Alive" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-      <property name="Victory Points" value="1" />
-      <property name="Setup" value="" />
-    </card>
-    <card id="e0fc8401-09b4-4856-a029-a8c9d7752437" name="Longbeard Cavern">
-      <property name="Type" value="Location" />
-      <property name="Sphere" value="" />
-      <property name="Unique" value="" />
-      <property name="Keywords" value="" />
-      <property name="Cost" value="" />
-      <property name="Quantity" value="" />
-      <property name="Traits" value="Mountain, Cave." />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Text" value="While Longbeard Cavern is the active location Dwarf allies cost 1 less resource to play.&#xA;&#xA;While Longbeard Cavern is in play Nor gains 'Action: Exhaust Nor to add 2 resource tokens to his resource pool (Limit once per round)'" />
-      <property name="Quest Points" value="2" />
-      <property name="Encounter Set" value="Buried Alive" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="1" />
-      <property name="Victory Points" value="2" />
-      <property name="Setup" value="" />
-    </card>
-    <card id="90e18195-713d-4013-9f8b-c09660d9faf4" name="Nor">
-      <property name="Type" value="Hero" />
-      <property name="Sphere" value="Leadership" />
-      <property name="Unique" value="‰" />
-      <property name="Keywords" value="" />
-      <property name="Cost" value="11" />
-      <property name="Quantity" value="" />
-      <property name="Traits" value="Dwarf. Warrior." />
-      <property name="Willpower" value="2" />
-      <property name="Health" value="5" />
-      <property name="Attack" value="2" />
-      <property name="Defense" value="2" />
-      <property name="Text" value="Action: Remove 1 resource token from Nor to give him a resource icon of your choice until the end of the phase." />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="Buried Alive" />
-      <property name="Engagement Cost" value="" />
-      <property name="Shadow" value="" />
-      <property name="Threat" value="" />
-      <property name="Victory Points" value="" />
-      <property name="Setup" value="" />
-    </card>
-  </cards>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - Buried Alive" id="fc89bdbf-7475-4f3e-96fc-8f5315a9d85d" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
+ <cards>
+  <card id="90e18195-713d-4013-9f8b-c09660d9faf4" name="Nor">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Dwarf. Warrior."/>
+    <property name="Cost" value="11"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="Action: Remove 1 resource token from Nor to give him a resource icon of your choice until the end of the phase."/>
+    <property name="Encounter Set" value="Buried Alive"/>
+  </card>
+  <card id="e0fc8401-09b4-4856-a029-a8c9d7752437" name="Longbeard Cavern">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mountain, Cave."/>
+    <property name="Threat" value="1"/>
+    <property name="Text" value="While Longbeard Cavern is the active location Dwarf allies cost 1 less resource to play.&#10;&#10;While Longbeard Cavern is in play Nor gains 'Action: Exhaust Nor to add 2 resource tokens to his resource pool (Limit once per round)'"/>
+    <property name="Encounter Set" value="Buried Alive"/>
+    <property name="Victory Points" value="2"/>
+  </card>
+  <card id="85c0fdb3-618f-45cb-953c-c3f18fec2ebb" name="Treacherous Slope">
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Mountain, Hazard"/>
+    <property name="Text" value="Action: If there are more than X enemies in play, exhaust a Hero to claim Treacherous Slope. X equals twice the number of players. Attach Treacherous Slope to that Hero.&#10;&#10;Action: If claimed, place Treacherous Slope in the victory display to trigger an avalanche. Each player may reduce thier threat by 2 for each enemy engaged with them then discard all enemies from play."/>
+    <property name="Encounter Set" value="Buried Alive"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="61377eb5-4d26-4769-a6f0-21e352ea26aa" name="The Mountain Pass - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Search the encounter deck for a Great Cave Troll. Set it aside for later use along with Nor, Longbeard Cavern and Treacherous Slope."/>
+    <property name="Encounter Set" value="Buried Alive"/>
+    <property name="Setup" value="----"/>
+    <alternate name="The Mountain Pass - 1B" type="B">
+      <property name="Quest Points" value="10"/>
+      <property name="Text" value="When Revealed: Reveal 1 encounter card and add it to the staging area."/>
+    </alternate>
+  </card>
+  <card id="09848c47-f593-4daa-9b1d-aa27240e5f77" name="The Diversion - 2A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="When Revealed: Each player must choose at least 1 of their heros and any number of their allies to join the diversion party. Flip over all the characters not in the diversion party along with thier attachments. Face down cards are considered to be out of play."/>
+    <property name="Encounter Set" value="Buried Alive"/>
+    <property name="Setup" value="----"/>
+    <alternate name="The Diversion - 2B" type="B">
+      <property name="Quest Points" value="2"/>
+      <property name="Text" value="When Revealed: Put Treacherous Slope into the staging area.&#10;&#10;You cannot complete this stage of the quest until the Treacherous Slope is in your victory display."/>
+    </alternate>
+  </card>
+  <card id="f3cfdaa0-7ffb-4129-9460-f0a18979ecf8" name="The Rescue - 3A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="When Revealed: Discard all locations from play. Flip over all player cards (All cards involved in the diversion will now be face down and all other cards will be face up). Face down cards are considered to be out of play."/>
+    <property name="Encounter Set" value="Buried Alive"/>
+    <property name="Setup" value="---"/>
+    <alternate name="The Rescue - 3B" type="B">
+      <property name="Quest Points" value="4"/>
+      <property name="Text" value="When revealed: Refresh all characters. Put the Greate Cave Troll and Longbeard Cavern into the staging area. The first player chooses a player, put Nor into play under control of that player.&#10;&#10;Players cannot place progress tokens on this quest while Great Cave Troll is in play.&#10;&#10;If players defeat this stage flip over all face down cards. Your allies return and the remaining Orcs flee, you have won the game."/>
+    </alternate>
+  </card>
+ </cards>
 </set>

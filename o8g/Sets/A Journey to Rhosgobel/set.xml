@@ -1,530 +1,224 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="A Journey to Rhosgobel" id="51223bd0-ffd1-11df-a976-0801203c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.8" version="2.0.0.0">
-  <cards>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9001" name="Prince Imrahil">
-      <property name="Type" value="Hero" />
-      <property name="Sphere" value="Leadership" />
-      <property name="Cost" value="11" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="3" />
-      <property name="Defense" value="2" />
-      <property name="Willpower" value="2" />
-      <property name="Health" value="4" />
-      <property name="Traits" value="Gondor. Noble." />
-      <property name="Text" value="Response: After a character leaves play, ready Prince Imrahil. (Limit once per round.)" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Quantity" value="1" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9002" name="Haldir of Lorien">
-      <property name="Type" value="Ally" />
-      <property name="Sphere" value="Lore" />
-      <property name="Cost" value="4" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="2" />
-      <property name="Defense" value="2" />
-      <property name="Willpower" value="2" />
-      <property name="Health" value="3" />
-      <property name="Traits" value="Silvan." />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Ranged. Sentinel." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Quantity" value="3" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9003" name="Radagast">
-      <property name="Type" value="Ally" />
-      <property name="Sphere" value="Neutral" />
-      <property name="Cost" value="5" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="1" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="2" />
-      <property name="Health" value="3" />
-      <property name="Traits" value="Istari." />
-      <property name="Text" value="Radagast collects 1 resource each resource phase. These resources can be used to pay for Creature cards played from your hand.&#xA;&#xA;Action: Spend X resources from Radagast's pool to heal X wounds on any 1 Creature." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Quantity" value="3" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9004" name="Landroval">
-      <property name="Type" value="Ally" />
-      <property name="Sphere" value="Tactics" />
-      <property name="Cost" value="5" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="3" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="1" />
-      <property name="Health" value="4" />
-      <property name="Traits" value="Creature. Eagle." />
-      <property name="Text" value="Landroval cannot have restricted attachments.&#xA;&#xA;Response: After a hero card is destroyed, return Landroval to his owner's hand to put that hero back into play, with 1 damage token on it. (Limit once per game.)" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Sentinel." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Quantity" value="3" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9005" name="Ancient Mathom">
-      <property name="Type" value="Attachment" />
-      <property name="Sphere" value="Spirit" />
-      <property name="Cost" value="1" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="Mathom." />
-      <property name="Text" value="Response: After attached location is explored, the first player draws 3 cards." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Attach to a location." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Quantity" value="3" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9006" name="Infighting">
-      <property name="Type" value="Event" />
-      <property name="Sphere" value="Lore" />
-      <property name="Cost" value="1" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Action: Move any number of damage from one enemy to another." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Quantity" value="3" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9007" name="Parting Gifts">
-      <property name="Type" value="Event" />
-      <property name="Sphere" value="Leadership" />
-      <property name="Cost" value="0" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Action: Move any number of resource tokens from a Ì hero's resource pool to any other hero's resource pool." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Quantity" value="3" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9008" name="Dunedain Quest">
-      <property name="Type" value="Attachment" />
-      <property name="Sphere" value="Leadership" />
-      <property name="Cost" value="2" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="Signal." />
-      <property name="Text" value="Attached hero gains +1 Ò.&#xA;&#xA;Action: Pay 1 resource from attached hero's pool to attach Dunedain Quest to another hero." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Attach to a hero." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Quantity" value="3" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9009" name="Escort from Edoras">
-      <property name="Type" value="Ally" />
-      <property name="Sphere" value="Spirit" />
-      <property name="Cost" value="2" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="0" />
-      <property name="Defense" value="0" />
-      <property name="Willpower" value="2" />
-      <property name="Health" value="1" />
-      <property name="Traits" value="Rohan." />
-      <property name="Text" value="While committed to a quest, Escort from Edoras gets +2 Ò.&#xA;&#xA;Forced: After resolving a quest to which Escort from Edoras was committed, discard Escort from Edoras from play." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Quantity" value="3" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9010" name="To the Eyrie">
-      <property name="Type" value="Event" />
-      <property name="Sphere" value="Tactics" />
-      <property name="Cost" value="2" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Response: After an ally is destroyed, exhaust 1 Eagle character to move that ally from the discard pile to its owner's hand." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="" />
-      <property name="Quantity" value="3" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9011" name="Festering Wounds">
-      <property name="Type" value="Treachery" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="When Revealed: Deal 2 damage to each wounded character." />
-      <property name="Shadow" value="Shadow: Deal 1 damage to each wounded character. (2 damage instead if this attack is undefended.)" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="A Journey to Rhosgobel" />
-      <property name="Quantity" value="2" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9012" name="Athelas">
-      <property name="Type" value="Objective" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="Item." />
-      <property name="Text" value="Action: Exhaust a hero to claim this objective if it has no encounters attached. Then, attach Athelas to that hero." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="Guarded." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="A Journey to Rhosgobel" />
-      <property name="Quantity" value="4" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9013" name="Black Forest Bats">
-      <property name="Type" value="Enemy" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="26" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="1" />
-      <property name="Defense" value="0" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="2" />
-      <property name="Traits" value="Creature." />
-      <property name="Text" value="Only Eagle characters or characters with ranged can attack or defend against Black Forest Bats." />
-      <property name="Shadow" value="Shadow: If this attack is undefended, the damage must be placed on Wilyador." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="1" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="A Journey to Rhosgobel" />
-      <property name="Quantity" value="5" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9014" name="Exhaustion">
-      <property name="Type" value="Treachery" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="When Revealed: Deal 2 damage to each exhausted character." />
-      <property name="Shadow" value="Shadow: Deal 1 damage to each exhausted character." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="A Journey to Rhosgobel" />
-      <property name="Quantity" value="4" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9015" name="Forest Grove">
-      <property name="Type" value="Location" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="Forest." />
-      <property name="Text" value="Response: After the players explore Forest Grove, search the encounter deck and discard pile for 1 Athelas objective, and add it to the staging area. Then, shuffle the encounter deck." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="2" />
-      <property name="Quest Points" value="3" />
-      <property name="Encounter Set" value="A Journey to Rhosgobel" />
-      <property name="Quantity" value="4" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9016" name="Mirkwood Flock">
-      <property name="Type" value="Enemy" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="32" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="2" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="3" />
-      <property name="Traits" value="Creature." />
-      <property name="Text" value="Only Eagle characters or characters with ranged can attack or defend against Mirkwood Flock." />
-      <property name="Shadow" value="Shadow: If this attack is undefended, the damage must be placed on Wilyador." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="1" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="A Journey to Rhosgobel" />
-      <property name="Quantity" value="4" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9017" name="Rhosgobel">
-      <property name="Type" value="Location" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="Forest." />
-      <property name="Text" value="While Rhosgobel is in the staging area, Wilyador cannot be healed.&#xA;&#xA;Travel: Players must complete stage one of this quest before they can travel to Rhosgobel." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="X is the number of players in the game." />
-      <property name="Threat" value="X" />
-      <property name="Quest Points" value="4" />
-      <property name="Encounter Set" value="A Journey to Rhosgobel" />
-      <property name="Quantity" value="1" />
-      <property name="Victory Points" value="4" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9018" name="Swarming Insects">
-      <property name="Type" value="Treachery" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="When Revealed: Deal 1 damage to each character without any attachments." />
-      <property name="Shadow" value="Shadow: If a character (including Wilyador) has more damage than each other character, deal 3 additional damage to that character." />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="A Journey to Rhosgobel" />
-      <property name="Quantity" value="4" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9019" name="Wilyador">
-      <property name="Type" value="Objective" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="‰" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="1" />
-      <property name="Defense" value="1" />
-      <property name="Willpower" value="1" />
-      <property name="Health" value="20" />
-      <property name="Traits" value="Creature. Eagle." />
-      <property name="Text" value="Forced: At the end of each round, Wilyador suffers 2 damage.&#xA;Wilyador cannot be healed of more than 5 wounds by a single effect. If Wilyador leaves play, the players have lost the game." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="No attachments. The first player gains control of Wilyador, as an ally." />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="A Journey to Rhosgobel" />
-      <property name="Quantity" value="1" />
-      <property name="Victory Points" value="" />
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9020" name="The Wounded Eagle - 1A">
-      <property name="Type" value="Quest" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="ss" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="Setup: Search the encounter deck for Rhosgobel and Wilyador, and add them to the staging area with 2 damage tokens on Wilyador. Then, shuffle the encounter deck." />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="A Journey to Rhosgobel" />
-      <property name="Quantity" value="1" />
-      <property name="Victory Points" value="" />
-      <alternate name="The Wounded Eagle - 1B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="" />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="" />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="8" />
-        <property name="Encounter Set" value="A Journey to Rhosgobel" />
-        <property name="Quantity" value="1" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9022" name="Radagast's Request - 2A">
-      <property name="Type" value="Quest" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="A Journey to Rhosgobel" />
-      <property name="Quantity" value="1" />
-      <property name="Victory Points" value="" />
-      <alternate name="Radagast's Request - 2B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="Response: After the quest phase begins, the first player may place X damage tokens on Wilyador to look at the top 3 cards of the encounter deck. Reveal and add 1 of these cards to the staging area, and discard the other 2. X is the number of players in the game.&#xA;&#xA;Forced: After a card effect heals Wilyador, remove that card from the game." />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="" />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="12" />
-        <property name="Encounter Set" value="A Journey to Rhosgobel" />
-        <property name="Quantity" value="1" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-    <card id="51223bd0-ffd1-11df-a976-0801203c9024" name="Return to Rhosgobel - 3A">
-      <property name="Type" value="Quest" />
-      <property name="Sphere" value="" />
-      <property name="Cost" value="" />
-      <property name="Engagement Cost" value="" />
-      <property name="Unique" value="" />
-      <property name="Setup" value="" />
-      <property name="Attack" value="" />
-      <property name="Defense" value="" />
-      <property name="Willpower" value="" />
-      <property name="Health" value="" />
-      <property name="Traits" value="" />
-      <property name="Text" value="" />
-      <property name="Shadow" value="" />
-      <property name="Keywords" value="" />
-      <property name="Threat" value="" />
-      <property name="Quest Points" value="" />
-      <property name="Encounter Set" value="A Journey to Rhosgobel" />
-      <property name="Quantity" value="1" />
-      <property name="Victory Points" value="" />
-      <alternate name="Return to Rhosgobel - 3B" type="B">
-        <property name="Type" value="Quest" />
-        <property name="Sphere" value="" />
-        <property name="Cost" value="" />
-        <property name="Engagement Cost" value="" />
-        <property name="Unique" value="" />
-        <property name="Setup" value="" />
-        <property name="Attack" value="" />
-        <property name="Defense" value="" />
-        <property name="Willpower" value="" />
-        <property name="Health" value="" />
-        <property name="Traits" value="" />
-        <property name="Text" value="When Revealed: Heal 5 wounds from Wilyador for each Athelas objective card the players control.&#xA;&#xA;If Wilyador is completely healed when this effect resolves, Wilyador survives and the players have won the game. Otherwise, the players have lost the game." />
-        <property name="Shadow" value="" />
-        <property name="Keywords" value="" />
-        <property name="Threat" value="" />
-        <property name="Quest Points" value="0" />
-        <property name="Encounter Set" value="A Journey to Rhosgobel" />
-        <property name="Quantity" value="1" />
-        <property name="Victory Points" value="" />
-      </alternate>
-    </card>
-  </cards>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="A Journey to Rhosgobel" id="51223bd0-ffd1-11df-a976-0801203c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
+ <cards>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9001" name="Prince Imrahil">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Gondor. Noble."/>
+    <property name="Cost" value="11"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Response: After a character leaves play, ready Prince Imrahil. (Limit once per round.)"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9008" name="Dunedain Quest">
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Signal."/>
+    <property name="Keywords" value="Attach to a hero."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Attached hero gains +1 Ò.&#10;&#10;Action: Pay 1 resource from attached hero's pool to attach Dunedain Quest to another hero."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9007" name="Parting Gifts">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Action: Move any number of resource tokens from a Ì hero's resource pool to any other hero's resource pool."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9004" name="Landroval">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Creature. Eagle."/>
+    <property name="Keywords" value="Sentinel."/>
+    <property name="Cost" value="5"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Landroval cannot have restricted attachments.&#10;&#10;Response: After a hero card is destroyed, return Landroval to his owner's hand to put that hero back into play, with 1 damage token on it. (Limit once per game.)"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9010" name="To the Eyrie">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Response: After an ally is destroyed, exhaust 1 Eagle character to move that ally from the discard pile to its owner's hand."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9009" name="Escort from Edoras">
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Rohan."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="1"/>
+    <property name="Text" value="While committed to a quest, Escort from Edoras gets +2 Ò.&#10;&#10;Forced: After resolving a quest to which Escort from Edoras was committed, discard Escort from Edoras from play."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9005" name="Ancient Mathom">
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Mathom."/>
+    <property name="Keywords" value="Attach to a location."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After attached location is explored, the first player draws 3 cards."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9002" name="Haldir of Lorien">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Silvan."/>
+    <property name="Keywords" value="Ranged. Sentinel."/>
+    <property name="Cost" value="4"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9006" name="Infighting">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Move any number of damage from one enemy to another."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9003" name="Radagast">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Istari."/>
+    <property name="Cost" value="5"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Radagast collects 1 resource each resource phase. These resources can be used to pay for Creature cards played from your hand.&#10;&#10;Action: Spend X resources from Radagast's pool to heal X wounds on any 1 Creature."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9020" name="The Wounded Eagle - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Search the encounter deck for Rhosgobel and Wilyador, and add them to the staging area with 2 damage tokens on Wilyador. Then, shuffle the encounter deck."/>
+    <property name="Encounter Set" value="A Journey to Rhosgobel"/>
+    <property name="Quantity" value="1"/>
+    <property name="Setup" value="ss"/>
+    <alternate name="The Wounded Eagle - 1B" type="B">
+      <property name="Quest Points" value="8"/>
+    </alternate>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9022" name="Radagast's Request - 2A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="A Journey to Rhosgobel"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Radagast's Request - 2B" type="B">
+      <property name="Quest Points" value="12"/>
+      <property name="Text" value="Response: After the quest phase begins, the first player may place X damage tokens on Wilyador to look at the top 3 cards of the encounter deck. Reveal and add 1 of these cards to the staging area, and discard the other 2. X is the number of players in the game.&#10;&#10;Forced: After a card effect heals Wilyador, remove that card from the game."/>
+    </alternate>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9024" name="Return to Rhosgobel - 3A">
+    <property name="Type" value="Quest"/>
+    <property name="Encounter Set" value="A Journey to Rhosgobel"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Return to Rhosgobel - 3B" type="B">
+      <property name="Quest Points" value="0"/>
+      <property name="Text" value="When Revealed: Heal 5 wounds from Wilyador for each Athelas objective card the players control.&#10;&#10;If Wilyador is completely healed when this effect resolves, Wilyador survives and the players have won the game. Otherwise, the players have lost the game."/>
+    </alternate>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9012" name="Athelas">
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Item."/>
+    <property name="Keywords" value="Guarded."/>
+    <property name="Text" value="Action: Exhaust a hero to claim this objective if it has no encounters attached. Then, attach Athelas to that hero."/>
+    <property name="Encounter Set" value="A Journey to Rhosgobel"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9019" name="Wilyador">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Creature. Eagle."/>
+    <property name="Keywords" value="No attachments. The first player gains control of Wilyador, as an ally."/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="20"/>
+    <property name="Text" value="Forced: At the end of each round, Wilyador suffers 2 damage.&#10;Wilyador cannot be healed of more than 5 wounds by a single effect. If Wilyador leaves play, the players have lost the game."/>
+    <property name="Encounter Set" value="A Journey to Rhosgobel"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9017" name="Rhosgobel">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Keywords" value="X is the number of players in the game."/>
+    <property name="Threat" value="X"/>
+    <property name="Text" value="While Rhosgobel is in the staging area, Wilyador cannot be healed.&#10;&#10;Travel: Players must complete stage one of this quest before they can travel to Rhosgobel."/>
+    <property name="Encounter Set" value="A Journey to Rhosgobel"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="4"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9015" name="Forest Grove">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="Response: After the players explore Forest Grove, search the encounter deck and discard pile for 1 Athelas objective, and add it to the staging area. Then, shuffle the encounter deck."/>
+    <property name="Encounter Set" value="A Journey to Rhosgobel"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9014" name="Exhaustion">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Deal 2 damage to each exhausted character."/>
+    <property name="Shadow" value="Shadow: Deal 1 damage to each exhausted character."/>
+    <property name="Encounter Set" value="A Journey to Rhosgobel"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9018" name="Swarming Insects">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Deal 1 damage to each character without any attachments."/>
+    <property name="Shadow" value="Shadow: If a character (including Wilyador) has more damage than each other character, deal 3 additional damage to that character."/>
+    <property name="Encounter Set" value="A Journey to Rhosgobel"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9011" name="Festering Wounds">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Deal 2 damage to each wounded character."/>
+    <property name="Shadow" value="Shadow: Deal 1 damage to each wounded character. (2 damage instead if this attack is undefended.)"/>
+    <property name="Encounter Set" value="A Journey to Rhosgobel"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9016" name="Mirkwood Flock">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature."/>
+    <property name="Engagement Cost" value="32"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Only Eagle characters or characters with ranged can attack or defend against Mirkwood Flock."/>
+    <property name="Shadow" value="Shadow: If this attack is undefended, the damage must be placed on Wilyador."/>
+    <property name="Encounter Set" value="A Journey to Rhosgobel"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="51223bd0-ffd1-11df-a976-0801203c9013" name="Black Forest Bats">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature."/>
+    <property name="Engagement Cost" value="26"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Only Eagle characters or characters with ranged can attack or defend against Black Forest Bats."/>
+    <property name="Shadow" value="Shadow: If this attack is undefended, the damage must be placed on Wilyador."/>
+    <property name="Encounter Set" value="A Journey to Rhosgobel"/>
+    <property name="Quantity" value="5"/>
+  </card>
+ </cards>
 </set>

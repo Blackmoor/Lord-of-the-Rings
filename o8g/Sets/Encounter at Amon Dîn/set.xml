@@ -1,572 +1,259 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Encounter at Amon Dîn" id="fd89bdbf-7475-4f3e-96fc-8f5315a93000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.1.0.16" version="1.0">
-	<cards>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a90021" name="Pippin">
-			<property name="Unique" value="‰" />
-			<property name="Type" value="Hero" />
-			<property name="Sphere" value="Spirit" />
-			<property name="Cost" value="6" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="2" />
-			<property name="Attack" value="1" />
-			<property name="Defense" value="1" />
-			<property name="Health" value="2" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="Hobbit." />
-			<property name="Keywords" value="" />
-			<property name="Text" value="If each hero you control has the Hobbit trait, Pippin gains: &quot;Response: After an enemy engages you, raise your threat by 3 to return it to the staging area. Until the end of the round, that enemy cannot engage you.&quot;" />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="1" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a90022" name="Denethor">
-			<property name="Unique" value="‰" />
-			<property name="Type" value="Ally" />
-			<property name="Sphere" value="Leadership" />
-			<property name="Cost" value="4" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="3" />
-			<property name="Attack" value="1" />
-			<property name="Defense" value="2" />
-			<property name="Health" value="3" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="Gondor. Noble." />
-			<property name="Keywords" value="" />
-			<property name="Text" value="Denethor gets -1 Ò for each damaged hero you control.&#10;&#10;Discard Denethor if his Ò is 0 or less." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="3" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a90023" name="Lord of Morthond">
-			<property name="Unique" value="‰" />
-			<property name="Type" value="Attachment" />
-			<property name="Sphere" value="Leadership" />
-			<property name="Cost" value="1" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="Title." />
-			<property name="Keywords" value="Attach to a Gondor or Outlands hero." />
-			<property name="Text" value="If each hero you control has a printed Ì resource icon, Lord of Morthond gains: &quot;Response: After you play a Î, Ê, or Ï ally, draw 1 card.&quot;" />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="3" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a90024" name="Book of Eldacar">
-			<property name="Unique" value="‰" />
-			<property name="Type" value="Attachment" />
-			<property name="Sphere" value="Tactics" />
-			<property name="Cost" value="4" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="Record." />
-			<property name="Keywords" value="Attach to a Ï hero." />
-			<property name="Text" value="Reduce the cost to play Book of Eldacar by 1 for each hero you control with a printed Ï resource icon.&#10;&#10;Action: Discard Book of Eldacar to play any Ï event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="3" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a90025" name="Gondorian Discipline">
-			<property name="Unique" value="" />
-			<property name="Type" value="Event" />
-			<property name="Sphere" value="Tactics" />
-			<property name="Cost" value="0" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="Gondor." />
-			<property name="Keywords" value="" />
-			<property name="Text" value="Response: Cancel up to 2 points of damage just dealt to a Gondor character." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="3" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a90026" name="Minas Tirith Lampwright">
-			<property name="Unique" value="" />
-			<property name="Type" value="Ally" />
-			<property name="Sphere" value="Spirit" />
-			<property name="Cost" value="1" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="0" />
-			<property name="Attack" value="0" />
-			<property name="Defense" value="1" />
-			<property name="Health" value="1" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="Gondor. Craftsman." />
-			<property name="Keywords" value="" />
-			<property name="Text" value="Response: After an encounter card with surge is revealed, discard Minas Tirith Lampwright to name enemy, location, or treachery. If the next encounter card revealed is the named type, discard it without resolving its effects." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="3" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a90027" name="Small Target">
-			<property name="Unique" value="" />
-			<property name="Type" value="Event" />
-			<property name="Sphere" value="Spirit" />
-			<property name="Cost" value="1" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="" />
-			<property name="Keywords" value="" />
-			<property name="Text" value="Response: After a Hobbit hero you control exhausts to defend an attack, choose another enemy engaged with you and reveal the attacking enemy's shadow card. If that shadow card has no shadow effect, resolve this enemy's attack against the chosen enemy. If that shadow card has a shadow effect, resolve this attack as normal." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="3" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a90028" name="Ithilien Archer">
-			<property name="Unique" value="" />
-			<property name="Type" value="Ally" />
-			<property name="Sphere" value="Lore" />
-			<property name="Cost" value="3" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="1" />
-			<property name="Attack" value="2" />
-			<property name="Defense" value="1" />
-			<property name="Health" value="2" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="Gondor. Ranger." />
-			<property name="Keywords" value="Ranged." />
-			<property name="Text" value="Response: After Ithilien Archer attacks and damages an enemy, return that enemy to the staging area." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="3" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a90029" name="Ithilien Pit">
-			<property name="Unique" value="" />
-			<property name="Type" value="Attachment" />
-			<property name="Sphere" value="Lore" />
-			<property name="Cost" value="1" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="Trap." />
-			<property name="Keywords" value="" />
-			<property name="Text" value="Play Ithilien Pit into the staging area unattached.&#10;&#10;If unattached, attach Ithilien Pit to the next eligible enemy that enters the staging area.&#10;&#10;Any character may choose attached enemy as the target of an attack." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="3" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a90030" name="Hobbit-sense">
-			<property name="Unique" value="" />
-			<property name="Type" value="Event" />
-			<property name="Sphere" value="Neutral" />
-			<property name="Cost" value="2" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="" />
-			<property name="Keywords" value="Play only if each of your heroes is a Hobbit." />
-			<property name="Text" value="Combat Action: Enemies engaged with you do not attack this round. You cannot declare attacks this round." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="3" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93001" name="Savagery of the Orcs - 1A">
-			<property name="Unique" value="" />
-			<property name="Type" value="Quest" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="" />
-			<property name="Keywords" value="" />
-			<property name="Text" value="Setup: Set Ghulat aside, out of play. Put Lord Alcaron into play. Make Burning Farmhouse the active location. Add the Rescued Villagers and Dead Villagers objectives to the staging area. Then, shuffle the encounter deck and reveal 1 encounter card per player and add it to the staging area." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="1" />
-			<property name="Setup" value="ttlss" />
-			<alternate name="Savagery of the Orcs - 1B" type="B">
-				<property name="Unique" value="" />
-				<property name="Type" value="Quest" />
-				<property name="Sphere" value="" />
-				<property name="Cost" value="" />
-				<property name="Engagement Cost" value="" />
-				<property name="Threat" value="" />
-				<property name="Willpower" value="" />
-				<property name="Attack" value="" />
-				<property name="Defense" value="" />
-				<property name="Health" value="" />
-				<property name="Quest Points" value="-" />
-				<property name="Traits" value="" />
-				<property name="Keywords" value="Villagers 5." />
-				<property name="Text" value="When progress would be placed on Savagery of the Orcs, move an equal number of villager tokens from this quest onto Rescued Villagers instead.&#10;&#10;If there are no villager tokens on Savagery of the Orcs, advance to the next stage." />
-				<property name="Shadow" value="" />
-				<property name="Encounter Set" value="Encounter at Amon Dîn" />
-				<property name="Victory Points" value="" />
-				<property name="Quantity" value="1" />
-				<property name="Setup" value="" />
-			</alternate>
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93002" name="Protect the Villagers - 1A">
-			<property name="Unique" value="" />
-			<property name="Type" value="Quest" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="" />
-			<property name="Keywords" value="" />
-			<property name="Text" value="When Revealed: Add Ghulat to the staging area." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="1" />
-			<property name="Setup" value="" />
-			<alternate name="Protect the Villagers - 1B" type="B">
-				<property name="Unique" value="" />
-				<property name="Type" value="Quest" />
-				<property name="Sphere" value="" />
-				<property name="Cost" value="" />
-				<property name="Engagement Cost" value="" />
-				<property name="Threat" value="" />
-				<property name="Willpower" value="" />
-				<property name="Attack" value="" />
-				<property name="Defense" value="" />
-				<property name="Health" value="" />
-				<property name="Quest Points" value="15" />
-				<property name="Traits" value="" />
-				<property name="Keywords" value="" />
-				<property name="Text" value="If an attack goes undefended, discard X villager tokens from Rescued Villagers instead of damaging a hero. X is the amount of damage that would have been dealt.&#10;&#10;When the players defeat this stage, end the game. Compare the number of tokens on Rescued Villagers to the number of tokens on Dead Villagers." />
-				<property name="Shadow" value="" />
-				<property name="Encounter Set" value="Encounter at Amon Dîn" />
-				<property name="Victory Points" value="" />
-				<property name="Quantity" value="1" />
-				<property name="Setup" value="" />
-			</alternate>
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93070" name="Lord Alcaron">
-			<property name="Unique" value="‰" />
-			<property name="Type" value="Objective" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="1" />
-			<property name="Attack" value="2" />
-			<property name="Defense" value="2" />
-			<property name="Health" value="3" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="Gondor. Noble." />
-			<property name="Keywords" value="The first player gains control of Lord Alcaron." />
-			<property name="Text" value="Response: After a villager token is discarded, exhaust Lord Alcaron to place that villager token on a location instead.&#10;&#10;If Lord Alcaron leaves play, the players have lost the game." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="1" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93068" name="Rescued Villagers">
-			<property name="Unique" value="" />
-			<property name="Type" value="Objective" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="" />
-			<property name="Keywords" value="" />
-			<property name="Text" value="If a location leaves play as an explored location, move any villager tokens from that location to Rescued Villagers.&#10;&#10;At the end of the game, if there are more villager tokens here than damage tokens on Dead Vilagers, the players have won." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="1" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93069" name="Dead Villagers">
-			<property name="Unique" value="" />
-			<property name="Type" value="Objective" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="" />
-			<property name="Keywords" value="" />
-			<property name="Text" value="If a villager token is discarded from a location, objective or quest stage, place a damage token on Dead Villagers.&#10;&#10;At the end of the game, if there are more damage tokens here than villager tokens on Rescued Villagers, the players have lost." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="1" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93071" name="Ghulat">
-			<property name="Unique" value="‰" />
-			<property name="Type" value="Enemy" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="30" />
-			<property name="Threat" value="3" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="X" />
-			<property name="Defense" value="3" />
-			<property name="Health" value="7" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="Orc. Uruk." />
-			<property name="Keywords" value="X is the number of damage tokens on Dead Villagers." />
-			<property name="Text" value="Forced: When Ghulat attacks, place 1 damage token on Dead Villagers.&#10;&#10;While Ghulat is in play, the game cannot end." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="2" />
-			<property name="Quantity" value="1" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93072" name="Marauding Orc">
-			<property name="Unique" value="" />
-			<property name="Type" value="Enemy" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="25" />
-			<property name="Threat" value="2" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="4" />
-			<property name="Defense" value="1" />
-			<property name="Health" value="4" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="Orc." />
-			<property name="Keywords" value="" />
-			<property name="Text" value="Forced: After Marauding Orc attacks and destroys a character, place 1 damage token on Dead Villagers." />
-			<property name="Shadow" value="Shadow: If this attack destroys a character, discard 1 villager token from Rescued Villagers." />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="4" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93073" name="Orc Ravager">
-			<property name="Unique" value="" />
-			<property name="Type" value="Enemy" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="35" />
-			<property name="Threat" value="2" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="3" />
-			<property name="Defense" value="1" />
-			<property name="Health" value="3" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="Orc." />
-			<property name="Keywords" value="" />
-			<property name="Text" value="When Revealed: Discard 1 villager token from the active location. If no villager token is discarded by this effect, Orc Ravager gains surge." />
-			<property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. (+2 Û instead if undefended.)" />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="3" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93074" name="Craven Eagle">
-			<property name="Unique" value="" />
-			<property name="Type" value="Enemy" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="40" />
-			<property name="Threat" value="3" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="5" />
-			<property name="Defense" value="2" />
-			<property name="Health" value="3" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="Creature. Eagle." />
-			<property name="Keywords" value="" />
-			<property name="Text" value="When Revealed: Discard the character with the fewest remaining hit points. That character's controller may discard 3 cards at random from his hand to prevent this effect." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="2" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93075" name="Burning Farmhouse">
-			<property name="Unique" value="" />
-			<property name="Type" value="Location" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="1" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="5" />
-			<property name="Traits" value="Gondor." />
-			<property name="Keywords" value="Villagers 4." />
-			<property name="Text" value="Forced: At the end of the round, discard 1 villager token from Burning Farmhouse." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="1" />
-			<property name="Quantity" value="4" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93076" name="Gondorian Hamlet">
-			<property name="Unique" value="" />
-			<property name="Type" value="Location" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="2" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="4" />
-			<property name="Traits" value="Gondor." />
-			<property name="Keywords" value="Villagers 3." />
-			<property name="Text" value="While Gondorian Hamlet is in the staging area it gains: &quot;Forced: After a treachery card is revealed from the encounter deck, discard 1 villager token from Gondorian Hamlet.&quot;" />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="1" />
-			<property name="Quantity" value="4" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93077" name="Secluded Farmhouse">
-			<property name="Unique" value="" />
-			<property name="Type" value="Location" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="3" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="3" />
-			<property name="Traits" value="Gondor." />
-			<property name="Keywords" value="Villagers 2." />
-			<property name="Text" value="Travel: Reveal the top card of the encounter deck and add it to the staging area to travel here." />
-			<property name="Shadow" value="" />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="1" />
-			<property name="Quantity" value="3" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93078" name="Burnt Homestead">
-			<property name="Unique" value="" />
-			<property name="Type" value="Treachery" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="" />
-			<property name="Keywords" value="Surge." />
-			<property name="Text" value="When Revealed: Raise each player's threat by the number of damage tokens on Dead Villagers." />
-			<property name="Shadow" value="Shadow: Defending player raises his threat by 1 for each damage token on Dead Villagers." />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="2" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93079" name="Trapped Inside">
-			<property name="Unique" value="" />
-			<property name="Type" value="Treachery" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="" />
-			<property name="Keywords" value="Doomed 2." />
-			<property name="Text" value="When Revealed: Discard 1 villager token from the active location for each player in the game. If no villager tokens were removed by this effect, Trapped Inside gains surge." />
-			<property name="Shadow" value="Shadow: If this attack destroys a character, discard 1 villager token from Rescued Villagers." />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="2" />
-			<property name="Setup" value="" />
-		</card>
-		<card id="fd89bdbf-7475-4f3e-96fc-8f5315a93080" name="Panicked!">
-			<property name="Unique" value="" />
-			<property name="Type" value="Treachery" />
-			<property name="Sphere" value="" />
-			<property name="Cost" value="" />
-			<property name="Engagement Cost" value="" />
-			<property name="Threat" value="" />
-			<property name="Willpower" value="" />
-			<property name="Attack" value="" />
-			<property name="Defense" value="" />
-			<property name="Health" value="" />
-			<property name="Quest Points" value="" />
-			<property name="Traits" value="" />
-			<property name="Keywords" value="" />
-			<property name="Text" value="When Revealed: Each player must take a villager token from Rescued Villagers and place it on a location in the staging area, if able. If no villager tokens were placed on a location by this effect, Panicked! gains surge." />
-			<property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each damage token on Dead Villagers." />
-			<property name="Encounter Set" value="Encounter at Amon Dîn" />
-			<property name="Victory Points" value="" />
-			<property name="Quantity" value="2" />
-			<property name="Setup" value="" />
-		</card>
-	</cards>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Encounter at Amon Dîn" id="fd89bdbf-7475-4f3e-96fc-8f5315a93000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
+ <cards>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a90021" name="Pippin">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Hobbit."/>
+    <property name="Cost" value="6"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="If each hero you control has the Hobbit trait, Pippin gains: &quot;Response: After an enemy engages you, raise your threat by 3 to return it to the staging area. Until the end of the round, that enemy cannot engage you.&quot;"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a90022" name="Denethor">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Gondor. Noble."/>
+    <property name="Cost" value="4"/>
+    <property name="Willpower" value="3"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Denethor gets -1 Ò for each damaged hero you control.&#10;&#10;Discard Denethor if his Ò is 0 or less."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a90023" name="Lord of Morthond">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Title."/>
+    <property name="Keywords" value="Attach to a Gondor or Outlands hero."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="If each hero you control has a printed Ì resource icon, Lord of Morthond gains: &quot;Response: After you play a Î, Ê, or Ï ally, draw 1 card.&quot;"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a90024" name="Book of Eldacar">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Record."/>
+    <property name="Keywords" value="Attach to a Ï hero."/>
+    <property name="Cost" value="4"/>
+    <property name="Text" value="Reduce the cost to play Book of Eldacar by 1 for each hero you control with a printed Ï resource icon.&#10;&#10;Action: Discard Book of Eldacar to play any Ï event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a90025" name="Gondorian Discipline">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Gondor."/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Response: Cancel up to 2 points of damage just dealt to a Gondor character."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a90026" name="Minas Tirith Lampwright">
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Gondor. Craftsman."/>
+    <property name="Cost" value="1"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="1"/>
+    <property name="Text" value="Response: After an encounter card with surge is revealed, discard Minas Tirith Lampwright to name enemy, location, or treachery. If the next encounter card revealed is the named type, discard it without resolving its effects."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a90027" name="Small Target">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After a Hobbit hero you control exhausts to defend an attack, choose another enemy engaged with you and reveal the attacking enemy's shadow card. If that shadow card has no shadow effect, resolve this enemy's attack against the chosen enemy. If that shadow card has a shadow effect, resolve this attack as normal."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a90028" name="Ithilien Archer">
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Gondor. Ranger."/>
+    <property name="Keywords" value="Ranged."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Response: After Ithilien Archer attacks and damages an enemy, return that enemy to the staging area."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a90029" name="Ithilien Pit">
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Trap."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Play Ithilien Pit into the staging area unattached.&#10;&#10;If unattached, attach Ithilien Pit to the next eligible enemy that enters the staging area.&#10;&#10;Any character may choose attached enemy as the target of an attack."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a90030" name="Hobbit-sense">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Keywords" value="Play only if each of your heroes is a Hobbit."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Combat Action: Enemies engaged with you do not attack this round. You cannot declare attacks this round."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93001" name="Savagery of the Orcs - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Set Ghulat aside, out of play. Put Lord Alcaron into play. Make Burning Farmhouse the active location. Add the Rescued Villagers and Dead Villagers objectives to the staging area. Then, shuffle the encounter deck and reveal 1 encounter card per player and add it to the staging area."/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="1"/>
+    <property name="Setup" value="ttlss"/>
+    <alternate name="Savagery of the Orcs - 1B" type="B">
+      <property name="Quest Points" value="-"/>
+      <property name="Text" value="When progress would be placed on Savagery of the Orcs, move an equal number of villager tokens from this quest onto Rescued Villagers instead.&#10;&#10;If there are no villager tokens on Savagery of the Orcs, advance to the next stage."/>
+    </alternate>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93002" name="Protect the Villagers - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="When Revealed: Add Ghulat to the staging area."/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="1"/>
+    <alternate name="Protect the Villagers - 1B" type="B">
+      <property name="Quest Points" value="15"/>
+      <property name="Text" value="If an attack goes undefended, discard X villager tokens from Rescued Villagers instead of damaging a hero. X is the amount of damage that would have been dealt.&#10;&#10;When the players defeat this stage, end the game. Compare the number of tokens on Rescued Villagers to the number of tokens on Dead Villagers."/>
+    </alternate>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93070" name="Lord Alcaron">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Gondor. Noble."/>
+    <property name="Keywords" value="The first player gains control of Lord Alcaron."/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Response: After a villager token is discarded, exhaust Lord Alcaron to place that villager token on a location instead.&#10;&#10;If Lord Alcaron leaves play, the players have lost the game."/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93069" name="Dead Villagers">
+    <property name="Type" value="Objective"/>
+    <property name="Text" value="If a villager token is discarded from a location, objective or quest stage, place a damage token on Dead Villagers.&#10;&#10;At the end of the game, if there are more damage tokens here than villager tokens on Rescued Villagers, the players have lost."/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93068" name="Rescued Villagers">
+    <property name="Type" value="Objective"/>
+    <property name="Text" value="If a location leaves play as an explored location, move any villager tokens from that location to Rescued Villagers.&#10;&#10;At the end of the game, if there are more villager tokens here than damage tokens on Dead Vilagers, the players have won."/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93071" name="Ghulat">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Uruk."/>
+    <property name="Keywords" value="X is the number of damage tokens on Dead Villagers."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="X"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="7"/>
+    <property name="Text" value="Forced: When Ghulat attacks, place 1 damage token on Dead Villagers.&#10;&#10;While Ghulat is in play, the game cannot end."/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="2"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93072" name="Marauding Orc">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc."/>
+    <property name="Engagement Cost" value="25"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Forced: After Marauding Orc attacks and destroys a character, place 1 damage token on Dead Villagers."/>
+    <property name="Shadow" value="Shadow: If this attack destroys a character, discard 1 villager token from Rescued Villagers."/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="4"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93073" name="Orc Ravager">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc."/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="When Revealed: Discard 1 villager token from the active location. If no villager token is discarded by this effect, Orc Ravager gains surge."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. (+2 Û instead if undefended.)"/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93074" name="Craven Eagle">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Eagle."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="When Revealed: Discard the character with the fewest remaining hit points. That character's controller may discard 3 cards at random from his hand to prevent this effect."/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93075" name="Burning Farmhouse">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Gondor."/>
+    <property name="Keywords" value="Villagers 4."/>
+    <property name="Threat" value="1"/>
+    <property name="Text" value="Forced: At the end of the round, discard 1 villager token from Burning Farmhouse."/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="4"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93076" name="Gondorian Hamlet">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Gondor."/>
+    <property name="Keywords" value="Villagers 3."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="While Gondorian Hamlet is in the staging area it gains: &quot;Forced: After a treachery card is revealed from the encounter deck, discard 1 villager token from Gondorian Hamlet.&quot;"/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="4"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93077" name="Secluded Farmhouse">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Gondor."/>
+    <property name="Keywords" value="Villagers 2."/>
+    <property name="Threat" value="3"/>
+    <property name="Text" value="Travel: Reveal the top card of the encounter deck and add it to the staging area to travel here."/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="3"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93078" name="Burnt Homestead">
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: Raise each player's threat by the number of damage tokens on Dead Villagers."/>
+    <property name="Shadow" value="Shadow: Defending player raises his threat by 1 for each damage token on Dead Villagers."/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93079" name="Trapped Inside">
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Doomed 2."/>
+    <property name="Text" value="When Revealed: Discard 1 villager token from the active location for each player in the game. If no villager tokens were removed by this effect, Trapped Inside gains surge."/>
+    <property name="Shadow" value="Shadow: If this attack destroys a character, discard 1 villager token from Rescued Villagers."/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="2"/>
+  </card>
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93080" name="Panicked!">
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each player must take a villager token from Rescued Villagers and place it on a location in the staging area, if able. If no villager tokens were placed on a location by this effect, Panicked! gains surge."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each damage token on Dead Villagers."/>
+    <property name="Encounter Set" value="Encounter at Amon Dîn"/>
+    <property name="Quantity" value="2"/>
+  </card>
+ </cards>
 </set>
