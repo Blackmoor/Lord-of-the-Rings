@@ -73,6 +73,7 @@
     <property name="Encounter Set" value="Over the Misty Mountains Grim - Nightmare"/>
     <property name="Quantity" value="1"/>
     <property name="Setup" value="s"/>
+    <property name="Text" value="You are playing Nightmare mode. &#10;&#10;When resolving the &quot;when revealed&quot; effect of stage 3B, no more than X resources may be spent from Bilbo Baggins's resource pool, where X is the number of players in the game."/>
   </card>
   <card id="2f1ba4e7-ddc6-4d97-93d3-31907840aed0" name="Narrow Ledge">
     <property name="Type" value="Location"/>
