@@ -130,18 +130,18 @@
       <property name="Text" value="Characters use their Ò instead of Û when attacking enemies. If an enemy would be damaged this way, place progress tokens on it instead of damage tokens. When an enemy has progress equal to its hit points, add it to the victory display and place those progress tokens on the quest.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="607c3e44-5add-4c80-bb3b-55b016b6cd0e" name="Drúadan Elite">
+  <card id="19b732b9-a26a-4535-a438-7dd83cd4ecf2" name="Drû-buri-Drû">
+    <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Wose."/>
-    <property name="Keywords" value="Archery 2. Prowl X.&#10;&#10;X is the number of players in the game."/>
-    <property name="Engagement Cost" value="35"/>
-    <property name="Threat" value="2"/>
-    <property name="Attack" value="3"/>
-    <property name="Defense" value="2"/>
-    <property name="Health" value="4"/>
-    <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks unless any player pays 1 resource."/>
+    <property name="Engagement Cost" value="1"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="6"/>
+    <property name="Text" value="Allies cannot defend against Drû-buri-Drû.&#10;&#10;While Drû-buri-Drû is in the victory display, characters get +1 Ò and +1 Ú.&#10;&#10;Unless Drû-buri-Drû is in the victory display, the players cannot win."/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
-    <property name="Quantity" value="3"/>
+    <property name="Quantity" value="1"/>
   </card>
   <card id="e2c02f11-fdfb-402b-89de-1729d1364e4c" name="Drúadan Drummer">
     <property name="Type" value="Enemy"/>
@@ -153,6 +153,19 @@
     <property name="Health" value="2"/>
     <property name="Text" value="Each Wose enemy in the staging area gets +2 $."/>
     <property name="Shadow" value="Shadow: Each Wose enemy engaged with the defending player gets +1 Û."/>
+    <property name="Encounter Set" value="The Drúadan Forest"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="607c3e44-5add-4c80-bb3b-55b016b6cd0e" name="Drúadan Elite">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Wose."/>
+    <property name="Keywords" value="Archery 2. Prowl X.&#10;&#10;X is the number of players in the game."/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks unless any player pays 1 resource."/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Quantity" value="3"/>
   </card>
@@ -181,19 +194,6 @@
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks unless any player pays 1 resource."/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Quantity" value="3"/>
-  </card>
-  <card id="19b732b9-a26a-4535-a438-7dd83cd4ecf2" name="Drû-buri-Drû">
-    <property name="Unique" value="‰"/>
-    <property name="Type" value="Enemy"/>
-    <property name="Traits" value="Wose."/>
-    <property name="Engagement Cost" value="1"/>
-    <property name="Threat" value="4"/>
-    <property name="Attack" value="5"/>
-    <property name="Defense" value="3"/>
-    <property name="Health" value="6"/>
-    <property name="Text" value="Allies cannot defend against Drû-buri-Drû.&#10;&#10;While Drû-buri-Drû is in the victory display, characters get +1 Ò and +1 Ú.&#10;&#10;Unless Drû-buri-Drû is in the victory display, the players cannot win."/>
-    <property name="Encounter Set" value="The Drúadan Forest"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="0ebedc5b-fd8b-46b8-a2a1-1a6f739e8819" name="Ancestral Clearing">
     <property name="Type" value="Location"/>

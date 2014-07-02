@@ -120,7 +120,7 @@
     <property name="Text" value="Response: After a location leaves play as an explored location, return it to the top of the encounter deck."/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9007" name="Blood of Numenor">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9007" name="Blood of Númenor">
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Traits" value="Condition."/>

@@ -14,7 +14,7 @@
     <property name="Text" value="The first player draws 1 additional card in the resource phase."/>
     <property name="Quantity" value="1"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801201c9002" name="Dunedain Mark">
+  <card id="51223bd0-ffd1-11df-a976-0801201c9002" name="Dúnedain Mark">
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Traits" value="Signal."/>

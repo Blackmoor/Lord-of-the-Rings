@@ -24,7 +24,7 @@
     <property name="Health" value="1"/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="e88d7165-821c-4b04-9869-80ee1f33905c" name="Tome of Atanator">
+  <card id="e88d7165-821c-4b04-9869-80ee1f33905c" name="Tome of Atanatar">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Leadership"/>
@@ -111,7 +111,7 @@
       <property name="Quest Points" value="11"/>
     </alternate>
   </card>
-  <card id="6a4b0ba7-c80b-4580-bc43-d5369b0c44aa" name="Black Numenorean">
+  <card id="6a4b0ba7-c80b-4580-bc43-d5369b0c44aa" name="Black Númenorean">
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Mordor."/>
     <property name="Engagement Cost" value="35"/>

@@ -121,7 +121,7 @@
       <property name="Text" value="When Revealed: Shuffle all copies of Snowstorm in the encounter discard pile back into the encounter deck.&#10;&#10;Characters are discarded from play if their Ò is ever 0.&#10;&#10;Players cannot defeat this stage unless they have 5 victory points. If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="231bf335-bf9b-44d9-a919-e59aa1d46473" name="Arwen Undomiel">
+  <card id="231bf335-bf9b-44d9-a919-e59aa1d46473" name="Arwen Undómiel">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Noldor. Noble. Ally."/>

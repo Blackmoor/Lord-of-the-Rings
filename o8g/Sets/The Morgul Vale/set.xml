@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Morgul Vale" id="4dd22911-a412-4d78-b5ae-6714c3342e9d" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
-  <card id="29d5feef-6165-4077-bb80-692526a8a924" name="Theoden">
+  <card id="29d5feef-6165-4077-bb80-692526a8a924" name="Théoden ">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Tactics"/>

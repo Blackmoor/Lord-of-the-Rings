@@ -15,7 +15,7 @@
     <property name="Text" value="Response: After Aragorn commits to a quest, spend 1 resource from his resource pool to ready him."/>
     <property name="Quantity" value="1"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9002" name="Theodred">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9002" name="Théodred">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Leadership"/>
@@ -28,7 +28,7 @@
     <property name="Text" value="Response: After Theodred commits to a quest, choose a hero committed to that quest. Add 1 resource to that hero's resource pool."/>
     <property name="Quantity" value="1"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9003" name="Gloin">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9003" name="Glóin">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Leadership"/>
@@ -81,7 +81,7 @@
     <property name="Text" value="While Thalin is committed to a quest, deal 1 damage to each enemy as it is revealed by the encounter deck."/>
     <property name="Quantity" value="1"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9007" name="Eowyn">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9007" name="Éowyn">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Spirit"/>
@@ -296,7 +296,7 @@
     <property name="Text" value="Attached hero gains the Gondor trait.&#10;&#10;Action: Exhaust Steward of Gondor to add 2 resources to attached hero's resource pool."/>
     <property name="Quantity" value="2"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9027" name="Celebrian's Stone">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9027" name="Celebrían's Stone">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Leadership"/>
@@ -616,7 +616,7 @@
     <property name="Text" value="Response: After Miner of the Iron Hills enters play, choose and discard 1 Condition attachment from play."/>
     <property name="Quantity" value="2"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9062" name="Gleowine">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9062" name="Gléowine">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Lore"/>
@@ -636,7 +636,7 @@
     <property name="Text" value="Action: Choose a character. Heal all damage from that character."/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9064" name="Lorien's Wealth">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9064" name="Lórien's Wealth">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Cost" value="3"/>
@@ -680,7 +680,7 @@
     <property name="Text" value="Attached enemy cannot attack."/>
     <property name="Quantity" value="2"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9070" name="Protector of Lorien">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9070" name="Protector of Lórien">
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Title."/>
@@ -1010,7 +1010,7 @@
     <property name="Quantity" value="2"/>
     <property name="Victory Points" value="5"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9102" name="Nazgul of Dol Guldur">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9102" name="Nazgûl of Dol Guldur">
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Nazgul."/>
     <property name="Keywords" value="No attachments can be played on Nazgul of Dol Guldur."/>

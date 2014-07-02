@@ -15,17 +15,15 @@
     <property name="Text" value="Faramir gets +1 Û for each enemy in the staging area."/>
     <property name="Quantity" value="1"/>
   </card>
-  <card id="264adf61-31e1-46db-a655-7fee1d4282ae" name="Southron Commander">
-    <property name="Type" value="Enemy"/>
-    <property name="Traits" value="Harad."/>
-    <property name="Engagement Cost" value="37"/>
-    <property name="Threat" value="3"/>
-    <property name="Attack" value="5"/>
-    <property name="Defense" value="3"/>
-    <property name="Health" value="6"/>
-    <property name="Text" value="When Revealed: Southron Commander makes an immediate attack from the staging area against each player who controls at least 1 location."/>
-    <property name="Encounter Set" value="Assault on Osgiliath"/>
-    <property name="Quantity" value="2"/>
+  <card id="98ba9e54-d6c3-41ff-b886-81a29e29eb64" name="Sword of Morthond">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Item. Weapon."/>
+    <property name="Keywords" value="Attach to a Gondor ally."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Attached ally gains the Outlands trait."/>
+    <property name="Quantity" value="3"/>
   </card>
   <card id="a2d440c4-6150-4b6f-9a36-faa51ace7908" name="Men of the West">
     <property name="Type" value="Event"/>
@@ -47,14 +45,13 @@
     <property name="Text" value="If each of your heroes has a printed Ï resource icon, Knight of Minas Tirith gains: &#10;&quot;Response: After Knight of Minas Tirith enters play, choose an enemy in the staging area. Engage that enemy and exhaust Knight of Minas Tirith to declare it as attacker (and resolve its attack) against that enemy.&quot;"/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="72cb5c31-c62f-4870-a5f4-099cdec1d4a7" name="Map of Earnil">
-    <property name="Unique" value="‰"/>
+  <card id="a7f12d87-5f28-46ca-a301-0ac48ca5e471" name="Gondorian Fire">
     <property name="Type" value="Attachment"/>
-    <property name="Sphere" value="Spirit"/>
-    <property name="Traits" value="Record."/>
-    <property name="Keywords" value="Attach to a Ê hero."/>
-    <property name="Cost" value="4"/>
-    <property name="Text" value="Reduce the cost to play Map of Earnil by 1 for each hero you control with a printed Ê resource icon. &#10;&#10;Action: Discard Map of Earnil to play any Ê event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck."/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Gondor."/>
+    <property name="Keywords" value="Attach to a Gondor or Dunedain hero."/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Action: Spend 1 resource from attached hero's resource pool to give attached hero +1 Û for each resource in its resource pool until the end of the phase. (Limit once per phase.)"/>
     <property name="Quantity" value="3"/>
   </card>
   <card id="d8d1e7b4-3639-4ca0-bc83-daa7f78554b2" name="Pelargir Shipwright">
@@ -69,33 +66,14 @@
     <property name="Text" value="Pelargir Shipwright gets +1 Ò for each hero you control with a printed Ê resource icon."/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="1e9a6c59-8dc7-4dc4-a5a4-f5f4f9ccdc55" name="Palantir">
+  <card id="72cb5c31-c62f-4870-a5f4-099cdec1d4a7" name="Map of Earnil">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
-    <property name="Sphere" value="Neutral"/>
-    <property name="Traits" value="Artifact. Item."/>
-    <property name="Keywords" value="Attach to a Noble hero."/>
-    <property name="Cost" value="1"/>
-    <property name="Text" value="Planning Action: Exhaust Palantir and attached hero to name a card type and look at the top 3 cards of the encounter deck. For each of those cards that matches the named type, draw a card. For each of those cards that does not match the named type, raise your threat by 2."/>
-    <property name="Quantity" value="3"/>
-  </card>
-  <card id="98ba9e54-d6c3-41ff-b886-81a29e29eb64" name="Sword of Morthond">
-    <property name="Unique" value="‰"/>
-    <property name="Type" value="Attachment"/>
-    <property name="Sphere" value="Leadership"/>
-    <property name="Traits" value="Item. Weapon."/>
-    <property name="Keywords" value="Attach to a Gondor ally."/>
-    <property name="Cost" value="1"/>
-    <property name="Text" value="Attached ally gains the Outlands trait."/>
-    <property name="Quantity" value="3"/>
-  </card>
-  <card id="a7f12d87-5f28-46ca-a301-0ac48ca5e471" name="Gondorian Fire">
-    <property name="Type" value="Attachment"/>
-    <property name="Sphere" value="Tactics"/>
-    <property name="Traits" value="Gondor."/>
-    <property name="Keywords" value="Attach to a Gondor or Dunedain hero."/>
-    <property name="Cost" value="0"/>
-    <property name="Text" value="Action: Spend 1 resource from attached hero's resource pool to give attached hero +1 Û for each resource in its resource pool until the end of the phase. (Limit once per phase.)"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Record."/>
+    <property name="Keywords" value="Attach to a Ê hero."/>
+    <property name="Cost" value="4"/>
+    <property name="Text" value="Reduce the cost to play Map of Earnil by 1 for each hero you control with a printed Ê resource icon. &#10;&#10;Action: Discard Map of Earnil to play any Ê event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck."/>
     <property name="Quantity" value="3"/>
   </card>
   <card id="3fa0b17f-a7d1-4f0c-a779-c20cb6084e78" name="Ranger Bow">
@@ -107,6 +85,25 @@
     <property name="Text" value="Action: Exhaust Ranger Bow and attached character to deal 1 damage to an enemy in the staging area."/>
     <property name="Quantity" value="3"/>
   </card>
+  <card id="50aa4aab-6daa-4cb5-bfb1-a13db03c1a23" name="Forest Patrol">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Trap."/>
+    <property name="Keywords" value="Play only if you control at least 1 Ranger character."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Deal 3 damage to an enemy with at least 1 Trap card attached to it."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="1e9a6c59-8dc7-4dc4-a5a4-f5f4f9ccdc55" name="Palantir">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Artifact. Item."/>
+    <property name="Keywords" value="Attach to a Noble hero."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Planning Action: Exhaust Palantir and attached hero to name a card type and look at the top 3 cards of the encounter deck. For each of those cards that matches the named type, draw a card. For each of those cards that does not match the named type, raise your threat by 2."/>
+    <property name="Quantity" value="3"/>
+  </card>
   <card id="c46c37c3-b2e7-4e28-9466-e3a371417c8b" name="Retake the City - 1A">
     <property name="Type" value="Quest"/>
     <property name="Text" value="Setup: Each player chooses 1 enemy and 1 unique location and add them to the staging area. Shuffle the encounter deck."/>
@@ -116,28 +113,6 @@
       <property name="Quest Points" value="-"/>
       <property name="Text" value="Forced: When an Osgiliath location leaves play as an explored location, the first player takes control of that location.&#10;&#10;If the players control all Osgiliath locations in play at the end of the round, they have won the game."/>
     </alternate>
-  </card>
-  <card id="f89b8962-1081-4f61-bc08-b2ca4eb08ba8" name="Uruk Soldier">
-    <property name="Type" value="Enemy"/>
-    <property name="Traits" value="Orc. Uruk. Mordor."/>
-    <property name="Engagement Cost" value="30"/>
-    <property name="Threat" value="1"/>
-    <property name="Attack" value="4"/>
-    <property name="Defense" value="1"/>
-    <property name="Health" value="2"/>
-    <property name="Text" value="Forced: After Uruk Soldier attacks and destroys a character, that character's controller returns a location he controls to the staging area, if able."/>
-    <property name="Shadow" value="Shadow: Defending player raises his threat by 1 for each location he controls."/>
-    <property name="Encounter Set" value="Assault on Osgiliath"/>
-    <property name="Quantity" value="4"/>
-  </card>
-  <card id="50aa4aab-6daa-4cb5-bfb1-a13db03c1a23" name="Forest Patrol">
-    <property name="Type" value="Event"/>
-    <property name="Sphere" value="Lore"/>
-    <property name="Traits" value="Trap."/>
-    <property name="Keywords" value="Play only if you control at least 1 Ranger character."/>
-    <property name="Cost" value="1"/>
-    <property name="Text" value="Action: Deal 3 damage to an enemy with at least 1 Trap card attached to it."/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="bfa3b9da-d0e3-4ad6-8d1d-f32975f69551" name="Uruk Lieutenant">
     <property name="Type" value="Enemy"/>
@@ -152,6 +127,19 @@
     <property name="Encounter Set" value="Assault on Osgiliath"/>
     <property name="Quantity" value="2"/>
   </card>
+  <card id="f89b8962-1081-4f61-bc08-b2ca4eb08ba8" name="Uruk Soldier">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Uruk. Mordor."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Forced: After Uruk Soldier attacks and destroys a character, that character's controller returns a location he controls to the staging area, if able."/>
+    <property name="Shadow" value="Shadow: Defending player raises his threat by 1 for each location he controls."/>
+    <property name="Encounter Set" value="Assault on Osgiliath"/>
+    <property name="Quantity" value="4"/>
+  </card>
   <card id="1c95d49a-5638-4f31-a42f-f93a5d1f50db" name="Southron Phalanx">
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Harad."/>
@@ -164,6 +152,18 @@
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each location the defending player controls."/>
     <property name="Encounter Set" value="Assault on Osgiliath"/>
     <property name="Quantity" value="3"/>
+  </card>
+  <card id="264adf61-31e1-46db-a655-7fee1d4282ae" name="Southron Commander">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Harad."/>
+    <property name="Engagement Cost" value="37"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="6"/>
+    <property name="Text" value="When Revealed: Southron Commander makes an immediate attack from the staging area against each player who controls at least 1 location."/>
+    <property name="Encounter Set" value="Assault on Osgiliath"/>
+    <property name="Quantity" value="2"/>
   </card>
   <card id="5a3d198a-5c72-42ec-b5ae-f183194632cf" name="West Gate">
     <property name="Unique" value="‰"/>

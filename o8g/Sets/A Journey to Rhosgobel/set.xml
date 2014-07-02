@@ -14,7 +14,7 @@
     <property name="Text" value="Response: After a character leaves play, ready Prince Imrahil. (Limit once per round.)"/>
     <property name="Quantity" value="1"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9008" name="Dunedain Quest">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9008" name="Dúnedain Quest">
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Traits" value="Signal."/>
@@ -72,7 +72,7 @@
     <property name="Text" value="Response: After attached location is explored, the first player draws 3 cards."/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9002" name="Haldir of Lorien">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9002" name="Haldir of Lórien">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Lore"/>

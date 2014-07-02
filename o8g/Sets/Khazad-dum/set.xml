@@ -73,7 +73,7 @@
     <property name="Text" value="Attached character gets +1 Û.&#10;&#10;Response: After attached character attacks, deal 1 damage to the defending enemy."/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9044" name="Khazad! Khazad!">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9044" name="Khazâd! Khazâd!">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="0"/>
@@ -178,7 +178,7 @@
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="2"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9074" name="Stairs of Nain">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9074" name="Stairs of Náin">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground."/>
     <property name="Threat" value="2"/>

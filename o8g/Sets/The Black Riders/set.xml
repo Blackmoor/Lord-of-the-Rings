@@ -170,7 +170,7 @@
     <property name="Text" value="Attach to the active location.  Attached location gets +1 quest point.&#10;&#10;Response: After attached location leaves play as an explored location, the first player puts 1 ally into play from his hand."/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="d0ed393c-162a-4715-bed4-e338c24e9e36" name="Mr Underhill">
+  <card id="d0ed393c-162a-4715-bed4-e338c24e9e36" name="Mr. Underhill">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Boon"/>
@@ -661,7 +661,7 @@
     <property name="Encounter Set" value="Flight to the Ford"/>
     <property name="Quantity" value="2"/>
   </card>
-  <card id="98bf5fdc-ff74-48e2-88c8-0e4134fd6984" name="Pain Assaulted Him">
+  <card id="98bf5fdc-ff74-48e2-88c8-0e4134fd6984" name="Pain Assailed Him">
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Reduce the Ring-bearer's life by 1.  Then, reduce the Ring-bearers Ò, Û, and Ú to 0 until the end of the round."/>
     <property name="Shadow" value="Shadow: If this attack destroys a character, reduce the Ring-bearer's life by 1."/>
@@ -757,11 +757,17 @@
     <property name="Encounter Set" value="The Ring"/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="c9575426-59ea-4863-bf6a-407e9eae3f33" name="The One Ring">
+  <card id="6c04a40a-0666-4b4f-a768-ddff46857cf0" name="Gildor Inglorian">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
-    <property name="Traits" value="Artifact. Item. Ring."/>
-    <property name="Text" value="Setup: The first player claims The One Ring and attaches it to the Ring-bearer.&#10;&#10;Attached hero does not count against the hero limit. The first player gains control of the attached hero.&#10;&#10;If The One Ring leaves play, the players lose the game."/>
+    <property name="Sphere" value="Boon"/>
+    <property name="Traits" value="Noldor."/>
+    <property name="Keywords" value="The first player gains control of Gildor Inglorian."/>
+    <property name="Willpower" value="3"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Forced: At the end of the round, discard Gildor Inglorion.  The first player may spend 1 ☺ resource to cancel this effect."/>
     <property name="Quantity" value="1"/>
   </card>
   <card id="d95a6076-3ead-4ff6-a1ba-ca320d2bd4e1" name="Gandalf's Delay">
@@ -824,17 +830,11 @@
     <property name="Encounter Set" value="Flight to the Ford"/>
     <property name="Quantity" value="1"/>
   </card>
-  <card id="6c04a40a-0666-4b4f-a768-ddff46857cf0" name="Gildor Inglorian">
+  <card id="c9575426-59ea-4863-bf6a-407e9eae3f33" name="The One Ring">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
-    <property name="Sphere" value="Boon"/>
-    <property name="Traits" value="Noldor."/>
-    <property name="Keywords" value="The first player gains control of Gildor Inglorian."/>
-    <property name="Willpower" value="3"/>
-    <property name="Attack" value="2"/>
-    <property name="Defense" value="3"/>
-    <property name="Health" value="3"/>
-    <property name="Text" value="Forced: At the end of the round, discard Gildor Inglorion.  The first player may spend 1 ☺ resource to cancel this effect."/>
+    <property name="Traits" value="Artifact. Item. Ring."/>
+    <property name="Text" value="Setup: The first player claims The One Ring and attaches it to the Ring-bearer.&#10;&#10;Attached hero does not count against the hero limit. The first player gains control of the attached hero.&#10;&#10;If The One Ring leaves play, the players lose the game."/>
     <property name="Quantity" value="1"/>
   </card>
  </cards>

@@ -107,7 +107,7 @@
     <property name="Cost" value="1"/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="b9e3d591-5973-4f35-90b8-d74d0aeabcc7" name="Legacy of Numenor">
+  <card id="b9e3d591-5973-4f35-90b8-d74d0aeabcc7" name="Legacy of Númenor">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Keywords" value="Doomed 4."/>
@@ -144,13 +144,16 @@
     <property name="Cost" value="0"/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="16b71211-85c1-4ad4-8879-831bc7b50ac4" name="Mugash">
+  <card id="5542dd91-98bd-4a72-bd19-f706f3440ab8" name="Gríma">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
-    <property name="Traits" value="Orc. Uruk."/>
-    <property name="Keywords" value="Guarded."/>
-    <property name="Encounter Set" value="Into Fangorn"/>
-    <property name="Quantity" value="1"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Rohan."/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+    <property name="Encounter Set" value="Fords of Isen"/>
   </card>
   <card id="3f8e889e-db35-4044-ac19-43fd146bffd1" name="The Islet">
     <property name="Unique" value="‰"/>
@@ -261,16 +264,13 @@
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Quantity" value="2"/>
   </card>
-  <card id="5542dd91-98bd-4a72-bd19-f706f3440ab8" name="Gríma">
+  <card id="16b71211-85c1-4ad4-8879-831bc7b50ac4" name="Mugash">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
-    <property name="Sphere" value="Neutral"/>
-    <property name="Traits" value="Rohan."/>
-    <property name="Willpower" value="2"/>
-    <property name="Attack" value="1"/>
-    <property name="Defense" value="2"/>
-    <property name="Health" value="3"/>
-    <property name="Encounter Set" value="Fords of Isen"/>
+    <property name="Traits" value="Orc. Uruk."/>
+    <property name="Keywords" value="Guarded."/>
+    <property name="Encounter Set" value="Into Fangorn"/>
+    <property name="Quantity" value="1"/>
   </card>
   <card id="20c5f7b7-cfc4-44e1-aaf5-0010ceb9a1b9" name="Edge of Fangorn">
     <property name="Unique" value="‰"/>

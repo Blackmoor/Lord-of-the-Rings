@@ -14,7 +14,7 @@
     <property name="Text" value="Action: Raise your threat by 1 to ready Boromir.&#10;&#10;Action: Discard Boromir to deal 2 damage to each enemy engaged with a single player."/>
     <property name="Quantity" value="1"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801205c9004" name="Dunedain Watcher">
+  <card id="51223bd0-ffd1-11df-a976-0801205c9004" name="Dúnedain Watcher">
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Traits" value="Dunedain."/>
@@ -26,7 +26,7 @@
     <property name="Text" value="Response: Discard Dunedain Watcher from play to cancel the shadow effects of a card just triggered."/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801205c9003" name="Dunedain Cache">
+  <card id="51223bd0-ffd1-11df-a976-0801205c9003" name="Dúnedain Cache">
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Traits" value="Item."/>

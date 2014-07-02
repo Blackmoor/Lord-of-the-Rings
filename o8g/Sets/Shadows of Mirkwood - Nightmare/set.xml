@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Shadows of Mirkwood - Nightmare" id="e84f94bf-201b-4adf-95d2-0012e0bb5100" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
-  <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0079" name="Swarming Mosquitoes">
-    <property name="Type" value="Treachery"/>
-    <property name="Traits" value="Escape."/>
-    <property name="Text" value="When Revealed: The first player makes an escape test counting Ú instead of Ò, dealing 2 cards from the encounter deck. If this test is failed, place 1 resource token on Gollum and deal 1 damage to each character in play.&#10;&#10;Escape: 3"/>
-    <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
-    <property name="Quantity" value="2"/>
-  </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0001" name="The Hunt for Gollum">
     <property name="Type" value="Nightmare"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
@@ -459,6 +452,13 @@
     <property name="Text" value="When Revealed: Each player makes an escape test, dealing 1 card from the encounter deck. Each player who fails this test must either discard a hero he controls from play or raise his threat by 5.&#10;&#10;Escape: 5"/>
     <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
     <property name="Quantity" value="1"/>
+  </card>
+  <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0079" name="Swarming Mosquitoes">
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Escape."/>
+    <property name="Text" value="When Revealed: The first player makes an escape test counting Ú instead of Ò, dealing 2 cards from the encounter deck. If this test is failed, place 1 resource token on Gollum and deal 1 damage to each character in play.&#10;&#10;Escape: 3"/>
+    <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
+    <property name="Quantity" value="2"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0080" name="Devilry of the Dark Land">
     <property name="Type" value="Treachery"/>

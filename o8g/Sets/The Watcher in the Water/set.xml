@@ -53,7 +53,7 @@
     <property name="Text" value="Attach to a Noldor or Silvan character, or to Aragorn. Limit 1 per character.&#10;&#10;Attached character gains ranged.&#10;&#10;If attached character has a printed ranged keyword, it gets +1 Û during a ranged attack."/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9002" name="Arwen Undomiel">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9002" name="Arwen Undómiel">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Spirit"/>
@@ -128,13 +128,15 @@
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="3"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9015" name="Stagnant Creek">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9016" name="Stair Falls">
+    <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
-    <property name="Traits" value="Swamp."/>
-    <property name="Threat" value="3"/>
-    <property name="Text" value="When Revealed: Discard the top card of the encounter deck. If the discarded card is a Tentacle enemy, add that card to the staging area and raise each player's threat by 5."/>
+    <property name="Traits" value="Stair."/>
+    <property name="Threat" value="2"/>
+    <property name="Text" value="Travel: The first player must exhaust 2 characters to travel here."/>
+    <property name="Shadow" value="Shadow: Remove 1 progress token from the current quest."/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
-    <property name="Quantity" value="3"/>
+    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801210c9011" name="Perilous Swamp">
     <property name="Type" value="Location"/>
@@ -153,15 +155,13 @@
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Quantity" value="2"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9016" name="Stair Falls">
-    <property name="Unique" value="‰"/>
+  <card id="51223bd0-ffd1-11df-a976-0801210c9015" name="Stagnant Creek">
     <property name="Type" value="Location"/>
-    <property name="Traits" value="Stair."/>
-    <property name="Threat" value="2"/>
-    <property name="Text" value="Travel: The first player must exhaust 2 characters to travel here."/>
-    <property name="Shadow" value="Shadow: Remove 1 progress token from the current quest."/>
+    <property name="Traits" value="Swamp."/>
+    <property name="Threat" value="3"/>
+    <property name="Text" value="When Revealed: Discard the top card of the encounter deck. If the discarded card is a Tentacle enemy, add that card to the staging area and raise each player's threat by 5."/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
-    <property name="Quantity" value="1"/>
+    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801210c9008" name="Ill Purpose">
     <property name="Type" value="Treachery"/>

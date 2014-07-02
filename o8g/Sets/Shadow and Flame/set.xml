@@ -145,11 +145,10 @@
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9005" name="Fiery Sword">
-    <property name="Unique" value="‰"/>
+  <card id="51223bd0-ffd1-11df-a976-0801213c9006" name="Fires in the Deep">
     <property name="Type" value="Treachery"/>
-    <property name="Traits" value="Weapon. Flame."/>
-    <property name="Text" value="When Revealed: Attach Fiery Sword to Durin's Bane as a Weapon attachment with the text: &quot;Attached enemy gets +3 Û.&quot;"/>
+    <property name="Text" value="When Revealed: Each player must discard 1 ally he controls, if able. If Fires in the Deep discarded no allies, it gains surge."/>
+    <property name="Shadow" value="Shadow: The defending player discards 1 ally he controls, if able."/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Quantity" value="2"/>
   </card>
@@ -214,10 +213,11 @@
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9006" name="Fires in the Deep">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9005" name="Fiery Sword">
+    <property name="Unique" value="‰"/>
     <property name="Type" value="Treachery"/>
-    <property name="Text" value="When Revealed: Each player must discard 1 ally he controls, if able. If Fires in the Deep discarded no allies, it gains surge."/>
-    <property name="Shadow" value="Shadow: The defending player discards 1 ally he controls, if able."/>
+    <property name="Traits" value="Weapon. Flame."/>
+    <property name="Text" value="When Revealed: Attach Fiery Sword to Durin's Bane as a Weapon attachment with the text: &quot;Attached enemy gets +3 Û.&quot;"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Quantity" value="2"/>
   </card>
