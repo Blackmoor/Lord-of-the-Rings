@@ -79,6 +79,7 @@
     <property name="Type" value="Nightmare"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Quantity" value="1"/>
+    <property name="Setup" value="tt"/>
     <alternate name="The Seventh Level" type="B">
       <property name="Type" value="Nightmare"/>
     </alternate>

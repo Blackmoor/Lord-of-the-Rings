@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="207b3e48-c42c-42a8-b1ac-20950e6588d9">Into the Pit</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9028">Entering the Mines - 1A</card>
+    <card qty="1" id="17039c31-d3fd-4730-8b74-8f08458071fe">Goblin Ambush - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9004">A Way Up - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9054">Patrol Leader</card>
+    <card qty="5" id="51223bd0-ffd1-11df-a976-0801207c9073">Signs of Conflict</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9013">Branching Paths</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9015">Burning Low</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9046">Lightless Passage</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9047">Many Roads</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9089">Zigil Mineshaft</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9022">Dark and Dreadful</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9023">Dreadful Gap</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9033">Fouled Well</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9076">Sudden Pitfall</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9038">Goblin Scout</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9087">Watchful Eyes</card>
+    <card qty="4" id="5ce149ca-3cca-41ce-9756-bf137d910966">Patrol Sentry</card>
+    <card qty="3" id="ec1a2268-5e9d-4875-8089-2692d22fa180">Goblin Lurker</card>
+    <card qty="2" id="2d85efc7-b619-4376-a7ac-be797b874fba">Shadow Dweller</card>
+    <card qty="3" id="0f939a7b-8a2e-4358-b3b1-e50b3eef7c0b">Twisting Shadows</card>
+    <card qty="3" id="573eebae-82fc-4e41-a3a8-343194c893bc">Narrow Fissure</card>
+    <card qty="3" id="e84369a8-89c8-4866-bd21-7c25ece2ca3f">Shadow-Fall</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9027">East-gate</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9017">Cave Torch</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9032">First Hall</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9014">Bridge of Khazad-dûm</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

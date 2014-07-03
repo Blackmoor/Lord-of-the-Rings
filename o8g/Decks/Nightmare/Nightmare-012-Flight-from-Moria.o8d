@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Quest" shared="True">
+    <card qty="1" id="1bac61b0-ee27-43eb-bb39-85f64c6b4c94">Flight from Moria</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9002">A Presence in the Dark - 1A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9056">Search for an Exit - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9060">Search for an Exit - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9062">Search for an Exit - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9064">Search for an Exit - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9066">Search for an Exit - 2A</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9068">Search for an Exit - 2A</card>
+    <card qty="1" id="6c9419b0-e016-4ba8-b90a-575d4378984e">Search for an Exit - 2A</card>
+    <card qty="1" id="5ed5e5a0-8924-424a-a49f-527fe91c6374">Search for an Exit - 2A</card>
+    <card qty="1" id="45c91742-29a2-4409-a7e5-1f6234d73908">Search for an Exit - 2A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9006">Abandoned Tools</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9051">New Devilry</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9072">Shadow of Fear</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9021">Crumbling Ruin</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9023">Dreadful Gap</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9033">Fouled Well</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9076">Sudden Pitfall</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9042">Great Cave-troll</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9048">Massing in the Deep</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9052">Orc Drummer</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9079">The Mountains' Roots</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9020">Chieftain of the Pit</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801207c9039">Goblin Spearman</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9082">Undisturbed Bones</card>
+    <card qty="3" id="877df84f-3f61-41e0-96ad-aab2aae56048">Swarming Goblins</card>
+    <card qty="3" id="0834d564-c1f1-4f16-8bc7-d7249d665d5c">Coal-Black Orc</card>
+    <card qty="4" id="4c495965-946e-472f-841c-72f388a7ce65">Shadowed Corridor</card>
+    <card qty="3" id="f6f49c59-637f-4ca2-b51f-e00c4332d33b">Dismay and Fear</card>
+    <card qty="3" id="a78c13d9-8acb-42eb-82a0-a216de3ed87a">An Evil Fortune</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9080">The Nameless Fear</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801207c9001">A Foe Beyond</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>
