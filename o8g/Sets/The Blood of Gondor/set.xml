@@ -96,8 +96,8 @@
   </card>
   <card id="d2bf00ad-2e1e-4537-b662-f6f20f9a1cfe" name="Captured! - 2A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
     <alternate name="Captured! - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="11"/>
@@ -105,8 +105,8 @@
   </card>
   <card id="23768a0d-bf6c-4405-9b09-ea8fdbfded31" name="Ambush - 1A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Setup" value="sstt"/>
     <alternate name="Ambush - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -121,9 +121,9 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="3"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="8f106a70-0102-41ad-8752-fb5667748850" name="Orc Ambusher">
     <property name="Type" value="Enemy"/>
@@ -133,8 +133,8 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="2d2e4f42-009d-4fde-ab42-3cd9351a4d0f" name="Brutal Uruk">
     <property name="Type" value="Enemy"/>
@@ -144,8 +144,8 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="5"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="9d2926dc-ab14-492a-8f1e-b07c1b32b2d8" name="Evil Crow">
     <property name="Type" value="Enemy"/>
@@ -155,8 +155,8 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="2"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="9b2302dc-3084-447f-8104-a4569fd26e38" name="The Cross-roads">
     <property name="Unique" value="‰"/>
@@ -164,66 +164,66 @@
     <property name="Traits" value="Ithilien."/>
     <property name="Keywords" value="The current quest card gains siege."/>
     <property name="Threat" value="X"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="3"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="5a654416-4449-4d0c-add8-8b3ca04bb401" name="Southern Road">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Ithilien. Road."/>
     <property name="Threat" value="2"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="01b1d42b-11a4-4030-988d-064673169fec" name="Western Road">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Ithilien. Road."/>
     <property name="Threat" value="2"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="8eb1ca03-da9e-4e84-abf2-090804eeb1aa" name="Northern Road">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Ithilien. Road."/>
     <property name="Threat" value="4"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="9d58de28-c518-4888-8e91-a52bb5c3e663" name="Eastern Road">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Ithilien. Road."/>
     <property name="Threat" value="4"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="eec35e8e-281e-4dc7-8a76-b4823de3cb71" name="The Dark Woods">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Keywords" value="Archery X."/>
     <property name="Threat" value="2"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="8affd994-f7f5-4341-8437-899f9a31b094" name="Lying in Wait">
     <property name="Type" value="Treachery"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="fa3a740d-36b7-4fa9-b5d5-6d70aa50f078" name="Mordor Looms">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="f4b35e95-7f32-490d-9591-ac9eb050bb7e" name="Conflict at the Crossroads">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="ab2ac791-b266-43b2-b6ee-0d412a1100bc" name="Faramir">
     <property name="Unique" value="‰"/>
@@ -234,8 +234,8 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="4"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
   <card id="fa4aaa97-c06d-42d5-b796-2f6200d9a404" name="Lord Alcaron">
     <property name="Unique" value="‰"/>
@@ -246,8 +246,8 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
   </card>
  </cards>
 </set>

@@ -5,23 +5,23 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="X"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="X is the number of resource tokens on this card.&#10;&#10;Forced: At the beginning of the travel phase place a resource token on this card if there is an objective card in the staging area. If there are 5 resource tokens on this card, the players lose the game."/>
     <property name="Encounter Set" value="Chasing the Orc Raiders"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="5ac938ec-c2d5-4e73-95e9-78c59669cf0e" name="Elrond's Message">
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Item."/>
     <property name="Keywords" value="Restricted. Guarded 2 (attach the top 2 encounter cards instead of 1)"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Action: Claim Elrond's Message if it free of encounters. When claimed, attach Elrond's Message to a hero you control. (Counts as an attachment. If attached Hero takes damage or Elrond's message becomes detached, return Elrond's Message to the top of the Encounter Deck.)"/>
     <property name="Encounter Set" value="Chasing the Orc Raiders"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="bd0ddb50-f6da-4081-a216-5e492401c6b5" name="Robbed - 1A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Setup: Search the encounter deck for Elrond's Message, Orc Forest Camp and Ungoliant Spawn. Add Elrond's Message and Orc Forest Camp to the staging area. Place Ungoliant Spawn face up but out of play, alongside the quest deck."/>
     <property name="Encounter Set" value="Chasing the Orc Raiders"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="sts"/>
     <alternate name="Robbed - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -31,9 +31,9 @@
   </card>
   <card id="64623255-a216-427b-a990-76f723d30400" name="Hide and Seek - 2A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When Revealed: Set aside Orc Forest Camp out of play."/>
     <property name="Encounter Set" value="Chasing the Orc Raiders"/>
-    <property name="Quantity" value="1"/>
     <alternate name="Hide and Seek - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
@@ -42,9 +42,9 @@
   </card>
   <card id="ca69961a-9d2b-427f-b18a-e864193fca61" name="Uninvited Guests - 3A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When Revealed: Place Ungoliant Spawn in the staging area. All orcs in the staging area are discarded."/>
     <property name="Encounter Set" value="Chasing the Orc Raiders"/>
-    <property name="Quantity" value="1"/>
     <alternate name="Uninvited Guests - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>

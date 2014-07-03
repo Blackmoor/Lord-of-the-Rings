@@ -11,9 +11,9 @@
     <property name="Attack" value="6"/>
     <property name="Defense" value="6"/>
     <property name="Health" value="11"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="While The Witch-king is in the staging area, each character gets -1 Ò.&#10;&#10;Forced: After The Witch-king attacks, he returns to the staging area unless the defending player raises his threat by 3."/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9002" name="Snaga Scouts">
     <property name="Type" value="Enemy"/>
@@ -23,9 +23,9 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="2"/>
+    <property name="Quantity" value="4"/>
     <property name="Text" value="Forced: At the beginning of the encounter phase, all copies of Snaga Scouts engage the player with the lowest threat. (The first player chooses in case of a tie.)"/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="4"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9003" name="Wolves from Mordor">
     <property name="Type" value="Enemy"/>
@@ -35,10 +35,10 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
+    <property name="Quantity" value="4"/>
     <property name="Text" value="Forced: After Wolves from Mordor attack and destroy a character, shuffle Wolves from Mordor into the encounter deck."/>
     <property name="Shadow" value="Shadow: Deal 2 damage to the defending character."/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="4"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9004" name="Wainriders">
     <property name="Type" value="Enemy"/>
@@ -48,9 +48,9 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="4"/>
+    <property name="Quantity" value="4"/>
     <property name="Text" value="Each damage dealt by Wainriders raises the defending player's threat by 1."/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="4"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9005" name="Wainrider Captain">
     <property name="Type" value="Enemy"/>
@@ -60,10 +60,10 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="4"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Move the top Scout enemy from the encounter discard pile to the staging area. (Top 2 Scout enemies instead if the players have crossed the Anduin.)"/>
     <property name="Shadow" value="Shadow: If this attack is undefended, attacking enemy gets +2 Û if it is a Scout."/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9006" name="Uruk Vanguard">
     <property name="Type" value="Enemy"/>
@@ -73,74 +73,74 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="8"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="If the players have crossed the Anduin, Uruk Vanguard gets +3 Û."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+2 Û instead if players have crossed the Anduin)."/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9007" name="Captured Watchtower">
     <property name="Type" value="Location"/>
     <property name="Traits" value="West Bank."/>
     <property name="Threat" value="1"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="If the players have crossed the Anduin, Captured Watchtower gets +3 $."/>
     <property name="Shadow" value="Shadow: Remove all defending characters from combat. This attack is considered undefended."/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9008" name="Emyn Arnen Overlook">
     <property name="Type" value="Location"/>
     <property name="Traits" value="East Bank. Highlands."/>
     <property name="Threat" value="2"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="The first Scout enemy revealed from the encounter deck each round gains surge and doomed 2."/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9009" name="Morgulduin">
     <property name="Type" value="Location"/>
     <property name="Traits" value="East Bank. Polluted."/>
     <property name="Threat" value="1"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="While Morgulduin is the active Location, it gains: 'Forced: When a character commits to a Quest, deal 1 damage to that character.'"/>
     <property name="Shadow" value="Shadow: If the players have not yet crossed the Anduin, return any current active location to the staging area. Morgulduin becomes the active location."/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9010" name="Pelennor Fields">
     <property name="Type" value="Location"/>
     <property name="Traits" value="West Bank."/>
     <property name="Threat" value="1"/>
-    <property name="Text" value="If the players have crossed the Anduin, Pelennor Fields gains: 'When faced with the option to travel, the players must either travel to Pelennor Fields or raise each player's threat by 3.'"/>
-    <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <property name="Quantity" value="2"/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="If the players have crossed the Anduin, Pelennor Fields gains: 'When faced with the option to travel, the players must either travel to Pelennor Fields or raise each player's threat by 3.'"/>
+    <property name="Encounter Set" value="The Massing at Osgiliath"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9011" name="Ruins of Osgiliath">
     <property name="Type" value="Location"/>
     <property name="Traits" value="East Bank."/>
     <property name="Threat" value="1"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="If the players have crossed the Anduin, Ruins of Osgiliath gets +3 $."/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9012" name="Cut Off">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 1"/>
+    <property name="Quantity" value="4"/>
     <property name="Text" value="When Revealed: Each player must discard all ally cards from his hand, if able."/>
     <property name="Shadow" value="Shadow: Defending player must discard 1 ally card from his hand or attacking enemy gets +3 Û. (2 allies instead if this attack is undefended."/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="4"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9013" name="Dark Pursuit">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Raise the total $ of the staging area by 1 for each Scout enemy in play. If there are no Scout enemies in play, Dark Pursuit gains surge."/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9014" name="Massing at Osgiliath">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Until the end of the phase, each card revealed by the encounter deck gains doomed 1. (Doomed 3 instead if the players have crossed the Anduin.)"/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9015" name="Ranger of Ithilien">
     <property name="Type" value="Objective"/>
@@ -149,16 +149,16 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: The first player takes control of Ranger of Ithilien, exhausted and committed to the quest. Then, Ranger of Ithilien gains surge."/>
     <property name="Shadow" value="Shadow: Deal 2 damage to attacking enemy. The defending player may exhaust a character he controls to take control of Ranger of Ithilien."/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9016" name="Beyond Expectations - 1A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Setup: Search the encounter deck for 12 Scout cards, and add 3 per player (one of each title), to the staging area. Remove The Witch-king from the encounter deck and set him aside, out of play. Shuffle any unused Scoutcards back into the encounter deck."/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="ttttttttttttt"/>
     <alternate name="Beyond Expectations - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -168,8 +168,8 @@
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9018" name="Through the Ruins - 2A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <alternate name="Through the Ruins - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
@@ -178,8 +178,8 @@
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9020" name="Anduin Crossing - 3A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <alternate name="Anduin Crossing - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="1"/>
@@ -188,8 +188,8 @@
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801202c9022" name="Race to Minas Tirith - 4A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <alternate name="Race to Minas Tirith - 4B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>

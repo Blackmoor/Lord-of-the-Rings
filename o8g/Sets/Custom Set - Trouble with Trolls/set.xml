@@ -3,9 +3,9 @@
  <cards>
   <card id="7d2fe683-0ad6-4269-867d-bbdd7368a4d4" name="Trouble with Trolls - 1A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Remove the following cards from the encounter deck: 2 Hobbit-lands; 2 A Nice Pickle; More like a Grocer; Troll Cave; Troll Purse; and the 7 Sack cards. Add only the enemy cards from the Wilderlands and Seventh Level encounter sets to the encounter deck and shuffle it. Shuffle the 7 Sack cards face down to form a Sack deck."/>
     <property name="Encounter Set" value="Trouble with Trolls"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="tt"/>
     <alternate name="Trouble with Trolls - 1B" type="B">
       <property name="Type" value="Quest"/>

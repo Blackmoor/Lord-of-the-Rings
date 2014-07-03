@@ -11,15 +11,15 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="4"/>
-    <property name="Text" value="You may spend resources from Elrond's resource pool to pay for Ê, Ì, and Ï allies.&#10;&#10;Response: After a character is healed by another card effect, heal 1 damage on it."/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="You may spend resources from Elrond's resource pool to pay for Ê, Ì, and Ï allies.&#10;&#10;Response: After a character is healed by another card effect, heal 1 damage on it."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9028" name="We Are Not Idle">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Action: Exhaust X Dwarf characters to add X resources to a hero's resource pool and draw 1 card."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Exhaust X Dwarf characters to add X resources to a hero's resource pool and draw 1 card."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9008" name="Hardy Leadership">
     <property name="Unique" value="‰"/>
@@ -27,23 +27,23 @@
     <property name="Sphere" value="Leadership"/>
     <property name="Keywords" value="Attach to a Ì hero."/>
     <property name="Cost" value="2"/>
-    <property name="Text" value="Each Dwarf character gets +1 hit point."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Each Dwarf character gets +1 hit point."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9007" name="Hands Upon the Bow">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Action: Exhaust a character you control with ranged to immediately declare it as an attacker (and resolve its attack) against an enemy in the staging area. It gets +1 Û during this attack."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Exhaust a character you control with ranged to immediately declare it as an attacker (and resolve its attack) against an enemy in the staging area. It gets +1 Û during this attack."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9019" name="O Elbereth! Gilthonial!">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Keywords" value="Secrecy 4."/>
     <property name="Cost" value="4"/>
-    <property name="Text" value="Response: After an enemy attacks you, put that enemy on the bottom of the encounter deck. If your threat is lower than that enemy's engagement cost, set your threat equal to the engagement cost of that enemy."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Response: After an enemy attacks you, put that enemy on the bottom of the encounter deck. If your threat is lower than that enemy's engagement cost, set your threat equal to the engagement cost of that enemy."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9016" name="Miruvor">
     <property name="Type" value="Attachment"/>
@@ -51,8 +51,8 @@
     <property name="Traits" value="Item."/>
     <property name="Keywords" value="Attach to a hero."/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Action: Discard Miruvor to (choose two): ready attached hero, add 1 resource to attached hero's resource pool, attached hero gets +1 Ò until the end of the round, or put Miruvor on the top of your deck."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Discard Miruvor to (choose two): ready attached hero, add 1 resource to attached hero's resource pool, attached hero gets +1 Ò until the end of the round, or put Miruvor on the top of your deck."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9015" name="Master of the Forge">
     <property name="Type" value="Ally"/>
@@ -63,23 +63,23 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="1"/>
-    <property name="Text" value="Action: Exhaust Master of the Forge to search the top 5 cards of your deck for any 1 attachment and add it to your hand. Shuffle the other cards back into your deck."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Exhaust Master of the Forge to search the top 5 cards of your deck for any 1 attachment and add it to your hand. Shuffle the other cards back into your deck."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9020" name="Peace, and Thought">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Refresh Action: Exhaust 2 heroes to draw 5 cards."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Refresh Action: Exhaust 2 heroes to draw 5 cards."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9022" name="Risk Some Light">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Keywords" value="Secrecy 3."/>
     <property name="Cost" value="3"/>
-    <property name="Text" value="Action: Look at the top 3 cards of the encounter deck. You may select 1 card and move it to the bottom of the encounter deck. Return any unselected cards to the top of the encounter deck, in any order."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Look at the top 3 cards of the encounter deck. You may select 1 card and move it to the bottom of the encounter deck. Return any unselected cards to the top of the encounter deck, in any order."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9027" name="Vilya">
     <property name="Unique" value="‰"/>
@@ -88,14 +88,14 @@
     <property name="Traits" value="Ring. Artifact."/>
     <property name="Keywords" value="Attach to Elrond. He gains a Ê resource icon."/>
     <property name="Cost" value="2"/>
-    <property name="Text" value="Action: Exhaust Elrond and Vilya to reveal the top card of your deck. You can immediately play or put into play the revealed card for no cost, if able. Otherwise, move the revealed card to the bottom of your deck."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Exhaust Elrond and Vilya to reveal the top card of your deck. You can immediately play or put into play the revealed card for no cost, if able. Otherwise, move the revealed card to the bottom of your deck."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9017" name="Nearing the Gate - 1A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Setup: Remove Dark Pit from the encounter deck and place it aside, out of play. Add Durin's Bane to the staging area. Shuffle the encounter deck."/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="ts"/>
     <alternate name="Nearing the Gate - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -105,8 +105,8 @@
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9025" name="The Rear Guard - 2A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Shadow and Flame"/>
     <alternate name="The Rear Guard - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="16"/>
@@ -115,8 +115,8 @@
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9011" name="Last Lord of Moria - 3A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Shadow and Flame"/>
     <alternate name="Last Lord of Moria - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="1"/>
@@ -127,68 +127,68 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground. Dark."/>
     <property name="Threat" value="0"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="While Dark Pit is the active location it gains: &quot;Refresh Action: Exhaust X characters (maximum 3) you control to discard the top X cards of your deck. If all discarded cards have a higher combined printed cost than the remaining hit points of Durin's Bane, discard Durin's Bane from play.&quot;"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9024" name="Second Hall">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground."/>
     <property name="Threat" value="4"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="While Second Hall is the active location, it gains: &quot;Forced: After a character leaves play, reveal 1 card from the encounter deck and add it to the staging area.&quot;"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9023" name="Second Deep">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground."/>
     <property name="Threat" value="3"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="While Durin's Bane has no damage on it, progress tokens cannot be placed on Second Deep."/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9006" name="Fires in the Deep">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Each player must discard 1 ally he controls, if able. If Fires in the Deep discarded no allies, it gains surge."/>
     <property name="Shadow" value="Shadow: The defending player discards 1 ally he controls, if able."/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9001" name="Counter-Spell">
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Shadow."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Attach Counter-spell to Durin's Bane. (Counts as a Condition attachment with the text: &quot;Forced: When a player plays an event, discard the top card of the encounter deck. If that card is a treachery card, cancel the effects of the event, discard the event player's hand, and discard Counter-spell from play.&quot;)"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9009" name="Inner Flame">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Durin's Bane gets +3 Û until the end of the round. The first player may remove 1 questing hero he controls from the quest to cancel this effect."/>
     <property name="Shadow" value="Shadow: If attacking enemy is Durin's Bane, it gets +3 Û."/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9010" name="Inner Shadow">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Heal 5 damage from Durin's Bane, if able. The first player may remove 1 questing hero he controls from the quest to cancel this effect."/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9029" name="Whip Lash">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Each player must discard 1 attachment he controls, if able."/>
     <property name="Shadow" value="Shadow: If attacking enemy is Durin's Bane, the defending player discards all attachments he controls."/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9013" name="Leaping Flame">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Durin's Bane makes an immediate attack against the first player (deal and resolve a shadow card)."/>
     <property name="Shadow" value="Shadow: If attacking enemy is Durin's Bane, it gets +3 Û."/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9003" name="Durin's Bane">
     <property name="Unique" value="‰"/>
@@ -200,9 +200,9 @@
     <property name="Attack" value="6"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="27"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Players cannot play attachments on Durin's Bane.&#10;&#10;Durin's Bane cannot leave the staging area, is considered to be engaged with each player whose threat is 1 or greater, and attacks each of those players in turn during the combat phase (deal and discard a new shadow card each attack)."/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9021" name="Ranging Goblin">
     <property name="Type" value="Enemy"/>
@@ -212,25 +212,25 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Each player must deal 1 damage to a hero he controls.&#10;&#10;Forced: After a character leaves play, shuffle Ranging Goblin and the top card in the encounter discard pile back into the encounter deck."/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9005" name="Fiery Sword">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Weapon. Flame."/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Attach Fiery Sword to Durin's Bane as a Weapon attachment with the text: &quot;Attached enemy gets +3 Û.&quot;"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801213c9014" name="Many Thonged Whip">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Weapon. Flame."/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Attach Many Thonged Whip to Durin's Bane as a Weapon attachment with the text: &quot;Forced: When Durin's Bane attacks, the defending player must discard 1 card at random from his hand.&quot;"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
-    <property name="Quantity" value="2"/>
   </card>
  </cards>
 </set>

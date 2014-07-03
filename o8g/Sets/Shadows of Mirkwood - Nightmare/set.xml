@@ -3,9 +3,9 @@
  <cards>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0001" name="The Hunt for Gollum">
     <property name="Type" value="Nightmare"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Encounter Set" value="The Hunt for Gollum - Nightmare"/>
-    <property name="Quantity" value="1"/>
     <alternate name="The Hunt for Gollum" type="B">
       <property name="Type" value="Nightmare"/>
       <property name="Text" value="You are playing Nightmare mode.&#10;&#10;Forced: At the end of the refresh phase, choose an unclaimed Clue card not attached to a Mordor enemy and attach it to a Mordor enemy, if able. (If it was guarded, detach the encounter guarding if first. The newly attached Mordor enemy is now guarding it.)&#10;&#10;If at any point there are four or more Clue cards attached to Mordor enemies, the players lose the game."/>
@@ -19,9 +19,9 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="3"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="Forced: When a card effect instructs a player to &quot;look&quot; at cards in the encounter deck and Ravenous Hawk is among those cards, that player must put Ravenous Hawk into play engaged with him. (This does not satisfy the Forced effect of stage 1B or 2B)."/>
     <property name="Encounter Set" value="The Hunt for Gollum - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0007" name="Hunting Warg">
     <property name="Type" value="Enemy"/>
@@ -31,62 +31,62 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="Forced: At the beginning of the refresh phase, if Hunting Warg entered play this round, search the encounter deck and discard pile for 1 copy of Hunters from Morder and add it to the staging area, if able. Shuffle the encounter deck."/>
     <property name="Encounter Set" value="The Hunt for Gollum - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0008" name="Watched Path">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest. Road."/>
     <property name="Threat" value="3"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="Each player who does not control at least 1 Clue card cannot draw cards through card effects."/>
     <property name="Shadow" value="Shadow: If you do not control at least 1 Clue card, discard all cards from your hand."/>
     <property name="Encounter Set" value="The Hunt for Gollum - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0009" name="Hunter's Lookout">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Riverland."/>
     <property name="Threat" value="2"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="Each Mordor enemy with at least 1 Clue card attached gets +2 Ú."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Ú for each Clue card in play until the end of the round."/>
     <property name="Encounter Set" value="The Hunt for Gollum - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0010" name="Dark Pools">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Marshland."/>
     <property name="Threat" value="3"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="Progress cannot be placed on Dark Pools while it is in the staging area.&#10;&#10;Forced: After Dark Pools becomes the active location, each player must discard an ally with the highest printed cost among the allies he controls."/>
     <property name="Encounter Set" value="The Hunt for Gollum - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0003" name="The Enemy's Trail">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Search the encounter discard pile for a Clue card and attach it to a Mordor enemy in play, if able. If no card is attached by this effect, The Enemy's Trail gains surge."/>
     <property name="Shadow" value="Shadow: Search the encounter discard pile for a Clue card and attach it to a Mordor enemy in play, if able."/>
     <property name="Encounter Set" value="The Hunt for Gollum - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0004" name="Restless Hunters">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: The first player chooses a Clue card attached to a hero and attaches it to a Mordor enemy in play, if able."/>
     <property name="Shadow" value="Shadow: Damage from this attack must be applied to a hero you control with a Clue card attached, if able."/>
     <property name="Encounter Set" value="The Hunt for Gollum - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0005" name="The Trail Goes Cold">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Attach to the active location and remove all progress from that location. (Counts as a Condition attachment with the text: &quot;Limit 1 per location. Attached location contributes its $ during the quest phase as if it were in the staging area.&quot;)&#10;&#10;If The Trail Goes Cold does not attach to a location as a result of its effect, it gains surge."/>
     <property name="Encounter Set" value="The Hunt for Gollum - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0041" name="Conflict at the Carrock">
     <property name="Type" value="Nightmare"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="sttttttttt"/>
     <alternate name="Conflict at the Carrock" type="B">
       <property name="Type" value="Nightmare"/>
@@ -101,11 +101,11 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="6"/>
+    <property name="Quantity" value="4"/>
+    <property name="Victory Points" value="1"/>
     <property name="Text" value="While Savage Hill-troll is in the victory display, each Troll enemy gets +1 hit point."/>
     <property name="Shadow" value="Shadow: If attacking enemy is a Troll, defending character does not ready during the refresh phase this round."/>
     <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
-    <property name="Quantity" value="4"/>
-    <property name="Victory Points" value="1"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0046" name="Rob &amp; Bob">
     <property name="Unique" value="‰"/>
@@ -116,9 +116,9 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="10"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Forced: After Rob &amp; Bob makes its first attack each round, if there are two or more players, it engages the next player and makes an additional attack (discard and deal a new shadow card for this attack)."/>
     <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0047" name="Louis">
     <property name="Unique" value="‰"/>
@@ -129,10 +129,10 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="10"/>
-    <property name="Text" value="Forced: After Louis attacks, the defending player must raise his threat by 3.&#10;&#10;While Louis is in the victory display, each Troll enemy gains, &quot;Forced: After this enemy attacks, the defending player must raise his threat by 1.&quot;"/>
-    <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="2"/>
+    <property name="Text" value="Forced: After Louis attacks, the defending player must raise his threat by 3.&#10;&#10;While Louis is in the victory display, each Troll enemy gains, &quot;Forced: After this enemy attacks, the defending player must raise his threat by 1.&quot;"/>
+    <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0048" name="Morris">
     <property name="Unique" value="‰"/>
@@ -143,10 +143,10 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="10"/>
-    <property name="Text" value="Immune to player events.&#10;&#10;While Morris is in the victory display, each Troll enemy gets +1 Û and gains &quot;Immune to player events.&quot;"/>
-    <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="2"/>
+    <property name="Text" value="Immune to player events.&#10;&#10;While Morris is in the victory display, each Troll enemy gets +1 Û and gains &quot;Immune to player events.&quot;"/>
+    <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0049" name="Rupert">
     <property name="Unique" value="‰"/>
@@ -157,10 +157,10 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="10"/>
-    <property name="Text" value="Rupert's Ú cannot be reduced.&#10;&#10;While Rupert is in the victory display, the Ú of each Troll enemy cannot be reduced."/>
-    <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="2"/>
+    <property name="Text" value="Rupert's Ú cannot be reduced.&#10;&#10;While Rupert is in the victory display, the Ú of each Troll enemy cannot be reduced."/>
+    <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0050" name="Stuart">
     <property name="Unique" value="‰"/>
@@ -171,40 +171,40 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="10"/>
-    <property name="Text" value="Cannot have player attachments.&#10;&#10;While Stuart is in the victory display, each Troll enemy gets +1 Ú and gains &quot;Cannot have player attachments.&quot;"/>
-    <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="2"/>
+    <property name="Text" value="Cannot have player attachments.&#10;&#10;While Stuart is in the victory display, each Troll enemy gets +1 Ú and gains &quot;Cannot have player attachments.&quot;"/>
+    <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0052" name="Troll Lair">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="2"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="While Troll Lair is in the staging area, players cannot reduce their threat."/>
     <property name="Shadow" value="Shadow: If attacking enemy is a Troll, remove 4 damage tokens from it."/>
     <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0053" name="Hives and Hives">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Wilderlands."/>
     <property name="Threat" value="3"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="Forced: After any amount of progress is placed on Hives and Hives, deal 1 damage to each character in play."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +2 Û."/>
     <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0051" name="Time for Supper">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: The first player chooses a hero in any player's discard pile and removes that hero from the game. Then, heal all damage from each Troll enemy in play. If no damage is removed from any Troll enemy as a result of this effect, Time for Supper gains surge."/>
     <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0043" name="Grimbeorn's Folly - 3A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When Revealed: Add Rob &amp; Bob to the staging area. Then, each player must search the encounter deck and discard pile for a non-unique Troll enemy and add it to the staging area, if able. Shuffle the encounter deck."/>
     <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
-    <property name="Quantity" value="1"/>
     <alternate name="Grimbeorn's Folly - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Text" value="When Rob &amp; Bob have been defeated, the players have rescued Grimbeorn the Old from certain death, and have won the game."/>
@@ -212,9 +212,9 @@
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0031" name="A Journey to Rhosgobel">
     <property name="Type" value="Nightmare"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="sss"/>
     <alternate name="A Journey to Rhosgobel" type="B">
       <property name="Type" value="Nightmare"/>
@@ -229,10 +229,10 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="4"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="Goblin Eagle-hunter gets +1 hit point per player.&#10;&#10;Forced: At the end of the combat phase, deal 1 damage to Wilyador."/>
     <property name="Shadow" value="Shadow: If Wilyador has 10 or less damage on him, deal 2 damage to Wilyador."/>
     <property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0039" name="Treetop Bird-eater">
     <property name="Type" value="Enemy"/>
@@ -242,57 +242,57 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="While Treetop Bird-eater is engaged with a player, characters controlled by that player cannot be healed.&#10;&#10;Forced: At the beginning of the encounter phase, Treetop Bird-eater engages the player who controls Wilyador (regardless of threat)."/>
     <property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0035" name="Dark-wood Grove">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="3"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="Dark-wood Grove gets +1 $ and +1 quest point for each Athelas card in play."/>
     <property name="Shadow" value="Shadow: If defending player controls at least 1 Athelas card, attacking enemy makes an additional attack after this one."/>
     <property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0037" name="Labyrinthine Woods">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="2"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="While Labyrinthine Woods is in the staging area, Creature enemies get +1 $ and +1 Û."/>
     <property name="Shadow" value="Shadow: After this attack, attacking enemy engages the next player and makes an additional attack."/>
     <property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0038" name="Pitch-dark Thicket">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="4"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="While Pitch-dark Thicket is the active location, all characters lose the ranged keyword."/>
     <property name="Shadow" value="Shadow: Attacking enemy cannot be attacked by characters with the ranged keyword until the end of the phase."/>
     <property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0034" name="Shot from the Sky">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Attach to an Eagle character. (Counts as a Condition attachment with the text: &quot;Limit 1 per character. Attached character loses the Eagle trait, and takes 1 damage each time it readies.&quot;)"/>
     <property name="Shadow" value="Shadow: Resolve the &quot;when revealed&quot; effect of Shot from the Sky."/>
     <property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0036" name="Noxious Supplies">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Attach to Wilyador. (Counts as a Condition attachment with the text: &quot;Forced: When attached character is healed by a card effect other than Athelas, the amount of damage healed is reduced to 1. Then, discard Noxious Supplies.&quot;)"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0061" name="The Hills of Emyn Muil">
     <property name="Type" value="Nightmare"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="ss"/>
     <alternate name="The Hunt for Gollum" type="B">
       <property name="Type" value="Nightmare"/>
@@ -307,9 +307,9 @@
     <property name="Attack" value="6"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="10"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="Forced: After the players travel to a location, Tunneling Nameless Thing engages the first player.&#10;&#10;If there is no active location, return Tunneling Nameless Thing to the staging area."/>
     <property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0064" name="Orc Interceptor">
     <property name="Type" value="Enemy"/>
@@ -319,65 +319,65 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="Orc Interceptor gets +1 $ and +1 Û for each resource token on it.&#10;&#10;Forced: After a location leaves play as an explored location, place a resource token on Orc Interceptor."/>
     <property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0065" name="Brambles and Thorns">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Emyn Muil."/>
     <property name="Threat" value="3"/>
-    <property name="Text" value="Forced: After a character commits to the quest, deal 1 damage to that character if it has not been dealt damage by another copy of Brambles and Thorns this round."/>
-    <property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare"/>
     <property name="Quantity" value="3"/>
     <property name="Victory Points" value="3"/>
+    <property name="Text" value="Forced: After a character commits to the quest, deal 1 damage to that character if it has not been dealt damage by another copy of Brambles and Thorns this round."/>
+    <property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0066" name="Sarn Gebir Rapids">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Emyn Muil."/>
     <property name="Threat" value="5"/>
-    <property name="Text" value="While Sarn Gebir Rapids is the active location, the &quot;when revealed&quot; effects of Hazard cards cannot be canceled."/>
-    <property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare"/>
     <property name="Quantity" value="2"/>
     <property name="Victory Points" value="2"/>
+    <property name="Text" value="While Sarn Gebir Rapids is the active location, the &quot;when revealed&quot; effects of Hazard cards cannot be canceled."/>
+    <property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0067" name="A Hurrying Darkness">
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Hazard."/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Each player must either increase his threat by 5, or reveal an additional encounter card from the encounter deck and add it to the staging area."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +X Û. X is the $ of the active location."/>
     <property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0068" name="Blast of Savage Wind">
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Hazard."/>
     <property name="Keywords" value="Doomed 2."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Remove all progress from each Emyn Muil location in play. Each Eymn Muil location gets +2 $ until the end of the round."/>
     <property name="Shadow" value="Shadow: Remove all progress from each Emyn Muil location in play."/>
     <property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0069" name="Hazardous Terrain">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge. Doomed 2."/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Shuffle all Hazard cards in the encounter discard pile back into the encounter deck."/>
     <property name="Shadow" value="Shadow: Shuffle all Hazard cards in the encounter discard pile back into the encounter deck. Then, deal another shadow card for this attack."/>
     <property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0070" name="Retraced Steps">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Discard a random Emyn Muil location from the victory display."/>
     <property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0071" name="The Dead Marshes">
     <property name="Type" value="Nightmare"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="ss"/>
     <alternate name="The Dead Marshes" type="B">
       <property name="Type" value="Nightmare"/>
@@ -389,18 +389,18 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Dead Marshes."/>
     <property name="Threat" value="X"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="X is the number of resource tokens here. Cannot leave the staging area.&#10;&#10;If Gollum is not in play, any resource tokens that would be placed on Gollum are placed here instead.&#10;&#10;Forced: After Gollum enters play, place 2 resource tokens on Gollum, then move all resource tokens from The Mere of Dead Faces to Gollum."/>
     <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0073" name="Stagnant Quagmire">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Dead Marshes."/>
     <property name="Threat" value="3"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="While Stagnant Quagmire is in play, it adds its Escape value to all escape tests.&#10;&#10;Escape: 2"/>
     <property name="Shadow" value="Shadow: Perform an escape test, dealing 1 card from the encounter deck. If this test is failed, discard defending character."/>
     <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0074" name="Things in the Pools">
     <property name="Type" value="Enemy"/>
@@ -410,10 +410,10 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="8"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="Forced: After a character commits to an escape test, deal 1 damage to that character."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if attacking enemy is Undead)."/>
     <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0075" name="Marsh-wight">
     <property name="Type" value="Enemy"/>
@@ -423,9 +423,9 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="Forced: After Marsh-wight engages a player, that player makes an escape test, dealing 3 cards from the encounter deck. If this test is failed, place 2 resource tokens on Gollum and Marsh-wight make an immediate attack."/>
     <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0076" name="Lost Soul of Lórien">
     <property name="Type" value="Enemy"/>
@@ -435,9 +435,9 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="Forced: After Lost Soul of Lórien is destroyed, attach it to a hero with 1 or more Ò, if able. (Counts as a condition attachment with the text: &quot;Limit 1 per hero. Attached hero's Ò is reduced to 0.&quot;)"/>
     <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0077" name="Ill-fated Guard">
     <property name="Type" value="Enemy"/>
@@ -447,37 +447,37 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="7"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="While Ill-fated Guard is engaged with a player, that player cannot commit more than 1 character to each escape test."/>
     <property name="Shadow" value="Shadow: Discard all attachments from each characater you control with 3 or more Ò."/>
     <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0078" name="Candles of Corpses">
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Escape."/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When Revealed: Each player makes an escape test, dealing 1 card from the encounter deck. Each player who fails this test must either discard a hero he controls from play or raise his threat by 5.&#10;&#10;Escape: 5"/>
     <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0079" name="Swarming Mosquitoes">
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Escape."/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: The first player makes an escape test counting Ú instead of Ò, dealing 2 cards from the encounter deck. If this test is failed, place 1 resource token on Gollum and deal 1 damage to each character in play.&#10;&#10;Escape: 3"/>
     <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0080" name="Devilry of the Dark Land">
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Corruption."/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When Revealed: Return the top X Undead enemies in the encounter discard pile to the staging area, where X is the number of players. If no enemies were returned to the staging area as a result of this effect, Devilry of the Dark Land gains surge.&#10;&#10;Escape: 10"/>
     <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0081" name="Return to Mirkwood">
     <property name="Type" value="Nightmare"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Encounter Set" value="Return to Mirkwood - Nightmare"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="s"/>
     <alternate name="Return to Mirkwood" type="B">
       <property name="Type" value="Nightmare"/>
@@ -492,9 +492,9 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="7"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Ambushing Orcs is dealt a shadow card that targets the player guarding Gollum, that shadow card also targets each other player."/>
     <property name="Encounter Set" value="Return to Mirkwood - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0083" name="Pursuing Warg-rider">
     <property name="Type" value="Enemy"/>
@@ -505,9 +505,9 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="Forced: After the player guarding Gollum changes, Pursuing Warg-rider engages the player Guarding Gollum and makes an immediate attack against that player."/>
     <property name="Encounter Set" value="Return to Mirkwood - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0084" name="Web-spinner">
     <property name="Type" value="Enemy"/>
@@ -517,50 +517,50 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: The player guarding Gollum must either exhaust a hero he controls, or Web-spinner gains surge."/>
     <property name="Shadow" value="Shadow: the player guarding Gollum must exhaust a character he controls."/>
     <property name="Encounter Set" value="Return to Mirkwood - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0085" name="Deceptive Path">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="4"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="Progress cannot be placed on Deceptive Path while it is in the staging area.&#10;&#10;Forced: After Deceptive Path becomes the active location, shuffle the encounter discard pile into the encounter deck and discard cards from the top of the encounter deck until a location is discarded. Reveal that location and make it the active location. Then, discard Deceptive Path."/>
     <property name="Encounter Set" value="Return to Mirkwood - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0086" name="Web-wall">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="3"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Reveal the topmost Spider enemy in the encounter discard pile and add it to the staging area."/>
     <property name="Shadow" value="Shadow: The player guarding Gollum must discard all resources from each of his heroes' resource pools."/>
     <property name="Encounter Set" value="Return to Mirkwood - Nightmare"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0087" name="Isolation">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Attach Isolation to the current quest. (Counts as a Condition attachment with the text: &quot;All characters lose the ranged and sentinel keywords. The player guarding Gollum cannot choose a new player to guard Gollum.&quot;)"/>
     <property name="Encounter Set" value="Return to Mirkwood - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0088" name="Befouled Equipment">
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Tantrum."/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Discard all attachments controlled by the player guarding Gollum. Then, remove all cards in that player's discard pile from the game. If no attachments are discarded as a result of this effect, Befouled Equipment gains surge."/>
     <property name="Shadow" value="Shadow: Discard all attachments controlled by the player guarding Gollum."/>
     <property name="Encounter Set" value="Return to Mirkwood - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="b7bd7ec2-fd79-4f9c-aba8-5bbb50cc0089" name="Wickedness and Mischief">
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Tantrum."/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: The player guarding Gollum must either reveal the topmost Tantrum card in the encounter discard pile, or reveal 2 additional encounter cards from the encounter deck."/>
     <property name="Shadow" value="Shadow: Deal the topmost Tantrum card in the encounter discard pile as a new shadow card for this attack, if able."/>
     <property name="Encounter Set" value="Return to Mirkwood - Nightmare"/>
-    <property name="Quantity" value="2"/>
   </card>
  </cards>
 </set>

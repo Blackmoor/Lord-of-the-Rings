@@ -10,52 +10,52 @@
     <property name="Attack" value="X"/>
     <property name="Defense" value="5"/>
     <property name="Health" value="9"/>
-    <property name="Text" value="X equals the number of attachments in play.&#10;Forced: If the first player controls 3 or more attachments Incatasi will always engage then irrespective of threat.&#10;Forced: At the start of combat, the player engaged with Incatasi must discard an attachment on a character they control. If they can't they may not declare a defender for Incatasi this round.&#10;Forced: During the refresh step return Incatasi to the staging area if the player engaged with Incatasi controls no attachments."/>
-    <property name="Encounter Set" value="Four Seasons"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="4"/>
+    <property name="Text" value="X equals the number of attachments in play.&#10;Forced: If the first player controls 3 or more attachments Incatasi will always engage then irrespective of threat.&#10;Forced: At the start of combat, the player engaged with Incatasi must discard an attachment on a character they control. If they can't they may not declare a defender for Incatasi this round.&#10;Forced: During the refresh step return Incatasi to the staging area if the player engaged with Incatasi controls no attachments."/>
+    <property name="Encounter Set" value="Four Seasons"/>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d74c" name="Anarchy">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Enchanted Grove"/>
     <property name="Threat" value="X"/>
-    <property name="Text" value="X equals the number of heroes with a Ì resource icon&#10;&#10;Travel: Each players must discard 1 character to travel here.&#10;&#10;Forced: While this is the active location you may not activate action or response effects on Ì cards nor may you play Ì cards."/>
-    <property name="Encounter Set" value="Four Seasons"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="2"/>
+    <property name="Text" value="X equals the number of heroes with a Ì resource icon&#10;&#10;Travel: Each players must discard 1 character to travel here.&#10;&#10;Forced: While this is the active location you may not activate action or response effects on Ì cards nor may you play Ì cards."/>
+    <property name="Encounter Set" value="Four Seasons"/>
   </card>
   <card id="67c6566a-50e2-41f8-90d6-0bd11a6e1b2b" name="Foolishness">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Enchanted Grove"/>
     <property name="Threat" value="X"/>
-    <property name="Text" value="X equals the number of heroes with a Ï resource icon&#10;&#10;Travel: Deal 1 damage to each character to travel here.&#10;&#10;Forced: While this is the active location you may not activate action or response effects on Ï cards nor may you play Ï cards."/>
-    <property name="Encounter Set" value="Four Seasons"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="2"/>
+    <property name="Text" value="X equals the number of heroes with a Ï resource icon&#10;&#10;Travel: Deal 1 damage to each character to travel here.&#10;&#10;Forced: While this is the active location you may not activate action or response effects on Ï cards nor may you play Ï cards."/>
+    <property name="Encounter Set" value="Four Seasons"/>
   </card>
   <card id="219710c5-5420-4a2c-8974-293e0f8de32b" name="Ignorance">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Enchanted Grove"/>
     <property name="Threat" value="X"/>
-    <property name="Text" value="X equals the number of heroes with a Î resource icon&#10;&#10;Travel: Each players must discard 3 cards to travel here.&#10;&#10;Forced: While this is the active location you may not activate action or response effects on Î cards nor may you play Î cards."/>
-    <property name="Encounter Set" value="Four Seasons"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="2"/>
+    <property name="Text" value="X equals the number of heroes with a Î resource icon&#10;&#10;Travel: Each players must discard 3 cards to travel here.&#10;&#10;Forced: While this is the active location you may not activate action or response effects on Î cards nor may you play Î cards."/>
+    <property name="Encounter Set" value="Four Seasons"/>
   </card>
   <card id="5ea747b0-1f9a-4d5b-92c0-8d6fcd7b1f43" name="Repose">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Enchanted Grove"/>
     <property name="Threat" value="X"/>
-    <property name="Text" value="X equals the number of heroes with a Ê resource icon&#10;&#10;Travel: The first player must exhaust a hero to travel here. Skip the refresh phase at the end of this round.&#10;&#10;Forced: While this is the active location you may not activate action or response effects on Ê cards nor may you play Ê cards."/>
-    <property name="Encounter Set" value="Four Seasons"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="2"/>
+    <property name="Text" value="X equals the number of heroes with a Ê resource icon&#10;&#10;Travel: The first player must exhaust a hero to travel here. Skip the refresh phase at the end of this round.&#10;&#10;Forced: While this is the active location you may not activate action or response effects on Ê cards nor may you play Ê cards."/>
+    <property name="Encounter Set" value="Four Seasons"/>
   </card>
   <card id="32861eab-7f7e-4f92-8c7b-f79c472a0754" name="In One Day - 1A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Setup: Remove Wilyador and Rhosgobel from the deck. Put the 4 Enchanted Groves and Incatasi into the staging area."/>
     <property name="Encounter Set" value="Four Seasons"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="sssss"/>
     <alternate name="In One Day - 1B" type="B">
       <property name="Type" value="Quest"/>

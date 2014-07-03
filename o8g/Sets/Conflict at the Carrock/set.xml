@@ -11,8 +11,8 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Response: After Frodo Baggins is damaged, cancel the damage and instead raise your threat by the amount of damage he would have been dealt. (Limit once per phase.)"/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Response: After Frodo Baggins is damaged, cancel the damage and instead raise your threat by the amount of damage he would have been dealt. (Limit once per phase.)"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9008" name="Dúnedain Warning">
     <property name="Type" value="Attachment"/>
@@ -20,15 +20,15 @@
     <property name="Traits" value="Signal."/>
     <property name="Keywords" value="Attach to a hero."/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Attached hero gains +1 Ú.&#10;&#10;Action: Pay 1 resource from attached hero's pool to attach Dunedain Warning to another hero."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Attached hero gains +1 Ú.&#10;&#10;Action: Pay 1 resource from attached hero's pool to attach Dunedain Warning to another hero."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9024" name="Second Breakfast">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Action: Each player returns the topmost attachment card from his discard pile to his hand."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Each player returns the topmost attachment card from his discard pile to his hand."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9006" name="Beorning Beekeeper">
     <property name="Type" value="Ally"/>
@@ -39,8 +39,8 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="Action: Discard Beorning Beekeeper from play to deal 1 damage to each enemy in the staging area."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Discard Beorning Beekeeper from play to deal 1 damage to each enemy in the staging area."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9007" name="Born Aloft">
     <property name="Type" value="Attachment"/>
@@ -48,8 +48,8 @@
     <property name="Traits" value="Condition."/>
     <property name="Keywords" value="Attach to an ally."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Action: Discard Born Aloft from play to return attached ally to its owner's hand."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Discard Born Aloft from play to return attached ally to its owner's hand."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9009" name="Éomund">
     <property name="Unique" value="‰"/>
@@ -61,8 +61,8 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Response: After Eomund leaves play, ready all Rohan characters in play."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Response: After Eomund leaves play, ready all Rohan characters in play."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9018" name="Nor am I a Stranger">
     <property name="Type" value="Attachment"/>
@@ -70,8 +70,8 @@
     <property name="Traits" value="Title."/>
     <property name="Keywords" value="Attach to a character."/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Attached character gains the Rohan trait."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Attached character gains the Rohan trait."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9014" name="Longbeard Map-Maker">
     <property name="Type" value="Ally"/>
@@ -82,8 +82,8 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="Action: Spend 1 Î resource to give Longbeard Map-Maker +1 Ò until the end of the phase."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Spend 1 Î resource to give Longbeard Map-Maker +1 Ò until the end of the phase."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9010" name="A Burning Brand">
     <property name="Type" value="Attachment"/>
@@ -91,8 +91,8 @@
     <property name="Traits" value="Item."/>
     <property name="Keywords" value="Attach to a Î character."/>
     <property name="Cost" value="2"/>
-    <property name="Text" value="While attached character is defending, cancel any shadow effects on cards dealt to the attacking enemy."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="While attached character is defending, cancel any shadow effects on cards dealt to the attacking enemy."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9025" name="Song of Wisdom">
     <property name="Type" value="Attachment"/>
@@ -100,14 +100,14 @@
     <property name="Traits" value="Song."/>
     <property name="Keywords" value="Attach to a hero."/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Attached hero gains a Î resource icon."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Attached hero gains a Î resource icon."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9012" name="Grimbeorn's Quest - 1A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Setup: Add The Carrock to the staging area. Remove 4 unique Troll cards and 4 copies of the &quot;Sacked!&quot; card from the encounter deck and set them aside, out of play. Then shuffle 1 &quot;Sacked!&quot; card per player back into the encounter deck."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="stttttttt"/>
     <alternate name="Grimbeorn's Quest - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -117,8 +117,8 @@
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9003" name="Against the Trolls - 2A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Conflict at the Carrock"/>
     <alternate name="Against the Trolls - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="1"/>
@@ -133,9 +133,9 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="10"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Grimbeorn the Old does not exhaust to defend against Troll enemies.&#10;&#10;If Grimbeorn the Old has 8 or more resource tokens on him, he joins the first player as an ally.&#10;&#10;Action: Spend 1 Ì resource to place that resource on Grimbeorn the Old."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9015" name="Louis">
     <property name="Unique" value="‰"/>
@@ -146,9 +146,9 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="10"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="While Louis is engaged with a player, all Troll enemies gain, &quot;Forced: After this enemy attacks, the defending player must raise his threat by 3.&quot;&#10;&#10;Response: After defeating Louis, you may choose and discard 1 &quot;Sacked!&quot; card from play."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9016" name="Morris">
     <property name="Unique" value="‰"/>
@@ -159,9 +159,9 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="10"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="While Morris is engaged with a player, all Troll enemies get +1 Û.&#10;&#10;Response: After defeating Morris, you may choose and discard 1 &quot;Sacked!&quot; card from play."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9026" name="Stuart">
     <property name="Unique" value="‰"/>
@@ -172,9 +172,9 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="10"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="While Stuart is engaged with a player, all Troll enemies get +1 Ú.&#10;&#10;Response: After defeating Stuart, you may choose and discard 1 &quot;Sacked!&quot; card from play."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9022" name="Rupert">
     <property name="Unique" value="‰"/>
@@ -185,9 +185,9 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="10"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Forced: After Rupert attacks, shuffle all copies of the &quot;Sacked!&quot; card from the discard pile back into the encounter deck.&#10;&#10;Response: After defeating Rupert, you may choose and discard 1 &quot;Sacked!&quot; card from play."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9017" name="Muck Adder">
     <property name="Type" value="Enemy"/>
@@ -197,10 +197,10 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="4"/>
+    <property name="Quantity" value="4"/>
     <property name="Text" value="Forced: If Muck Adder damages a character, discard that character from play."/>
     <property name="Shadow" value="Shadow: Defending character gets -1 Ú for the duration of this attack."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="4"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9027" name="The Carrock">
     <property name="Unique" value="‰"/>
@@ -208,53 +208,53 @@
     <property name="Traits" value="Riverland."/>
     <property name="Keywords" value="Immune to player card effects."/>
     <property name="Threat" value="2"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Players cannot travel to The Carrock except through quest card effects.&#10;&#10;While The Carrock is the active location, Troll enemies get +1 Û and +1 Ú."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9020" name="River Langflood">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Riverland."/>
     <property name="Threat" value="2"/>
+    <property name="Quantity" value="4"/>
     <property name="Text" value="While it is in the staging area, River Langflood gets +1 $ for each Troll enemy in play."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="4"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9005" name="Bee Pastures">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Wilderlands."/>
     <property name="Threat" value="1"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="Response: After you travel to Bee Pastures, search the encounter deck and discard pile for Grimbeorn the Old and add him to the staging area. Then, shuffle the encounter deck."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9019" name="Oak-wood Grove">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="2"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="While Oak-wood Grove is the active location, resource tokens from any sphere may be spent as Ì resource tokens."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9002" name="A Frightened Beast">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Each player raises his threat by the total $ of all cards in the staging area. Any player may choose to discard from play 1 Creature ally card he controls to cancel this effect."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9023" name="Sacked!">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="5"/>
     <property name="Text" value="When Revealed: Attach to a hero with no &quot;Sacked!&quot; cards attached controlled by the first player. (Cannot be canceled.) Counts as a condition attachment with the text: &quot;Attached hero cannot attack, defend, commit to a quest, trigger its effect, or collect resources.&quot;"/>
     <property name="Shadow" value="Shadow: If attacking enemy is a Troll, resolve this card's &quot;when revealed&quot; effect."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="5"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801202c9021" name="Roasted Slowly">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Destroy all heroes with the card &quot;Sacked!&quot; attached. Then, shuffle Roasted Slowly back into the encounter deck."/>
     <property name="Shadow" value="Shadow: If attacking enemy is a Troll, remove 2 damage tokens from it."/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
-    <property name="Quantity" value="2"/>
   </card>
  </cards>
 </set>

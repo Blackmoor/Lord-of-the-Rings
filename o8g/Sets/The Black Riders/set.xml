@@ -11,8 +11,8 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Response: Spend 1 ☺ resource and exhaust The One Ring to cancel the effects of an encounter card just revealed from the encounter deck.  Shuffle that card back into the encounter deck and reveal another encounter card."/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Response: Spend 1 ☺ resource and exhaust The One Ring to cancel the effects of an encounter card just revealed from the encounter deck.  Shuffle that card back into the encounter deck and reveal another encounter card."/>
   </card>
   <card id="4124136c-8c86-4f86-830c-94c8c76df161" name="Sam Gamgee">
     <property name="Unique" value="‰"/>
@@ -24,8 +24,8 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="Response: After you engage an enemy with a higher engagement cost than your threat, ready Sam Gamgee.  He gets +1 Ò, +1 Û, and +1 Ú until the end of the round."/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Response: After you engage an enemy with a higher engagement cost than your threat, ready Sam Gamgee.  He gets +1 Ò, +1 Û, and +1 Ú until the end of the round."/>
   </card>
   <card id="052b1f85-8b9c-4bb0-a735-bdbd5ac1b2c4" name="Merry">
     <property name="Unique" value="‰"/>
@@ -37,8 +37,8 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Merry get +1 Û for each Hobbit hero you control.&#10;&#10;Response: After Merry participates in an attack that destroys an enemy, ready another character that participated in that attack."/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Merry get +1 Û for each Hobbit hero you control.&#10;&#10;Response: After Merry participates in an attack that destroys an enemy, ready another character that participated in that attack."/>
   </card>
   <card id="ce96b767-c569-48b8-a998-d8009b0143c7" name="Pippin">
     <property name="Unique" value="‰"/>
@@ -50,8 +50,8 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Each enemy in play gets +1 engagement cost for each Hobbit hero you control.&#10;&#10;Response: After you engage an enemy with a engagement cost higher than your threat, draw a card."/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Each enemy in play gets +1 engagement cost for each Hobbit hero you control.&#10;&#10;Response: After you engage an enemy with a engagement cost higher than your threat, draw a card."/>
   </card>
   <card id="5d75d4dd-7300-43d7-87f2-963271c9c904" name="Fatty Bolger">
     <property name="Unique" value="‰"/>
@@ -63,8 +63,8 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="Action: Exhaust Fatty Bolger to choose an enemy in the staging area and raise you threat by that enemy's $. Until the end of the phase, that enemy does not contribute its $. (Limit once per round.)"/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Action: Exhaust Fatty Bolger to choose an enemy in the staging area and raise you threat by that enemy's $. Until the end of the phase, that enemy does not contribute its $. (Limit once per round.)"/>
   </card>
   <card id="1f7fc118-94a7-48a0-bd0c-9c15a36ddc23" name="Bill the Pony">
     <property name="Unique" value="‰"/>
@@ -77,8 +77,8 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Lower the cost to play Bill the Pony by 2 if you control Sam Gamgee.&#10;&#10;Each Hobbit character gets +1 hit point."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Lower the cost to play Bill the Pony by 2 if you control Sam Gamgee.&#10;&#10;Each Hobbit character gets +1 hit point."/>
   </card>
   <card id="77f58774-86e7-4449-b31e-3833700b3e60" name="Barliman Butterbur">
     <property name="Unique" value="‰"/>
@@ -90,8 +90,8 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="If each hero you control has the Hobbit trait, damage from undefended attacks against you may be assigned to Barliman Butterbur."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="If each hero you control has the Hobbit trait, damage from undefended attacks against you may be assigned to Barliman Butterbur."/>
   </card>
   <card id="9d8ccd1a-48d3-4123-bcca-3c0ab88347ec" name="Farmer Maggot">
     <property name="Unique" value="‰"/>
@@ -103,36 +103,36 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Response: After Farmer Maggot enters play, deal 1 damage to an enemy engaged with you. (Deal 2 damage instead if that enemy's engagement cost is higher than your threat.)"/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Response: After Farmer Maggot enters play, deal 1 damage to an enemy engaged with you. (Deal 2 damage instead if that enemy's engagement cost is higher than your threat.)"/>
   </card>
   <card id="8e7e5c8d-0ea4-46df-ae38-d8d2fee7ca8b" name="Halfling Determination">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Action: Choose a Hobbit character. That character gets +2 Ò, +2 Û, and +2 Ú until the end of the phase."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Choose a Hobbit character. That character gets +2 Ò, +2 Û, and +2 Ú until the end of the phase."/>
   </card>
   <card id="9418c634-54c6-47de-9aae-798038a4a35b" name="Smoke Rings">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Cost" value="2"/>
-    <property name="Text" value="Action: Reduce your threat by 1 for each Pipe you control.  Each hero with a Pipe attachment gets +1 Ò until the end of the phase."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Reduce your threat by 1 for each Pipe you control.  Each hero with a Pipe attachment gets +1 Ò until the end of the phase."/>
   </card>
   <card id="768ae041-2d15-44a3-a928-62838536a160" name="Take No Notice">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Cost" value="3"/>
-    <property name="Text" value="Lower the cost to play Take No Notice by 1 for each Hobbit or Ranger hero you control.&#10;&#10;Action: Add 5 to each enemy's engagement cost until the end of the round."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Lower the cost to play Take No Notice by 1 for each Hobbit or Ranger hero you control.&#10;&#10;Action: Add 5 to each enemy's engagement cost until the end of the round."/>
   </card>
   <card id="96350b97-5c68-4033-bb2f-4305696a7ae7" name="Frodo's Intuition">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Fellowship"/>
     <property name="Cost" value="2"/>
-    <property name="Text" value="Action: Each hero you control gets +1 Ò until the end of the round.  Draw 1 card for each Hobbit hero you control."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Each hero you control gets +1 Ò until the end of the round.  Draw 1 card for each Hobbit hero you control."/>
   </card>
   <card id="8e49ea86-375a-472e-b497-16a1164ae27f" name="Hobbit Cloak">
     <property name="Type" value="Attachment"/>
@@ -140,8 +140,8 @@
     <property name="Traits" value="Item."/>
     <property name="Keywords" value="Attach to a Hobbit hero. Limit 1 per hero."/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Attached hero gets +2 Ú while defending against an attack made by an enemy with an engagement cost higher than your threat."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Attached hero gets +2 Ú while defending against an attack made by an enemy with an engagement cost higher than your threat."/>
   </card>
   <card id="418e6de7-af19-4ea7-bfbe-2a02838c6de4" name="Dagger of Westernesse">
     <property name="Type" value="Attachment"/>
@@ -149,8 +149,8 @@
     <property name="Traits" value="Artifact. Item. Weapon."/>
     <property name="Keywords" value="Attach to the hero. Restricted."/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Attached hero gets +1 Û (+2 Û instead if attacking an enemy with an engagement cost higher than your threat)."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Attached hero gets +1 Û (+2 Û instead if attacking an enemy with an engagement cost higher than your threat)."/>
   </card>
   <card id="9c455b1a-a2d4-44f7-a9d3-9a3134c21a2a" name="Hobbit Pipe">
     <property name="Type" value="Attachment"/>
@@ -158,8 +158,8 @@
     <property name="Traits" value="Item. Pipe."/>
     <property name="Keywords" value="Attach to a Hobbit. Limit 1 per character."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Response. After your threat is reduced by an event card effect, exhaust Hobbit Pipe to draw a card."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Response. After your threat is reduced by an event card effect, exhaust Hobbit Pipe to draw a card."/>
   </card>
   <card id="9bb32f2c-29fb-43ba-b7ba-2227b28f7b58" name="Elf-stone">
     <property name="Unique" value="‰"/>
@@ -167,8 +167,8 @@
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Artifact. Item."/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Attach to the active location.  Attached location gets +1 quest point.&#10;&#10;Response: After attached location leaves play as an explored location, the first player puts 1 ally into play from his hand."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Attach to the active location.  Attached location gets +1 quest point.&#10;&#10;Response: After attached location leaves play as an explored location, the first player puts 1 ally into play from his hand."/>
   </card>
   <card id="d0ed393c-162a-4715-bed4-e338c24e9e36" name="Mr. Underhill">
     <property name="Unique" value="‰"/>
@@ -177,9 +177,9 @@
     <property name="Traits" value="Title."/>
     <property name="Keywords" value="Permanent."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Setup: Attach to the Ring-bearer.&#10;&#10;Action: Add Mr. Underhill to the Victory display to choose an enemy engaged with you.  Until the end of the round, that enemy cannot attack you."/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="Setup: Attach to the Ring-bearer.&#10;&#10;Action: Add Mr. Underhill to the Victory display to choose an enemy engaged with you.  Until the end of the round, that enemy cannot attack you."/>
     <property name="Setup" value="t"/>
   </card>
   <card id="ef014a91-c2d9-44ca-acd0-cc1a339c051f" name="Tireless Ranger">
@@ -189,8 +189,8 @@
     <property name="Traits" value="Title."/>
     <property name="Keywords" value="Permanent."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +1 Ú and gains the Ranger trait."/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +1 Ú and gains the Ranger trait."/>
     <property name="Setup" value="t"/>
   </card>
   <card id="1d1ab8a3-ad76-4992-ae5c-6a89fd0ed463" name="Skilled Healer">
@@ -200,8 +200,8 @@
     <property name="Traits" value="Title."/>
     <property name="Keywords" value="Permanent."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +2 hit points and gains the Healer trait."/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +2 hit points and gains the Healer trait."/>
     <property name="Setup" value="t"/>
   </card>
   <card id="ff574390-bd68-4277-9065-dd9dbf552d00" name="Valiant Warrior">
@@ -211,8 +211,8 @@
     <property name="Traits" value="Title."/>
     <property name="Keywords" value="Permanent."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +1 Û and gains the Warrior trait."/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +1 Û and gains the Warrior trait."/>
     <property name="Setup" value="t"/>
   </card>
   <card id="af49e5ea-c6a2-4be4-bbf3-ac53c100e887" name="Noble Hero">
@@ -222,15 +222,15 @@
     <property name="Traits" value="Title."/>
     <property name="Keywords" value="Permanent."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +1 Ò and gains the Noble trait."/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +1 Ò and gains the Noble trait."/>
     <property name="Setup" value="t"/>
   </card>
   <card id="6b34adb4-b510-4db9-aaba-9a1876626dce" name="Three is Company - 1A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Setup: Set Bucklebury Ferry aside, out of play.  Add 1 Black Rider to the staging area and make Bag End the active location.  Shuffle the encounter deck."/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="ttsl"/>
     <alternate name="Three is Company - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -240,8 +240,8 @@
   </card>
   <card id="40c7a675-d48f-4e71-8818-5f0ffb9fa0dd" name="A Shortcut to Mushrooms - 2A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="A Shadow of the Past"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="A Shadow of the Past"/>
     <alternate name="A Shortcut to Mushrooms - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="14"/>
@@ -250,9 +250,9 @@
   </card>
   <card id="7371cfea-03d0-4bc0-98a1-d99e0acdbf88" name="Escape to Buckland - 3A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When Revealed: Add Bucklebury Ferry to the staging area."/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
-    <property name="Quantity" value="1"/>
     <alternate name="Escape to Buckland - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
@@ -261,9 +261,9 @@
   </card>
   <card id="d0b6992d-9dc4-41fa-a483-b4ad0a3d60b3" name="Trouble in Bree - 1A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Setup: Set all copies of Ringwraith, The Witch-king, Midgewater, and Weathertop aside, out of play.  Add The Prancing Pony and Bill Ferny to the staging area.  Shuffle the encounter deck."/>
     <property name="Encounter Set" value="A Knife in the Dark"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="ttttsstttt"/>
     <alternate name="Trouble in Bree - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -273,8 +273,8 @@
   </card>
   <card id="28a4721b-3696-4fae-9eea-01b5a250c892" name="Into the Wild - 2A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="A Knife in the Dark"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="A Knife in the Dark"/>
     <alternate name="Into the Wild - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="6"/>
@@ -283,9 +283,9 @@
   </card>
   <card id="257f9b44-2744-4f02-bbf6-115d12b52e8d" name="The Ringwraiths Attack - 3A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When Revealed: Add Weathertop and The Witch-king to the staging area.  Search the encounter deck and discard pile and add each Nazgul enemy found to the staging area.  Shuffle the encounter deck."/>
     <property name="Encounter Set" value="A Knife in the Dark"/>
-    <property name="Quantity" value="1"/>
     <alternate name="The Ringwraiths Attack - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
@@ -294,9 +294,9 @@
   </card>
   <card id="f9824e39-fda8-4e4b-bc74-83b4bd40c72d" name="Pursued by the Enemy - 1A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Setup: Shuffle each burden card from the Flight to the Ford burden set into a Burden deck. Attach An Evil Wound to the Ring-bearer.  Set Ford of Bruinen and The Witch-King aside, out of play.  Add The Last Bridge and 1 Fell Rider per player to the staging area.  Set the Ring-bearer's life at 15. Shuffle the encounter deck."/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="ttttstttt"/>
     <alternate name="Pursued by the Enemy - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -306,8 +306,8 @@
   </card>
   <card id="6b2673af-c764-4599-a265-6e43d3b75310" name="Race To Rivendell - 2A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="Flight to the Ford"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Flight to the Ford"/>
     <alternate name="Race To Rivendell - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
@@ -317,9 +317,9 @@
   <card id="307411f3-4a45-44ae-bc64-4e16deb97d10" name="A Shadow of the Past">
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Setup: Attach Mr. Underhill to the Ring-bearer. Add Gandalf's Delay to the staging area. Shuffle Gildor Inglorion and the The Ring Draws Them into the encounter deck."/>
     <property name="Encounter Set" value="The Lord of the Rings Part 1"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="-----"/>
     <alternate name="A Shadow of the Past" type="B">
       <property name="Type" value="Campaign"/>
@@ -331,40 +331,40 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Shire."/>
     <property name="Threat" value="0"/>
-    <property name="Text" value="Response: After Bag End leaves play, each player draws 1 card for each Hobbit hero he controls."/>
-    <property name="Encounter Set" value="A Shadow of the Past"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="Response: After Bag End leaves play, each player draws 1 card for each Hobbit hero he controls."/>
+    <property name="Encounter Set" value="A Shadow of the Past"/>
   </card>
   <card id="b194fe1c-18c8-47d2-a674-8e209339c7e2" name="Woody End">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="1"/>
-    <property name="Text" value="While Woody End is the Active location, reduce each Hide X value by 1."/>
-    <property name="Encounter Set" value="A Shadow of the Past"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="While Woody End is the Active location, reduce each Hide X value by 1."/>
+    <property name="Encounter Set" value="A Shadow of the Past"/>
   </card>
   <card id="2b38254c-e992-4fb5-89e8-e7f636658ce0" name="Stock-Brook">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest. Stream."/>
     <property name="Threat" value="1"/>
-    <property name="Text" value="When Revealed: Immediately travel to Stock-Brook.  If another location is currently active, return it to the staging area."/>
-    <property name="Encounter Set" value="A Shadow of the Past"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="When Revealed: Immediately travel to Stock-Brook.  If another location is currently active, return it to the staging area."/>
+    <property name="Encounter Set" value="A Shadow of the Past"/>
   </card>
   <card id="82c68020-eb2e-4853-9919-df3066d13721" name="Bamfurlong">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Shire."/>
     <property name="Threat" value="2"/>
-    <property name="Text" value="Response: After the players travel to Bamfurlong, each player engaged with a Nazgul enemy may ready a hero he controls."/>
-    <property name="Encounter Set" value="A Shadow of the Past"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="Response: After the players travel to Bamfurlong, each player engaged with a Nazgul enemy may ready a hero he controls."/>
+    <property name="Encounter Set" value="A Shadow of the Past"/>
   </card>
   <card id="53ac8ba6-0487-4b1f-91e9-cf7ca9e7c1d0" name="Bucklebury Ferry">
     <property name="Unique" value="‰"/>
@@ -372,35 +372,35 @@
     <property name="Traits" value="River."/>
     <property name="Keywords" value="Immune to player card effects."/>
     <property name="Threat" value="3"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="While there is at least 1 other location in play, the players cannot travel here.&#10;&#10;Travel: The first player must make a Hide 3 test to travel here.&#10;&#10;After Bucklebury Ferry leaves play as an explored location, the players win the game."/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="98dff367-a068-4aac-a46b-7dc201aff42d" name="Green Hill Country">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="2"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="While Green Hill Country is the active location, characters get +1 Ò while committed to Hide tests."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if you have failed a Hide test this round)."/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="8df24501-bfd8-4602-92e1-61f5d5cf7035" name="Stock Road">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Road."/>
     <property name="Threat" value="3"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="While Stock Road is in the staging area, add 2 to the total $ of the discarded cards when a player resolves a Hide test.&#10;&#10;Travel: The first player must make a Hide 1 test to travel here."/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="409bc89e-b5af-4626-ade6-60bcfcb290b7" name="The Marish">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Marshland."/>
     <property name="Threat" value="3"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="Forced: After a player fails a Hide test, shuffle a Nazgul enemy from the discard pile into the encounter deck, if able."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if the defending player failed a Hide test this round)."/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="57107fd1-0092-41d3-ae9d-8ff6c06933eb" name="Black Rider">
     <property name="Type" value="Enemy"/>
@@ -411,9 +411,9 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="6"/>
+    <property name="Quantity" value="5"/>
     <property name="Text" value="Forced: After engaged player fails a Hide test, Black Rider makes an immediate attack."/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
-    <property name="Quantity" value="5"/>
   </card>
   <card id="ff597a85-6a02-4301-a9dc-4dcb4cf9b626" name="Evil Crow">
     <property name="Type" value="Enemy"/>
@@ -423,38 +423,38 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="While Evil Crow is engaged with a player, that player adds 1 to the Hide value for each Hide test he makes."/>
     <property name="Shadow" value="Shadow: If you have failed a Hide test this round, this attack is considered undefended."/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="79b5dd16-2427-4950-94e9-46905eebe56d" name="Crawling Towards Him">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Peril. Hide 2."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: If you have failed a Hide test this phase, remove each character you control form the quest."/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack."/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="a46578d6-303e-4f35-9a11-8b9f807427ba" name="Hunting For The Ring">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 2."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Starting with the first player, each player much either return a Nazgul enemy engaged with him to the staging area or make a Hide 2 test."/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="3104ef1f-4f1c-4603-87cb-f3a70f5e6710" name="Have You Seen Baggins?">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Peril. Surge."/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Attach to a hero. (Counts as a Condition attachment with the text: &quot;Limit 1 per hero. Forced: After a player fails a Hide test, discard attached hero.&quot;)"/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="2efa631a-eb16-4078-84a5-18c7033b86f3" name="A Knife in the Dark">
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
-    <property name="Encounter Set" value="The Lord of the Rings Part 2"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Lord of the Rings Part 2"/>
     <property name="Setup" value="-----------"/>
     <alternate name="A Knife in the Dark" type="B">
       <property name="Type" value="Campaign"/>
@@ -466,10 +466,10 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Bree."/>
     <property name="Threat" value="2"/>
-    <property name="Text" value="Response: After the players travel here, the first player puts 1 ally into play from his hand.&#10;&#10;Forced: After the Prancing Pony leaves play, discard cards from the top of the encounter deck until X enemies have been discarded.  X is the number of players in the game. Put each enemy discarded by this effect into play engaged with the first player."/>
-    <property name="Encounter Set" value="A Knife in the Dark"/>
     <property name="Quantity" value="2"/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="Response: After the players travel here, the first player puts 1 ally into play from his hand.&#10;&#10;Forced: After the Prancing Pony leaves play, discard cards from the top of the encounter deck until X enemies have been discarded.  X is the number of players in the game. Put each enemy discarded by this effect into play engaged with the first player."/>
+    <property name="Encounter Set" value="A Knife in the Dark"/>
   </card>
   <card id="ad09f848-9430-41c8-8723-671f08b79078" name="Weathertop">
     <property name="Unique" value="‰"/>
@@ -477,37 +477,37 @@
     <property name="Traits" value="Hills. Ruins."/>
     <property name="Keywords" value="Immune to player card effects."/>
     <property name="Threat" value="4"/>
-    <property name="Text" value="While Weathertop is in the victory display, each enemy in play gets -1 $.&#10;&#10;Travel: The first player must exhaust The One Ring to travel here."/>
-    <property name="Encounter Set" value="A Knife in the Dark"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="4"/>
+    <property name="Text" value="While Weathertop is in the victory display, each enemy in play gets -1 $.&#10;&#10;Travel: The first player must exhaust The One Ring to travel here."/>
+    <property name="Encounter Set" value="A Knife in the Dark"/>
   </card>
   <card id="df23bd50-5ca3-4a0e-a83c-a349632b0ff4" name="Chetwood">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="2"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="While Chetwood is in the staging area, Spy enemies get +1 $ and +1 Û."/>
     <property name="Shadow" value="Shadow: Defending player discards 1 random card from his hand."/>
     <property name="Encounter Set" value="A Knife in the Dark"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="90d620e5-d7be-42e6-9756-b92761ecd8c9" name="Midgewater">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Marshland."/>
     <property name="Threat" value="3"/>
-    <property name="Text" value="While Midgewater is the active location, enemies cannot attack, take damage, or be engaged.&#10;&#10;Forced: After Midgewater becomes the active location, return each engaged enemy in play to the staging area."/>
-    <property name="Encounter Set" value="A Knife in the Dark"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="While Midgewater is the active location, enemies cannot attack, take damage, or be engaged.&#10;&#10;Forced: After Midgewater becomes the active location, return each engaged enemy in play to the staging area."/>
+    <property name="Encounter Set" value="A Knife in the Dark"/>
   </card>
   <card id="ddb20145-e570-4099-8d8a-11d64895939b" name="Weather Hills">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest. Hills."/>
     <property name="Threat" value="3"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="Response: After the players travel here, place 1 non-unique enemy in play facedown under this location.  While an enemy is under this location, it is out of play.&#10;&#10;Forced: After this location leaves play, return each enemy under it to the staging area face-up."/>
     <property name="Encounter Set" value="A Knife in the Dark"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="33a575b4-e373-46db-b11e-90f8fc41ef6e" name="Rider of Mordor">
     <property name="Type" value="Enemy"/>
@@ -518,9 +518,9 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="While Rider of Mordor is engaged with a player, characters that player controls get -1 Ò.&#10;&#10;While The One Ring is exhausted, Rider of Mordor gets -10 engagement cost."/>
     <property name="Encounter Set" value="A Knife in the Dark"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="6a3e1c91-accd-476b-9ecc-ace35274a052" name="Bill Ferny">
     <property name="Unique" value="‰"/>
@@ -532,10 +532,10 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
-    <property name="Text" value="Forced: At the beginning of the staging step, either shuffle 1 out of play Ringwraith into the encounter deck or each player raises his threat by 1 for each non-☺ hero he committed to the quest."/>
-    <property name="Encounter Set" value="A Knife in the Dark"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="Forced: At the beginning of the staging step, either shuffle 1 out of play Ringwraith into the encounter deck or each player raises his threat by 1 for each non-☺ hero he committed to the quest."/>
+    <property name="Encounter Set" value="A Knife in the Dark"/>
   </card>
   <card id="0e1451ba-5fa6-4a13-869b-d23d9ecef15e" name="Shady Bree-Lander">
     <property name="Type" value="Enemy"/>
@@ -545,10 +545,10 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="4"/>
+    <property name="Quantity" value="4"/>
     <property name="Text" value="While the One Ring is exhausted, Shady Bree-lander gains: &quot;Cannot be optionally engaged.&quot;"/>
     <property name="Shadow" value="Shadow: Defending character gets -1 Ú (-2 Ú instead if The One Ring is exhausted)."/>
     <property name="Encounter Set" value="A Knife in the Dark"/>
-    <property name="Quantity" value="4"/>
   </card>
   <card id="795579db-249d-4c9d-850f-6f39bc96c063" name="Squint-Eyed Southerner">
     <property name="Type" value="Enemy"/>
@@ -558,31 +558,31 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: You must either shuffle an out of play Ringwraith into the encounter deck or reveal an additional encounter card."/>
     <property name="Encounter Set" value="A Knife in the Dark"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="d47ece86-2645-4d35-8ab7-c439d12abe65" name="Unwanted Attention">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Peril."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: You must either remove 2 heroes you control from the quest or shuffle an out of play Ringwraith into the encounter deck."/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack."/>
     <property name="Encounter Set" value="A Knife in the Dark"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="e6721e44-5706-4a0f-a895-ced75f9c6219" name="Black Breath">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Peril."/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Attach to a hero you control.  (Counts as a Condition attachment with the text: &quot;Limit 1 per hero. Reduce attached hero's Ò, Û, and Ú to 0.&quot;)"/>
     <property name="Encounter Set" value="A Knife in the Dark"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="0ee09c42-34c9-41aa-aa98-b582608b15bb" name="Flight to the Ford">
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Response: After an enemy is declared as an attacker, shuffle the top card of the burden deck into the encounter deck to cancel that attack. (Any player may trigger that ability.)"/>
     <property name="Encounter Set" value="The Lord of the Rings Part 3"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="----------"/>
     <alternate name="Flight to the Ford" type="B">
       <property name="Type" value="Campaign"/>
@@ -593,9 +593,9 @@
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Morgul."/>
     <property name="Keywords" value="Attach to the Ring-bearer. Attached hero cannot be healed."/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When attached hero would take any amount of damage, reduce the Ring-bearer's life an equal amount instead.&#10;&#10;If the Ring-bearer's life reaches zero, the players lose the game."/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="bc43ae57-6010-4924-919c-b37d1e33b958" name="The Last Bridge">
     <property name="Unique" value="‰"/>
@@ -603,10 +603,10 @@
     <property name="Traits" value="Bridge. River."/>
     <property name="Keywords" value="Immune to player card effects"/>
     <property name="Threat" value="X"/>
-    <property name="Text" value="X is the number of players in the game.&#10;&#10;Travel: The first player must reveal the top card of the burden deck and resolve that card as if it were just revealed from the encounter deck to travel here."/>
-    <property name="Encounter Set" value="Flight to the Ford"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="3"/>
+    <property name="Text" value="X is the number of players in the game.&#10;&#10;Travel: The first player must reveal the top card of the burden deck and resolve that card as if it were just revealed from the encounter deck to travel here."/>
+    <property name="Encounter Set" value="Flight to the Ford"/>
   </card>
   <card id="3cd4bb66-1621-4534-aa25-421d0d8b7189" name="Ford of Bruinen">
     <property name="Unique" value="‰"/>
@@ -614,36 +614,36 @@
     <property name="Traits" value="River."/>
     <property name="Keywords" value="Immune to player card effects"/>
     <property name="Threat" value="2"/>
-    <property name="Text" value="Response: After Ford of Bruinen leaves play as an explored location, all engaged enemies are discarded.&#10;&#10;Travel: The first player must reveal the top card of the encounter deck to travel here."/>
-    <property name="Encounter Set" value="Flight to the Ford"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="5"/>
+    <property name="Text" value="Response: After Ford of Bruinen leaves play as an explored location, all engaged enemies are discarded.&#10;&#10;Travel: The first player must reveal the top card of the encounter deck to travel here."/>
+    <property name="Encounter Set" value="Flight to the Ford"/>
   </card>
   <card id="36dd0d2a-ba57-4ca0-b750-967c958e8bfb" name="The Troll's Camp">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="1"/>
-    <property name="Text" value="While The Troll's Camp is the active location, each hero gets +1 Ò, +1 Û +1 Ú."/>
-    <property name="Encounter Set" value="Flight to the Ford"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="While The Troll's Camp is the active location, each hero gets +1 Ò, +1 Û +1 Ú."/>
+    <property name="Encounter Set" value="Flight to the Ford"/>
   </card>
   <card id="ae435070-552a-43a9-816f-9f23f1a6dbba" name="Ettenmoors">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="2"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="While Ettenmoors is the active location, do not deal Nazgul enemies a shadow card during the combat phase.&#10;&#10;Forced: After any amount of progress is placed on Ettenmoors, reduce the Ring-bearer's life by 1."/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="edae55ef-8025-4553-9ff8-e81526effd59" name="The Old Road">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Road."/>
     <property name="Threat" value="3"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="Action: Place the top card of the burden deck on the encounter deck to place 4 progress on The Old Road. (Use this action only if you are playing campaign mode.)"/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="5c31f690-9802-4638-8316-5380ef32575b" name="Fell Rider">
     <property name="Type" value="Enemy"/>
@@ -654,38 +654,38 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="6"/>
+    <property name="Quantity" value="4"/>
     <property name="Text" value="While Fell Rider is in the staging area, it gains: &quot;Forced: At the beginning of the encounter phase, the first player must either reduce the Ring-bearer's life by 1 or engage Fell Rider.&quot;"/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="4"/>
   </card>
   <card id="821a078b-ae42-4b69-bd49-cc235916be77" name="Stricken Dumb">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Peril."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: You must either shuffle the top card of the burden deck into the encounter deck and reveal an additional encounter card, or raise each player's threat by 3 and immediately end the quest phase (do not resolve the quest)."/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="0e12b3e5-d330-4a13-be7b-5a07a57a2273" name="The Enemy is Upon Us!">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Each engaged enemy makes an immediate attack.  If no attack is made this way, The Enemy is Upon Us! gains surge."/>
     <property name="Shadow" value="Shadow: If this attack destroys a character, remove all progress from the current quest."/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="98bf5fdc-ff74-48e2-88c8-0e4134fd6984" name="Pain Assailed Him">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Reduce the Ring-bearer's life by 1.  Then, reduce the Ring-bearers Ò, Û, and Ú to 0 until the end of the round."/>
     <property name="Shadow" value="Shadow: If this attack destroys a character, reduce the Ring-bearer's life by 1."/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="98a2fb10-f2fc-462c-9f2e-8945419d9c4f" name="The Nine are Abroad">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Peril."/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Treat the text box of each character in play as blank (except for Traits) until the end of the round.  If there is a Nazgul enemy in the staging area, The Nine are Abroad gains surge."/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack."/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="c5657436-d6c8-400d-ba1f-a723799ac685" name="The Witch-king">
     <property name="Unique" value="‰"/>
@@ -697,9 +697,9 @@
     <property name="Attack" value="6"/>
     <property name="Defense" value="5"/>
     <property name="Health" value="9"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="The Witch-king gets -30 engagement cost while The One Ring is exhausted.&#10;&#10;Characters with 1 Ò or less cannot defend attacks made by The Witch-king."/>
     <property name="Encounter Set" value="The Nazgul"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="2d819f76-77dd-47a2-9a3f-ac8b8018f0df" name="Ringwraith">
     <property name="Type" value="Enemy"/>
@@ -710,63 +710,63 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="5"/>
+    <property name="Quantity" value="4"/>
     <property name="Text" value="Forced: When Ringwraith attacks, deal it an additional shadow card if The One Ring is exhausted."/>
     <property name="Shadow" value="Shadow: Shuffle this card into the encounter deck."/>
     <property name="Encounter Set" value="The Nazgul"/>
-    <property name="Quantity" value="4"/>
   </card>
   <card id="4b36df3f-d75b-4b3a-9324-9ab31c10d7b9" name="Pale Blade">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Attach to a Nazgul enemy in play, if able. (Counts as a Weapon attachment with the text: &quot;Limit 1 per enemy.  Attached enemy gets +1 Û and cannot take non-combat damage.&quot;)"/>
     <property name="Encounter Set" value="The Nazgul"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="4765cbea-5ae8-4e39-a811-a67f1f6ca2a0" name="Power In Their Terror">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Each ally gets -1 Ò until the end of the round. Deal 2 damage to each ally with 0 Ò."/>
     <property name="Shadow" value="Shadow: Discard a non-objective attachment you control."/>
     <property name="Encounter Set" value="The Nazgul"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="32416ec8-b50d-4cd2-a62f-10f97c87be73" name="Pathless Country">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="2"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="Pathless Country gets +4 quest points while in the staging area."/>
     <property name="Shadow" value="Shadow: After this attack, the attacking enemy engages the next player then makes an immediate attack."/>
     <property name="Encounter Set" value="Hunted"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="7e470346-1828-49c0-b241-58d0dbf27b4b" name="Piercing Cry">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Peril."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Search the encounter deck and discard pile for a Nazgul enemy. Either add it to the staging area or put it into play engaged with the first player.  Shuffle the encounter deck."/>
     <property name="Shadow" value="Shadow: Attacking enemy makes an additional attack after this one."/>
     <property name="Encounter Set" value="Hunted"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="09aeff64-6e0d-4dfa-af21-2e7805441376" name="Black Steed">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Attach to a Nazgul enemy in play, if able. (Counts a Mount attachment with the text: &quot;Limit 1 per enemy. Attached enemy gets -10 engagement cost and gains. 'Forced: At the end of the refresh phase, return attached enemy to the staging area.'&quot;)"/>
     <property name="Encounter Set" value="The Black Riders"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="1851fafb-7f9a-46d7-a0f0-7fb2ad9ee567" name="Rode Like a Gale">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Return each engaged Nazgul enemy to the staging area.  If no enemies were returned to the staging area by this effect, Rode Like a Gale gains surge."/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack."/>
     <property name="Encounter Set" value="The Black Riders"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="48384e79-d397-4dcd-9862-8a72acb448d0" name="Lure of the Ring">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: The first player must either exhaust The One Ring or raise his threat by 3."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if The One Ring is exhausted)."/>
     <property name="Encounter Set" value="The Ring"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="6c04a40a-0666-4b4f-a768-ddff46857cf0" name="Gildor Inglorian">
     <property name="Unique" value="‰"/>
@@ -778,75 +778,75 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="Forced: At the end of the round, discard Gildor Inglorion.  The first player may spend 1 ☺ resource to cancel this effect."/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Forced: At the end of the round, discard Gildor Inglorion.  The first player may spend 1 ☺ resource to cancel this effect."/>
   </card>
   <card id="d95a6076-3ead-4ff6-a1ba-ca320d2bd4e1" name="Gandalf's Delay">
     <property name="Type" value="Objective"/>
     <property name="Sphere" value="Burden"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Setup: Add Gandalf's Delay to the staging area.&#10;&#10;Each player draws 1 less card in his starting hand."/>
     <property name="Encounter Set" value="A Shadow of the past"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="s"/>
   </card>
   <card id="1c5f4854-c10c-430b-9c40-2d84c5997b8f" name="The Ring Draws Them">
     <property name="Type" value="Treachery"/>
     <property name="Sphere" value="Burden"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When Revealed: At the end of the phase, each enemy in the staging area engages the first player.  If The One Ring is exhausted, this effect cannot be cancelled."/>
     <property name="Encounter Set" value="A Shadow of the past"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="40c95b3d-6216-4def-bb93-f44871f3ec70" name="Weight of the Ring">
     <property name="Type" value="Treachery"/>
     <property name="Sphere" value="Burden"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When Revealed: Attach to the Ring-bearer. (Counts as a Condition attachment with the text: &quot;Forced: At the beginning of each quest phase, either exhaust The One Ring or reveal an additional encounter card this phase.&quot;)"/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="074cad39-ce55-4dc1-9775-e95363682ef7" name="Fear of Discovery">
     <property name="Type" value="Treachery"/>
     <property name="Sphere" value="Burden"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When Revealed: The first player must either exhaust the Ring-bearer or an additional encounter card."/>
     <property name="Shadow" value="Shadow: Defending player raises his threat by 3."/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="e8f413bf-3593-47fc-8813-4553d55dbb2a" name="Eaten Alive!">
     <property name="Type" value="Treachery"/>
     <property name="Sphere" value="Burden"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When Revealed: The first player must deal X damage divided among heroes he controls where X is the number of players in the game."/>
     <property name="Shadow" value="Shadow: Deal 1 damage to the defending character."/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="50c19cd1-3094-4bf7-b2dc-e21b145827b7" name="Panicked">
     <property name="Type" value="Treachery"/>
     <property name="Sphere" value="Burden"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When Revealed: The first player raises his threat by 3 and passes the first player token to the next player."/>
     <property name="Shadow" value="Shadow: Defending player exhausts a character he controls."/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="cdc303cb-bb1a-4409-a479-aa4155bd8ed5" name="Overcome by Terror">
     <property name="Type" value="Treachery"/>
     <property name="Sphere" value="Burden"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="When Revealed: The first player must exhaust The One Ring. If The One Ring is already exhausted, the first player must discard 2 cards at random from his hand."/>
     <property name="Shadow" value="Shadow: Defending player discards 1 card at random from his hand."/>
     <property name="Encounter Set" value="Flight to the Ford"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="c9575426-59ea-4863-bf6a-407e9eae3f33" name="The One Ring">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Artifact. Item. Ring."/>
-    <property name="Text" value="Setup: The first player claims The One Ring and attaches it to the Ring-bearer.&#10;&#10;Attached hero does not count against the hero limit. The first player gains control of the attached hero.&#10;&#10;If The One Ring leaves play, the players lose the game."/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Setup: The first player claims The One Ring and attaches it to the Ring-bearer.&#10;&#10;Attached hero does not count against the hero limit. The first player gains control of the attached hero.&#10;&#10;If The One Ring leaves play, the players lose the game."/>
   </card>
  </cards>
 </set>

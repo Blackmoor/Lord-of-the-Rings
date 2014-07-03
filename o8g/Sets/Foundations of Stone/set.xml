@@ -11,8 +11,8 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="5"/>
-    <property name="Text" value="Forced: After Glorfindel exhausts to commit to a quest, raise your threat by 1."/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Forced: After Glorfindel exhausts to commit to a quest, raise your threat by 1."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9021" name="Longbeard Elder">
     <property name="Type" value="Ally"/>
@@ -23,8 +23,8 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Response: After Longbeard Elder commits to a quest, look at the top card of the encounter deck. If that card is a location, place 1 progress token on the current quest. Otherwise, Longbeard Elder gets -1 Ò until the end of the phase."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Response: After Longbeard Elder commits to a quest, look at the top card of the encounter deck. If that card is a location, place 1 progress token on the current quest. Otherwise, Longbeard Elder gets -1 Ò until the end of the phase."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9028" name="Path of Need">
     <property name="Type" value="Attachment"/>
@@ -32,8 +32,8 @@
     <property name="Traits" value="Condition."/>
     <property name="Keywords" value="Limit 1 per deck. Attach to a location."/>
     <property name="Cost" value="4"/>
-    <property name="Text" value="Heroes do not exhaust to attack, defend, or commit to a quest while attached location is the active location."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Heroes do not exhaust to attack, defend, or commit to a quest while attached location is the active location."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9033" name="Trollshaw Scout">
     <property name="Type" value="Ally"/>
@@ -45,15 +45,15 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Trollshaw Scout does not exhaust to attack.&#10;&#10;Forced: After Trollshaw Scout attacks, either discard it from play or discard 1 card from your hand."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Trollshaw Scout does not exhaust to attack.&#10;&#10;Forced: After Trollshaw Scout attacks, either discard it from play or discard 1 card from your hand."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9018" name="Heavy Stroke">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Response: After a Dwarf deals X damage to an enemy during combat, deal an additional X damage to that enemy. (Limit once per phase.)"/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Response: After a Dwarf deals X damage to an enemy during combat, deal an additional X damage to that enemy. (Limit once per phase.)"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9019" name="Imladris Stargazer">
     <property name="Type" value="Ally"/>
@@ -64,8 +64,8 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="1"/>
-    <property name="Text" value="Action: Exhaust Imladris Stargazer to choose a player. That player looks at the top 5 cards of his deck and then returns them to the top of his deck in any order."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Exhaust Imladris Stargazer to choose a player. That player looks at the top 5 cards of his deck and then returns them to the top of his deck in any order."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9020" name="Light of Valinor">
     <property name="Unique" value="‰"/>
@@ -74,23 +74,23 @@
     <property name="Traits" value="Condition."/>
     <property name="Keywords" value="Attach to a Noldor or Silvan hero."/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Attached hero does not exhaust to commit to a quest."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Attached hero does not exhaust to commit to a quest."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9010" name="Daeron's Runes">
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Action: Draw 2 cards. Then, discard 1 card from your hand."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Draw 2 cards. Then, discard 1 card from your hand."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9017" name="Healing Herbs">
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Lore"/>
     <property name="Keywords" value="Attach to a Î hero."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Action: Discard Healing Herbs and exhaust attached hero to heal all damage on 1 character."/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Discard Healing Herbs and exhaust attached hero to heal all damage on 1 character."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9001" name="Asfaloth">
     <property name="Unique" value="‰"/>
@@ -99,14 +99,14 @@
     <property name="Traits" value="Mount."/>
     <property name="Keywords" value="Attach to a Noldor or Silvan hero."/>
     <property name="Cost" value="2"/>
-    <property name="Text" value="Action: Exhaust Asfaloth to place 1 progress token on any location. (2 tokens instead if attached hero is Glorfindel.)"/>
     <property name="Quantity" value="3"/>
+    <property name="Text" value="Action: Exhaust Asfaloth to place 1 progress token on any location. (2 tokens instead if attached hero is Glorfindel.)"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9029" name="The Dripping Walls - 1A">
     <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Setup: Place the Foundations of Stone encounter set aside, out of play. The first player attaches Cave Torch to a hero of his choice."/>
     <property name="Encounter Set" value="Foundations of Stone"/>
-    <property name="Quantity" value="1"/>
     <property name="Setup" value="t"/>
     <alternate name="The Dripping Walls - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -116,8 +116,8 @@
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9031" name="The Water's Edge - 2A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Foundations of Stone"/>
     <alternate name="The Water's Edge - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="12"/>
@@ -126,8 +126,8 @@
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9034" name="Washed Away! - 3A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Foundations of Stone"/>
     <alternate name="Washed Away! - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="0"/>
@@ -136,8 +136,8 @@
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9004" name="Below the Mines - 4A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Foundations of Stone"/>
     <alternate name="Sheltered Rocks - 4B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="11"/>
@@ -146,8 +146,8 @@
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9006" name="Below the Mines - 4A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Foundations of Stone"/>
     <alternate name="The Endless Caves - 4B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="17"/>
@@ -156,8 +156,8 @@
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9008" name="Below the Mines - 4A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Foundations of Stone"/>
     <alternate name="The Shivering Bank - 4B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
@@ -166,8 +166,8 @@
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9002" name="Below the Mines - 4A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Foundations of Stone"/>
     <alternate name="Old One Lair - 4B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
@@ -176,8 +176,8 @@
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9026" name="Out of the Depths - 5A">
     <property name="Type" value="Quest"/>
-    <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Foundations of Stone"/>
     <alternate name="Out of the Depths - 5B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="11"/>
@@ -189,50 +189,50 @@
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Weapon. Artifact."/>
     <property name="Keywords" value="Surge. Restricted."/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Attached hero gets +3 Û. If attached hero is a Dwarf, it gets +1 Ò.&#10;&#10;Action: Exhaust a hero to claim this objective. Then, attach Durin's Axe to that hero as an attachment."/>
     <property name="Encounter Set" value="Foundations of Stone"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9014" name="Durin's Helm">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Armor. Artifact."/>
     <property name="Keywords" value="Surge."/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="Attached hero gets +1 Ú. If attached hero is a Dwarf, it gets +2 hit points.&#10;&#10;Action: Exhaust a hero to claim this objective. Then, attach Durin's Helm to that hero as an attachment."/>
     <property name="Encounter Set" value="Foundations of Stone"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9012" name="Drowned Treasury">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground. Underwater."/>
     <property name="Threat" value="2"/>
+    <property name="Quantity" value="3"/>
     <property name="Text" value="If Drowned Treasury is the active location at the end of the quest phase, each player must discard 1 character he controls.&#10;&#10;Response: After Drowned Treasury leaves play as an explored location, each player may draw 2 cards or claim 1 objective in play."/>
     <property name="Encounter Set" value="Foundations of Stone"/>
-    <property name="Quantity" value="3"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9023" name="Mithril Lode">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground."/>
     <property name="Keywords" value="Doomed 1."/>
     <property name="Threat" value="2"/>
+    <property name="Quantity" value="1"/>
     <property name="Text" value="While Mithril Lode is the active location, it gains: &quot;Refresh Action: Exhaust a character you control to place X progress tokens on the current quest card, bypassing any active location. X is the exhausted character's Ò. (Limit once per round.)&quot;"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
-    <property name="Quantity" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9011" name="Deep Deep Dark">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 1. Surge."/>
+    <property name="Quantity" value="4"/>
     <property name="Text" value="When Revealed: Attach 1 card from the top of the first player's deck to each Nameless enemy in play, if able."/>
     <property name="Shadow" value="Shadow: If attacking enemy is Nameless, the defending player must discard his hand."/>
     <property name="Encounter Set" value="Foundations of Stone"/>
-    <property name="Quantity" value="4"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9022" name="Lost and Alone">
     <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Each player chooses and shuffles a hero he controls into his deck. When he draws that hero, he puts it into play."/>
     <property name="Shadow" value="Shadow: If attacking enemy is Nameless, the defending player must discard his hand."/>
     <property name="Encounter Set" value="Foundations of Stone"/>
-    <property name="Quantity" value="2"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9025" name="Nameless Thing">
     <property name="Type" value="Enemy"/>
@@ -242,10 +242,10 @@
     <property name="Attack" value="X"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="X"/>
-    <property name="Text" value="Forced: After Nameless Thing engages a player, attach the top 2 cards of that player's deck to it.&#10;&#10;X is the printed cost of all attached cards on this card. If there are no cards attached, X is 3."/>
-    <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="5"/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="Forced: After Nameless Thing engages a player, attach the top 2 cards of that player's deck to it.&#10;&#10;X is the printed cost of all attached cards on this card. If there are no cards attached, X is 3."/>
+    <property name="Encounter Set" value="Foundations of Stone"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9015" name="Elder Nameless Thing">
     <property name="Type" value="Enemy"/>
@@ -255,10 +255,10 @@
     <property name="Attack" value="X"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="X"/>
-    <property name="Text" value="Forced: After Elder Nameless Thing engages a player, attach the top 3 cards of that player's deck to it.&#10;&#10;X is the printed cost of all attached cards on this card. If there are no cards attached, X is 4."/>
-    <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="3"/>
     <property name="Victory Points" value="3"/>
+    <property name="Text" value="Forced: After Elder Nameless Thing engages a player, attach the top 3 cards of that player's deck to it.&#10;&#10;X is the printed cost of all attached cards on this card. If there are no cards attached, X is 4."/>
+    <property name="Encounter Set" value="Foundations of Stone"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801212c9024" name="Moria Bats">
     <property name="Type" value="Enemy"/>
@@ -268,9 +268,9 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="1"/>
+    <property name="Quantity" value="4"/>
     <property name="Text" value="Only characters with ranged can attack or defend against Moria Bats.&#10;&#10;While Moria Bats is engaged with a player, it gets +1 Û for each other enemy engaged with that player."/>
     <property name="Encounter Set" value="Foundations of Stone"/>
-    <property name="Quantity" value="4"/>
   </card>
  </cards>
 </set>

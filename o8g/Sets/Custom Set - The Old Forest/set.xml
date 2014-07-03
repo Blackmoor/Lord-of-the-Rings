@@ -9,9 +9,9 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="7"/>
+    <property name="Victory Points" value="2"/>
     <property name="Text" value="Forced: Characters with 1 Ò or less cannot attack River Wight."/>
     <property name="Encounter Set" value="The Old Forest"/>
-    <property name="Victory Points" value="2"/>
   </card>
   <card id="87829466-4503-4eb5-ab23-2e8b2c274483" name="Old Man Willow">
     <property name="Type" value="Enemy"/>
@@ -21,9 +21,9 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="11"/>
+    <property name="Victory Points" value="5"/>
     <property name="Text" value="Forced: If Old Man Willow is dealt a shadow card with no effect, defending player must choose and discard a character they control."/>
     <property name="Encounter Set" value="The Old Forest"/>
-    <property name="Victory Points" value="5"/>
   </card>
   <card id="6a3c0e41-0111-4496-9178-56f0ccc0c2f9" name="Barrow Blade">
     <property name="Type" value="Objective"/>

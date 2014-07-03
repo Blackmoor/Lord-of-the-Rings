@@ -18,16 +18,16 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Mountain, Cave."/>
     <property name="Threat" value="1"/>
+    <property name="Victory Points" value="2"/>
     <property name="Text" value="While Longbeard Cavern is the active location Dwarf allies cost 1 less resource to play.&#10;&#10;While Longbeard Cavern is in play Nor gains 'Action: Exhaust Nor to add 2 resource tokens to his resource pool (Limit once per round)'"/>
     <property name="Encounter Set" value="Buried Alive"/>
-    <property name="Victory Points" value="2"/>
   </card>
   <card id="85c0fdb3-618f-45cb-953c-c3f18fec2ebb" name="Treacherous Slope">
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Mountain, Hazard"/>
+    <property name="Victory Points" value="1"/>
     <property name="Text" value="Action: If there are more than X enemies in play, exhaust a Hero to claim Treacherous Slope. X equals twice the number of players. Attach Treacherous Slope to that Hero.&#10;&#10;Action: If claimed, place Treacherous Slope in the victory display to trigger an avalanche. Each player may reduce thier threat by 2 for each enemy engaged with them then discard all enemies from play."/>
     <property name="Encounter Set" value="Buried Alive"/>
-    <property name="Victory Points" value="1"/>
   </card>
   <card id="61377eb5-4d26-4769-a6f0-21e352ea26aa" name="The Mountain Pass - 1A">
     <property name="Type" value="Quest"/>
