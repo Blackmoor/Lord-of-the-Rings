@@ -110,6 +110,7 @@
     <property name="Encounter Set" value="Assault on Osgiliath"/>
     <property name="Quantity" value="1"/>
     <alternate name="Retake the City - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="Forced: When an Osgiliath location leaves play as an explored location, the first player takes control of that location.&#10;&#10;If the players control all Osgiliath locations in play at the end of the round, they have won the game."/>
     </alternate>

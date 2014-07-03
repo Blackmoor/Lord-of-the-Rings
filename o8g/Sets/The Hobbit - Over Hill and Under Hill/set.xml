@@ -239,6 +239,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="tttt"/>
     <alternate name="An Unexpected Party - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
     </alternate>
   </card>
@@ -248,6 +249,7 @@
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Quantity" value="1"/>
     <alternate name="Roast Mutton - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="Forced: If there are no Troll enemies left in play, or if there are no cards left in the encounter deck, advance to the next stage.&#10;&#10;Any time players would place progress tokens on this quest, discard an equal number of cards from the encounter deck instead. (Progress is placed on the active location before triggering this effect.)"/>
     </alternate>
@@ -257,6 +259,7 @@
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Quantity" value="1"/>
     <alternate name="Dawn Take You All - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="0"/>
       <property name="Text" value="When Revealed: Remove all Troll enemies and Sack cards from the game. If Troll Cave is in the victory display, the players have discovered the treasure cards Sting, Glamdring, and Orcrist.&#10;&#10;The players have won the game."/>
     </alternate>
@@ -268,6 +271,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="s"/>
     <alternate name="A Short Rest - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="0"/>
       <property name="Text" value="When Revealed: Each player may search his deck for 1 treasure card and add it to his hand, then shuffle his deck. Advance to stage 2A."/>
     </alternate>
@@ -277,6 +281,7 @@
     <property name="Encounter Set" value="Over the Misty Mountains Grim"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Mountain Pass - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="16"/>
       <property name="Text" value="When Revealed: Search the encounter deck for 1 copy of Stone-giant and add it to the staging area. Then, shuffle the encounter deck. Reveal 1 card per player from the encounter deck and add it to the staging area."/>
     </alternate>
@@ -287,6 +292,7 @@
     <property name="Encounter Set" value="The Great Goblin"/>
     <property name="Quantity" value="1"/>
     <alternate name="Down, Down to Goblin Town - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="20"/>
       <property name="Text" value="Players cannot defeat this stage unless The Great Goblin is in the victory display.&#10;&#10;When Revealed: Reveal 3 encounter cards per player. Bilbo Baggins may spend X resources to reduce the total number of encounter cards revealed by X. (To a minimum of 1.)&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
@@ -298,6 +304,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="stt"/>
     <alternate name="Out of the Frying Pan - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="14"/>
       <property name="Text" value="Players cannot advance to stage 3A unless both 1B and 2B are complete.&#10;&#10;Forced: Reveal 1 additional encounter card per player during the staging step."/>
     </alternate>
@@ -308,6 +315,7 @@
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Quantity" value="1"/>
     <alternate name="Riddles in the Dark - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="Players cannot advance to stage 3A unless both 1B and 2B are complete.&#10;&#10;Progress tokens cannot be added to, or removed from, this quest except by answering riddles.&#10;&#10;Cards in the riddle area are immune to player card effects and cannot leave the riddle area except by quest effects."/>
     </alternate>
@@ -317,6 +325,7 @@
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Quantity" value="1"/>
     <alternate name="Into the Fire - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="16"/>
       <property name="Text" value="When Revealed: The first player gains control of Bilbo Baggins. Reveal 1 encounter card per player and add it to the staging area.&#10;&#10;Gollum engages the first player. Damage from undefended attacks made by Gollum must be placed on Bilbo Baggins.&#10;&#10;All riddle effects are ignored. Treachery cards gain surge.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>

@@ -104,6 +104,7 @@
     <property name="Encounter Set" value="The Hunt for Gollum"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Hunt Begins - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Forced: After the players quest successfully, the first player looks at the top 3 cards of the encounter deck. Reveal and add 1 of those cards to the staging area, and discard the other 2 cards."/>
     </alternate>
@@ -113,6 +114,7 @@
     <property name="Encounter Set" value="The Hunt for Gollum"/>
     <property name="Quantity" value="1"/>
     <alternate name="A New Terror Abroad - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="Forced: At the beginning of the quest phase, the first player looks at the top 2 cards of the encounter deck. Reveal and add 1 of those cards to the staging area, and discard the other."/>
     </alternate>
@@ -122,6 +124,7 @@
     <property name="Encounter Set" value="The Hunt for Gollum"/>
     <property name="Quantity" value="1"/>
     <alternate name="On the Trail - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Any player who does not control a hero with at least 1 Clue objective attached cannot commit characters to this quest. If there are ever no heroes with Clue objectives attached in play, reset the quest deck to stage 2B.&#10;&#10;If the players defeat this stage, the players have once again found a true sign of Gollum's passing, and won the game."/>
     </alternate>

@@ -114,6 +114,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="s"/>
     <alternate name="Into the Marshes - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="12"/>
     </alternate>
   </card>
@@ -122,6 +123,7 @@
     <property name="Encounter Set" value="The Dead Marshes"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Capture - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="3"/>
       <property name="Text" value="Forced: After this stage is defeated, the first player chooses a player. That player must pass an Escape test, dealing 1 card from the encounter deck for each resource token on Gollum, to capture him. If Gollum is not captured at this time, reset the quest deck to stage 1B.&#10;&#10;If this final Escape test is passed, the players have captured Gollum and won the game."/>
     </alternate>

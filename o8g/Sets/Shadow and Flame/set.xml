@@ -98,6 +98,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ts"/>
     <alternate name="Nearing the Gate - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="When Revealed: Reduce each player's threat to 0. Reveal X cards from the encounter deck, where X is one less than the number of players in the game, and add them to the staging area."/>
     </alternate>
@@ -107,6 +108,7 @@
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Rear Guard - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="16"/>
       <property name="Text" value="Forced: If at least 1 hero committed to the quest this round, place 4 progress tokens on The Rear Guard (bypassing any active location) at the end of the quest phase.&#10;&#10;If Durin's Bane has 0 hit points, advance to the next stage of the scenario immediately."/>
     </alternate>
@@ -116,6 +118,7 @@
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Quantity" value="1"/>
     <alternate name="Last Lord of Moria - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="When Revealed: Durin's Bane makes an immediate attack on the first player. Add Dark Pit to the staging area.&#10;&#10;Players cannot win the game while Durin's Bane is in play. If Durin's Bane leaves play by the effect on Dark Pit, the players have won the game."/>
     </alternate>

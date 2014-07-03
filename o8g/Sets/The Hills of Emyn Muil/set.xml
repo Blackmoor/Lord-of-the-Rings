@@ -108,6 +108,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ss"/>
     <alternate name="The Hills of Emyn Muil - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="Forced: If there are no location cards in the staging area, the first treachery card revealed during the quest phase gains surge.&#10;&#10;Players cannot defeat this stage unless there are no Emyn Muil locations in play, and they have collected at least 20 victory points."/>
     </alternate>

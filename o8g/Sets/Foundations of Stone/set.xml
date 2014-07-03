@@ -109,6 +109,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="t"/>
     <alternate name="The Dripping Walls - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area."/>
     </alternate>
@@ -118,6 +119,7 @@
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Water's Edge - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="12"/>
       <property name="Text" value="Forced: After a player commits characters to the quest, he must discard the top 2 cards of his deck."/>
     </alternate>
@@ -127,6 +129,7 @@
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
     <alternate name="Washed Away! - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="0"/>
       <property name="Text" value="When Revealed: Discard all Item, Armor, Weapon, Light cards and all encounter deck cards from play. Shuffle all enemy and treachery cards in the encounter discard pile together with the Foundations of Stone encounter set. This deck becomes the new encounter deck. remove all other encounter deck cards from the game. Then, starting with the first player, each player draws a random stage 4 quest card. Remove all other stage 4 quest cards from the game."/>
     </alternate>
@@ -136,6 +139,7 @@
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
     <alternate name="Sheltered Rocks - 4B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="11"/>
       <property name="Text" value="When Revealed: Create your own staging area. Reveal 2 cards from the encounter deck and add them to your staging area.&#10;&#10;Forced: After the 11th progress token is placed on Sheltered Rocks, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together."/>
     </alternate>
@@ -145,6 +149,7 @@
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Endless Caves - 4B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="17"/>
       <property name="Text" value="When Revealed: Create your own staging area. Discard all resources from your heroes.&#10;&#10;Forced: After the 17th progress token is placed on The Endless Caves, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together."/>
     </alternate>
@@ -154,6 +159,7 @@
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Shivering Bank - 4B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="When Revealed: Create your own staging area. Discard your hand. Reveal 2 cards from the encounter deck and add them to your staging area.&#10;&#10;Forced: After the 7th progress token is placed on The Shivering Bank, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together."/>
     </alternate>
@@ -163,6 +169,7 @@
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
     <alternate name="Old One Lair - 4B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
       <property name="Text" value="When Revealed: Create your own staging area. Reveal 4 cards from the encounter deck and add them to your staging area.&#10;&#10;Forced: After the 5th progress token is placed on Old One Lair, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together."/>
     </alternate>
@@ -172,6 +179,7 @@
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Quantity" value="1"/>
     <alternate name="Out of the Depths - 5B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="11"/>
       <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area.&#10;&#10;Each player cannot commit more allies to the quest than the number of heroes he is also committing to the quest.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>

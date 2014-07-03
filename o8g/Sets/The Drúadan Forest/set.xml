@@ -107,6 +107,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="t"/>
     <alternate name="The Pursuit - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="11"/>
       <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player and add it to the staging area."/>
     </alternate>
@@ -116,6 +117,7 @@
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Quantity" value="1"/>
     <alternate name="An Untimely End - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="17"/>
       <property name="Text" value="Archery damage must be assigned to allies, if able."/>
     </alternate>
@@ -126,6 +128,7 @@
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Passage Out - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="14"/>
       <property name="Text" value="Characters use their Ò instead of Û when attacking enemies. If an enemy would be damaged this way, place progress tokens on it instead of damage tokens. When an enemy has progress equal to its hit points, add it to the victory display and place those progress tokens on the quest.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>

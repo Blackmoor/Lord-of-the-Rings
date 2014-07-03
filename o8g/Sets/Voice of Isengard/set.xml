@@ -512,6 +512,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ss"/>
     <alternate name="Fight at the Fords - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
@@ -520,6 +521,7 @@
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Quantity" value="1"/>
     <alternate name="Dunlending Attack - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="14"/>
     </alternate>
   </card>
@@ -528,6 +530,7 @@
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Quantity" value="1"/>
     <alternate name="Hold the Fords - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="16"/>
     </alternate>
   </card>
@@ -537,6 +540,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="tttt"/>
     <alternate name="Orders from Orthanc - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>
@@ -545,6 +549,7 @@
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Quantity" value="1"/>
     <alternate name="Searching for Mugash - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>
@@ -553,6 +558,7 @@
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Wizard's Prize - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
     </alternate>
   </card>
@@ -562,6 +568,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ss"/>
     <alternate name="Into the Woods - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="9"/>
     </alternate>
   </card>
@@ -570,6 +577,7 @@
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Quantity" value="1"/>
     <alternate name="Escape from Fangorn - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="12"/>
     </alternate>
   </card>
@@ -578,6 +586,7 @@
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Angry Forest - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>

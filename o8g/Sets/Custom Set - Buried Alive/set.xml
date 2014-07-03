@@ -35,6 +35,7 @@
     <property name="Encounter Set" value="Buried Alive"/>
     <property name="Setup" value="----"/>
     <alternate name="The Mountain Pass - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="When Revealed: Reveal 1 encounter card and add it to the staging area."/>
     </alternate>
@@ -45,6 +46,7 @@
     <property name="Encounter Set" value="Buried Alive"/>
     <property name="Setup" value="----"/>
     <alternate name="The Diversion - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="2"/>
       <property name="Text" value="When Revealed: Put Treacherous Slope into the staging area.&#10;&#10;You cannot complete this stage of the quest until the Treacherous Slope is in your victory display."/>
     </alternate>
@@ -55,6 +57,7 @@
     <property name="Encounter Set" value="Buried Alive"/>
     <property name="Setup" value="---"/>
     <alternate name="The Rescue - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="4"/>
       <property name="Text" value="When revealed: Refresh all characters. Put the Greate Cave Troll and Longbeard Cavern into the staging area. The first player chooses a player, put Nor into play under control of that player.&#10;&#10;Players cannot place progress tokens on this quest while Great Cave Troll is in play.&#10;&#10;If players defeat this stage flip over all face down cards. Your allies return and the remaining Orcs flee, you have won the game."/>
     </alternate>

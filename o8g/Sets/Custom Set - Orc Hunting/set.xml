@@ -311,6 +311,7 @@
     <property name="Encounter Set" value="Custom Set - Orc hunting"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Trial of the Dark Forest - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="After an Orc enemy is destroyed by an attack, place 1 progress token on any 1 character that participated in that attack. Forced: At the end of the round, each player discards from play all allies he controls. If one hero leaves play, the players have lost the game. If each hero in play has 2 or more progress tokens on him and the players defeat this stage, they have won the game."/>
     </alternate>

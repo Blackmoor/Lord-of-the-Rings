@@ -8,6 +8,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="tt"/>
     <alternate name="Trouble with Trolls - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="0"/>
       <property name="Text" value="Response: After a unqiue Troll enemy (Bert, Tom, William) is defeated or after a Troll Camp leaves play as an explored location, the first player chooses and discards a Sack card from play.&#10;&#10;Forced: At the start of the refresh phase, remove all Troll enemies from the discard pile and add them to the staging area.&#10;&#10;The players win if there at least 5 Troll enemies in the victory display and there are no Troll enemies in play"/>
     </alternate>

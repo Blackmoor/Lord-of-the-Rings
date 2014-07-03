@@ -112,6 +112,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ss"/>
     <alternate name="The Wounded Eagle - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
@@ -120,6 +121,7 @@
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Quantity" value="1"/>
     <alternate name="Radagast's Request - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="12"/>
       <property name="Text" value="Response: After the quest phase begins, the first player may place X damage tokens on Wilyador to look at the top 3 cards of the encounter deck. Reveal and add 1 of these cards to the staging area, and discard the other 2. X is the number of players in the game.&#10;&#10;Forced: After a card effect heals Wilyador, remove that card from the game."/>
     </alternate>
@@ -129,6 +131,7 @@
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Quantity" value="1"/>
     <alternate name="Return to Rhosgobel - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="0"/>
       <property name="Text" value="When Revealed: Heal 5 wounds from Wilyador for each Athelas objective card the players control.&#10;&#10;If Wilyador is completely healed when this effect resolves, Wilyador survives and the players have won the game. Otherwise, the players have lost the game."/>
     </alternate>

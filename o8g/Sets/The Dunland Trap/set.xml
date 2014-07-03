@@ -105,6 +105,7 @@
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Road to Tharbad  - 1B" type="B">
+      <property name="Type" value="Quest"/>
     </alternate>
   </card>
   <card id="2087cb2d-ce6f-4d3a-befc-01859ec82e6c" name="A Well Laid Trap - 2A">
@@ -112,6 +113,7 @@
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Quantity" value="1"/>
     <alternate name="A Well Laid Trap - 2B" type="B">
+      <property name="Type" value="Quest"/>
     </alternate>
   </card>
   <card id="c5215a42-f064-46cc-a9a2-75ef4d57fcd2" name="No Way Out - 3A">
@@ -119,6 +121,7 @@
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Quantity" value="1"/>
     <alternate name="No Way Out - 3B" type="B">
+      <property name="Type" value="Quest"/>
     </alternate>
   </card>
   <card id="6b1a56ae-f173-4842-984c-d07b0545ad23" name="Chief Turch">

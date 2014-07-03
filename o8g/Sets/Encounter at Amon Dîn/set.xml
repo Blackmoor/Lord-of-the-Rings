@@ -110,6 +110,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ttlss"/>
     <alternate name="Savagery of the Orcs - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When progress would be placed on Savagery of the Orcs, move an equal number of villager tokens from this quest onto Rescued Villagers instead.&#10;&#10;If there are no villager tokens on Savagery of the Orcs, advance to the next stage."/>
     </alternate>
@@ -120,6 +121,7 @@
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Quantity" value="1"/>
     <alternate name="Protect the Villagers - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="If an attack goes undefended, discard X villager tokens from Rescued Villagers instead of damaging a hero. X is the amount of damage that would have been dealt.&#10;&#10;When the players defeat this stage, end the game. Compare the number of tokens on Rescued Villagers to the number of tokens on Dead Villagers."/>
     </alternate>

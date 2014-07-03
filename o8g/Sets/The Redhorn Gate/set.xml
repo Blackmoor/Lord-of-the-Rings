@@ -99,6 +99,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="stttttt"/>
     <alternate name="Up the Pass - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area."/>
     </alternate>
@@ -108,6 +109,7 @@
     <property name="Encounter Set" value="The Redhorn Gate"/>
     <property name="Quantity" value="1"/>
     <alternate name="Snowdrifts - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="11"/>
       <property name="Text" value="When Revealed: Shuffle 1 more copy of Snowstorm into the encounter deck than the number of players in the game.&#10;&#10;Forced: After placing the 11th progress token on Snowdrifts, discard any active location. Caradhras becomes the active location."/>
     </alternate>
@@ -117,6 +119,7 @@
     <property name="Encounter Set" value="The Redhorn Gate"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Mountains' Peaks - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="13"/>
       <property name="Text" value="When Revealed: Shuffle all copies of Snowstorm in the encounter discard pile back into the encounter deck.&#10;&#10;Characters are discarded from play if their Ò is ever 0.&#10;&#10;Players cannot defeat this stage unless they have 5 victory points. If the players defeat this stage, they have won the game."/>
     </alternate>

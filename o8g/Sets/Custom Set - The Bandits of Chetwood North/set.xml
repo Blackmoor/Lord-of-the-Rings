@@ -94,6 +94,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="sstttttttttttt"/>
     <alternate name="Chestwood Outskirts - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="4"/>
     </alternate>
   </card>
@@ -102,6 +103,7 @@
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Quantity" value="1"/>
     <alternate name="Searching for Stolen Treasure - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
@@ -110,6 +112,7 @@
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Quantity" value="1"/>
     <alternate name="Adella's Fight - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="14"/>
     </alternate>
   </card>

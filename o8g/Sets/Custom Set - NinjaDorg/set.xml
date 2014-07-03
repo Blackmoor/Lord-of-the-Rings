@@ -8,6 +8,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ttt"/>
     <alternate name="Dark Road - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="Each player must search the encounter deck and place the first location they find into the staging area. Shuffle the encounter deck."/>
     </alternate>
@@ -17,6 +18,7 @@
     <property name="Encounter Set" value="Branching Paths"/>
     <property name="Quantity" value="1"/>
     <alternate name="Sacred Shrine - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="After defeating this stage, each player may choose to heal all wounds from all their heroes. If so, proceed to Stage 3. If all player choose not to heal, then proceed to Stage 4."/>
     </alternate>
@@ -26,6 +28,7 @@
     <property name="Encounter Set" value="Branching Paths"/>
     <property name="Quantity" value="1"/>
     <alternate name="Besieged - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="14"/>
       <property name="Text" value="Each player must search the encounter deck and place the first orc they find into the staging area. Shuffle the encounter deck. After defeating this stage, the players must decide if they want to try to free the prisoners. If so, proceed to Stage 5. Otherwise, proceed to Stage 6."/>
     </alternate>
@@ -35,6 +38,7 @@
     <property name="Encounter Set" value="Branching Paths"/>
     <property name="Quantity" value="1"/>
     <alternate name="Take Flight - 4B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="After defeating this stage, the players must decide if they want to try to free the prisoners. If so, proceed to Stage 5. If all players choose not to free the prisoners, proceed to Stage 6."/>
     </alternate>
@@ -44,6 +48,7 @@
     <property name="Encounter Set" value="Branching Paths"/>
     <property name="Quantity" value="1"/>
     <alternate name="Liberation - 5B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="12"/>
       <property name="Text" value="Players cannot defeat this stge without at least one Clue, or whilst any Dungeon Jailor cards are in play. After defeating this stage, as a response each player may place one ally or attachment into play from his hand for free. Proceed to Stage 7."/>
     </alternate>
@@ -53,6 +58,7 @@
     <property name="Encounter Set" value="Branching Paths"/>
     <property name="Quantity" value="1"/>
     <alternate name="Abandoned - 6B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="For every 2 players in the game, place one Dungeon Jailor into the staging area. Players cannot defeat this stage without at least one Clue, or whilst any Dungeon Jailor cards are in play. Proceed to Stage 7."/>
     </alternate>
@@ -62,6 +68,7 @@
     <property name="Encounter Set" value="Branching Paths"/>
     <property name="Quantity" value="1"/>
     <alternate name="Showdown - 7B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Place the Nazgul of Dol Guldur into the staging area. players cannot defeat this stage without at least one Clue, or whilst any nazgul cards are in play."/>
     </alternate>
@@ -73,6 +80,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ttttt"/>
     <alternate name="Ancient Path - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="When 9 Progress tokens have been placed on this card, put Ungoliant's Spawn into play. Players cannot defeat this stage whilst Ungoliant's Spawn is in play."/>
     </alternate>
@@ -83,6 +91,7 @@
     <property name="Encounter Set" value="Forgotten Ruins"/>
     <property name="Quantity" value="1"/>
     <alternate name="Deep Catacombs - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Players cannot place Progress tokens on this stage unless a Hero controls the Shadow Key"/>
     </alternate>
@@ -93,6 +102,7 @@
     <property name="Encounter Set" value="Forgotten Ruins"/>
     <property name="Quantity" value="1"/>
     <alternate name="Risen Nightmare - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="6"/>
       <property name="Text" value="When 6 Progres token have been placed on this card, put the Nazgul of Dol Guldur into play. Players cannot defeat this stage whilst the Nazgul of Dol Guldur is in play."/>
     </alternate>
@@ -103,6 +113,7 @@
     <property name="Encounter Set" value="The Elven Assembly"/>
     <property name="Quantity" value="1"/>
     <alternate name="Goblin Gate - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="12"/>
       <property name="Text" value="Each player immediately chooses and engages 1 Orc. Players cannot defeat this stage while any Orc cards in play."/>
     </alternate>
@@ -112,6 +123,7 @@
     <property name="Encounter Set" value="The Elven Assembly"/>
     <property name="Quantity" value="1"/>
     <alternate name="Elf Path - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
       <property name="Text" value="Do not make any more engagement chechs whilst on this stage. Enemies already engaged with you remain engaged. You are niether allowed to engage nor be engaged by enemies unless you are already engaged with them."/>
     </alternate>
@@ -122,6 +134,7 @@
     <property name="Encounter Set" value="The Elven Assembly"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Veil of the Lonely Mountain - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="Each player may immediately place 1 Elf from their hand into play for free and any Elf character may also heal 1 Wound. Each player immediately chooses and engages 1 Orc. Players cannot defeat this stage while any Orc cards are in play."/>
     </alternate>
@@ -133,6 +146,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="t"/>
     <alternate name="Forgotten Path - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="4"/>
       <property name="Text" value="You only need to carry out the staging element of the Quest Phase every other turn after your first turn, for this stage only."/>
     </alternate>
@@ -142,6 +156,7 @@
     <property name="Encounter Set" value="The Lost Road"/>
     <property name="Quantity" value="1"/>
     <alternate name="Tranquil Glade - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="2"/>
       <property name="Text" value="You may place Legolas into play on your side. For this Adventure only, any resources he generates are treated as the same as your current sphere."/>
     </alternate>
@@ -151,6 +166,7 @@
     <property name="Encounter Set" value="The Lost Road"/>
     <property name="Quantity" value="1"/>
     <alternate name="Goblin Mines - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="4"/>
       <property name="Text" value="Search the encounter deck and discard pile for an Orc card and place it into the staging area. You may not defeat this stage whilst this Orc is in play."/>
     </alternate>
@@ -162,6 +178,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="tt"/>
     <alternate name="Orc War Party - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Each player searches the encounter deck for 1 Orc and places it into the staging area. Shuffle the encounter deck. Players cannot defeat this stage while any Orc cards in play."/>
     </alternate>
@@ -172,6 +189,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="tt"/>
     <alternate name="Dark Woods - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Place Chieftan Ufthak into the staging area. Players cannot defeat this stage while Chieftan Ufthak is in play."/>
     </alternate>
@@ -181,6 +199,7 @@
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Quantity" value="1"/>
     <alternate name="Daring Rescue - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="The 1st player may immediately place 1 Ally from their hand into play. Place the Hill Troll you put to one side into the staging area. Players cannot defeat this stage while are Hill Troll cards are in play."/>
     </alternate>
@@ -192,6 +211,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ttttt"/>
     <alternate name="Foul Tower - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="Whe 5 Progress tokens have been placed on this card, put Ungoliant's Spawn into play. Players cannot defeat this stage whilst Ungoliant's Spawn is in play. If Ungoliant's Spawn is defeated, place it to one side out of play."/>
     </alternate>
@@ -202,6 +222,7 @@
     <property name="Encounter Set" value="Ungoliant's Lair"/>
     <property name="Quantity" value="1"/>
     <alternate name="Twisted Caverns - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="When 5 Progress tokens have been placed on this card, put Ungoliant's Spawn into play. Players cannot defeat this stage whilst Ungoliant's Spawn is in play. If Ungoliant's Spawn is defeated, place it to one side out of play."/>
     </alternate>
@@ -212,6 +233,7 @@
     <property name="Encounter Set" value="Ungoliant's Lair"/>
     <property name="Quantity" value="1"/>
     <alternate name="Final Stand - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="When 5 Progress tokens have been placed on this card, put Ungoliant's Spawn into play. Players cannot defeat this stage whilst Ungoliant's Spawn is in play. If Ungoliant's Spawn is defeated, shuffle it back into the encounter deck."/>
     </alternate>

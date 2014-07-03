@@ -110,6 +110,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="stttttttt"/>
     <alternate name="Grimbeorn's Quest - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="Forced: After placing the 7th progress token on Grimbeorn's Quest, The Carrock becomes the active location. Discard the previous active location from play."/>
     </alternate>
@@ -119,6 +120,7 @@
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Quantity" value="1"/>
     <alternate name="Against the Trolls - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="When Revealed: Place the unique Troll cards previously set aside into the staging area.&#10;&#10;Players cannot defeat this stage if there are any Troll enemies in play."/>
     </alternate>

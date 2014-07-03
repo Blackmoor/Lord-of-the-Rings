@@ -247,6 +247,7 @@
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Setup" value="ttttt-"/>
     <alternate name="1B - Solving the Trouble" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="1"/>
     </alternate>
   </card>
@@ -255,6 +256,7 @@
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Quantity" value="1"/>
     <alternate name="2B - Uninvited Guests" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
@@ -263,6 +265,7 @@
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Quantity" value="1"/>
     <alternate name="3B - Searching for Remnants" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
@@ -271,6 +274,7 @@
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Quantity" value="1"/>
     <alternate name="4B - Enemy Reorganized" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
@@ -279,6 +283,7 @@
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Quantity" value="1"/>
     <alternate name="4B - Problem Eliminated" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
@@ -389,6 +394,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="tss"/>
     <alternate name="1B - Travel to the Library" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
@@ -397,6 +403,7 @@
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Quantity" value="1"/>
     <alternate name="2B - A Frivolous Try" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
@@ -405,6 +412,7 @@
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Quantity" value="1"/>
     <alternate name="3B - The Daedal Writings" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
     </alternate>
   </card>
@@ -413,6 +421,7 @@
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Quantity" value="1"/>
     <alternate name="4B - Alaric, The Mad" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="0"/>
     </alternate>
   </card>
@@ -631,6 +640,7 @@
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Quantity" value="1"/>
     <alternate name="1B - Only the Living Choose Their Destiny" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
@@ -639,6 +649,7 @@
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Quantity" value="1"/>
     <alternate name="2B - Onto the Green Ocean" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
@@ -647,6 +658,7 @@
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Quantity" value="1"/>
     <alternate name="3B - A Curious Key" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
@@ -655,6 +667,7 @@
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Quantity" value="1"/>
     <alternate name="3B - A Mirror in the Grove" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="2"/>
     </alternate>
   </card>
@@ -663,6 +676,7 @@
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Quantity" value="1"/>
     <alternate name="3B - The White Wizard Writings" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="11"/>
     </alternate>
   </card>
@@ -671,6 +685,7 @@
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Quantity" value="1"/>
     <alternate name="4B - A Flint of Light in the Darkness" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
@@ -679,6 +694,7 @@
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Quantity" value="1"/>
     <alternate name="5B - On the Way" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="0"/>
     </alternate>
   </card>

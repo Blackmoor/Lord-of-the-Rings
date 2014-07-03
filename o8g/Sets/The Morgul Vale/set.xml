@@ -116,6 +116,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="tttsss"/>
     <alternate name="The Rearguard - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="Murzag cannot leave play unless destroyed. If Murzag is defeated, advance to the next stage."/>
     </alternate>
@@ -126,6 +127,7 @@
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Betrayal - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="Lord Alcaron cannot leave play unless destroyed. If Lord Alcaron is defeated, advance to the next stage."/>
     </alternate>
@@ -136,6 +138,7 @@
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Morgul Rider - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When Revealed: Reveal 1 card per player from the encounter deck and add it to the staging area.&#10;&#10;Nazgûl of Minas Morgul cannot leave play unless destroyed.&#10;&#10;If Nazgûl of Minas Morgul is defeated, the players have won the game."/>
     </alternate>

@@ -103,6 +103,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="t"/>
     <alternate name="Through the Forest - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="12"/>
     </alternate>
   </card>
@@ -111,6 +112,7 @@
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Quantity" value="1"/>
     <alternate name="Escape Attempt - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="3"/>
       <property name="Text" value="The player guarding Gollum cannot commit characters to this quest (unless he is the only player remaining in the game).&#10;&#10;If the players quest unsuccessfully, Gollum escapes and the players have lost the game."/>
     </alternate>
@@ -120,6 +122,7 @@
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Quantity" value="1"/>
     <alternate name="To the Elvin King's Halls - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="The player guarding Gollum cannot play cards from his hand."/>
     </alternate>
@@ -129,6 +132,7 @@
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Quantity" value="1"/>
     <alternate name="Ambush - 4B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="2"/>
       <property name="Text" value="Forced: At the beginning of the combat phase, all enemies in play engage the player guarding Gollum.&#10;&#10;Players cannot defeat this stage if there are any enemies in play. If players defeat this stage, they have won the game."/>
     </alternate>

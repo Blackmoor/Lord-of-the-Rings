@@ -58,6 +58,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="sssss"/>
     <alternate name="In One Day - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="12"/>
       <property name="Text" value="Forced: Progress tokens may not be placed on Enchanted Grove locations in the staging area nor may they be placed on this quest unless each player controls a hero with Athelas attached.&#10;Forced: If a card targets Wilyador, the first player chooses a hero to be the target of that card instead.&#10;&#10;You cannot complete this quest until you have 4 Enchanted Groves in your victory display. When you complete this quest you wake up and have won."/>
     </alternate>

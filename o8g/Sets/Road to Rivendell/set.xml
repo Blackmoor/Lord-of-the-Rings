@@ -105,6 +105,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="t"/>
     <alternate name="Along the Misty Mountains - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="20"/>
     </alternate>
   </card>
@@ -113,6 +114,7 @@
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Quantity" value="1"/>
     <alternate name="Orc Outpost - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="When Revealed: Search the encounter deck and discard pile for Goblin Gate and add it to the staging area, if able. Then, if there is no active location, Goblin Gate becomes the active location."/>
     </alternate>
@@ -122,6 +124,7 @@
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Quantity" value="1"/>
     <alternate name="Approaching Rivendell - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="13"/>
       <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area.&#10;&#10;Characters cannot be healed.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>

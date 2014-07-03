@@ -99,6 +99,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="tttttttttt"/>
     <alternate name="A Dark Fog - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
     </alternate>
   </card>
@@ -107,6 +108,7 @@
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
     <property name="Quantity" value="1"/>
     <alternate name="Silent, Heavy, and Chill - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
@@ -115,6 +117,7 @@
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
     <property name="Quantity" value="1"/>
     <alternate name="Escaping the Great Barrow - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>

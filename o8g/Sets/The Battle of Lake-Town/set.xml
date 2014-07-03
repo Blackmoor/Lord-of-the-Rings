@@ -8,6 +8,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="s"/>
     <alternate name="Terror from the Mountain - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="14"/>
       <property name="Text" value="Smaug cannot have more than 6 damage on him.&#10;&#10;When Revealed: Deal 1 damage to Lake-town for each player in the game."/>
     </alternate>
@@ -17,6 +18,7 @@
     <property name="Encounter Set" value="The Battle of Lake-Town"/>
     <property name="Quantity" value="1"/>
     <alternate name="Fire and Water - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="Smaug cannot have more than 12 damage on him.&#10;&#10;When the players quest successfully and number of progress tokens that would be placed on this quest may instead be discarded to remove the same number of damage from Lake-town."/>
     </alternate>
@@ -26,6 +28,7 @@
     <property name="Encounter Set" value="The Battle of Lake-Town"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Dragon's Wrath - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="Forced: During the quest phase, reveal 1 additional card from the encounter deck&#10;&#10;Refresh Action: Reset the quest deck to stage 2B.&#10;&#10;The players must defeat Smaug to defeat this stage. When Smaug is defeated, compare the number of damage tokens on Lake-town with the number of victory points in the victory display. If the players have more victory points, they have won the game. Otherwise, Lake-town has burned and the players have lost."/>
     </alternate>

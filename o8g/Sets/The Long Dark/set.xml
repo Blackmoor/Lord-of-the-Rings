@@ -107,6 +107,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="t"/>
     <alternate name="Journey in the Black Pit - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="13"/>
       <property name="Text" value="When Revealed: Discard cards from the top of the encounter deck until you discard X locations, where X is one less than the number of players in the game (minimum of 1). Add those locations to the staging area, and shuffle the other discarded cards back into the encounter deck.&#10;&#10;Each location gets +1 $. If the players quest unsuccessfully, trigger all &quot;Lost:&quot; effects in play."/>
     </alternate>
@@ -116,6 +117,7 @@
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Quantity" value="1"/>
     <alternate name="Continuing Eastward - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="17"/>
       <property name="Text" value="When Revealed: The first player makes a locate test. If this test is failed, reveal cards from the encounter deck equal to the number of players in the game and add them to the staging area. Then, trigger all &quot;Lost:&quot; effects in play.&#10;&#10;If the players quest unsuccessfully, trigger all &quot;Lost:&quot; effects in play.&#10;If the players defeat this stage, they have won the game."/>
     </alternate>

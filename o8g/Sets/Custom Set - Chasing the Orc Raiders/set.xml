@@ -24,6 +24,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="sts"/>
     <alternate name="Robbed - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="When revealed: Select 1 hero, who receives 2 damage.&#10;&#10;Players cannot advance to the next stage of the quest unless they have Elrond's Message in their possession."/>
     </alternate>
@@ -34,6 +35,7 @@
     <property name="Encounter Set" value="Chasing the Orc Raiders"/>
     <property name="Quantity" value="1"/>
     <alternate name="Hide and Seek - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="Forced: If the players are not successful in the quest phase, every hero takes 1 damage and 1 progress token will be removed from the current quest card. Orcs remain in the staging area during the encounter phase unless they guard Elrond's Message. Players cannot advance to the next stage of the quest unless they have Elrond's Message in their possession."/>
     </alternate>
@@ -44,6 +46,7 @@
     <property name="Encounter Set" value="Chasing the Orc Raiders"/>
     <property name="Quantity" value="1"/>
     <alternate name="Uninvited Guests - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="Forced: At the beginning of each quest phase, as long as Ungliant's Spawn is in play, each player places the top card of his deck face-down in the staging area. These cards represent Ungoliant's Net and have 1 Ò and 1 Quest Point. These cards count as locations. Players cannot defeat this stage while Ungoliant Spawn is in play. If this stage is defeated, the players have won the game."/>
     </alternate>

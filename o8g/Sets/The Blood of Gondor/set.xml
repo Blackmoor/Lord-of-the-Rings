@@ -99,6 +99,7 @@
     <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Quantity" value="1"/>
     <alternate name="Captured! - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="11"/>
     </alternate>
   </card>
@@ -108,6 +109,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="sstt"/>
     <alternate name="Ambush - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="11"/>
     </alternate>
   </card>

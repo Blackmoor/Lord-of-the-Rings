@@ -110,6 +110,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ttttttt-"/>
     <alternate name="Conspiracy - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When revealed: Search the encounter deck for The Fourth Star and make it the active location. Shuffle the encounter deck.&#10;&#10;Forced: After the active location leaves play as an explored location, place 1 resource token on this quest.&#10;&#10;If there are 4 or more resource tokens on Conspiracy, advance to the next stage."/>
     </alternate>
@@ -120,6 +121,7 @@
     <property name="Encounter Set" value="The Steward's Fear"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Grand Design - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When Revealed: Make Roots of Mindolluin the active location, returning any other active location to the staging area.&#10;&#10;Forced: After the active location leaves play as an explored location place 1 resource token on this quest.&#10;&#10;If there are 4 or more resource tokens on The Grand Design, advance to the next stage."/>
     </alternate>
@@ -130,6 +132,7 @@
     <property name="Encounter Set" value="The Steward's Fear"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Confrontation - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="When Revealed: Shuffle the underworld deck into the encounter deck. The players cannot defeat this stage while a Villain is in play.&#10;&#10;If this stage is defeated, the players have won the game."/>
     </alternate>

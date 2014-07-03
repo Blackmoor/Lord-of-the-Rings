@@ -9,6 +9,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ss"/>
     <alternate name="Passage Through Mirkwood" type="B">
+      <property name="Type" value="Nightmare"/>
       <property name="Text" value="You are playing Nightmare mode. &#10;&#10;Forced: During setup, each player reveals 1 card from the encounter deck and adds it to the staging area."/>
     </alternate>
   </card>
@@ -103,6 +104,7 @@
     <property name="Encounter Set" value="Journey Along the Anduin - Nightmare"/>
     <property name="Quantity" value="1"/>
     <alternate name="Journey Along the Anduin" type="B">
+      <property name="Type" value="Nightmare"/>
       <property name="Text" value="You are playing Nightmare mode. &#10;&#10;All Troll enemies gain the text: &quot;Cannot have attachments.&quot;&#10;&#10;If the encounter deck is empty (at any time), shuffle the encounter discard pile back into the encounter deck."/>
     </alternate>
   </card>
@@ -191,6 +193,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ssst"/>
     <alternate name="Escape from Dol Guldur" type="B">
+      <property name="Type" value="Nightmare"/>
       <property name="Text" value="You are playing Nightmare mode. &#10;&#10;Forced: When stage 1B is revealed, the number of random heroes captured is determined by the number of players, as follows: 1-2 players = 1 hero captured, 3 players = 2 heroes captured, 4 players = 3 heroes captured. All captured heroes are turned face down and considered &quot;the prisoner,&quot; cannot be used, cannot be damaged, and do not collect resources until they are rescued. (A single player cannot have more than 1 hero captured by this effect.)"/>
     </alternate>
   </card>

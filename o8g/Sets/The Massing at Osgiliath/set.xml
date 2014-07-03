@@ -161,6 +161,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ttttttttttttt"/>
     <alternate name="Beyond Expectations - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="Players cannot travel to West Bank locations."/>
     </alternate>
@@ -170,6 +171,7 @@
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <property name="Quantity" value="1"/>
     <alternate name="Through the Ruins - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
       <property name="Text" value="Players cannot travel to West Bank locations.&#10;&#10;Each player cannot play or put into play more than 1 card from his hand each round."/>
     </alternate>
@@ -179,6 +181,7 @@
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <property name="Quantity" value="1"/>
     <alternate name="Anduin Crossing - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="Progress tokens from card effects cannot be placed on this quest card or the active location.&#10;&#10;Players cannot travel to East Bank or West Bank locations.&#10;&#10;In order to commit characters to the Quest, a player must first choose a hero or 1 Ranger of Ithilien card he controls. Discard each chosen card from play."/>
     </alternate>
@@ -188,6 +191,7 @@
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <property name="Quantity" value="1"/>
     <alternate name="Race to Minas Tirith - 4B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="When Revealed: Add The Witch-king to the staging area. Players have now crossed the Anduin. Players cannot travel to East Bank locations.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>

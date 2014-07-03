@@ -603,6 +603,7 @@
     <property name="Encounter Set" value="Into the Pit"/>
     <property name="Quantity" value="1"/>
     <alternate name="Goblin Patrol - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="11"/>
       <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for 1 enemy of his choice, and add it to the staging area. One choice must be Patrol Leader, if able.&#10;&#10;Forced: After an enemy is revealed from the encounter deck, discard it instead of adding it to the staging area.&#10;&#10;If there are no enemies in play, immediately advance to the next stage of the scenario. (Players can also advance by placing 11 progress tokens on Goblin Patrol.)"/>
     </alternate>
@@ -614,6 +615,7 @@
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="2"/>
     <alternate name="A Wrong Turn - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="When Revealed: Reveal 1 encounter card per player, and add it to the staging area.&#10;&#10;Players may bypass this quest card at the end of the combat phase."/>
     </alternate>
@@ -625,6 +627,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="lttt"/>
     <alternate name="Entering the Mines - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="When Revealed: Reveal 1 encounter card per player, and add it to the staging area.&#10;&#10;Players cannot advance to the next stage of the scenario unless Bridge of Khazad-dum is in their victory display."/>
     </alternate>
@@ -636,6 +639,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="t"/>
     <alternate name="Search for the Chamber - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="When Revealed: Reveal 1 encounter card per player, and add it to the staging area."/>
     </alternate>
@@ -645,6 +649,7 @@
     <property name="Encounter Set" value="The Seventh Level"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Fate of Balin - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="17"/>
       <property name="Text" value="When Revealed: Remove Book of Mazarbul from the game.&#10;&#10;Forced: At the end of the staging step, reveal the top X cards of the encounter deck, adding all enemies to the staging area. Discard the other revealed cards without resolving them. X is the number of players.&#10;&#10;If the players defeat this stage, they win the game."/>
     </alternate>
@@ -654,6 +659,7 @@
     <property name="Encounter Set" value="Into the Pit"/>
     <property name="Quantity" value="1"/>
     <alternate name="A Way Up - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="12"/>
       <property name="Text" value="Heroes do not collect resources during the resource phase.&#10;&#10;If the players defeat this stage, they win the game."/>
     </alternate>
@@ -664,6 +670,7 @@
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Quantity" value="1"/>
     <alternate name="Blocked by Shadow - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="When Revealed: The first player chooses 1 of the following:&#10;• Each player discards 1 card from the top of the encounter deck. If the card is a treachery card, the discarding player is eliminated from the game.&#10;• Reveals the next quest card, putting Blocked by Shadow on the bottom of the quest deck.&#10;&#10;Players may bypass this quest card at the end of the combat phase. If the players defeat this stage, they escape and win the game."/>
     </alternate>
@@ -674,6 +681,7 @@
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Quantity" value="1"/>
     <alternate name="Escape from Darkness - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="4"/>
       <property name="Text" value="Abandoned Tools gains: &quot;Refresh Action: Exhaust attached hero to put a progress token on Escape from Darkness.&quot;&#10;&#10;Players may bypass this quest card at the end of the combat phase.&#10;&#10;Progress tokens cannot be placed on Escape from Darkness except by Abandoned Tools. If the players defeat this stage, they escape and win the game."/>
     </alternate>
@@ -686,6 +694,7 @@
     <property name="Victory Points" value="2"/>
     <property name="Setup" value="stttt"/>
     <alternate name="A Presence in the Dark - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When Revealed: Reveal 1 encounter card per player, and add it to the staging area. Then, add A Presence in the Dark to your victory display."/>
     </alternate>
@@ -697,6 +706,7 @@
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="1"/>
     <alternate name="Narrow Paths - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="3"/>
       <property name="Text" value="When Revealed: Each player chooses 1 questing character he controls. Each questing character not chosen does not count its Ò until the end of the turn.&#10;&#10;Forced: After placing the 1st progress token on Narrow Paths, search the encounter deck and discard pile for Abandoned Tools and add it to the staging area, if able.&#10;&#10;Players may bypass this quest card at the end of the combat phase."/>
     </alternate>
@@ -708,6 +718,7 @@
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="1"/>
     <alternate name="Heading Up - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="Forced: If Heading Down is in the player's victory display at the end of any quest phase, shuffle Heading Down back into the quest deck.&#10;&#10;Players may bypass this quest card at the end of the combat phase."/>
     </alternate>
@@ -719,6 +730,7 @@
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="2"/>
     <alternate name="Hasty Council - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When Revealed: Shuffle all copies of A Foe Beyond from the encounter discard pile back into the encounter deck. Reveal the top 2 cards of the quest deck. Choose 1 to become the active quest (flipped to side 2B) and put the other on the bottom of the quest deck. Then, add Hasty Council to your victory display."/>
     </alternate>
@@ -730,6 +742,7 @@
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="1"/>
     <alternate name="Heading Down - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
       <property name="Text" value="Forced: If Heading Up is in the player's victory display at the end of any quest phase, shuffle Heading Up back into the quest deck.&#10;&#10;Players may bypass this quest card at the end of the combat phase."/>
     </alternate>

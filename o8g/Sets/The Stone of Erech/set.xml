@@ -8,6 +8,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ltttttt"/>
     <alternate name="The Disappearance - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="6"/>
       <property name="Text" value="When Revealed: Reveal 1 encounter card per player, adding them to the staging area.&#10;&#10;Players cannot defeat this stage while Tarlang's Neck is in play."/>
     </alternate>
@@ -18,6 +19,7 @@
     <property name="Encounter Set" value="The Stone of Erech"/>
     <property name="Quantity" value="1"/>
     <alternate name="Terror of the Dead - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Forced: At the beginning of each round, the players must choose: each player skips the next planning phase, or heroes do not collect resources during the resource phase this round."/>
     </alternate>
@@ -28,6 +30,7 @@
     <property name="Encounter Set" value="The Stone of Erech"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Shadow Host - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="14"/>
       <property name="Text" value="Players cannot place progress on this stage unless they control Derufin.&#10;&#10;If the players defeat this stage, they have escaped the Blackroot Vale with Derufin and won the game."/>
     </alternate>

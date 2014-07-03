@@ -233,6 +233,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ttsl"/>
     <alternate name="Three is Company - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="When a player fails a Hide test, each Nazgul enemy in the staging area engages that player. (Trigger Forced effects after resolving this effect.)&#10;&#10;The players cannot advance unless Bag End is in the victory display."/>
     </alternate>
@@ -242,6 +243,7 @@
     <property name="Encounter Set" value="A Shadow of the Past"/>
     <property name="Quantity" value="1"/>
     <alternate name="A Shortcut to Mushrooms - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="14"/>
       <property name="Text" value="When Revealed: The first player searches the encounter deck and discard pile for a Black Rider, reveals it (cannot be cancelled), and adds it to the staging area.  Shuffle the encounter deck.&#10;&#10;When a player makes a Hide test, add 1 to the total $ for each ally that player controls.&#10;&#10;When a player fails a Hide test, each Nazgul enemy in the staging area engages that player. (Trigger Forced effects after resolving this effect.)"/>
     </alternate>
@@ -252,6 +254,7 @@
     <property name="Encounter Set" value="A Shadow of the Past"/>
     <property name="Quantity" value="1"/>
     <alternate name="Escape to Buckland - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When Revealed: The first player searches the encounter deck and discard pile for a Black Rider, reveals it (cannot be cancelled), and adds it to the staging area.  Shuffle the encounter deck.&#10;&#10;When a player fails a Hide test, each Nazgul enemy in the staging area engages that player. (Trigger Forced effects after resolving this effect.)&#10;&#10;Response: After a player makes a successful Hide test, place X progress on a non-unique location in play.  X is twice the number of players in the game."/>
     </alternate>
@@ -263,6 +266,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ttttsstttt"/>
     <alternate name="Trouble in Bree - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="The players cannot advance while The Prancing Pony is in play."/>
     </alternate>
@@ -272,6 +276,7 @@
     <property name="Encounter Set" value="A Knife in the Dark"/>
     <property name="Quantity" value="1"/>
     <alternate name="Into the Wild - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="6"/>
       <property name="Text" value="When Revealed: Add Midgewater to the staging area.  Each player places 1 progress on the current quest.&#10;&#10;Forced: At the end of the round, either remove X progress from the current quest or shuffle 1 out of play Ringwraith into the encounter deck.  X is the number of players in the game.&#10;&#10;The players cannot advance while Midgewater is in play."/>
     </alternate>
@@ -282,6 +287,7 @@
     <property name="Encounter Set" value="A Knife in the Dark"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Ringwraiths Attack - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="If there are no Nazgul enemies in play, the players win the game."/>
     </alternate>
@@ -293,6 +299,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ttttstttt"/>
     <alternate name="Pursued by the Enemy - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="The players cannot advance unless The Last Bridge is in the victory display.&#10;&#10;Forced: At the end of the round, reduce the Ring-bearer's life by 1."/>
     </alternate>
@@ -302,6 +309,7 @@
     <property name="Encounter Set" value="Flight to the Ford"/>
     <property name="Quantity" value="1"/>
     <alternate name="Race To Rivendell - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="When Revealed: Add Ford of Bruinen and The Witch-king to the staging area.&#10;&#10;While at least 1 Nazgul enemy is in play, Race to Rivendell gets +15 quest points.&#10;&#10;Forced: At the end of the round. Reduce the Ring-bearer's life by 1.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
@@ -314,6 +322,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="-----"/>
     <alternate name="A Shadow of the Past" type="B">
+      <property name="Type" value="Campaign"/>
       <property name="Text" value="Resolution: Choose Gandalf's Delay or The Ring Draws Them and add it to the Campaign Pool.  Then, choose Gildor Inglorion or Mr. Underhill and add it to the Campaign Pool.  The chosen cards have been earned by the players."/>
     </alternate>
   </card>
@@ -448,6 +457,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="-----------"/>
     <alternate name="A Knife in the Dark" type="B">
+      <property name="Type" value="Campaign"/>
       <property name="Text" value="Resolution: Starting with the first player, each player may choose one of the following boon cards and attach it to a hero he controls: Tireless Ranger, Skilled Healer, Valiant Warrior, Noble Hero. The chosen cards have been earned by the players."/>
     </alternate>
   </card>
@@ -575,6 +585,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="----------"/>
     <alternate name="Flight to the Ford" type="B">
+      <property name="Type" value="Campaign"/>
       <property name="Text" value="Resolution: Add each burden card in player, in the encounter deck, and in the discard pile to the Campaign Pool.  Then added cards have been earned by the players."/>
     </alternate>
   </card>

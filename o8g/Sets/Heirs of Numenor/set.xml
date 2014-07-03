@@ -663,6 +663,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="lt"/>
     <alternate name="The Leaping Fish - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="6"/>
       <property name="Text" value="When Revealed: Each player must search the encounter deck for a copy of Harbor Thug and add it to the staging area. Shuffle the encounter deck."/>
     </alternate>
@@ -672,6 +673,7 @@
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Quantity" value="1"/>
     <alternate name="Fighting in the Streets - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="13"/>
       <property name="Text" value="The players cannot advance to the next stage unless Alcaron's Scroll is attached to a hero.&#10;&#10;When Revealed: Attach Alcaron's Scroll to the highest engagement cost enemy in play, if able. Otherwise, add Alcaron's Scroll to the staging area."/>
     </alternate>
@@ -682,6 +684,7 @@
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Quantity" value="1"/>
     <alternate name="Escape to the Quays - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="Enemies cannot be optionally engaged.&#10;&#10;Forced: The first enemy revealed from the encounter deck each round makes an immediate attack against the player who controls Alcaron's Scroll from the staging area.&#10;&#10;The players cannot defeat this stage unless Alcaron's Scroll is attached to a hero. If the players defeat this stage, they have won the game."/>
     </alternate>
@@ -693,6 +696,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="sl"/>
     <alternate name="Ambush in Ithilien - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="If the players complete this stage with Celador in the staging area, advance to stage 3A (bypassing stage 2)."/>
     </alternate>
@@ -702,6 +706,7 @@
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Quantity" value="1"/>
     <alternate name="Southron Counter-attack - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="X is the number of players in the game.&#10;&#10;After this stage is completed, advance to stage 4A (bypassing stage 3)."/>
     </alternate>
@@ -711,6 +716,7 @@
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Hidden Way - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="12"/>
       <property name="Text" value="When Revealed: The first player takes control of all Ranger objectives in the staging area.&#10;&#10;Enemies do not make engagement checks and cannot be optionally engaged."/>
     </alternate>
@@ -720,6 +726,7 @@
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Quantity" value="1"/>
     <alternate name="Approaching Cair Andros - 4B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="If any player's threat is 37 or higher, Approaching Cair Andros gains siege.&#10;&#10;Forced: At the end of each round, raise each player's threat by 2.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
@@ -731,6 +738,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="sss"/>
     <alternate name="The Defense - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="Players must deal damage from undefended attacks to the lowest $ Battleground location in play. If there are no Battleground locations in play, immediately advance to the next stage."/>
     </alternate>
@@ -740,6 +748,7 @@
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Quantity" value="1"/>
     <alternate name="Reinforcing the Banks - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="Reveal 1 additional card from the encounter deck and add it to the staging area during the staging step each round."/>
     </alternate>
@@ -749,6 +758,7 @@
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Quantity" value="1"/>
     <alternate name="Breakthrough at the Approach - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="Forced: After the players quest unsuccessfully, instead of raising threat, each player must choose and discard 1 character he controls."/>
     </alternate>
@@ -758,6 +768,7 @@
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Quantity" value="1"/>
     <alternate name="Breakthrough at the Citadel - 4B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
       <property name="Text" value="Breakthrough at the Citadel adds 5 $ to the staging area."/>
     </alternate>
@@ -767,6 +778,7 @@
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Last Battle - 5B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="When Revealed: Reveal 1 card per player from the encounter deck and add it to the staging area.&#10;&#10;If the players have collected 4 or more victory points, The Last Battle gains battle and loses siege.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>

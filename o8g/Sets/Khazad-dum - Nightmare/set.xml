@@ -6,6 +6,7 @@
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Quantity" value="1"/>
     <alternate name="Into the Pit" type="B">
+      <property name="Type" value="Nightmare"/>
     </alternate>
   </card>
   <card id="17039c31-d3fd-4730-8b74-8f08458071fe" name="Goblin Ambush - 2A">
@@ -13,6 +14,7 @@
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Quantity" value="1"/>
     <alternate name="Goblin Ambush - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="X"/>
     </alternate>
   </card>
@@ -78,6 +80,7 @@
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Seventh Level" type="B">
+      <property name="Type" value="Setup"/>
     </alternate>
   </card>
   <card id="6d1eb802-0cb1-427a-9aa3-4e0c3b403681" name="Overseer Marûl">
@@ -168,6 +171,7 @@
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Quantity" value="1"/>
     <alternate name="Flight from Moria" type="B">
+      <property name="Type" value="Setup"/>
     </alternate>
   </card>
   <card id="6c9419b0-e016-4ba8-b90a-575d4378984e" name="Search for an Exit - 2A">
@@ -175,6 +179,7 @@
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Quantity" value="1"/>
     <alternate name="Pursued by Shadow - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
@@ -183,6 +188,7 @@
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Quantity" value="1"/>
     <alternate name="Blocked by Flame - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>
@@ -191,6 +197,7 @@
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Quantity" value="1"/>
     <alternate name="Ghash! - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="1"/>
     </alternate>
   </card>

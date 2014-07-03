@@ -8,6 +8,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="tttt"/>
     <alternate name="We Must Away, Ere Break of Day" type="B">
+      <property name="Type" value="Nightmare"/>
       <property name="Text" value="You are playing Nightmare mode. &#10;&#10;The objective cards Troll Key and Troll Purse gain surge."/>
     </alternate>
   </card>
@@ -74,6 +75,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="s"/>
     <alternate name="Over the Misty Mountains Grim" type="B">
+      <property name="Type" value="Nightmare"/>
       <property name="Text" value="You are playing Nightmare mode. &#10;&#10;When resolving the &quot;when revealed&quot; effect of stage 3B, no more than X resources may be spent from Bilbo Baggins's resource pool, where X is the number of players in the game."/>
     </alternate>
   </card>
@@ -147,6 +149,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="stt"/>
     <alternate name="Dungeons Deep and Caverns Dim" type="B">
+      <property name="Type" value="Nightmare"/>
       <property name="Text" value="You are playing Nightmare mode. &#10;&#10;Gollum cannot take damage.&#10;&#10;Setup: Search the encounter deck for The Lower Gate and set it aside, out of play.&#10;&#10;Forced: When stage 3B is revealed, add The Lower Gate to the staging area."/>
     </alternate>
   </card>

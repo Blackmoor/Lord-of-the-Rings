@@ -1197,6 +1197,7 @@
     <property name="Encounter Set" value="Hunting of the Wolf"/>
     <property name="Quantity" value="1"/>
     <alternate name="At Last Upon the Wolf - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When Revealed: Discard all Hunt locations from the victory display.&#10;&#10; Forced: If an ally is destroyed by Carcharoth, place 1 damage on this stage. After the 4th damage is placed on this stage, reset the quest deck to stage 1A and follow the setup instructions again.&#10;&#10;If Carcharoth the Tormented is destroyed, you have recovered the Silmaril and won the game."/>
     </alternate>
@@ -1208,6 +1209,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="ttst"/>
     <alternate name="Ride Forth in the Morning - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="20"/>
       <property name="Text" value="Forced: After a location is destroyed, place 1 damage on this quest stage. After the 10th damage is placed on this stage, advance to stage 3.&#10;&#10;Forced: If there is no location in play at the end of the round, the first player must search the encounter deck and discard pile for 1 location and add it to the staging area.&#10;&#10;Players cannot advance to stage 2 unless Carcharoth has at least 10 damage on him."/>
     </alternate>
@@ -1218,6 +1220,7 @@
     <property name="Encounter Set" value="Hunting of the Wolf"/>
     <property name="Quantity" value="1"/>
     <alternate name="Ruin Upon the World - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="Forced: Reveal 1 additional encounter card from the encounter deck each quest phase.&#10;&#10;Forced: After Gates of Menegroth is explored as the active location, reset the quest deck to stage 1B.&#10;&#10;If Gates of Menegroth is destroyed, the players lose the game."/>
     </alternate>
@@ -1493,6 +1496,7 @@
     <property name="Encounter Set" value="The Isle of Werewolves"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Pits of Sauron - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="Heroes at this stage do not collect resources or commit to the quest and are immune to player card effects. Players cannot play or put into play allies or attachments into the pit area.&#10;&#10;Forced: If the players quest unsuccessfully, remove 1 resource from Eyes in the Dark, if able.&#10;&#10;If the captured hero is destroyed, the players lose the game. If Devouring Werewolf is destroyed, discard this stage from play and return all characters to their owner's control."/>
     </alternate>
@@ -1503,6 +1507,7 @@
     <property name="Encounter Set" value="The Isle of Werewolves"/>
     <property name="Quantity" value="1"/>
     <alternate name="Tol-in-Gaurhoth - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="Forced: After an enemy is revealed from the encounter deck, discard it instead of adding it to the staging area.&#10;&#10;Planning Action: Exhaust a hero with X Ò. Wolf-Sauron gets -X Ú until the end of the round. (Limit once per round.)&#10;&#10;If the players destroy Wolf-Sauron, they have rescued the prisoners and won the game."/>
     </alternate>
@@ -1514,6 +1519,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="sttts"/>
     <alternate name="Upon the Bridge - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="20"/>
       <property name="Text" value="When Revealed: Add Bridge to the Isle to the staging area. Reveal X encounter cards where X equals the number of players in the game minus 1.&#10;&#10;When this stage is completed, advance to stage 3A. This stage cannot be completed until Draugluin is in the victory display."/>
     </alternate>
@@ -1817,6 +1823,7 @@
     <property name="Encounter Set" value="The Seat of Morgoth"/>
     <property name="Quantity" value="1"/>
     <alternate name="Descent into Darkness - 2B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="Forced: After the first Path location is explored, add Nethermost Hall to the staging area.&#10;&#10;Forced: After traveling to a unique location, players raise their threat by its $.&#10;&#10;The players cannot advance unless Nethermost Hall is in the victory display."/>
     </alternate>
@@ -1828,6 +1835,7 @@
     <property name="Quantity" value="1"/>
     <property name="Setup" value="sttttttttts"/>
     <alternate name="Doors of Angband - 1B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="Forced: Skip the staging step during the quest phase. Instead, each player must discard the top card of his deck after committing characters to the quest. Add the cost of each discarded card to the total $ in the staging area until the end of the phase.&#10;&#10;If Carcharoth has 0 hit points, advance to stage 2 immediately."/>
     </alternate>
@@ -1837,6 +1845,7 @@
     <property name="Encounter Set" value="The Seat of Morgoth"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Greatest Deed - 3B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When Revealed: Add Morgoth to the staging area and attach Silmaril to him.&#10;&#10;Response: After questing successfully, you may place progress tokens on Morgoth as damage instead of placing them on the quest.&#10;&#10;The players cannot advance to the next stage unless they control the Silmaril objective."/>
     </alternate>
@@ -1847,6 +1856,7 @@
     <property name="Encounter Set" value="The Seat of Morgoth"/>
     <property name="Quantity" value="1"/>
     <alternate name="To See the Light - 4B" type="B">
+      <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="All enemies lose the Sneak keyword.&#10;&#10;If the players defeat this stage or Carcharoth has 0 hit points, the players have won the game."/>
     </alternate>
