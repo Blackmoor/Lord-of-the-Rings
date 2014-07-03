@@ -76,11 +76,11 @@
     <property name="Quantity" value="3"/>
   </card>
   <card id="804e57bd-26e8-495b-9676-2e39f009baba" name="The Seventh Level">
-    <property name="Type" value="Setup"/>
+    <property name="Type" value="Nightmare"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Quantity" value="1"/>
     <alternate name="The Seventh Level" type="B">
-      <property name="Type" value="Setup"/>
+      <property name="Type" value="Nightmare"/>
     </alternate>
   </card>
   <card id="6d1eb802-0cb1-427a-9aa3-4e0c3b403681" name="Overseer Marûl">
@@ -167,11 +167,11 @@
     <property name="Quantity" value="2"/>
   </card>
   <card id="1bac61b0-ee27-43eb-bb39-85f64c6b4c94" name="Flight from Moria">
-    <property name="Type" value="Setup"/>
+    <property name="Type" value="Nightmare"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Quantity" value="1"/>
     <alternate name="Flight from Moria" type="B">
-      <property name="Type" value="Setup"/>
+      <property name="Type" value="Nightmare"/>
     </alternate>
   </card>
   <card id="6c9419b0-e016-4ba8-b90a-575d4378984e" name="Search for an Exit - 2A">
