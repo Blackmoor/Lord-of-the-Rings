@@ -319,7 +319,6 @@
     <property name="Keywords" value="You are playing Campaign Mode."/>
     <property name="Quantity" value="1"/>
     <property name="Text" value="Setup: Attach Mr. Underhill to the Ring-bearer. Add Gandalf's Delay to the staging area. Shuffle Gildor Inglorion and the The Ring Draws Them into the encounter deck."/>
-    <property name="Encounter Set" value="The Lord of the Rings Part 1"/>
     <property name="Setup" value="-----"/>
     <alternate name="A Shadow of the Past" type="B">
       <property name="Type" value="Campaign"/>
@@ -454,7 +453,6 @@
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Lord of the Rings Part 2"/>
     <property name="Setup" value="-----------"/>
     <alternate name="A Knife in the Dark" type="B">
       <property name="Type" value="Campaign"/>
@@ -847,6 +845,7 @@
     <property name="Traits" value="Artifact. Item. Ring."/>
     <property name="Quantity" value="1"/>
     <property name="Text" value="Setup: The first player claims The One Ring and attaches it to the Ring-bearer.&#10;&#10;Attached hero does not count against the hero limit. The first player gains control of the attached hero.&#10;&#10;If The One Ring leaves play, the players lose the game."/>
+    <property name="Encounter Set" value="The Ring"/>
   </card>
  </cards>
 </set>

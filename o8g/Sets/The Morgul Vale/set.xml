@@ -14,7 +14,6 @@
     <property name="Health" value="4"/>
     <property name="Quantity" value="1"/>
     <property name="Text" value="Each hero with a printed Ï resource icon gets +1 Ò."/>
-    <property name="Encounter Set" value="The Morgul Vale"/>
   </card>
   <card id="1f28f098-09d4-43fa-8fba-eae551a5d4fe" name="Pelargir Ship Captain">
     <property name="Type" value="Ally"/>
@@ -27,7 +26,6 @@
     <property name="Health" value="2"/>
     <property name="Quantity" value="3"/>
     <property name="Text" value="Response: After Pelargir Ship Captain enters play, move 1 resource from the resource pool of a hero you control to another hero's resource pool."/>
-    <property name="Encounter Set" value="The Morgul Vale"/>
   </card>
   <card id="2f0a3f18-c84f-4458-b6f7-2e6be9acee6b" name="Visionary Leadership">
     <property name="Unique" value="‰"/>
@@ -38,7 +36,6 @@
     <property name="Cost" value="2"/>
     <property name="Quantity" value="3"/>
     <property name="Text" value="While attached hero has at least 1 resource in its resource pool, Gondor characters get +1 Ò."/>
-    <property name="Encounter Set" value="The Morgul Vale"/>
   </card>
   <card id="66d8e628-8ca8-4605-9017-aece027f054f" name="Spear of the Mark">
     <property name="Type" value="Attachment"/>
@@ -48,7 +45,6 @@
     <property name="Cost" value="1"/>
     <property name="Quantity" value="3"/>
     <property name="Text" value="Attached character gets +1 Û. (+2 Û instead if attacking an enemy in the staging area.)"/>
-    <property name="Encounter Set" value="The Morgul Vale"/>
   </card>
   <card id="80cdd2b5-60cf-4d47-afe7-505b79abcb1b" name="Forth Eorlingas!">
     <property name="Type" value="Event"/>
@@ -56,7 +52,6 @@
     <property name="Cost" value="2"/>
     <property name="Quantity" value="3"/>
     <property name="Text" value="Combat Action: Each Rohan hero can be declared as an attacker against enemies in the staging area this phase."/>
-    <property name="Encounter Set" value="The Morgul Vale"/>
   </card>
   <card id="90d300da-a557-44b1-a634-d54782ff5e48" name="Steed of the Mark">
     <property name="Type" value="Attachment"/>
@@ -66,7 +61,6 @@
     <property name="Cost" value="1"/>
     <property name="Quantity" value="3"/>
     <property name="Text" value="Response: After attached hero commits to a quest, spend 1 resource from attached hero's resource pool to ready attached hero."/>
-    <property name="Encounter Set" value="The Morgul Vale"/>
   </card>
   <card id="b442354c-887d-403e-815b-a11f10a8760d" name="Lay of Nimrodel">
     <property name="Type" value="Event"/>
@@ -75,7 +69,6 @@
     <property name="Cost" value="1"/>
     <property name="Quantity" value="3"/>
     <property name="Text" value="Action: Choose a Ê hero. Until the end of the phase, that hero gets +1 Ò for each resource in its resource pool."/>
-    <property name="Encounter Set" value="The Morgul Vale"/>
   </card>
   <card id="3eb1141f-bf1f-401e-a69d-e4df0af2a8ab" name="Ered Nimrais Prospector">
     <property name="Type" value="Ally"/>
@@ -88,7 +81,6 @@
     <property name="Health" value="2"/>
     <property name="Quantity" value="3"/>
     <property name="Text" value="Response: After Ered Nimrais Prospector enters play, discard the top 3 cards of your deck. Then, choose and shuffle 1 card from your discard pile back into your deck."/>
-    <property name="Encounter Set" value="The Morgul Vale"/>
   </card>
   <card id="63c6bd3a-5566-412d-9199-3929d2fc3cf2" name="Scroll of Isildur">
     <property name="Unique" value="‰"/>
@@ -99,7 +91,6 @@
     <property name="Cost" value="4"/>
     <property name="Quantity" value="3"/>
     <property name="Text" value="Reduce the cost to play Scroll of Isildur by 1 for each hero you control with a printed resource Î icon.&#10;&#10;Action: Discard Scroll of Isildur to play any Î event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck."/>
-    <property name="Encounter Set" value="The Morgul Vale"/>
   </card>
   <card id="6a871e9e-fa3e-4556-8730-09aed1a3ec40" name="Hidden Cache">
     <property name="Type" value="Event"/>
@@ -107,7 +98,6 @@
     <property name="Cost" value="0"/>
     <property name="Quantity" value="3"/>
     <property name="Text" value="Response: After Hidden Cache is discarded from your deck, add 2 resources to the resource pool of a hero you control.&#10;&#10;Action: Action: Spend 1 resource to draw 1 card."/>
-    <property name="Encounter Set" value="The Morgul Vale"/>
   </card>
   <card id="30a319ff-6092-4d5f-9b94-2a9b4f44f9c1" name="The Rearguard - 1A">
     <property name="Type" value="Quest"/>
