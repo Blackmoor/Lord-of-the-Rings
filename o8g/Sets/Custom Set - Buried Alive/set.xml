@@ -44,7 +44,7 @@
     <property name="Type" value="Quest"/>
     <property name="Text" value="When Revealed: Each player must choose at least 1 of their heros and any number of their allies to join the diversion party. Flip over all the characters not in the diversion party along with thier attachments. Face down cards are considered to be out of play."/>
     <property name="Encounter Set" value="Buried Alive"/>
-    <property name="Setup" value="----"/>
+    <property name="Setup" value="s---"/>
     <alternate name="The Diversion - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="2"/>
@@ -55,7 +55,7 @@
     <property name="Type" value="Quest"/>
     <property name="Text" value="When Revealed: Discard all locations from play. Flip over all player cards (All cards involved in the diversion will now be face down and all other cards will be face up). Face down cards are considered to be out of play."/>
     <property name="Encounter Set" value="Buried Alive"/>
-    <property name="Setup" value="---"/>
+    <property name="Setup" value="tss"/>
     <alternate name="The Rescue - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="4"/>
