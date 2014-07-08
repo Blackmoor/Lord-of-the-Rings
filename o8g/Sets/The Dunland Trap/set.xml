@@ -86,26 +86,14 @@
     <property name="Cost" value="X"/>
     <property name="Quantity" value="3"/>
   </card>
-  <card id="15602096-12af-47a0-9f9a-01778d2b0a7b" name="Hills of Dunland">
-    <property name="Type" value="Location"/>
-    <property name="Traits" value="Enedwaith. Hills."/>
-    <property name="Threat" value="2"/>
-    <property name="Quantity" value="4"/>
-    <property name="Encounter Set" value="The Dunland Trap"/>
-  </card>
-  <card id="7c92fba9-f79a-4004-886b-eb36698d1d34" name="Plains of Enedwaith">
-    <property name="Type" value="Location"/>
-    <property name="Traits" value="Enedwaith. Plains."/>
-    <property name="Threat" value="2"/>
-    <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Dunland Trap"/>
-  </card>
   <card id="174507ac-5617-4e3c-998b-75eeceb9db33" name="The Road to Tharbad - 1A">
     <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
+    <property name="Setup" value="ttl"/>
     <alternate name="The Road to Tharbad  - 1B" type="B">
       <property name="Type" value="Quest"/>
+      <property name="Quest Points" value="18"/>
     </alternate>
   </card>
   <card id="2087cb2d-ce6f-4d3a-befc-01859ec82e6c" name="A Well Laid Trap - 2A">
@@ -114,6 +102,7 @@
     <property name="Encounter Set" value="The Dunland Trap"/>
     <alternate name="A Well Laid Trap - 2B" type="B">
       <property name="Type" value="Quest"/>
+      <property name="Quest Points" value="-"/>
     </alternate>
   </card>
   <card id="c5215a42-f064-46cc-a9a2-75ef4d57fcd2" name="No Way Out - 3A">
@@ -122,6 +111,7 @@
     <property name="Encounter Set" value="The Dunland Trap"/>
     <alternate name="No Way Out - 3B" type="B">
       <property name="Type" value="Quest"/>
+      <property name="Quest Points" value="-"/>
     </alternate>
   </card>
   <card id="6b1a56ae-f173-4842-984c-d07b0545ad23" name="Chief Turch">
@@ -136,22 +126,12 @@
     <property name="Health" value="5"/>
     <property name="Quantity" value="1"/>
   </card>
-  <card id="07690f5d-cc91-437e-bcdf-5010bc69d712" name="Boar Clan Warrior">
-    <property name="Type" value="Enemy"/>
-    <property name="Traits" value="Dunland. Boar Clan."/>
-    <property name="Engagement Cost" value="20"/>
-    <property name="Threat" value="2"/>
-    <property name="Willpower" value="0"/>
-    <property name="Attack" value="3"/>
-    <property name="Defense" value="1"/>
-    <property name="Health" value="4"/>
-    <property name="Quantity" value="4"/>
-  </card>
   <card id="c34384a8-44de-4c55-8d49-ec68a69fc3f0" name="Munuv Dûv Ravine">
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Enedwaith. Hills. River."/>
     <property name="Threat" value="4"/>
+    <property name="Quest Points" value="6"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="3"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
@@ -161,6 +141,7 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Road."/>
     <property name="Threat" value="1"/>
+    <property name="Quest Points" value="4"/>
     <property name="Quantity" value="1"/>
     <property name="Victory Points" value="1"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
@@ -176,12 +157,40 @@
     <property name="Health" value="5"/>
     <property name="Quantity" value="3"/>
   </card>
+  <card id="07690f5d-cc91-437e-bcdf-5010bc69d712" name="Boar Clan Warrior">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Dunland. Boar Clan."/>
+    <property name="Engagement Cost" value="20"/>
+    <property name="Threat" value="2"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+    <property name="Quantity" value="4"/>
+  </card>
   <card id="0e9fb174-59a2-4e7b-8eab-1f9185f75ea7" name="Hithaeglir Foothills">
     <property name="Type" value="Location"/>
     <property name="Traits" value="Enedwaith. Hills."/>
     <property name="Keywords" value="Surge"/>
     <property name="Threat" value="X"/>
+    <property name="Quest Points" value="4"/>
     <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Dunland Trap"/>
+  </card>
+  <card id="15602096-12af-47a0-9f9a-01778d2b0a7b" name="Hills of Dunland">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Enedwaith. Hills."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Dunland Trap"/>
+  </card>
+  <card id="7c92fba9-f79a-4004-886b-eb36698d1d34" name="Plains of Enedwaith">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Enedwaith. Plains."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="2"/>
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
   </card>
   <card id="2ba77eca-870d-41d9-84cb-f0f33b6d9f15" name="Hithaeglir Stream">
@@ -189,17 +198,18 @@
     <property name="Traits" value="Enedwaith. River."/>
     <property name="Keywords" value="Surge"/>
     <property name="Threat" value="3"/>
+    <property name="Quest Points" value="4"/>
     <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Dunland Trap"/>
+  </card>
+  <card id="32ac7351-b154-4e94-8348-ed31385fb3a4" name="Frenzied Attack">
+    <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
   </card>
   <card id="90ba49e5-142b-4c40-8085-8087342d9b92" name="Dunlending Ambush">
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge"/>
-    <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Dunland Trap"/>
-  </card>
-  <card id="32ac7351-b154-4e94-8348-ed31385fb3a4" name="Frenzied Attack">
-    <property name="Type" value="Treachery"/>
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
   </card>
