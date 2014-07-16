@@ -215,7 +215,7 @@
     <property name="Shadow" value="The defending player discards a random card from his hand."/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
   </card>
-  <card id="00cdbc2b-4609-4dc4-ae78-efd7fc586058" name="Intense Frigidity">
+  <card id="00cdbc2b-4609-4dc4-ae78-efd7fc586058" name="Bitter Coldness">
     <property name="Type" value="Treachery"/>
     <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Deal 2 damage to each ally in play. Each player can pay X resources to choose X allies and reduce their damage to 0."/>
@@ -228,10 +228,15 @@
     <property name="Shadow" value="Deal 1 damage to the defending character."/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
   </card>
-  <card id="d9434753-b18d-49be-a820-2735f076d5b3" name="Rules Sheet">
+  <card id="d9434753-b18d-49be-a820-2735f076d5b3" name="Rules Card">
     <property name="Type" value="Campaign"/>
     <property name="Quantity" value="1"/>
+    <property name="Text" value="Alert Example."/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
+    <alternate name="Rule Card" type="B">
+      <property name="Type" value="Campaign"/>
+      <property name="Text" value="To calculate the Alert Value, first determine the highest number of allies or attachments controlled by a single player. Then multiply that number by the Alert number to calculate the value of X."/>
+    </alternate>
   </card>
  </cards>
 </set>

@@ -1,22 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
   <section name="Quest" shared="True">
-    <card qty="1" id="3ee4b042-636c-4ef5-941c-38c064c99b7a">Hacia Édoras - 1A</card>
-    <card qty="1" id="2c84c2df-765f-427b-9735-1d9860837cdc">Rumbo hacia Anórien - 2A</card>
-    <card qty="1" id="72642b52-4335-4173-befd-ba55b92115d9">Llegando a Minas Tirich - 3A</card>
+    <card qty="1" id="d9434753-b18d-49be-a820-2735f076d5b3">Rules Sheet</card>
+    <card qty="1" id="3ee4b042-636c-4ef5-941c-38c064c99b7a">To Edoras - 1A</card>
+    <card qty="1" id="2c84c2df-765f-427b-9735-1d9860837cdc">Course to Anorien - 2A</card>
+    <card qty="1" id="72642b52-4335-4173-befd-ba55b92115d9">Reaching Minas Tirith - 3A</card>
   </section>
   <section name="Encounter" shared="True">
-    <card qty="3" id="96b903cc-99f4-4a9e-9b2f-6c8419758ca0">Asaltante del Bosque</card>
-    <card qty="2" id="997e2703-c258-4395-823d-8209881a0eea">Capataz Orco</card>
-    <card qty="4" id="2b80a558-e90b-40c5-aa91-8b0cb3694dac">Tropa Orca</card>
-    <card qty="4" id="2698dbd5-b827-4b62-99af-8bfbafb3e024">Turno de Vigilancia</card>
-    <card qty="3" id="dd64ebe2-4eef-4860-869b-f47f57d45e50">Cuevas Siniestras</card>
-    <card qty="2" id="736171a2-e282-4ab0-8cb1-345cf285f8b7">Corrientes Escarpadas</card>
-    <card qty="4" id="650fcd89-0b67-4665-ba4d-de6bb6bb89b0">Picos Altos</card>
-    <card qty="3" id="b03122a3-7975-44cc-8bec-07eb282b06b6">Cordilleras sin Fin</card>
-    <card qty="3" id="b782c30d-596b-45ce-81b4-31cf2220dfd2">Cuadro Desalentador</card>
-    <card qty="3" id="00cdbc2b-4609-4dc4-ae78-efd7fc586058">Frigidez Exagerada</card>
-    <card qty="3" id="55380b52-8a11-4578-9e29-bb1f061879a3">Presencia Siniestra</card>
+    <card qty="3" id="96b903cc-99f4-4a9e-9b2f-6c8419758ca0">Forest Assailant</card>
+    <card qty="2" id="997e2703-c258-4395-823d-8209881a0eea">Orc Taskmaster</card>
+    <card qty="4" id="2b80a558-e90b-40c5-aa91-8b0cb3694dac">Orc Troop</card>
+    <card qty="4" id="2698dbd5-b827-4b62-99af-8bfbafb3e024">Monitoring Time</card>
+    <card qty="3" id="dd64ebe2-4eef-4860-869b-f47f57d45e50">Sinister Caves</card>
+    <card qty="2" id="736171a2-e282-4ab0-8cb1-345cf285f8b7">Steep Streams</card>
+    <card qty="4" id="650fcd89-0b67-4665-ba4d-de6bb6bb89b0">High Peaks</card>
+    <card qty="3" id="b03122a3-7975-44cc-8bec-07eb282b06b6">Endless Mountain Ranges</card>
+    <card qty="3" id="b782c30d-596b-45ce-81b4-31cf2220dfd2">Discouraging Picture</card>
+    <card qty="3" id="00cdbc2b-4609-4dc4-ae78-efd7fc586058">Bitter Coldness</card>
+    <card qty="3" id="55380b52-8a11-4578-9e29-bb1f061879a3">Sinister Presence</card>
     <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9081">Wolf Rider</card>
     <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9082">Hill Troll</card>
     <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9083">Goblin Sniper</card>
@@ -30,12 +31,12 @@
     <card qty="3" id="a516b400-b53f-4c21-8e44-c0a889caa8d5">Snow Warg</card>
   </section>
   <section name="Setup" shared="True">
-    <card qty="1" id="5cfce44b-e383-4ed5-978d-9727dca9c4c8">Las Colinas de Édoras</card>
-    <card qty="1" id="b94b6b2b-41d5-4e4e-b464-8291dbc4041e">Mugash</card>
+    <card qty="1" id="5cfce44b-e383-4ed5-978d-9727dca9c4c8">Edoras Hills</card>
+    <card qty="1" id="b94b6b2b-41d5-4e4e-b464-8291dbc4041e">Ghulat</card>
     <card qty="1" id="22f1a7c0-55a8-44b8-9d68-055fa12529d5">Mindolluin</card>
     <card qty="1" id="7cfdd568-9db4-4f4b-bfde-9c4344213d21">Junkorlg</card>
-    <card qty="1" id="57b31054-219f-42fd-9e42-67835ab28725">Las Montañas Blancas</card>
-    <card qty="1" id="32d7746a-bebd-40d9-990c-f829e1ff9446">Cazarecompensas</card>
+    <card qty="1" id="57b31054-219f-42fd-9e42-67835ab28725">The White Mountains</card>
+    <card qty="1" id="32d7746a-bebd-40d9-990c-f829e1ff9446">Bounty Hunter</card>
   </section>
   <section name="Hero" shared="False" />
   <section name="Ally" shared="False" />
