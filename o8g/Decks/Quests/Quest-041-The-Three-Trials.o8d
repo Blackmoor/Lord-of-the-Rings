@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="460a1e18-8a57-44a5-bd06-f0c1b13c86b5">The Trials Begin - 1A</card>
+    <card qty="1" id="8e6fe06e-36a6-491d-ae17-6580ddfd8014">The Trial of Strength - 2A</card>
+    <card qty="1" id="be43a52a-370a-4481-bc84-8e004ecbfdca">The Trial of Perseverance - 2A</card>
+    <card qty="1" id="8a0c8aef-d820-495f-b8f6-f2148f0786ba">The Trial of Intuition - 2A</card>
+    <card qty="1" id="47f627da-150c-41b2-9442-390d8d2a897a">The Antlered Crown - 3A</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="5" id="86fe0f99-d978-40be-8f39-136bec2a3d58">Spirit of the Wild</card>
+    <card qty="2" id="94befa92-9e5f-4838-b1e1-0b54d698bcb3">Cursed Forest</card>
+    <card qty="3" id="a264930c-e083-484a-bbe8-9b615942e83a">Grim Foothills</card>
+    <card qty="2" id="7991d705-7e2d-4303-abbc-f9999b2d2502">Curse of the Wild Men</card>
+    <card qty="2" id="228a03b8-ec05-4562-90f5-0c7d969490b0">The Guardian's Fury</card>
+    <card qty="3" id="f24f8d3e-3193-4111-9fea-ecdbbafd921a">Wild Tenacity</card>
+    <card qty="3" id="c319315a-e506-45a2-8ec0-c98e4bd9bad5">Ancient Forest</card>
+    <card qty="3" id="be6cf29d-bb8b-494a-9635-85ee9322a690">Tangled Woods</card>
+    <card qty="3" id="6fe8d036-9b7a-4ca4-bab4-272d2a6a8949">Turned Around</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="314e7260-ca85-4842-af5f-913ecbaa13d4">Hallowed Circle</card>
+    <card qty="1" id="3d1a7e6f-382a-49cb-9873-e6e5e86d12d2">Boar's Guardian</card>
+    <card qty="1" id="8bd2808a-55d4-41f7-946a-2726a3583eaf">Wolf's Guardian</card>
+    <card qty="1" id="9a29c251-6119-47b2-8e10-ba4d33c0747e">Raven's Guardian</card>
+    <card qty="1" id="e2a70b1d-2d38-48bd-a591-cd2844fe50fd">Key of the Boar</card>
+    <card qty="1" id="9b135a59-15f9-4e3b-be8e-76b7f5841658">Key of the Wolf</card>
+    <card qty="1" id="877a0217-9708-4139-b305-14c1b83c1d14">Key of the Raven</card>
+    <card qty="1" id="b64d2e55-f304-4356-a491-7ee80e149c5c">Hill Barrow</card>
+    <card qty="1" id="a7907eca-8205-40a3-95ba-f30e31aaad82">Cave Barrow</card>
+    <card qty="1" id="35ed8128-584c-43cc-ae7c-a4430e78940c">Stone Barrow</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

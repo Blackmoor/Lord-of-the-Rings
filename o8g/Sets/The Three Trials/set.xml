@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Three Trials" id="8da6cd8d-b3b8-48dd-95c3-68d3c4a29144" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
+ <cards>
+  <card id="df9683da-d86f-46c9-9ef5-66001753dad5" name="Idraen">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Dunedain. Ranger. Scout."/>
+    <property name="Threat" value="11"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Quantity" value="1"/>
+  </card>
+  <card id="b1fb86fd-728b-4e1b-950a-73daa2a82753" name="Rivendell Scout">
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Noldor. Scout."/>
+    <property name="Keywords" value="Secrecy 2."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="2"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="14936075-9e6a-43af-9497-dbee9df95781" name="Feigned Voices">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Cost" value="0"/>
+  </card>
+  <card id="4b794779-c6b6-4ee0-b13f-196b721e28a7" name="Rúmil">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Silvan. Scout."/>
+    <property name="Keywords" value="Ranged."/>
+    <property name="Cost" value="4"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="6b86cf8e-1708-434d-90a5-93163f3d61ea" name="Elven Mail">
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Item. Armor."/>
+    <property name="Keywords" value="Attach to a Noldor or Silvan character. Restricted."/>
+    <property name="Cost" value="2"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="284838f8-1ea0-466f-a373-032c7ad6e836" name="Greyflood Wanderer">
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Dunedain. Scout."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="2"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="f9b39223-3b12-4682-8db5-9ef4116b4919" name="Warden of Arnor">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Title."/>
+    <property name="Keywords" value="Attach to a Scout hero."/>
+    <property name="Cost" value="1"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="cc4b0912-ba4a-44b6-b7c5-2c0f0b325ebf" name="Message from Elrond">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Cost" value="0"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="b520fbc1-3cb9-49aa-9b37-2dad3b3ba333" name="Noiseless Movement">
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Cost" value="1"/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="1c692a1a-4ccf-4185-b5bd-d2b8d300de42" name="Leaf Brooch">
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Item."/>
+    <property name="Keywords" value="Attach to a hero. Limit 1 per hero."/>
+    <property name="Quantity" value="3"/>
+  </card>
+  <card id="460a1e18-8a57-44a5-bd06-f0c1b13c86b5" name="The Trials Begin - 1A">
+    <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+    <property name="Setup" value="tttttttttt"/>
+    <alternate name="The Trials Begin - 1B" type="B">
+      <property name="Type" value="Quest"/>
+      <property name="Quest Points" value="–"/>
+    </alternate>
+  </card>
+  <card id="8e6fe06e-36a6-491d-ae17-6580ddfd8014" name="The Trial of Strength - 2A">
+    <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+    <alternate name="The Trial of Strength - 2B" type="B">
+      <property name="Type" value="Quest"/>
+      <property name="Quest Points" value="–"/>
+    </alternate>
+  </card>
+  <card id="be43a52a-370a-4481-bc84-8e004ecbfdca" name="The Trial of Perseverance - 2A">
+    <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+    <alternate name="The Trial of Perseverance - 2B" type="B">
+      <property name="Type" value="Quest"/>
+      <property name="Quest Points" value="–"/>
+    </alternate>
+  </card>
+  <card id="8a0c8aef-d820-495f-b8f6-f2148f0786ba" name="The Trial of Intuition - 2A">
+    <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+    <alternate name="The Trial of Intuition - 2B" type="B">
+      <property name="Type" value="Quest"/>
+      <property name="Quest Points" value="–"/>
+    </alternate>
+  </card>
+  <card id="47f627da-150c-41b2-9442-390d8d2a897a" name="The Antlered Crown - 3A">
+    <property name="Type" value="Quest"/>
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+    <alternate name="The Antlered Crown - 3B" type="B">
+      <property name="Type" value="Quest"/>
+      <property name="Quest Points" value="1"/>
+    </alternate>
+  </card>
+  <card id="3d1a7e6f-382a-49cb-9873-e6e5e86d12d2" name="Boar's Guardian">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Guardian. Boar."/>
+    <property name="Keywords" value="Cannot have non-Key attachments."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="10"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="3"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="8bd2808a-55d4-41f7-946a-2726a3583eaf" name="Wolf's Guardian">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Guardian. Wolf."/>
+    <property name="Keywords" value="Cannot have non-Key attachments."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="12"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="3"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="9a29c251-6119-47b2-8e10-ba4d33c0747e" name="Raven's Guardian">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Guardian. Raven."/>
+    <property name="Keywords" value="Cannot have non-Key attachments."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="5"/>
+    <property name="Health" value="8"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="3"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="e2a70b1d-2d38-48bd-a591-cd2844fe50fd" name="Key of the Boar">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Item. Key. Boar."/>
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="9b135a59-15f9-4e3b-be8e-76b7f5841658" name="Key of the Wolf">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Item. Key. Wolf."/>
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="877a0217-9708-4139-b305-14c1b83c1d14" name="Key of the Raven">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Item. Key. Raven."/>
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="b64d2e55-f304-4356-a491-7ee80e149c5c" name="Hill Barrow">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Barrow. Forest. Hills."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="6"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="2"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="a7907eca-8205-40a3-95ba-f30e31aaad82" name="Cave Barrow">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Barrow. Forest. Hills."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="8"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="2"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="35ed8128-584c-43cc-ae7c-a4430e78940c" name="Stone Barrow">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Barrow. Forest. Hills."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="10"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="2"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="314e7260-ca85-4842-af5f-913ecbaa13d4" name="Hallowed Circle">
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest. Hills."/>
+    <property name="Keywords" value="Immune to Player card effects.&#10;X is the number of players in the game."/>
+    <property name="Threat" value="X"/>
+    <property name="Quest Points" value="12"/>
+    <property name="Quantity" value="1"/>
+    <property name="Victory Points" value="5"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="86fe0f99-d978-40be-8f39-136bec2a3d58" name="Spirit of the Wild">
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Spirit."/>
+    <property name="Keywords" value="Cannot have attachments."/>
+    <property name="Engagement Cost" value="28"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Quantity" value="5"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="94befa92-9e5f-4838-b1e1-0b54d698bcb3" name="Cursed Forest">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="a264930c-e083-484a-bbe8-9b615942e83a" name="Grim Foothills">
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Hills."/>
+    <property name="Keywords" value="Doomed 2.&#10;X is the number of players in the game."/>
+    <property name="Threat" value="X"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="7991d705-7e2d-4303-abbc-f9999b2d2502" name="Curse of the Wild Men">
+    <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="228a03b8-ec05-4562-90f5-0c7d969490b0" name="The Guardian's Fury">
+    <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+  <card id="f24f8d3e-3193-4111-9fea-ecdbbafd921a" name="Wild Tenacity">
+    <property name="Type" value="Treachery"/>
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Three Trials"/>
+  </card>
+ </cards>
+</set>
