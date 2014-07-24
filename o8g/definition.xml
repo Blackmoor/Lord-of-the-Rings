@@ -4,7 +4,7 @@
 		name="Lord of the Rings - The Card Game"
 		id="a21af4e8-be4b-4cda-a6b6-534f9717391f" 
 		octgnVersion="3.1.12.79"
-		version="2.4.5.1"
+		version="2.4.5.3"
 		markersize="16"
 		tags="LotR LCG cooperative"
 		description="A cooperative card game that puts 1-4 players in control of the most powerful characters and artifacts of Middle-earth.&#10;&#10;Players will select heroes, gather allies, acquire artifacts, and coordinate their efforts to face Middle-earth’s most dangerous fiends. By cooperating to overcome the obstacles drawn from the encounter deck, you will complete the quest before you and claim victory!"
@@ -60,7 +60,6 @@
 	<groupaction menu="Hidden Encounter Card (Special Deck)" default="False" shortcut="ctrl+shift+H" execute="addHiddenSpecial" />
 	<groupaction menu="Reveal next Quest Stage" default="False" shortcut="ctrl+Q" execute="nextQuestStage" />
     <groupaction menu="Refresh phase" default="False" shortcut="ctrl+R" execute="restoreAll" />
-    <groupaction menu="Flip a Coin" default="False" execute="flipCoin" />
     <groupaction menu="Clear Targets" default="False" shortcut="Esc" execute="clearTargets" />
     <groupactions menu="Automation">
       <groupaction menu="Turn off Management" default="False" execute="automationOff" />
@@ -145,6 +144,7 @@
       <groupaction menu="Shuffle" default="False" execute="shuffle" />
       <groupaction menu="Reveal Top Card" default="True" execute="addEncounter" />
       <groupaction menu="Discard Many" default="False" execute="discardMany" />
+	  <groupaction menu="Move Many" default="False" execute="moveMany" />
     </group>
     <group name="Encounter Discard Pile" visibility="all" ordered="True" width="63" height="88" icon="groups/dead.png" collapsed="False">
       <groupaction menu="Shuffle into Encounter Deck" default="True" execute="moveAllToEncounter" />
@@ -153,6 +153,7 @@
     <group name="Special" visibility="none" ordered="True" width="63" height="88" icon="groups/encounter2.png" collapsed="True">
       <groupaction menu="Shuffle" default="False" execute="shuffle" />
       <groupaction menu="Move All to Encounter Deck" default="False" execute="moveAllToEncounter" />
+	  <groupaction menu="Move All to Encounter Deck Bottom" default="False" execute="moveAllToEncounterBottom" />
       <groupaction menu="Swap with Encounter Deck" default="False" execute="swapWithEncounter" />
       <groupaction menu="Reveal Top Card" default="True" execute="addEncounter" />
     </group>

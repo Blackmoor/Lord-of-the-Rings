@@ -1450,7 +1450,7 @@ def search(group, count = None):
 	mute()
 	if len(group) == 0: return
 	if count is None:
-		count = askInteger("Search how many cards?", 1)
+		count = askInteger("Search how many cards?", 5)
 	if count is None or count <= 0:
 		whisper("search: invalid card count")
 		return
@@ -1470,7 +1470,12 @@ def moveMany(group, count = None):
 		if count is None or count <= 0: return
 	
 	moved = 0
-	pile = me.piles['Secondary Deck']
+	
+	if group == me.deck:
+		pile = me.piles['Secondary Deck']
+	else:
+		pile = specialDeck()
+	
 	for c in group.top(count):
 		c.moveTo(pile)
 		moved += 1
@@ -1503,6 +1508,14 @@ def moveAllToEncounter(group):
 			c.moveTo(encounterDeck())
 		notify("{} moves all cards from {} to the Encounter Deck".format(me, group.name))
 		shuffle(encounterDeck())
+		
+def moveAllToEncounterBottom(group):
+	mute()
+	if confirm("Move all cards from {} to the bottom of the Encounter Deck?".format(group.name)):
+		for c in group:
+			c.moveToBottom(encounterDeck())
+		notify("{} moves all cards from {} to the bottom of the Encounter Deck".format(me, group.name))
+
 
 def moveAllToSpecial(group):
 	mute()
