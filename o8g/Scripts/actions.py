@@ -673,6 +673,21 @@ def playerDone(group, x=0, y=0):
 			setActivePlayer(None)
 	showPhase()
 	highlightPlayers()
+
+#---------------------------------------------------------------------------
+# Table menu options
+#---------------------------------------------------------------------------
+def isLocation(cards):
+	for c in cards:
+		if c.Type != 'Location':
+			return False
+	return True
+	
+def isEnemy(cards):
+	for c in cards:
+		if c.isFaceUp and (c.type != "Enemy" or c.orientation == Rot90):
+			return False
+	return True
 	
 #---------------------------------------------------------------------------
 # Table group actions

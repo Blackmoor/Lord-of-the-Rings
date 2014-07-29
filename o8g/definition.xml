@@ -4,7 +4,7 @@
 		name="Lord of the Rings - The Card Game"
 		id="a21af4e8-be4b-4cda-a6b6-534f9717391f" 
 		octgnVersion="3.1.12.79"
-		version="2.4.7.0"
+		version="2.4.7.1"
 		markersize="16"
 		tags="LotR LCG cooperative"
 		description="A cooperative card game that puts 1-4 players in control of the most powerful characters and artifacts of Middle-earth.&#10;&#10;Players will select heroes, gather allies, acquire artifacts, and coordinate their efforts to face Middle-earth’s most dangerous fiends. By cooperating to overcome the obstacles drawn from the encounter deck, you will complete the quest before you and claim victory!"
@@ -71,9 +71,9 @@
       <groupaction menu="Create first player token" default="False" execute="createFirstPlayerToken" />
       <groupaction menu="Help - Automation modes" default="False" execute="automationHelp" />
     </groupactions>
-    <cardaction menu="Make Active Location" default="False" shortcut="ctrl+A" execute="makeActive" />
+    <cardaction menu="Make Active Location" showIf="isLocation" default="False" shortcut="ctrl+A" execute="makeActive" />
     <cardaction menu="Add to Victory Display" default="False" shortcut="ctrl+V" execute="moveToVictory" />
-    <cardaction menu="Add Shadow Card" default="False" shortcut="ctrl+S" execute="addShadow" />
+    <cardaction menu="Add Shadow Card" showIf="isEnemy" default="False" shortcut="ctrl+S" execute="addShadow" />
     <cardactions menu="Add Token">
       <cardaction menu="Add Resource" default="False" shortcut="F1" execute="addResource" />
       <cardaction menu="Add Progress" default="False" shortcut="F2" execute="addProgress" />
@@ -89,7 +89,6 @@
     <cardaction menu="Discard" default="False" shortcut="Del" execute="discard" />
 	<cardaction menu="Shuffle into Deck" default="False" execute="shuffleIntoDeck" />
     <cardaction menu="Lock" default="False" shortcut="ctrl+K" execute="lockCard" />
-	<!-- <cardaction menu="Inspect" default="False" shortcut="ctrl+I" execute="inspectCard" /> -->
     <cardaction menu="Double Click" default="True" execute="defaultAction" />
 	<groupactions menu="Random">
 	  <groupaction menu="Coin Flip" default="False" execute="flipCoin" />
