@@ -316,11 +316,6 @@
       <property name="Text" value="After an Orc enemy is destroyed by an attack, place 1 progress token on any 1 character that participated in that attack. Forced: At the end of the round, each player discards from play all allies he controls. If one hero leaves play, the players have lost the game. If each hero in play has 2 or more progress tokens on him and the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="78cdeab7-3209-4131-b103-9f561d8a3386" name="Rules Sheet">
-    <property name="Type" value="Campaign"/>
-    <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
-  </card>
   <card id="e4b3c33f-c715-4834-9ff0-7af18f19292b" name="Clarion Call">
     <property name="Type" value="Treachery"/>
     <property name="Quantity" value="2"/>
@@ -365,6 +360,16 @@
     <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Return all Wild enemies in play to the Orcs of Dark Forest deck, then shuffle the Orcs of Dark Forest deck. Then, discard X cards from the encounter deck and add them to the staging area. X is the number of enemies moved by this effect. Any player may remove 1 progress token from one hero he controls to reduce the X number by 1."/>
     <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+  </card>
+  <card id="ac2cca7a-dd7e-497e-b714-960d0774d7b5" name="Rules Card">
+    <property name="Type" value="Campaign"/>
+    <property name="Quantity" value="1"/>
+    <property name="Text" value="Hunting X Keyword. After a location with the hunting keyword leaves play as an explored location, reveal X cards from the top of the Orcs of Dark Forest deck and add them to the staging area. X is the specified value in that location. If a Wild enemy card would be discarded without being defeated, it is placed in the encounter deck discard pile. If a location with hunting leaves play as an explored location and there are no cards left in the Orcs of Dark Forest deck, then the hunting keyword has no effect."/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
+    <alternate name="Rule Card" type="B">
+      <property name="Type" value="Campaign"/>
+      <property name="Text" value="Risk X Keyword. When a location with the risk keyword is in play at the end of the combat phase, discard cards from the top of the Orcs of Dark Forest deck equal to the specified value. If the total of the discarded card’s Û is higher than the total of all ready characters’ Ò in play, the discarded cards engage the first player. If there are any risk locations in play, only the risk keyword with the highest value is considered to be active."/>
+    </alternate>
   </card>
  </cards>
 </set>

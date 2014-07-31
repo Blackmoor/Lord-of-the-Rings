@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
   <section name="Quest" shared="True">
+    <card qty="1" id="1ad0b223-e659-4358-bf3e-fbc687cba2aa">Seat of Morgoth rules</card>
     <card qty="1" id="5d55e464-f59d-454f-971c-a35f1376a420">Doors of Angband</card>
     <card qty="1" id="53d6dc87-a084-4220-ad38-a39e655f1d44">Descent into Darkness</card>
     <card qty="1" id="7272499a-1047-4431-82d8-83e88e7de3e5">The Greatest Deed</card>
@@ -34,7 +35,6 @@
     <card qty="1" id="32bd3aaa-a8bb-4258-9b17-28beeeb3430b">Nethermost Hall</card>
     <card qty="1" id="78db9650-a652-4a3d-bff4-1423cbfb83e2">Dreadful Garments</card>
     <card qty="1" id="d2d61431-56a0-4aa4-8900-d9ba9aec4703">Element of Surprise</card>
-    <card qty="1" id="1ad0b223-e659-4358-bf3e-fbc687cba2aa">Seat of Morgoth rules</card>
   </section>
   <section name="Hero" shared="False" />
   <section name="Ally" shared="False" />

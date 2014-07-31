@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
   <section name="Quest" shared="True">
+    <card qty="1" id="f03bc416-e4cd-4bda-944c-51a33a55b1d0">Isle of Werewolves rules</card>
     <card qty="1" id="c794640f-5ecb-4ba2-a414-374ccc8d466f">Upon the Bridge</card>
     <card qty="1" id="62abfd48-b415-402f-bcd8-df92ae5a1b27">The Pits of Sauron</card>
     <card qty="1" id="4016a752-46bf-4574-9c14-a51e4835bc0b">Tol-in-Gaurhoth</card>
@@ -30,7 +31,6 @@
     <card qty="1" id="fe9fb08b-52e3-4bc1-b55d-d5994fbab19c">Draugluin</card>
     <card qty="1" id="86f818f2-aad7-4a8f-9bc8-c06ef4fae756">Wolf-Sauron</card>
     <card qty="1" id="bcbde72b-55fa-487e-a3ff-9547c34d7e5e">Devouring Werewolf</card>
-    <card qty="1" id="f03bc416-e4cd-4bda-944c-51a33a55b1d0">Isle of Werewolves rules</card>
   </section>
   <section name="Hero" shared="False" />
   <section name="Ally" shared="False" />

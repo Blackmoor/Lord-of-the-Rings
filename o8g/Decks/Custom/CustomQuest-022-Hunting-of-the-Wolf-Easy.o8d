@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
   <section name="Quest" shared="True">
+    <card qty="1" id="db41eb04-4428-4b6f-8a7f-358cb4507a74">Hunting of the Wolf rules</card>
     <card qty="1" id="1187c127-c5ef-45fa-962f-ff3d54ac7fe9">Ride Forth in the Morning</card>
     <card qty="1" id="e0d350d5-742f-4924-863a-4db922a71a8a">At Last Upon the Wolf</card>
     <card qty="1" id="444d39bf-aee8-488e-ad06-ee36445e5ec4">Ruin Upon the World</card>
@@ -28,7 +29,6 @@
   <section name="Setup" shared="True">
     <card qty="1" id="da73fa42-76b3-4ca0-8d93-339a6c503691">Gates of Menegroth</card>
     <card qty="1" id="1b1b1030-6a1c-43dc-94d3-85a2515e4e81">Carcharoth the Tormented</card>
-    <card qty="1" id="db41eb04-4428-4b6f-8a7f-358cb4507a74">Hunting of the Wolf rules</card>
     <card qty="1" id="cad9261a-140a-4aaf-82d3-07229e9f1fce">Beleg Strongbow</card>
   </section>
   <section name="Hero" shared="False" />
