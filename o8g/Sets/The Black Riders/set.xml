@@ -860,7 +860,6 @@
   </card>
   <card id="c9575426-59ea-4863-bf6a-407e9eae3f33" name="The One Ring">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Ring"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Artifact. Item. Ring."/>

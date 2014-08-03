@@ -12,6 +12,7 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Action: Discard Caldara to put 1 Spirit ally from your discard pile into play for each other hero you control with a printed Spirit resource icon."/>
   </card>
   <card id="d4f034b0-2444-4b61-a249-8d86e8856f7c" name="Squire of the Citadel">
     <property name="Quantity" value="3"/>
@@ -23,6 +24,7 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="1"/>
+    <property name="Text" value="Response: After Squire of the Citadel leaves play, add 1 resource to a Gondor hero's resource pool."/>
   </card>
   <card id="e88d7165-821c-4b04-9869-80ee1f33905c" name="Tome of Atanatar">
     <property name="Quantity" value="3"/>
@@ -32,6 +34,7 @@
     <property name="Traits" value="Record."/>
     <property name="Keywords" value="Attach to a Ì hero."/>
     <property name="Cost" value="4"/>
+    <property name="Text" value="Reduce the cost to play Tome of Atanatar by 1 for each you control with the printed Leadership resource icon. Action: Discard Tome of Atanatar to play any Leadership event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck."/>
   </card>
   <card id="06baca74-330a-4038-9387-32ce8657dd8f" name="Guthlaf">
     <property name="Quantity" value="3"/>
@@ -44,12 +47,14 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="2"/>
+    <property name="Text" value="If there is at least 1 Rohan hero in play, lower the cost to play Guthlaf by 1. If there is at least 1 Gondor hero in play, Guthlaf gains sentinel."/>
   </card>
   <card id="cc2f73af-86c8-4d81-b706-14127adc0b37" name="The Hammer-stroke">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="2"/>
+    <property name="Text" value="Encounter Action: Engage each enemy in play."/>
   </card>
   <card id="314eaf40-1554-4c1a-b643-1f4353e25633" name="Emery">
     <property name="Quantity" value="3"/>
@@ -62,12 +67,14 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="2"/>
+    <property name="Text" value="Action: Discard the top 3 card of your deck to put Emery into play from your hand, under any player's control. Then, if any of the discarded cards have the Tactics, Lore or Leadership sphere, discard Emery."/>
   </card>
   <card id="65d3b334-df93-43c6-9525-12674bbb7f06" name="Children of the Sea">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Cost" value="0"/>
+    <property name="Text" value="Action: Choose a Silvan or Noldor ally you control. That ally gets +2 Willpower until the end of the phase. At the end of the phase, shuffle that ally into its owner's deck if it is still in play."/>
   </card>
   <card id="ef8aec20-e0c9-4d02-9dea-20b6e7c2278b" name="Anborn">
     <property name="Quantity" value="3"/>
@@ -80,6 +87,7 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Action: Exhaust Anborn to return 1 Trap card from your discard pile to your hand."/>
   </card>
   <card id="30e0c679-3ced-4862-a681-b67ceb8939d3" name="Poisoned Stakes">
     <property name="Quantity" value="3"/>
@@ -87,30 +95,37 @@
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Trap."/>
     <property name="Cost" value="2"/>
+    <property name="Text" value="Play Poisoned Stakes into the staging area unattached. If unattached, attach Poisoned Stakes to the next eligble enemy that enters the staging area. At the end of each round, deal 2 damage to attached enemy."/>
   </card>
   <card id="0f027b32-f63f-4d37-8305-5ba2b059289d" name="Well-Equipped">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Neutral"/>
     <property name="Cost" value="0"/>
-  </card>
-  <card id="d2bf00ad-2e1e-4537-b662-f6f20f9a1cfe" name="Captured! - 2A">
-    <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Blood of Gondor"/>
-    <property name="Type" value="Quest"/>
-    <alternate name="Captured! - 2B" type="B">
-      <property name="Type" value="Quest"/>
-      <property name="Quest Points" value="11"/>
-    </alternate>
+    <property name="Text" value="Action: Discard the top 2 cards of your deck. You may attach 1 attachment card discarded by this effect to an eligible Dwarf character in play."/>
   </card>
   <card id="23768a0d-bf6c-4405-9b09-ea8fdbfded31" name="Ambush - 1A">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Add the Crossroads and Black Númenorean to the staging area. Put the Faramir and Lord Alcaron objective allies into play. Shuffle the encounter deck and reveal 1 card from the encounter deck per player and add it to the staging area. "/>
     <property name="Setup" value="sstt"/>
     <alternate name="Ambush - 1B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="11"/>
+      <property name="Text" value="At the beginning of the quest phase, each player takes 1 hidden card. At the beginning of the combat phase, each player must turn each of his hidden cards faceup or take 1 hidden card."/>
+    </alternate>
+  </card>
+  <card id="d2bf00ad-2e1e-4537-b662-f6f20f9a1cfe" name="Captured! - 2A">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Blood of Gondor"/>
+    <property name="Type" value="Quest"/>
+    <property name="Keywords" value="Battle."/>
+    <property name="Text" value="When Revealed: Place Faramir and Lord Alcaron under Captured! (they are in play but players cannot gain control of them). Each player turns each of his hudden cards faceup. "/>
+    <alternate name="Captured! - 2B" type="B">
+      <property name="Type" value="Quest"/>
+      <property name="Quest Points" value="15"/>
+      <property name="Text" value="At the beginning of the quest phase, each player takes 1 hidden card. If a player has 5 hidden cards, he must turn them faceup. If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
   <card id="6a4b0ba7-c80b-4580-bc43-d5369b0c44aa" name="Black Númenorean">
@@ -124,6 +139,7 @@
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
     <property name="Victory Points" value="3"/>
+    <property name="Text" value="X is the total number of hidden cards in the game. Forced: At the end of the round, each player must raise his threat by 1 for each hiddien card in his play area."/>
   </card>
   <card id="8f106a70-0102-41ad-8752-fb5667748850" name="Orc Ambusher">
     <property name="Quantity" value="4"/>
@@ -135,6 +151,8 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Forced: After Orc Ambusher engages you, discard 1 non-objective ally you control, if able. "/>
+    <property name="Shadow" value="Attack enemy gets +1 Û (+3 Û instead if undefended)."/>
   </card>
   <card id="2d2e4f42-009d-4fde-ab42-3cd9351a4d0f" name="Brutal Uruk">
     <property name="Quantity" value="3"/>
@@ -146,6 +164,7 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Forced: After Brutual Uruk attacks and destroys a character, that character's controller turns all hidden cards in his play area faceup. Deal a shadow card to each enemy turned faceup by this effect and resolve their attacks as normal."/>
   </card>
   <card id="9d2926dc-ab14-492a-8f1e-b07c1b32b2d8" name="Evil Crow">
     <property name="Quantity" value="2"/>
@@ -157,6 +176,8 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="2"/>
+    <property name="Text" value="Forced: When Evil Crow engages a player, that player takes 1 hidden card. "/>
+    <property name="Shadow" value="Take 1 hidden card."/>
   </card>
   <card id="9b2302dc-3084-447f-8104-a4569fd26e38" name="The Cross-roads">
     <property name="Quantity" value="1"/>
@@ -168,6 +189,7 @@
     <property name="Threat" value="X"/>
     <property name="Quest Points" value="2"/>
     <property name="Victory Points" value="3"/>
+    <property name="Text" value="X is the number of players in the game. Travel: The first player must take 1 hidden card to travel here."/>
   </card>
   <card id="5a654416-4449-4d0c-add8-8b3ca04bb401" name="Southern Road">
     <property name="Quantity" value="1"/>
@@ -177,6 +199,7 @@
     <property name="Traits" value="Ithilien. Road."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="4"/>
+    <property name="Text" value="Travel: The first player must take 1 hidden card to travel here."/>
   </card>
   <card id="01b1d42b-11a4-4030-988d-064673169fec" name="Western Road">
     <property name="Quantity" value="1"/>
@@ -186,6 +209,7 @@
     <property name="Traits" value="Ithilien. Road."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="4"/>
+    <property name="Text" value="Western Road gets +5 quest points while it is in the staging area. Travel: The first player must take 1 hidden card to travel here."/>
   </card>
   <card id="8eb1ca03-da9e-4e84-abf2-090804eeb1aa" name="Northern Road">
     <property name="Quantity" value="1"/>
@@ -195,6 +219,7 @@
     <property name="Traits" value="Ithilien. Road."/>
     <property name="Threat" value="4"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="Travel: The first player must take 1 hidden card to travel here."/>
   </card>
   <card id="9d58de28-c518-4888-8e91-a52bb5c3e663" name="Eastern Road">
     <property name="Quantity" value="1"/>
@@ -204,6 +229,7 @@
     <property name="Traits" value="Ithilien. Road."/>
     <property name="Threat" value="4"/>
     <property name="Quest Points" value="2"/>
+    <property name="Text" value="Eastern Road gets +5 quest points while it is in the staging area. Travel: The first player must take 2 hidden cards to travel here."/>
   </card>
   <card id="eec35e8e-281e-4dc7-8a76-b4823de3cb71" name="The Dark Woods">
     <property name="Quantity" value="4"/>
@@ -213,23 +239,29 @@
     <property name="Keywords" value="Archery X."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="2"/>
+    <property name="Text" value="X is the number of players in the game. Forced: After The Dark Woods leaves play as an explored location, the first player discards 1 hidden card."/>
   </card>
   <card id="8affd994-f7f5-4341-8437-899f9a31b094" name="Lying in Wait">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: The first player turns each hidden card in his play area faceup. Resolve the &quot;When Revealed&quot; effects of each encounter cards turned faceup by this effect. If a location is turned faceup, add it to the staging area."/>
   </card>
   <card id="fa3a740d-36b7-4fa9-b5d5-6d70aa50f078" name="Mordor Looms">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: Each player takes 1 hidden card. "/>
+    <property name="Shadow" value="If this attack destoys a characters, that character's controller turns each of his hidden cards faceup."/>
   </card>
   <card id="f4b35e95-7f32-490d-9591-ac9eb050bb7e" name="Conflict at the Crossroads">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: Until the end of the phase, Orc enemies engaged with players add their Threat to the staging area. If no Orc enemies are engaged with players, Conflict at the Crossroads gains surge. "/>
+    <property name="Shadow" value="Take 1 hidden card."/>
   </card>
   <card id="ab2ac791-b266-43b2-b6ee-0d412a1100bc" name="Faramir">
     <property name="Quantity" value="1"/>
@@ -242,6 +274,7 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="4"/>
+    <property name="Text" value="Combat Action: Exhaust Faramir to turn 1 hidden card faceup. If that card is an enemy, deal 3 damage to it. If Faramir leaves play, the players have lost the game."/>
   </card>
   <card id="fa4aaa97-c06d-42d5-b796-2f6200d9a404" name="Lord Alcaron">
     <property name="Quantity" value="1"/>
@@ -254,6 +287,7 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Action: Exhaust Lord Alcaron to return an enemy engaged with you to the staging area. If Lord Alcaron leaves play, the players have lost the game."/>
   </card>
  </cards>
 </set>
