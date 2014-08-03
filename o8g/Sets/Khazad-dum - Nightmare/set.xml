@@ -2,23 +2,25 @@
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Khazad-dum - Nightmare" id="940c6213-1cec-4116-b668-a6f3cda1fb98" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
   <card id="207b3e48-c42c-42a8-b1ac-20950e6588d9" name="Into the Pit">
-    <property name="Type" value="Nightmare"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
     <alternate name="Into the Pit" type="B">
       <property name="Type" value="Nightmare"/>
     </alternate>
   </card>
   <card id="17039c31-d3fd-4730-8b74-8f08458071fe" name="Goblin Ambush - 2A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Goblin Ambush - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="X"/>
     </alternate>
   </card>
   <card id="5ce149ca-3cca-41ce-9756-bf137d910966" name="Patrol Sentry">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Goblin. Orc."/>
     <property name="Engagement Cost" value="20"/>
@@ -26,10 +28,10 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
-    <property name="Quantity" value="4"/>
-    <property name="Encounter Set" value="Into the Pit - Nightmare"/>
   </card>
   <card id="ec1a2268-5e9d-4875-8089-2692d22fa180" name="Goblin Lurker">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Goblin. Orc."/>
     <property name="Engagement Cost" value="50"/>
@@ -37,10 +39,10 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
-    <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Into the Pit - Nightmare"/>
   </card>
   <card id="2d85efc7-b619-4376-a7ac-be797b874fba" name="Shadow Dweller">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature."/>
     <property name="Keywords" value="Surge."/>
@@ -49,42 +51,42 @@
     <property name="Attack" value="7"/>
     <property name="Defense" value="7"/>
     <property name="Health" value="8"/>
-    <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Into the Pit - Nightmare"/>
   </card>
   <card id="0f939a7b-8a2e-4358-b3b1-e50b3eef7c0b" name="Twisting Shadows">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground. Dark."/>
     <property name="Threat" value="X"/>
     <property name="Quest Points" value="X"/>
-    <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Into the Pit - Nightmare"/>
   </card>
   <card id="573eebae-82fc-4e41-a3a8-343194c893bc" name="Narrow Fissure">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground. Hazard."/>
     <property name="Keywords" value="Doomed 1."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="1"/>
-    <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Into the Pit - Nightmare"/>
   </card>
   <card id="e84369a8-89c8-4866-bd21-7c25ece2ca3f" name="Shadow-Fall">
-    <property name="Type" value="Treachery"/>
-    <property name="Keywords" value="Surge."/>
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge."/>
   </card>
   <card id="804e57bd-26e8-495b-9676-2e39f009baba" name="The Seventh Level">
-    <property name="Type" value="Nightmare"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
     <property name="Setup" value="tt"/>
     <alternate name="The Seventh Level" type="B">
       <property name="Type" value="Nightmare"/>
     </alternate>
   </card>
   <card id="6d1eb802-0cb1-427a-9aa3-4e0c3b403681" name="Overseer Marûl">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Mordor. Orc."/>
@@ -93,21 +95,21 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="12"/>
-    <property name="Quantity" value="1"/>
     <property name="Victory Points" value="5"/>
-    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
   </card>
   <card id="78393d15-048e-40ff-95b8-4dec18a77a8b" name="Chamber of Records">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground."/>
     <property name="Threat" value="5"/>
     <property name="Quest Points" value="8"/>
-    <property name="Quantity" value="1"/>
     <property name="Victory Points" value="5"/>
-    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
   </card>
   <card id="8657c425-d50d-4a14-b7c8-b528463376e6" name="Orc Taskmaster">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Mordor. Orc."/>
     <property name="Engagement Cost" value="44"/>
@@ -115,10 +117,10 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="6"/>
-    <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
   </card>
   <card id="750a1952-58d9-4ab7-aa3f-8cc5fd2ea040" name="Goblin Skirmisher">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Goblin. Orc."/>
     <property name="Engagement Cost" value="15"/>
@@ -126,10 +128,10 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
-    <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
   </card>
   <card id="e8b7ad31-b448-42ac-9f72-defcbe2303e9" name="Pit Goblin">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Goblin. Orc."/>
     <property name="Engagement Cost" value="36"/>
@@ -137,72 +139,72 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="4"/>
-    <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
   </card>
   <card id="874c52e0-e186-49dd-bb4b-7289bf1ecc6f" name="Deep-Mines">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="6"/>
-    <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
   </card>
   <card id="5277b186-0c76-4ec6-9615-20cdceb49241" name="Western Hall">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground."/>
     <property name="Threat" value="4"/>
     <property name="Quest Points" value="4"/>
-    <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
   </card>
   <card id="6c97c646-1952-4080-ae56-ab7caeafb28f" name="Balin's Doom">
-    <property name="Type" value="Treachery"/>
-    <property name="Keywords" value="Surge. Doomed 1."/>
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge. Doomed 1."/>
   </card>
   <card id="c6b1e2eb-9ce9-419c-a210-723f3891720d" name="Beats and Echoes">
-    <property name="Type" value="Treachery"/>
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
+    <property name="Type" value="Treachery"/>
   </card>
   <card id="1bac61b0-ee27-43eb-bb39-85f64c6b4c94" name="Flight from Moria">
-    <property name="Type" value="Nightmare"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
     <alternate name="Flight from Moria" type="B">
       <property name="Type" value="Nightmare"/>
     </alternate>
   </card>
   <card id="6c9419b0-e016-4ba8-b90a-575d4378984e" name="Search for an Exit - 2A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Pursued by Shadow - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
   <card id="5ed5e5a0-8924-424a-a49f-527fe91c6374" name="Search for an Exit - 2A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Blocked by Flame - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>
   <card id="45c91742-29a2-4409-a7e5-1f6234d73908" name="Search for an Exit - 2A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Ghash! - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="1"/>
     </alternate>
   </card>
   <card id="877df84f-3f61-41e0-96ad-aab2aae56048" name="Swarming Goblins">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Goblin. Orc."/>
     <property name="Keywords" value="Surge."/>
@@ -211,10 +213,10 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="6"/>
-    <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
   </card>
   <card id="0834d564-c1f1-4f16-8bc7-d7249d665d5c" name="Coal-Black Orc">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc."/>
     <property name="Engagement Cost" value="34"/>
@@ -222,27 +224,25 @@
     <property name="Attack" value="X"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
-    <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
   </card>
   <card id="4c495965-946e-472f-841c-72f388a7ce65" name="Shadowed Corridor">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground. Dark."/>
     <property name="Threat" value="4"/>
     <property name="Quest Points" value="6"/>
-    <property name="Quantity" value="4"/>
-    <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
   </card>
   <card id="f6f49c59-637f-4ca2-b51f-e00c4332d33b" name="Dismay and Fear">
-    <property name="Type" value="Treachery"/>
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
+    <property name="Type" value="Treachery"/>
   </card>
   <card id="a78c13d9-8acb-42eb-82a0-a216de3ed87a" name="An Evil Fortune">
-    <property name="Type" value="Treachery"/>
-    <property name="Keywords" value="Surge. Doomed 1."/>
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge. Doomed 1."/>
   </card>
  </cards>
 </set>

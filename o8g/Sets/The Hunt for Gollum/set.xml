@@ -2,6 +2,7 @@
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Hunt for Gollum" id="51223bd0-ffd1-11df-a976-0801201c9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
   <card id="51223bd0-ffd1-11df-a976-0801201c9001" name="Bilbo Baggins">
+    <property name="Quantity" value="1"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Lore"/>
@@ -11,26 +12,26 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="2"/>
-    <property name="Quantity" value="1"/>
     <property name="Text" value="The first player draws 1 additional card in the resource phase."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9002" name="Dúnedain Mark">
+    <property name="Quantity" value="3"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Traits" value="Signal."/>
     <property name="Keywords" value="Attach to a hero."/>
     <property name="Cost" value="1"/>
-    <property name="Quantity" value="3"/>
     <property name="Text" value="Attached hero gains +1 Û.&#10;&#10;Action: Pay 1 resource from attached hero's pool to attach Dunedain Mark to another hero."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9003" name="Campfire Tales">
+    <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Cost" value="1"/>
-    <property name="Quantity" value="3"/>
     <property name="Text" value="Action: Each player draws 1 card."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9010" name="Winged Guardian">
+    <property name="Quantity" value="3"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Traits" value="Creature. Eagle."/>
@@ -40,18 +41,18 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="1"/>
-    <property name="Quantity" value="3"/>
     <property name="Text" value="Winged Guardian cannot have restricted attachments.&#10;&#10;Forced: After an attack in which Winged Guardian defends resolves, pay 1 Ï resource or discard Winged Guardian from play."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9008" name="The Eagles Are Coming!">
+    <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Traits" value="Eagle."/>
     <property name="Cost" value="0"/>
-    <property name="Quantity" value="3"/>
     <property name="Text" value="Action: Search the top 5 cards of your deck for any number of Eagle cards and add them to your hand. Shuffle the other cards back into your deck."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9009" name="Westfold Horse-Breaker">
+    <property name="Quantity" value="3"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Traits" value="Rohan."/>
@@ -60,17 +61,17 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="1"/>
-    <property name="Quantity" value="3"/>
     <property name="Text" value="Action: Discard Westfold Horse-Breaker to choose and ready a hero."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9004" name="Mustering the Rohirrim">
+    <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Cost" value="1"/>
-    <property name="Quantity" value="3"/>
     <property name="Text" value="Action: Search the top 10 cards of your deck for any 1 Rohan ally card and add it to your hand. Then, shuffle the other cards back into your deck."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9005" name="Rivendell Minstrel">
+    <property name="Quantity" value="3"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Noldor."/>
@@ -79,30 +80,29 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="1"/>
-    <property name="Quantity" value="3"/>
     <property name="Text" value="Response: After you play Rivendell Minstrel from your hand, search your deck for 1 Song card and add it to your hand. Shuffle your deck."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9007" name="Strider's Path">
+    <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Cost" value="1"/>
-    <property name="Quantity" value="3"/>
     <property name="Text" value="Response: After a location is revealed from the encounter deck, immediately travel to that location without resolving its Travel effect. If another location is currently active, return it to the staging area."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9006" name="Song of Kings">
+    <property name="Quantity" value="3"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Neutral"/>
     <property name="Traits" value="Song."/>
     <property name="Keywords" value="Attach to a hero."/>
     <property name="Cost" value="1"/>
-    <property name="Quantity" value="3"/>
     <property name="Text" value="Attached hero gains a Ì resource icon."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9022" name="The Hunt Begins - 1A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="Setup: Reveal 1 card per player from the encounter deck, and add it to the staging area."/>
     <property name="Encounter Set" value="The Hunt for Gollum"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Reveal 1 card per player from the encounter deck, and add it to the staging area."/>
     <alternate name="The Hunt Begins - 1B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
@@ -110,9 +110,9 @@
     </alternate>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9024" name="A New Terror Abroad - 2A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Hunt for Gollum"/>
+    <property name="Type" value="Quest"/>
     <alternate name="A New Terror Abroad - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
@@ -120,9 +120,9 @@
     </alternate>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9026" name="On the Trail - 3A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Hunt for Gollum"/>
+    <property name="Type" value="Quest"/>
     <alternate name="On the Trail - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
@@ -130,58 +130,65 @@
     </alternate>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9017" name="Signs of Gollum">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Hunt for Gollum"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Clue."/>
     <property name="Keywords" value="Guarded."/>
-    <property name="Quantity" value="4"/>
     <property name="Text" value="Response: After the players quest successfully, the players may claim Signs of Gollum if it has no attached encounters. When claimed, attach Signs of Gollum to any hero committed to the quest. (Counts as a Condition attachment with: &quot;Forced: After attached hero is damaged or leaves play, return this card to the top of the encounter deck.&quot;)"/>
-    <property name="Encounter Set" value="The Hunt for Gollum"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9020" name="The Old Ford">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Hunt for Gollum"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Riverland."/>
     <property name="Keywords" value="X is the number of ally cards in play."/>
     <property name="Threat" value="X"/>
-    <property name="Quantity" value="2"/>
+    <property name="Quest Points" value="2"/>
     <property name="Shadow" value="Shadow: Discard from play all allies with a printed cost lower than the number of Riverland locations in play."/>
-    <property name="Encounter Set" value="The Hunt for Gollum"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9019" name="The Eaves of Mirkwood">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Hunt for Gollum"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="2"/>
-    <property name="Quantity" value="3"/>
+    <property name="Quest Points" value="2"/>
     <property name="Text" value="While The Eaves of Mirkwood is the active location, encounter card effects cannot be canceled."/>
-    <property name="Encounter Set" value="The Hunt for Gollum"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9016" name="River Ninglor">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Hunt for Gollum"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Riverland."/>
     <property name="Threat" value="2"/>
-    <property name="Quantity" value="2"/>
+    <property name="Quest Points" value="4"/>
     <property name="Text" value="While River Ninglor is the active location, remove 1 progress token from it and from the current quest at the end of each round."/>
     <property name="Shadow" value="Shadow: Remove 1 progress token from the current quest. (2 progress tokens instead if this attack is undefended.)"/>
-    <property name="Encounter Set" value="The Hunt for Gollum"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9018" name="The East Bank">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Hunt for Gollum"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Riverland."/>
     <property name="Threat" value="3"/>
-    <property name="Quantity" value="2"/>
+    <property name="Quest Points" value="3"/>
     <property name="Text" value="While The East Bank is the active location, ally cards cost 1 additional matching resource to play from hand."/>
     <property name="Shadow" value="Shadow: If you do not control at least 1 hero with a Clue card attached, return this enemy to the staging area after its attack resolves."/>
-    <property name="Encounter Set" value="The Hunt for Gollum"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9021" name="The West Bank">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Hunt for Gollum"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Riverland."/>
     <property name="Threat" value="3"/>
-    <property name="Quantity" value="2"/>
+    <property name="Quest Points" value="3"/>
     <property name="Text" value="While The West Bank is the active location, attachment and event cards cost 1 additional matching resource to play from hand."/>
     <property name="Shadow" value="Shadow: If you do not control at least 1 hero with a Clue card attached, double this enemy's base Û for this attack."/>
-    <property name="Encounter Set" value="The Hunt for Gollum"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9013" name="Goblintown Scavengers">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Hunt for Gollum"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Goblin. Orc."/>
     <property name="Engagement Cost" value="12"/>
@@ -189,11 +196,11 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="3"/>
-    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Discard the top card of each player's deck. Until the end of the phase, increase Goblintown Scavenger's $ by the total printed cost of all cards discarded in this way."/>
-    <property name="Encounter Set" value="The Hunt for Gollum"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9014" name="Hunters from Mordor">
+    <property name="Quantity" value="5"/>
+    <property name="Encounter Set" value="The Hunt for Gollum"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Mordor."/>
     <property name="Engagement Cost" value="34"/>
@@ -201,32 +208,30 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="6"/>
-    <property name="Quantity" value="5"/>
     <property name="Text" value="Hunters from Mordor get +2 Û and +2 $ for each Clue card in play."/>
     <property name="Shadow" value="Shadow: Deal 1 damage to each hero with a Clue card attached. (3 damage instead if this attack is undefended.)"/>
-    <property name="Encounter Set" value="The Hunt for Gollum"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9011" name="False Lead">
-    <property name="Type" value="Treachery"/>
     <property name="Quantity" value="2"/>
-    <property name="Text" value="When Revealed: The first player chooses and shuffles a card with the printed Clue trait back into the encounter deck. If there are no Clue cards in play, False Lead gains surge."/>
     <property name="Encounter Set" value="The Hunt for Gollum"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: The first player chooses and shuffles a card with the printed Clue trait back into the encounter deck. If there are no Clue cards in play, False Lead gains surge."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9012" name="Flooding">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Hunt for Gollum"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Disaster."/>
     <property name="Keywords" value="Doomed 1. Surge."/>
-    <property name="Quantity" value="2"/>
     <property name="Text" value="When Revealed: Remove all progress tokens from all Riverland locations."/>
     <property name="Shadow" value="Shadow: Resolve the &quot;when revealed&quot; effect of this card."/>
-    <property name="Encounter Set" value="The Hunt for Gollum"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801201c9015" name="Old Wives' Tales">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Hunt for Gollum"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Gossip."/>
-    <property name="Quantity" value="3"/>
     <property name="Text" value="When Revealed: Discard 1 resource from each hero's resource pool, if able. Exhaust any hero that could not discard a resource from its pool."/>
-    <property name="Encounter Set" value="The Hunt for Gollum"/>
   </card>
  </cards>
 </set>

@@ -2,6 +2,8 @@
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - War of the Last Alliance" id="f5d4ba1d-7871-4b90-ab07-a53fe09c44c7" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
   <card id="0bf809bf-e7c2-4ea1-96bb-84c9c24edffe" name="Sauron">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Dark. Lord."/>
@@ -11,39 +13,37 @@
     <property name="Attack" value="15"/>
     <property name="Defense" value="12"/>
     <property name="Health" value="0"/>
-    <property name="Quantity" value="1"/>
     <property name="Text" value="Sauron cannot leave the staging area, and is considered to be engaged with each player. Forced: After Sauron attacks, the defending player must discard 2 characters if possible."/>
-    <property name="Encounter Set" value="War of the Last Alliance"/>
   </card>
   <card id="43aaa840-408b-488f-9ab6-ee5a1eb4246c" name="Elven Alliance">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Condition."/>
-    <property name="Quantity" value="4"/>
     <property name="Text" value="When revealed: The first player attaches this card to a hero of his choice as an attachment. Action: If another player controls Narsil, exhaust Elven Alliance to attach Narsil to one of your Gondor heroes."/>
-    <property name="Encounter Set" value="War of the Last Alliance"/>
   </card>
   <card id="639a2faa-2bc6-44f6-98b9-c8bba6e6a6c8" name="Human Alliance">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Condition."/>
-    <property name="Quantity" value="4"/>
     <property name="Text" value="When revealed: The first player attaches this card to a hero of his choice as an attachment. Attached hero gains Gondor trait."/>
-    <property name="Encounter Set" value="War of the Last Alliance"/>
   </card>
   <card id="b0a3aaa4-11b9-4b64-b0d5-52caf6706c2b" name="Narsil">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Item. Weapon."/>
     <property name="Keywords" value="Narsil can only be attached to a Gondor hero."/>
-    <property name="Quantity" value="1"/>
     <property name="Victory Points" value="15"/>
     <property name="Text" value="Action: Discard X cards from hand to reduce Sauron’s Ú by X until the end of the phase. Action: If the players control Elven Alliance and Human Alliance add Narsil to the victory display to place 1 resource token on Sauron."/>
-    <property name="Encounter Set" value="War of the Last Alliance"/>
   </card>
   <card id="c836d176-eb56-4274-b33a-8adbcb81c9c9" name="Preparing for Battle - 1A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="Setup: Construct the encounter deck using all the cards from this scenario plus all the enemies with the Goblin or Orc trait from the indicated sets. Remove Sauron and Narsil from encounter deck and set them aside out of play. Shuffle the encounter deck."/>
     <property name="Encounter Set" value="War of the Last Alliance"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Construct the encounter deck using all the cards from this scenario plus all the enemies with the Goblin or Orc trait from the indicated sets. Remove Sauron and Narsil from encounter deck and set them aside out of play. Shuffle the encounter deck."/>
     <property name="Setup" value="tt"/>
     <alternate name="Preparing for Battle - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -52,9 +52,9 @@
     </alternate>
   </card>
   <card id="c47983e2-8843-409e-b137-20887a3f36f9" name="Combat - 2A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="War of the Last Alliance"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Combat - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="99"/>
@@ -62,10 +62,10 @@
     </alternate>
   </card>
   <card id="fd01fd5c-eb37-464f-900d-ede623b0f043" name="Terrible and Unstoppable - 3A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="When revealed: Discard all enemies from play then add Sauron to the staging area. Any player may discard a Noldor hero and put Narsil into play, attached to a Gondor hero they control. Advance to the refresh phase."/>
     <property name="Encounter Set" value="War of the Last Alliance"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="When revealed: Discard all enemies from play then add Sauron to the staging area. Any player may discard a Noldor hero and put Narsil into play, attached to a Gondor hero they control. Advance to the refresh phase."/>
     <alternate name="Terrible and Unstoppable - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="0"/>

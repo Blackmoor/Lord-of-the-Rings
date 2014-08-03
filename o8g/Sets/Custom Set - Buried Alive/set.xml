@@ -2,6 +2,7 @@
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - Buried Alive" id="fc89bdbf-7475-4f3e-96fc-8f5315a9d85d" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
   <card id="90e18195-713d-4013-9f8b-c09660d9faf4" name="Nor">
+    <property name="Encounter Set" value="Buried Alive"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Leadership"/>
@@ -12,27 +13,27 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
     <property name="Text" value="Action: Remove 1 resource token from Nor to give him a resource icon of your choice until the end of the phase."/>
-    <property name="Encounter Set" value="Buried Alive"/>
   </card>
   <card id="e0fc8401-09b4-4856-a029-a8c9d7752437" name="Longbeard Cavern">
+    <property name="Encounter Set" value="Buried Alive"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Mountain, Cave."/>
     <property name="Threat" value="1"/>
+    <property name="Quest Points" value="2"/>
     <property name="Victory Points" value="2"/>
     <property name="Text" value="While Longbeard Cavern is the active location Dwarf allies cost 1 less resource to play.&#10;&#10;While Longbeard Cavern is in play Nor gains 'Action: Exhaust Nor to add 2 resource tokens to his resource pool (Limit once per round)'"/>
-    <property name="Encounter Set" value="Buried Alive"/>
   </card>
   <card id="85c0fdb3-618f-45cb-953c-c3f18fec2ebb" name="Treacherous Slope">
+    <property name="Encounter Set" value="Buried Alive"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Mountain, Hazard"/>
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Action: If there are more than X enemies in play, exhaust a Hero to claim Treacherous Slope. X equals twice the number of players. Attach Treacherous Slope to that Hero.&#10;&#10;Action: If claimed, place Treacherous Slope in the victory display to trigger an avalanche. Each player may reduce thier threat by 2 for each enemy engaged with them then discard all enemies from play."/>
-    <property name="Encounter Set" value="Buried Alive"/>
   </card>
   <card id="61377eb5-4d26-4769-a6f0-21e352ea26aa" name="The Mountain Pass - 1A">
+    <property name="Encounter Set" value="Buried Alive"/>
     <property name="Type" value="Quest"/>
     <property name="Text" value="Setup: Search the encounter deck for a Great Cave Troll. Set it aside for later use along with Nor, Longbeard Cavern and Treacherous Slope."/>
-    <property name="Encounter Set" value="Buried Alive"/>
     <property name="Setup" value="----"/>
     <alternate name="The Mountain Pass - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -41,9 +42,9 @@
     </alternate>
   </card>
   <card id="09848c47-f593-4daa-9b1d-aa27240e5f77" name="The Diversion - 2A">
+    <property name="Encounter Set" value="Buried Alive"/>
     <property name="Type" value="Quest"/>
     <property name="Text" value="When Revealed: Each player must choose at least 1 of their heros and any number of their allies to join the diversion party. Flip over all the characters not in the diversion party along with thier attachments. Face down cards are considered to be out of play."/>
-    <property name="Encounter Set" value="Buried Alive"/>
     <property name="Setup" value="s---"/>
     <alternate name="The Diversion - 2B" type="B">
       <property name="Type" value="Quest"/>
@@ -52,9 +53,9 @@
     </alternate>
   </card>
   <card id="f3cfdaa0-7ffb-4129-9460-f0a18979ecf8" name="The Rescue - 3A">
+    <property name="Encounter Set" value="Buried Alive"/>
     <property name="Type" value="Quest"/>
     <property name="Text" value="When Revealed: Discard all locations from play. Flip over all player cards (All cards involved in the diversion will now be face down and all other cards will be face up). Face down cards are considered to be out of play."/>
-    <property name="Encounter Set" value="Buried Alive"/>
     <property name="Setup" value="tss"/>
     <alternate name="The Rescue - 3B" type="B">
       <property name="Type" value="Quest"/>

@@ -13,90 +13,98 @@
     <property name="Traits" value="Elf. Noldor."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9010" name="Ancient Tomb-wight">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Undead. Wight."/>
-    <property name="Quantity" value="1"/>
     <property name="Victory Points" value="4"/>
-    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9013" name="Barrow-bats">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature."/>
-    <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9012" name="Barrow-spider">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature. Spider."/>
-    <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9006" name="Barrow-wight">
-    <property name="Type" value="Enemy"/>
-    <property name="Traits" value="Undead. Wight."/>
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Wight."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9015" name="Faedthandir">
-    <property name="Type" value="Enemy"/>
-    <property name="Traits" value="Undead. Wight."/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Wight."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9004" name="Fell Spirit">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Undead. Spirit."/>
-    <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9016" name="Wight Lord">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Undead. Wight."/>
-    <property name="Quantity" value="4"/>
     <property name="Victory Points" value="3"/>
-    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9011" name="Ancient Barrow">
-    <property name="Type" value="Location"/>
-    <property name="Traits" value="Barrow."/>
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Barrow."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="2"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9007" name="Cairn Stones">
-    <property name="Type" value="Location"/>
-    <property name="Traits" value="Barrow."/>
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Barrow."/>
+    <property name="Threat" value="X"/>
+    <property name="Quest Points" value="4"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9018" name="Cardolian Standing Stones">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Barrow."/>
-    <property name="Quantity" value="1"/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="6"/>
     <property name="Victory Points" value="4"/>
-    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9009" name="Foggy Hills">
-    <property name="Type" value="Location"/>
-    <property name="Traits" value="Plains."/>
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Plains."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="1"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9003" name="Barrow-Blade">
-    <property name="Type" value="Objective"/>
-    <property name="Traits" value="Item. Weapon."/>
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Item. Weapon."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9008" name="Song From the Old Forest">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Song."/>
-    <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9019" name="A Dark Fog - 1A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
+    <property name="Type" value="Quest"/>
     <property name="Setup" value="tttttttttt"/>
     <alternate name="A Dark Fog - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -104,37 +112,37 @@
     </alternate>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9021" name="Silent, Heavy, and Chill - 2A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Silent, Heavy, and Chill - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9023" name="Escaping the Great Barrow - 3A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Escaping the Great Barrow - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9017" name="Bitter Cold">
-    <property name="Type" value="Treachery"/>
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
+    <property name="Type" value="Treachery"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9005" name="Fog and Melancholy">
-    <property name="Type" value="Treachery"/>
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
+    <property name="Type" value="Treachery"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-2801201c9014" name="The Wight's Song">
-    <property name="Type" value="Treachery"/>
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The_Culling_at_the_Barrow_Downs"/>
+    <property name="Type" value="Treachery"/>
   </card>
  </cards>
 </set>

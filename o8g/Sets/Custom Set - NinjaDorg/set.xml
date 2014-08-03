@@ -2,10 +2,10 @@
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - NinjaDorg" id="b0d63521-04f7-49fa-a028-84b7efa7b000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
   <card id="481eb8da-3657-486a-89d3-f27333d9d042" name="Dark Road - 1A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="Setup: Put to one side Nazgul of Dol Guldur and 2 Dungeons Jailors from the Dol Guldur set and remove the Dol Guldur Objective cards from play. Unless stated otherwise, proceed to the next Stage in numerical order."/>
     <property name="Encounter Set" value="Branching Paths"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Put to one side Nazgul of Dol Guldur and 2 Dungeons Jailors from the Dol Guldur set and remove the Dol Guldur Objective cards from play. Unless stated otherwise, proceed to the next Stage in numerical order."/>
     <property name="Setup" value="ttt"/>
     <alternate name="Dark Road - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -14,9 +14,9 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d043" name="Sacred Shrine - 2A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Branching Paths"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Sacred Shrine - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
@@ -24,9 +24,9 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d044" name="Besieged - 3A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Branching Paths"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Besieged - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="14"/>
@@ -34,9 +34,9 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d045" name="Take Flight - 4A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Branching Paths"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Take Flight - 4B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
@@ -44,9 +44,9 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d046" name="Liberation - 5A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Branching Paths"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Liberation - 5B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="12"/>
@@ -54,9 +54,9 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d047" name="Abandoned - 6A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Branching Paths"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Abandoned - 6B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
@@ -64,9 +64,9 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d048" name="Showdown - 7A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Branching Paths"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Showdown - 7B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
@@ -74,10 +74,10 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d018" name="Ancient Path - 1A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="Setup: Take out the Nazgul of Dol Guldur, Ungoliant's Spawn and Objective cards and set them to one side out of play."/>
     <property name="Encounter Set" value="Forgotten Ruins"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Take out the Nazgul of Dol Guldur, Ungoliant's Spawn and Objective cards and set them to one side out of play."/>
     <property name="Setup" value="ttttt"/>
     <alternate name="Ancient Path - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -86,10 +86,10 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d020" name="Deep Catacombs - 2A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="Place the Shadow Key into play and attach one encounter card to it for EACH player"/>
     <property name="Encounter Set" value="Forgotten Ruins"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Place the Shadow Key into play and attach one encounter card to it for EACH player"/>
     <alternate name="Deep Catacombs - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
@@ -97,10 +97,10 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d022" name="Risen Nightmare - 3A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="You may now remove the Shadow Key from play."/>
     <property name="Encounter Set" value="Forgotten Ruins"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="You may now remove the Shadow Key from play."/>
     <alternate name="Risen Nightmare - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="6"/>
@@ -108,10 +108,10 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d026" name="Goblin Gate - 1A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="Each player searches the encounter deck and places the first Orc they find into the staging area. Shuffle the encounter deck."/>
     <property name="Encounter Set" value="The Elven Assembly"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Each player searches the encounter deck and places the first Orc they find into the staging area. Shuffle the encounter deck."/>
     <alternate name="Goblin Gate - 1B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="12"/>
@@ -119,9 +119,9 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d028" name="Elf Path - 2A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Elven Assembly"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Elf Path - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="5"/>
@@ -129,10 +129,10 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d030" name="The Veil of the Lonely Mountain - 3A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="Each player searches the encounter deck and places the first Orc they find into the staging area. Shuffle the encounter deck."/>
     <property name="Encounter Set" value="The Elven Assembly"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Each player searches the encounter deck and places the first Orc they find into the staging area. Shuffle the encounter deck."/>
     <alternate name="The Veil of the Lonely Mountain - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
@@ -140,10 +140,10 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d010" name="Forgotten Path - 1A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="SOLO PLAY: You may only choose ONE HERO (and thus one sphere deck) to perform this quest. Also, take out the Legolas Hero card (from the Tactics Sphere) and set it to one side out of play."/>
     <property name="Encounter Set" value="The Lost Road"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="SOLO PLAY: You may only choose ONE HERO (and thus one sphere deck) to perform this quest. Also, take out the Legolas Hero card (from the Tactics Sphere) and set it to one side out of play."/>
     <property name="Setup" value="t"/>
     <alternate name="Forgotten Path - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -152,9 +152,9 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d012" name="Tranquil Glade - 2A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Lost Road"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Tranquil Glade - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="2"/>
@@ -162,9 +162,9 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d014" name="Goblin Mines - 3A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Lost Road"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Goblin Mines - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="4"/>
@@ -172,10 +172,10 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d002" name="Orc War Party - 1A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="Setup: Take out 1 Hill Troll and the Chieftain Ufthak card and set them both to one side out of play."/>
     <property name="Encounter Set" value="The Old Forest"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Take out 1 Hill Troll and the Chieftain Ufthak card and set them both to one side out of play."/>
     <property name="Setup" value="tt"/>
     <alternate name="Orc War Party - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -184,9 +184,9 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d004" name="Dark Woods - 2A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
+    <property name="Type" value="Quest"/>
     <property name="Setup" value="tt"/>
     <alternate name="Dark Woods - 2B" type="B">
       <property name="Type" value="Quest"/>
@@ -195,9 +195,9 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d006" name="Daring Rescue - 3A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
+    <property name="Type" value="Quest"/>
     <alternate name="Daring Rescue - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="8"/>
@@ -205,10 +205,10 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d034" name="Foul Tower - 1A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="Setup: Take out th Nazgul of Dol Guldur, Ungoliant's Spawn and the Objective cards and set them to one side out of play. Then choose a hero and five that hero Gandalf's Map."/>
     <property name="Encounter Set" value="Ungoliant's Lair"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Take out th Nazgul of Dol Guldur, Ungoliant's Spawn and the Objective cards and set them to one side out of play. Then choose a hero and five that hero Gandalf's Map."/>
     <property name="Setup" value="ttttt"/>
     <alternate name="Foul Tower - 1B" type="B">
       <property name="Type" value="Quest"/>
@@ -217,10 +217,10 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d036" name="Twisted Caverns - 2A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="Allies may no longer enter play or be put into play."/>
     <property name="Encounter Set" value="Ungoliant's Lair"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Allies may no longer enter play or be put into play."/>
     <alternate name="Twisted Caverns - 2B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
@@ -228,10 +228,10 @@
     </alternate>
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d038" name="Final Stand - 3A">
-    <property name="Type" value="Quest"/>
     <property name="Quantity" value="1"/>
-    <property name="Text" value="Allies or Attachments may no longer enter play or be put into play."/>
     <property name="Encounter Set" value="Ungoliant's Lair"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Allies or Attachments may no longer enter play or be put into play."/>
     <alternate name="Final Stand - 3B" type="B">
       <property name="Type" value="Quest"/>
       <property name="Quest Points" value="10"/>
