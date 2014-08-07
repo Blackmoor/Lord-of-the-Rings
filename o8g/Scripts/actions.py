@@ -446,6 +446,13 @@ def deckLoaded(player, groups):
 	
 	if automate():			
 		playerSetup(table, 0, 0, isShared)
+
+def counterChanged(player, counter, oldV):
+	debug("counterChanged(player {}, counter {}, from {}".format(player, counter, oldV))
+	if counter == shared.counters['Round']:
+		fp = getFirstPlayerToken()
+		if fp is not None and fp.controller == me:
+			fp.markers[Turn] = shared.counters['Round'].value
 		
 def numDone():
 	count = 0
@@ -686,6 +693,12 @@ def isLocation(cards):
 def isEnemy(cards):
 	for c in cards:
 		if c.isFaceUp and (c.type != "Enemy" or c.orientation == Rot90):
+			return False
+	return True
+	
+def isFirstPlayerToken(cards):
+	for c in cards:
+		if c.model != "15e40d4f-b763-4dcc-aa52-e32b64a992dd":
 			return False
 	return True
 	
@@ -963,7 +976,7 @@ def nextRound(group=table, x=0, y=0):
 #Marks that a player is ready for the next round to start
 #If we are currently the first player then we check to see if all other players are ready.
 #If so we advance the first player token and all players draw a card and add a resource to each hero
-#If they are not ready, issue a warning about who we are waiting on and do dothing	
+#If they are not ready, issue a warning about who we are waiting on and do nothing	
 def doNextRound(group):
 	mute()	
 	debug("doNextRound({})".format(group))
@@ -1226,7 +1239,11 @@ def addDamage(card, x = 0, y = 0):
     addToken(card, Damage)
     
 def addProgress(card, x = 0, y = 0):
-    addToken(card, Progress)       
+    addToken(card, Progress)  
+
+def addTurn(card, x=0, y=0):
+	if isFirstPlayerToken([card]):
+		shared.counters['Round'].value += 1
 
 def addToken(card, tokenType):
 	mute()
@@ -1241,6 +1258,10 @@ def subDamage(card, x = 0, y = 0):
 
 def subProgress(card, x = 0, y = 0):
     subToken(card, Progress)
+	
+def subTurn(card, x=0, y=0):
+	if isFirstPlayerToken([card]) and shared.counters['Round'].value > 0:
+		shared.counters['Round'].value -= 1
 
 def subToken(card, tokenType):
     mute()
