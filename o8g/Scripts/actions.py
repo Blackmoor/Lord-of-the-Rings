@@ -432,7 +432,7 @@ def deckLoaded(player, groups):
 	#Check for cards with a Setup effects and move other cards back into the correct pile
 	for p in groups:
 		for card in p:
-			if card.Type in [ 'Quest', 'Nightmare', 'Campaign' ]:
+			if card.Type in [ 'Nightmare', 'Campaign' ]:
 				continue
 			elif card.Setup == 't':
 				addToTable(card)
@@ -898,7 +898,7 @@ def nextQuestStage(group=None, x=0, y=0):
 	
 	#If the current quest card has side A showing it is flipped
 	for c in table:
-		if c.alternates is not None and "B" in c.alternates and c.alternate != "B" and c.Type != "Campaign":
+		if c.alternates is not None and "B" in c.alternates and c.alternate != "B" and c.Type == "Quest":
 			flipcard(c)
 			return
 			
