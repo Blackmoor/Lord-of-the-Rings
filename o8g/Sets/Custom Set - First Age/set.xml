@@ -2,6 +2,7 @@
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - First Age" id="dd60d037-3c50-4bd3-b994-2732b8218d7e" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.1.0">
  <cards>
   <card id="a63323ae-29de-4368-b8c8-7fa8131d9224" name="Beren">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -15,6 +16,7 @@
     <property name="Text" value="While Beren is committed to the quest, he gains: &quot;Response: After an encounter card with at least 3 $ is revealed from the encounter deck, add 1 resource to Beren's resource pool.&quot;"/>
   </card>
   <card id="cf173190-392e-47d7-8d04-b3401434296e" name="Finrod Felagund">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -28,6 +30,7 @@
     <property name="Text" value="While Finrod Felagund is in play, each Edain character gets +1 Ò."/>
   </card>
   <card id="69a4e781-151b-4d30-a24e-6137009bf22e" name="Fingon">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -41,6 +44,7 @@
     <property name="Text" value="Action: Exhaust Fingon to remove 1 Corruption from a character in play. (Limit once per round.)"/>
   </card>
   <card id="267a3597-c2d2-4de0-8121-4c3e71678b2f" name="Lúthien">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -54,6 +58,7 @@
     <property name="Text" value="Action: Exhaust Lúthien and pay 2 resources from her pool to place an enemy facedown (4 resources instead if the enemy is unique). That enemy is considered to be out of play for all purposes (except victory and advancement conditions) until the end of the phase."/>
   </card>
   <card id="464a02c5-9a1c-4391-bbe8-ed2563a89ae5" name="Eärendil">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -67,6 +72,7 @@
     <property name="Text" value="Response: After Eärendil commits to the quest, shuffle the encounter deck and discard the top card. If it is a treachery, deal 1 damage to Eärendil. Otherwise, reduce your threat by 1 and draw 1 card."/>
   </card>
   <card id="877ac60b-3a6d-48b0-8bb8-5a5ae8d5ff4c" name="Haleth">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -80,6 +86,7 @@
     <property name="Text" value="Haleth gets +1 Ò for each enemy engaged with you.&#10;&#10;If Haleth did not commit to the quest this round, she may use Ò instead of Ú when defending."/>
   </card>
   <card id="2aa57f53-97d0-45e9-9254-9c064889d1ea" name="Fingolfin">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -94,6 +101,7 @@
     <property name="Text" value="Action: Raise your threat by 3 to choose an enemy in play. Engage the chosen enemy. Until the end of the round, Fingolfin does not exhaust to defend against the chosen enemy."/>
   </card>
   <card id="612a0a90-b2d9-49c4-88af-8d99fbd00dab" name="Húrin">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -106,6 +114,7 @@
     <property name="Text" value="Húrin gets +1 Û for each enemy engaged with you."/>
   </card>
   <card id="370caea5-4a48-4031-b416-608b66880dbb" name="Ecthelion">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -119,6 +128,7 @@
     <property name="Text" value="When Ecthelion attacks alone, the defending enemy does not count its Ú."/>
   </card>
   <card id="b47b0c9d-67d8-49cf-b481-e812cb6aa4df" name="Círdan">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -132,6 +142,7 @@
     <property name="Text" value="Círdan gets +1 Ú for each attached character.&#10;&#10;Planning Action: Attach a character to Círdan. This character is considered to be out of play. At the end of the round, heal 3 damage on that character and put it back into play. (Limit twice per round.)"/>
   </card>
   <card id="6eae327e-c827-4f1a-97aa-01967e3c9051" name="Turgon">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -145,6 +156,7 @@
     <property name="Text" value="Response: After raising your threat, name an encounter card type. Look at the top card of the encounter deck. If it matches the type you named, draw 1 card. If not, shuffle the encounter deck. (Limit once per phase.)"/>
   </card>
   <card id="3944f3e6-15bc-4af6-8e50-b92a7f8d20d6" name="Idril Celebrindal">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -158,6 +170,7 @@
     <property name="Text" value="Response: After the active location is explored, return 1 ally of X cost from your discard pile to your hand. X is the $ of the active location."/>
   </card>
   <card id="a9b02bb6-4c38-4fb3-8f73-4d2c68a90a89" name="Melian">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -172,6 +185,7 @@
     <property name="Text" value="Response: After you play Melian from hand, choose a player and (choose 1): enemies do not make engagement checks against the chosen player until the end of the round, enemies cannot attack the chosen player this round, or the chosen player may look at the top 3 cards of the encounter deck."/>
   </card>
   <card id="b1d66533-fa81-466a-a26c-eb0ddf3ea2a6" name="Haladin Woodsman">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Spirit"/>
@@ -184,6 +198,7 @@
     <property name="Text" value="Response: After a shadow effect resolves on an enemy engaged with you, Haladin Woodsman gets +1 Û and +1 Ú until the end of the round. (Limit twice per round.)"/>
   </card>
   <card id="c12463e1-712b-4a77-8579-f9cafc7d9332" name="Eöl">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -197,6 +212,7 @@
     <property name="Text" value="Action: Place 1 Corruption on Eöl to search the top 15 cards of your deck for an attachment and add it to your hand."/>
   </card>
   <card id="f59f2aa8-ce8a-4fbe-bfdf-420e6b330aed" name="Mablung">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -210,6 +226,7 @@
     <property name="Text" value="Response: After Mablung commits to a quest, choose a character. That character gets +1 Ò and +1 Ú until the end of the round."/>
   </card>
   <card id="c02cefa2-c4ed-4377-a2f4-113d4ed4cbfb" name="Orodreth">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -223,6 +240,7 @@
     <property name="Text" value="Response: After a unique character with the House of Finarfin trait leaves play, put Orodreth into play from your hand."/>
   </card>
   <card id="1a6e1994-f32a-4241-9e0b-c4f4e43ae7a4" name="Chieftain of Men">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Leadership"/>
@@ -235,6 +253,7 @@
     <property name="Text" value="Response: After your threat is raised by an encounter card effect, discard Chieftain of Men from play to cancel that effect."/>
   </card>
   <card id="4989c17b-edde-4a5d-8438-5fcc23dd0271" name="Thorondor">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -249,6 +268,7 @@
     <property name="Text" value="Response: After you play Thorondor from hand, put a character from any player's discard pile into play under its owner's control."/>
   </card>
   <card id="4b61a531-071c-44a9-b569-261c41f182d7" name="Gondolin Guard">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Tactics"/>
@@ -261,6 +281,7 @@
     <property name="Health" value="1"/>
   </card>
   <card id="eea419ce-71ae-499b-a1fb-dd69a5633be4" name="Huan">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -274,6 +295,7 @@
     <property name="Text" value="Action: Huan gets +5 Û until the end of the phase. At the end of the phase in which you trigger this effect, discard Huan. (Limit once per round.)&#10;&#10;Action: Attach Huan to Beren or Lúthien. (Counts as a Mount attachment with the text: &quot;While attached hero is committed to the quest, deal 2 damage to each enemy revealed during staging.&quot;"/>
   </card>
   <card id="1d572e45-94ed-4563-96d5-1bcf358c775d" name="Aredhel">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -287,6 +309,7 @@
     <property name="Text" value="Response: After the active location is explored, discard the top card of your deck. If it is an ally, take it into your hand."/>
   </card>
   <card id="d8557f01-c6a5-4568-826f-70083fa6b98d" name="Dwarf of the Blue Mountains">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Lore"/>
@@ -299,6 +322,7 @@
     <property name="Text" value="Dwarf of the Blue Mountains gets +1 hit point for each unique attachment you control."/>
   </card>
   <card id="3e458f23-12fd-4192-a0f2-676f0aa91287" name="Telchar the Smith">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -312,6 +336,7 @@
     <property name="Text" value="Action: Exhaust Telchar the Smith to choose an Armor or Weapon attachment in play. Until the end of the round, if the chosen attachment is Armor, it gains: &quot;Attached character gets +1 Ú.&quot; Until the end of the round, if the chosen attachment is a Weapon, it gains: &quot;Attached character gets +1 Û.&quot;"/>
   </card>
   <card id="d9de0bc8-78fa-4f1d-b2a6-8d952daefe55" name="Green-elf Ranger">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Lore"/>
@@ -325,6 +350,7 @@
     <property name="Text" value="Quest Action: Exhaust Green-elf Ranger to choose enemy or location. The next encounter card of the chosen type that is added to the staging area gets -3 $ until the end of the phase."/>
   </card>
   <card id="611f6d5b-d1f6-49cb-b9e5-f2d5bf77a7ef" name="Daeron">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -338,6 +364,7 @@
     <property name="Text" value="Action: Exhaust Daeron to draw 2 cards. Then discard 1 card from your hand."/>
   </card>
   <card id="7efcb2f7-e893-475c-8e60-001dc95ba430" name="Elwing">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -351,6 +378,7 @@
     <property name="Text" value="While Eärendil is in play, Elwing gains: &quot;Response: After Elwing is destroyed, you may immediately put her back into play for 1 Ê resource. (Limit once per round.)&quot;"/>
   </card>
   <card id="5ed2a83a-fb4d-48ed-847c-8e5e3a116cc6" name="Huor">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -364,6 +392,7 @@
     <property name="Text" value="Huor may be assigned damage from undefended attacks."/>
   </card>
   <card id="a71937a2-dd20-40d3-bfb6-a6cf7856011a" name="Bëor">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -377,6 +406,7 @@
     <property name="Text" value="Action: Attach Bëor facedown to a character with the House of Finarfin trait. (Counts as a Vassal attachment with the text: &quot;Attached character gets +2 Ò.&quot;)"/>
   </card>
   <card id="1490551a-e98f-4f75-b619-90c4c510eff0" name="Hador">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -390,6 +420,7 @@
     <property name="Text" value="Action: Discard Hador to reveal the top 5 cards of your deck. Put up to 2 revealed allies with the Edain trait into play, if able. Shuffle all other revealed cards back into your deck."/>
   </card>
   <card id="ccb27322-b28f-4cec-8998-bc3a38da9d7a" name="Barahir">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -404,6 +435,7 @@
     <property name="Text" value="Response: After a shadow card is revealed, exhaust Barahir to add his Ú to the Ú of the defending character until the end of the phase."/>
   </card>
   <card id="36eba031-02ff-4ea1-b127-aa1adf64bbac" name="Morwen">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -417,6 +449,7 @@
     <property name="Text" value="Action: Raise your threat by 1 to give Morwen +1 Ò until the end of the round. (Limit twice per round.)"/>
   </card>
   <card id="6317b5a1-6547-45de-85b9-f1c9798f4dd2" name="Tuor">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -430,6 +463,7 @@
     <property name="Text" value="Action: Exhaust Tuor to choose a player. That player looks at the top 3 cards of his deck. He may discard 1 to discard the top card of the encounter deck, returning the remaining cards to the top of his deck in any order."/>
   </card>
   <card id="16ee9351-7842-400d-ba3a-0fe4d9f30634" name="Finduilas">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -443,6 +477,7 @@
     <property name="Text" value="Forced: Damage from undefended attacks must be assigned to Finduilas. After Finduilas leaves play, raise your threat by 2."/>
   </card>
   <card id="c10276a3-fc4d-4c05-9378-e22437febd30" name="Azaghâl">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -456,6 +491,7 @@
     <property name="Text" value="Response: After Azaghâl is destroyed as the result of an enemy attack, deal 3 damage to the attacking enemy."/>
   </card>
   <card id="1c20dbce-2c45-4c0b-8c3a-874e84908a25" name="High Kingship of the Noldor">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -465,6 +501,7 @@
     <property name="Text" value="Attach to a Noldor hero.&#10;&#10;Action: Exhaust High Kingship of the Noldor to add 2 resources to attached hero's resource pool."/>
   </card>
   <card id="9972048e-4e59-4444-8957-17d5b43164a7" name="Elf-friend">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Spirit"/>
@@ -473,6 +510,7 @@
     <property name="Text" value="Attach to an Edain hero.&#10;&#10;Attached hero gains the Noldor trait."/>
   </card>
   <card id="3ae5e27e-a66a-43a1-a967-c102e9ab9da3" name="Shadowy Cloak">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -482,6 +520,7 @@
     <property name="Text" value="Attach to Lúthien.&#10;&#10;Resources on Shadowy Cloak can only be used to pay for Lúthien's ability.&#10;&#10;Action: Exhaust Shadowy Cloak to either add 1 resource to Shadowy Cloak or ready Lúthien."/>
   </card>
   <card id="1cd9af84-475d-4949-b0a0-6977601aaf86" name="Vingilot">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -491,6 +530,7 @@
     <property name="Text" value="Attach to a hero with the Half-elven trait.&#10;&#10;Action: Exhaust Vingilot to use the attached hero's Ò instead of Ú (or Û, if attached hero is Eärendil) until the end of the phase."/>
   </card>
   <card id="63d72bcd-bee5-4eaa-a2b4-8e5af8244d4e" name="Harp of Fingon">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -500,6 +540,7 @@
     <property name="Text" value="Attach to a hero with the House of Fingolfin trait.&#10;&#10;Action: After a Corruption token is removed from play, exhaust Harp of Fingon to add 1 resource to the attached hero's resource pool."/>
   </card>
   <card id="d09ff424-b2df-4b1a-a343-2dafaf3d1d98" name="Oath of Friendship">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Leadership"/>
@@ -508,6 +549,7 @@
     <property name="Text" value="Attach to a hero. Limit 2 in play.&#10;&#10;Action: Move any number of resources from the attached hero's resource pool to the resource pool of another hero with Oath of Friendship attached.&#10;&#10;Response: After you play Oath of Friendship, you may immediately search your deck for another copy of Oath of Friendship and add it to your hand. Then, shuffle your deck."/>
   </card>
   <card id="969445ff-0b61-4f68-b563-ae11d365e125" name="Oath of Vengeance">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Tactics"/>
@@ -516,6 +558,7 @@
     <property name="Text" value="Attach to a hero. Limit 1 per hero.&#10;&#10;Response: After a character you control is destroyed, place 1 resource on Oath of Vengeance.&#10;&#10;Action: Spend 1 resource from Oath of Vengeance to give attached hero +1 Ò or +1 Û until the end of the phase."/>
   </card>
   <card id="57bae876-e0f7-48e2-b626-8b53216ef26c" name="Oath of Silence">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Lore"/>
@@ -524,6 +567,7 @@
     <property name="Text" value="Attach to a hero. Limit 1 per player.&#10;&#10;Forced: Discard one card from your hand at the end of each round.&#10;&#10;Response: After Oath of Silence is attached to a hero you control, search your deck for 2 cards and add them to your hand. Then, shuffle your deck."/>
   </card>
   <card id="56e3c47e-9fbe-4b86-92f5-05679788aa07" name="Haudh-en-Ndengin">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -533,6 +577,7 @@
     <property name="Text" value="Attach to a location in play.&#10;&#10;While Haudh-en-Ndengin has at least one facedown attachment, the $ of the attached location is reduced to 0.&#10;&#10;Response: After a character is destroyed, attach that card facedown to Haudh-en-Ndengin."/>
   </card>
   <card id="47905ede-7cb1-4c1d-919a-af92f71fce5a" name="Hidden House">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Lore"/>
@@ -541,6 +586,7 @@
     <property name="Text" value="Attach to a location in play.&#10;&#10;While the attached location is the active location, enemies do not make engagement checks."/>
   </card>
   <card id="5ce97207-9317-4cd5-bb75-1df2c7f0cdb3" name="Solitary Outlaw">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Neutral"/>
@@ -550,6 +596,7 @@
     <property name="Text" value="Setup: Attach to a hero. This hero must be the only hero you control.&#10;&#10;Attached hero gets +2 Ò, +2 Û, +2 Ú, +2 hit points and does not exhaust to quest."/>
   </card>
   <card id="b9ef5e42-ff98-4189-9d36-12d6d57a20ae" name="Ard-galen Horse">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Lore"/>
@@ -558,6 +605,7 @@
     <property name="Text" value="Attach to a Noldor hero. Limit 1 per hero.&#10;&#10;Action: Exhaust Ard-galen Horse to place 1 progress token on each location in the staging area."/>
   </card>
   <card id="a9491de0-6e74-4f2f-bfee-1c8e5e441166" name="Ring of Barahir">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -567,6 +615,7 @@
     <property name="Text" value="Attach to an Edain hero.&#10;&#10;Action: Discard Ring of Barahir to put a unique Noldor ally into play from your hand."/>
   </card>
   <card id="818a434c-d23a-4ec3-ac46-63e2665f4510" name="Ringil">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -576,6 +625,7 @@
     <property name="Text" value="Attach to a hero with the House of Fingolfin trait. Restricted.&#10;&#10;Attached hero gets +1 Û (+2 Û if Fingolfin). If the attached hero is Fingolfin, Ringil gains: &quot;Response: After the attached character attacks alone, cancel all damage from the attack and reduce your threat by that amount instead.&quot;"/>
   </card>
   <card id="3d3a2ede-39f8-420d-a121-93f19d284253" name="Rochallor">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -585,6 +635,7 @@
     <property name="Text" value="Attach to Fingolfin.&#10;&#10;Combat Action: Choose an enemy in the staging area. Exhaust Rochallor and the attached hero to make an attack on that enemy. The attached hero gets +1 Û (+2 Û if the enemy is unique)."/>
   </card>
   <card id="af4552f6-713a-4418-a3be-5388655d19f2" name="Blue Shield">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -594,6 +645,7 @@
     <property name="Text" value="Attach to a hero with the House of Fingolfin trait.&#10;&#10;Attached hero gets +1 Ú (+2 Ú if the attached hero is Fingolfin)."/>
   </card>
   <card id="9288286a-a88b-41a8-889b-83e8f4c1e91d" name="Dragon-helm">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -603,6 +655,7 @@
     <property name="Text" value="Attach to a hero with the House of Hador trait. Restricted.&#10;&#10;Response: After attached hero is damaged, exhaust Dragon-helm and raise your threat by 3 to cancel all damage from that attack.&#10;&#10;If attached hero is Túrin, Dragon-helm gains, &quot;Response: After an enemy engages with you, it gets -1 Û and -1 Ú until the end of the round.&quot;"/>
   </card>
   <card id="8c871b05-b22c-41ac-8094-fb266dcc895b" name="Nimphelos">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -612,6 +665,7 @@
     <property name="Text" value="Attach to a hero.&#10;&#10;Action: Pay 1 resource from attached hero's resource pool to give attached hero +1 Ò until the end of the phase. (Limit three times per phase.)"/>
   </card>
   <card id="a4274bdd-ac5f-4ca6-8897-b7f4d3c683b7" name="Aranrúth">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -622,6 +676,7 @@
     <property name="Text" value="Action: Exhaust Aranrúth to give attached hero a Ì, Î, Ï, or Ê icon until the end of the phase.&#10;&#10;If attached hero is Thingol, Aranrúth gains, &quot;Attached hero gets +2 Û.&quot;"/>
   </card>
   <card id="d2f9888e-31f9-42ef-b930-50d67ddcd2f8" name="Strength of Men">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
@@ -629,6 +684,7 @@
     <property name="Text" value="Action: Exhaust an ally with the Edain trait. Add the Ò, Û, and Ú of that ally to all characters with the Noldor trait you control until the end of the round."/>
   </card>
   <card id="0061b168-c37d-46bc-ac7b-2eedad688b80" name="Erchamion">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
@@ -637,6 +693,7 @@
     <property name="Text" value="Response: After a character is destroyed, put that character back into play under its owner's control. Attach Erchamion to that character. (Counts as a Condition attachment with the text: &quot;The attached character gets -1 Û and -1 Ú.&quot;"/>
   </card>
   <card id="64f09d1d-9421-449d-a121-9b572001e576" name="The Day Has Come!">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
@@ -644,6 +701,7 @@
     <property name="Text" value="Action: Until the end of the phase, all Noldor characters get +1 Ò."/>
   </card>
   <card id="0236a411-93bd-4865-99c7-afbbcf66e0a8" name="Song of Lúthien">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
@@ -652,6 +710,7 @@
     <property name="Text" value="Action: If you control Lúthien or a unique Maia character, reduce each player's threat by 3."/>
   </card>
   <card id="1e9fb582-1b63-4d5e-98a1-c95b4ea8d5b4" name="Song of Staying">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
@@ -660,6 +719,7 @@
     <property name="Text" value="Response: After a treachery with doomed or surge is revealed, cancel the effects of all keywords on that treachery."/>
   </card>
   <card id="7c6344c7-b769-4548-b64b-ade76bcd9c1c" name="Arts of Felagund">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
@@ -669,6 +729,7 @@
     <property name="Text" value="Quest Action: Until the end of the phase, each enemy revealed during staging is discarded and replaced with the next encounter card instead. Add this card to the victory display."/>
   </card>
   <card id="495c08de-1f3d-4d5c-9c27-2767c3dab2f3" name="Passed in Peace">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
@@ -676,6 +737,7 @@
     <property name="Text" value="Response: After a character with the Edain trait leaves play, play Passed in Peace to draw 2 cards."/>
   </card>
   <card id="af32245f-be6f-4efc-87a2-e58ca08e8d42" name="Leaguer">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Neutral"/>
@@ -683,6 +745,7 @@
     <property name="Text" value="Action: Exhaust characters with X points of total Ú to choose enemies with up to X points of total Û. Those enemies cannot attack this round."/>
   </card>
   <card id="94639ce3-19a2-41dc-92f5-e4a7b4d44b06" name="Hour of Need">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
@@ -690,6 +753,7 @@
     <property name="Text" value="Response: If at least X enemies are engaged with players (X being equal to twice the number of players), each player may put 1 ally into play from his hand, if able."/>
   </card>
   <card id="533740a7-2348-4ef2-9c5d-1bf2b26a4daa" name="A Great Doom">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
@@ -698,6 +762,7 @@
     <property name="Text" value="Response: After a player card is drawn or an encounter card is revealed (including a shadow effect), shuffle that card back into its deck and draw a new card."/>
   </card>
   <card id="d2f9f10a-db5c-4aa0-ae0c-e9d33c244a69" name="Undismayed">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
@@ -705,6 +770,7 @@
     <property name="Text" value="Response: After a character is destroyed by an enemy attack, put that character back into play. That character gets +3 Û and is discarded at the end of the phase."/>
   </card>
   <card id="e8fd8691-39fe-49fe-9292-b47399d1153e" name="Feast of Reuniting">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
@@ -712,6 +778,7 @@
     <property name="Text" value="Action: All characters gain ranged and sentinel until the end of the phase."/>
   </card>
   <card id="b3c1c5fd-56ca-4b9c-a9b5-d9796e090c76" name="Banners and Horns">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
@@ -719,6 +786,7 @@
     <property name="Text" value="Response: After a unique ally you control enters play, choose any non-unique enemy in play. That enemy gets -X Û and -X Ú until the end of the round. (X is equal to the cost of that ally.)"/>
   </card>
   <card id="33c90530-7cef-4138-b6b5-0bbe5c997f1f" name="No Better Hope">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
@@ -726,6 +794,7 @@
     <property name="Text" value="Action: Exhaust a hero you control to discard a corrupted character from play."/>
   </card>
   <card id="eddac7bc-182e-4b80-9171-bfa48dbfa679" name="Hold to the Oath">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
@@ -734,6 +803,7 @@
     <property name="Text" value="Action: Each character with an attached Oath gets +1 Ò, +1 Û, and +1 Ú until the end of the round."/>
   </card>
   <card id="b0356374-d811-4ebf-84e0-916262b4b8ac" name="Manwë's Pity">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
@@ -742,6 +812,7 @@
     <property name="Text" value="Response: After a unique Noldor ally you control is destroyed by an enemy attack, immediately put into play another copy of that ally from your hand."/>
   </card>
   <card id="3840d489-587b-4ffb-8159-1040aa258f88" name="Secrets of Craft">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
@@ -749,6 +820,7 @@
     <property name="Text" value="Action: Choose a player. That player draws 1 card for each Item attachment you control."/>
   </card>
   <card id="8cfb1da9-d041-44f4-acb7-42a872bd55e0" name="Dreams from Ulmo">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
@@ -757,6 +829,7 @@
     <property name="Text" value="If the active location is a River or Water location, reduce the cost to play Dreams from Ulmo by 1.&#10;&#10;Action: Choose one character you control. Shuffle the encounter deck and look at its top card. Until the end of the phase, the chosen character gets +X Ò. X is equal to the revealed card's $."/>
   </card>
   <card id="92cc7a50-91b9-469b-8038-20d18807c29e" name="Friendship of Ulmo">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
@@ -765,6 +838,7 @@
     <property name="Text" value="If the active location is a River or Water location, reduce the cost to play Friendship of Ulmo by 2.&#10;&#10;Action: Reveal all shadow cards in play. Then, choose two shadow cards from different enemies and switch them."/>
   </card>
   <card id="b03a4bd2-850f-4d18-b61b-28248537d448" name="Strengthen the Watch">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
@@ -772,6 +846,7 @@
     <property name="Text" value="Encounter Action: Exhaust a character. All enemies that engaged you this phase get -1 Û until the end of the round."/>
   </card>
   <card id="78970cd3-4c09-4c5d-83a7-261fb7dddfd6" name="Secret Toil">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
@@ -779,6 +854,7 @@
     <property name="Text" value="Action: Exhaust 2 heroes you control to reveal the top 5 cards of your deck. Choose one attachment or ally and put it into play for no cost. Shuffle all other revealed cards back into your deck."/>
   </card>
   <card id="bbcf552f-73cc-44c4-8d53-d16a926cc895" name="...And Yet A Warning">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
@@ -786,6 +862,7 @@
     <property name="Text" value="Response: After you attack and destroy an enemy, choose one: add 1 resource to the resource pool of a hero you control, draw 1 card, or lower your threat by 1."/>
   </card>
   <card id="44138d4e-bb5d-4413-b28e-e29a39d93bc5" name="Song of Gladness">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
@@ -794,6 +871,7 @@
     <property name="Text" value="Play only if there are no enemies engaged with you.&#10;&#10;Action: Reduce your threat by 3."/>
   </card>
   <card id="600f25fa-0863-4f7c-baf2-e68677200988" name="Flame Light! Flee Night!">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
@@ -801,6 +879,7 @@
     <property name="Text" value="Play only if you control a hero with the Edain trait.&#10;&#10;Action: Search your deck for a character with the Edain trait and put it into play. That character does not exhaust to quest, attack, or defend until the end of the round. Discard that character at the end of the round."/>
   </card>
   <card id="7bbfe8f2-e9ed-430f-a01a-0b27b6eba9a4" name="Day Shall Come Again">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
@@ -808,6 +887,7 @@
     <property name="Text" value="Response: After a character you control destroys an enemy, ready that character. That character gets +1 Û until the end of the round. You may pay 1 Ï resource to return Day Shall Come Again to your hand."/>
   </card>
   <card id="8147cf97-844f-41db-a6cb-456bb2d8d1bb" name="Fëanor">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -821,6 +901,7 @@
     <property name="Text" value="Action: Place 1 Corruption on Fëanor to place 3 progress tokens on the quest. (Limit once per round).&#10;&#10;Action: Place 1 Corruption on Fëanor to play an attachment from any sphere of influence for no cost."/>
   </card>
   <card id="31de6df1-d605-4ad4-ac36-29f717bfc92e" name="Thingol">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -834,6 +915,7 @@
     <property name="Text" value="While at least 1 character with the House of Fëanor trait is in play, Thingol's Ò is treated as 1 for the purposes of Corruption.&#10;&#10;Setup: Choose 10 different cards from your deck and shuffle them into a separate Menegroth deck. After an enemy engages you, draw 1 card from the Menegroth deck."/>
   </card>
   <card id="401c19ae-f7b8-4ce8-80ec-06c14ef6b323" name="Túrin Turambar">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -847,6 +929,7 @@
     <property name="Text" value="Action: Raise your threat by 1 to give Túrin Turambar +1 Û until the end of the round.&#10;&#10;Response: After Túrin Turambar is dealt any amount of damage, discard a character you control to cancel that damage. (Limit once per phase.)"/>
   </card>
   <card id="d0590810-8dfe-43e0-9b12-63ebcbaee153" name="Celegorm">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -860,6 +943,7 @@
     <property name="Text" value="Celegorm gets +1 Û for each non-unique location in the staging area.&#10;&#10;Action: Place 1 Corruption on Celegorm to search the top 10 cards of the encounter deck for a location and add it to the staging area."/>
   </card>
   <card id="12651993-2955-4c4a-8695-5828b0f26f2a" name="Maglor">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -873,6 +957,7 @@
     <property name="Text" value="Response: When a Corruption token would be placed on a character you control by the encounter deck, exhaust Maglor to place that Corruption token on Maglor instead."/>
   </card>
   <card id="f14eb968-2181-456e-97cf-3275af57d890" name="Caranthir">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -886,6 +971,7 @@
     <property name="Text" value="Response: After a treachery is revealed and resolved, attach that card facedown to Caranthir. That attachment gains the Fury trait.(Limit once per round.)&#10;&#10;Action: Attach a Fury attachment to an enemy engaged with you. That enemy gets +1 Û and -1 Ú."/>
   </card>
   <card id="bdbcd9ef-ba0d-4136-a973-2ebc7215cd23" name="Maeglin">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -899,6 +985,7 @@
     <property name="Text" value="Response: After the active location is explored, add 1 resource to a hero's resource pool (2 resources instead if you place 1 Corruption on that hero)."/>
   </card>
   <card id="357b134b-1af6-4cb4-8fc5-1f7c3fc1cc05" name="Maedhros">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -912,6 +999,7 @@
     <property name="Text" value="While Maedhros has no Corruption on him, all Noldor characters get +1 Ò.&#10;&#10;While Maedhros has at least 1 Corruption on him, all characters with the House of Fëanor trait get +1 Û.&#10;&#10;Action: Place 1 Corruption on Maedhros"/>
   </card>
   <card id="6f13ed8d-8e7c-46c7-b65d-d26370409324" name="Curufin">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
@@ -925,6 +1013,7 @@
     <property name="Text" value="While Fëanor is in play, Curufin gains: &quot;Action: Place 1 Corruption on Curufin. Until the end of the round, Curufin's Ò, Û and Ú are equal to the printed Ò, Û, and Ú of Fëanor.&quot;"/>
   </card>
   <card id="92602678-0802-4c45-971e-0eff7a57855a" name="Oath of Fëanor">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Mastery"/>
@@ -933,6 +1022,7 @@
     <property name="Text" value="Attach to a character with the House of Fëanor trait. Limit 1 per character.&#10;&#10;Corruption on the attached character cannot be removed.&#10;&#10;Planning Action: Exhaust Oath of Fëanor to switch the printed Û and Ò of the attached character until the end of the round."/>
   </card>
   <card id="4186631e-c283-4a5e-b364-7a8ade2255ab" name="Nauglamír">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -942,6 +1032,7 @@
     <property name="Text" value="Lower the cost to play Nauglamír by 1 for each Dwarf in play. Attach to a hero.&#10;&#10;Each hero you control gets +1 Ò, +1 Û, and +1 Ú.&#10;&#10;Forced: At the start of the combat phase, discard a resource from the attached hero's resource pool for each Dwarf in play. Any Dwarf for which you did not discard a resource immediately becomes corrupted."/>
   </card>
   <card id="ed103684-c82e-4f33-933b-329fc1598b3f" name="Galvorn Armor">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Mastery"/>
@@ -950,6 +1041,7 @@
     <property name="Text" value="Attach to a Mastery hero. Limit 1 per hero.&#10;&#10;Attached hero gets +1 Ú. Attached hero gets an additional +1 Ú for each Corruption on the attached hero."/>
   </card>
   <card id="b113f353-7dab-4689-8f16-05c7e6935950" name="Poisoned Javelin">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Mastery"/>
@@ -958,6 +1050,7 @@
     <property name="Text" value="Attach to a Mastery character. Restricted.&#10;&#10;Response: After attached character damages an enemy, attach Poisoned Javelin to that enemy.&#10;&#10;Forced: At the end of each round, if Poisoned Javelin is attached to an enemy, deal 2 damage to that enemy. You may place 1 Corruption on a hero you control to increase this to 4 damage."/>
   </card>
   <card id="2cf2b206-3dcb-41f3-abdb-c3c3282779f9" name="Gurthang">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -967,6 +1060,7 @@
     <property name="Text" value="Attach to a hero with a printed Mastery resource icon. Restricted.&#10;&#10;Attached hero gets +1 Û.&#10;&#10;Response: After attached hero damages an enemy, shuffle the encounter deck and discard the top card. If it is a treachery, cancel all damage from the attack and discard a hero. Otherwise, the enemy is destroyed."/>
   </card>
   <card id="8a9a4961-146f-4f92-8372-c8f4ac733964" name="Mormegil">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -976,6 +1070,7 @@
     <property name="Text" value="Attach to Túrin Turambar. Limit one Name in play.&#10;&#10;Túrin Turambar gains a Ï resource icon.&#10;&#10;All enemies get -1 $ and -10 engagement cost."/>
   </card>
   <card id="ddb7c844-c06b-453a-bbe9-5d4b9795859d" name="Madness of Rage">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Mastery"/>
@@ -983,6 +1078,7 @@
     <property name="Text" value="Action: Choose a character you control. Until the end of the phase, that character gets +3 Û and must attack alone."/>
   </card>
   <card id="50166774-b3ac-425b-8662-8caf1986688e" name="Fire of Life">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Mastery"/>
@@ -991,6 +1087,7 @@
     <property name="Text" value="Response: After a character with the House of Fëanor trait is damaged, cancel 1 point of that damage and attach Fire of Life to that character. (Counts as a Condition attachment with the text: &quot;Limit 1 per character. Attached character gets +1 Û.&quot;)"/>
   </card>
   <card id="96fa686b-dcae-426d-b002-9a4f45754117" name="Defied and Mocked">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Mastery"/>
@@ -998,6 +1095,7 @@
     <property name="Text" value="Action: Choose an ally. That ally can be assigned damage from undefended attacks until the end of the phase."/>
   </card>
   <card id="8bba480a-0306-4eb3-a577-99cdef1e1430" name="Dreadful Death">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Mastery"/>
@@ -1005,6 +1103,7 @@
     <property name="Text" value="Response: After a corrupted character destroys a hero or ally, remove all Corruption from that character and place it under your control."/>
   </card>
   <card id="6795405b-b28c-43bf-ae4d-318643d19d63" name="Dark Heart of the Smith">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Mastery"/>
@@ -1012,6 +1111,7 @@
     <property name="Text" value="Action: Place 1 Corruption on a character with a unique Weapon attached. All damage dealt by that character is doubled this round. Only 1 copy of Dark Heart of the Smith may be played on a character each round."/>
   </card>
   <card id="6cd143f3-4f7b-40c7-a09d-3f37b910676b" name="Open Battle">
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Mastery"/>

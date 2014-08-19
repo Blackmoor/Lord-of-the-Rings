@@ -26,6 +26,7 @@
     <property name="Health" value="2"/>
   </card>
   <card id="14936075-9e6a-43af-9497-dbee9df95781" name="Feigned Voices">
+    <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Cost" value="0"/>

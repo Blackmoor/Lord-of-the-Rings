@@ -48,7 +48,7 @@
     <property name="Text" value="Forced: After the players travel to The Stone of Erech, the first player gains control of Derufin.&#10;&#10;Dusk. Derufin gets -1 Ò.&#10;&#10;Midnight. Derufin gets -2 Ò.&#10;&#10;If Derufin leaves play, the players lose the game."/>
   </card>
   <card id="7b9dd852-ed19-4a00-b09e-f6c2cee549fa" name="The Lord of the Dead">
-    <property name="Quantity" value="2"/>
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Stone of Erech"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>

@@ -291,7 +291,7 @@
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks."/>
   </card>
   <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9006" name="Blocking Wargs">
-    <property name="Quantity" value="3"/>
+    <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>

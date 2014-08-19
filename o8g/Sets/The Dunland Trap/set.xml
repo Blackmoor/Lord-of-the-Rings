@@ -31,7 +31,7 @@
     <property name="Cost" value="1"/>
   </card>
   <card id="0ee1f1e6-1952-4bad-8ecd-631e80f4ccc0" name="Firefoot">
-    <property name="Quantity" value="1"/>
+    <property name="Quantity" value="3"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Tactics"/>

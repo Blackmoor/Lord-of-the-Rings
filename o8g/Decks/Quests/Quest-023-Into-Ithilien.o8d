@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
   <section name="Quest" shared="True">
     <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9027">Ambush in Ithilien - 1A</card>
     <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9029">Southron Counter-attack - 2A</card>
@@ -7,7 +7,7 @@
     <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9033">Approaching Cair Andros - 4A</card>
   </section>
   <section name="Encounter" shared="True">
-    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9006">Blocking Wargs</card>
+    <card qty="4" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9006">Blocking Wargs</card>
     <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9046">Ithilien Guardian</card>
     <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9047">Ithilien Road</card>
     <card qty="4" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9075">Southron Company</card>

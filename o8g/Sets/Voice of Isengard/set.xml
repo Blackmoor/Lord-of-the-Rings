@@ -145,6 +145,7 @@
     <property name="Cost" value="0"/>
   </card>
   <card id="5542dd91-98bd-4a72-bd19-f706f3440ab8" name="Gríma">
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
@@ -497,7 +498,7 @@
     <property name="Quest Points" value="6"/>
   </card>
   <card id="8f3395ff-bccf-4620-beec-581c585682f2" name="Take Cover!">
-    <property name="Quantity" value="2"/>
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Broken Lands"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>

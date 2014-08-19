@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Trouble in Tharbad" id="a7a8082e-9338-4fcc-af5c-3b2c9f9ccc90" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
+ <cards>
+  <card id="9d548a43-0ef8-45e6-ab95-7356d218d203" name="Haldir of Lórien">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Silvan. Ranger. Scout."/>
+    <property name="Keywords" value="Ranged."/>
+    <property name="Cost" value="9"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="8c6be9f6-f97c-40a9-88da-2f3ba7f640ed" name="Herald of Anórien">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Gondor."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="1"/>
+  </card>
+  <card id="b4d93180-0ebc-4a9b-9817-e761068570e3" name="O Lórien!">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Song."/>
+    <property name="Keywords" value="Attach to a hero."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="2e7f22cc-218e-4dad-b4e4-00b2208713d9" name="Gwaihir">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Creature. Eagle."/>
+    <property name="Keywords" value="Gwaihir cannot have restricted attachment.s"/>
+    <property name="Cost" value="5"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="af74e00e-a04e-4a15-a538-d36539bfb751" name="Pursuing the Enemy">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Cost" value="0"/>
+  </card>
+  <card id="72ec977b-6d24-459c-aaa8-49c2a01f0766" name="Courage Awakened">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="0d0b210e-995a-4ded-b7b0-d32b59dbaa4f" name="Free to Choose">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Cost" value="0"/>
+  </card>
+  <card id="bd81ff6a-9c8f-415e-85fb-da84c21ef2a4" name="Galadhrim Minstrel">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Silvan. Minstrel."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="1"/>
+  </card>
+  <card id="f86ea37a-d70d-4ff2-ac36-2a0ff1f7ffa9" name="Lembas">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Item."/>
+    <property name="Keywords" value="Play only if you control a Noldor or Silvan hero.&#10;&#10;Attach to a hero."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="b91ba94d-e6b9-41f6-89ed-df1fb1f22335" name="Defender of the Naith">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Silvan. Warrior."/>
+    <property name="Keywords" value="Sentinel."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="022c654e-9d4d-40ff-9d67-8e465fda0e78" name="Double Dealings - 1A">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Quest"/>
+    <property name="Setup" value="ttttttlt"/>
+    <alternate name="Double Dealings - 1B" type="B">
+      <property name="Type" value="Quest"/>
+      <property name="Quest Points" value="-"/>
+    </alternate>
+  </card>
+  <card id="f86ef645-bc8b-41a0-b288-80118f5433cc" name="Escape from Tharbad - 2A">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Quest"/>
+    <alternate name="Escape from Tharbad - 2B" type="B">
+      <property name="Type" value="Quest"/>
+      <property name="Quest Points" value="-"/>
+    </alternate>
+  </card>
+  <card id="79f789a1-8a89-468b-8fb1-7a0292cc963f" name="Nalir">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Dwarf."/>
+    <property name="Keywords" value="The first player gains control of Nalir."/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="1d1adc93-c364-41d0-b987-6038d9df0c07" name="The Empty Mug">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="City."/>
+    <property name="Keywords" value="Players cannot reduce their threat."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Victory Points" value="4"/>
+  </card>
+  <card id="8f6254c0-a723-4e66-bdc7-4c92eed415f8" name="Bellach">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Mordor. Spy."/>
+    <property name="Keywords" value="X is the number of players in the game."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="X"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="7"/>
+  </card>
+  <card id="8b203ead-9fb6-4734-9109-3633fc24d1a9" name="The Crossing at Tharbad">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="City. Ruins. River."/>
+    <property name="Keywords" value="Immune to player card effects. Cannot leave the staging area."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="10"/>
+  </card>
+  <card id="8cc366fb-68f0-4401-9df9-20f9258a728c" name="Spy from Mordor">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Mordor. Orc. Spy."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="57f80fa2-0fdb-47b1-a441-939ee4cc6b4e" name="Bellach's Marauder">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="c2181617-ad55-4bf7-a6f3-60979d112ce6" name="Streets of Tharbad">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="City. Road."/>
+    <property name="Keywords" value="Progress cannot be placed on Streets of Tharbad while it is in the staging area."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="1"/>
+  </card>
+  <card id="eaad2b4a-3ac0-4672-ad43-036152d81322" name="Tharbad Hideout">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="City."/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="1"/>
+  </card>
+  <card id="3d25a41e-6a10-4fd7-a159-2b25bfc54454" name="Ruins of the Second Age">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="City. Ruins."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="5"/>
+  </card>
+  <card id="ead7703f-43e0-464e-ac09-304b86a54b50" name="Seedy Inn">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="City."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="3"/>
+  </card>
+  <card id="cafa6a4e-1994-4a22-a465-3c03f1c0a425" name="Hidden Alleyway">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="City."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="5"/>
+  </card>
+  <card id="8a4aebc3-32db-4b2f-965c-548058440a7c" name="Decrepit Rooftops">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="City."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="3"/>
+  </card>
+  <card id="51681809-60af-4819-bfa0-3f568987f4ea" name="Constant Tail">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="1b3b1063-e102-4fea-a29b-5692fbfb9cd6" name="Conspicuous Lot">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="44c49a79-6396-494c-a311-bf1b25263acb" name="Cornered">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="2f7770cd-3102-4f35-a3bc-bd9afcab8303" name="Get That Dwarf!">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Trouble in Tharbad"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+ </cards>
+</set>

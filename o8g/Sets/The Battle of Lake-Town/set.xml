@@ -38,7 +38,6 @@
     <property name="Encounter Set" value="The Battle of Lake-Town"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
-    <property name="Sphere" value="Special"/>
     <property name="Traits" value="Dragon."/>
     <property name="Keywords" value="Immune to plater card effects."/>
     <property name="Engagement Cost" value="40"/>
@@ -53,7 +52,6 @@
     <property name="Encounter Set" value="The Battle of Lake-Town"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
-    <property name="Sphere" value="Special"/>
     <property name="Traits" value="Dragon."/>
     <property name="Keywords" value="Immune to player card effects."/>
     <property name="Engagement Cost" value="35"/>
@@ -68,7 +66,6 @@
     <property name="Encounter Set" value="The Battle of Lake-Town"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
-    <property name="Sphere" value="Special"/>
     <property name="Traits" value="Dragon."/>
     <property name="Keywords" value="Immune to player card effects."/>
     <property name="Engagement Cost" value="30"/>
