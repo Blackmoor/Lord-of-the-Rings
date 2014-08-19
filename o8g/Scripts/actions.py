@@ -432,11 +432,9 @@ def deckLoaded(player, groups):
 	#Check for cards with a Setup effects and move other cards back into the correct pile
 	for p in groups:
 		for card in p:
-			if card.Type in [ 'Nightmare', 'Campaign' ]:
-				continue
-			elif card.Setup == 't':
+			if card.Setup == 't' and card.Type not in [ 'Quest' , 'Nightmare', 'Campaign' ]:
 				addToTable(card)
-			elif card.Setup == 's':
+			elif card.Setup == 's' and card.Type not in [ 'Quest' , 'Nightmare', 'Campaign' ]:
 				addToStagingArea(card)
 			elif p == encounterDiscard():
 				card.moveTo(encounterDeck())
