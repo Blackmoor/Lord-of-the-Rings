@@ -91,49 +91,74 @@
     <property name="Traits" value="Item."/>
     <property name="Keywords" value="Attach to a hero. Limit 1 per hero."/>
   </card>
-  <card id="460a1e18-8a57-44a5-bd06-f0c1b13c86b5" name="The Trials Begin - 1A">
+  <card id="460a1e18-8a57-44a5-bd06-f0c1b13c86b5" name="The Trials Begin">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="tttttttttt"/>
-    <alternate name="The Trials Begin - 1B" type="B">
+    <alternate name="The Trials Begin" type="B">
+      <property name="Encounter Set" value="The Three Trials"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="–"/>
     </alternate>
   </card>
-  <card id="8e6fe06e-36a6-491d-ae17-6580ddfd8014" name="The Trial of Strength - 2A">
+  <card id="8e6fe06e-36a6-491d-ae17-6580ddfd8014" name="The Trial of Strength">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Trial of Strength - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Trial of Strength" type="B">
+      <property name="Encounter Set" value="The Three Trials"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="–"/>
     </alternate>
   </card>
-  <card id="be43a52a-370a-4481-bc84-8e004ecbfdca" name="The Trial of Perseverance - 2A">
+  <card id="be43a52a-370a-4481-bc84-8e004ecbfdca" name="The Trial of Perseverance">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Trial of Perseverance - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Trial of Perseverance" type="B">
+      <property name="Encounter Set" value="The Three Trials"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="–"/>
     </alternate>
   </card>
-  <card id="8a0c8aef-d820-495f-b8f6-f2148f0786ba" name="The Trial of Intuition - 2A">
+  <card id="8a0c8aef-d820-495f-b8f6-f2148f0786ba" name="The Trial of Intuition">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Trial of Intuition - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Trial of Intuition" type="B">
+      <property name="Encounter Set" value="The Three Trials"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="–"/>
     </alternate>
   </card>
-  <card id="47f627da-150c-41b2-9442-390d8d2a897a" name="The Antlered Crown - 3A">
+  <card id="47f627da-150c-41b2-9442-390d8d2a897a" name="The Antlered Crown">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Antlered Crown - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Antlered Crown" type="B">
+      <property name="Encounter Set" value="The Three Trials"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="1"/>
     </alternate>
   </card>

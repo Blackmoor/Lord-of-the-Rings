@@ -1,36 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Stone of Erech" id="4f22640f-ac14-4af3-8d94-c37adbb39703" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
-  <card id="e4af5d7f-9af5-41bb-b22a-cce8b91ac791" name="The Disappearance - 1A">
+  <card id="e4af5d7f-9af5-41bb-b22a-cce8b91ac791" name="The Disappearance">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Stone of Erech"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Make Tarlang's Neck the active location. Set Derufin, The Lord of the Dead, The Stone of Erech, and the 3 Night objectives aside, out of play. Shuffle the encounter deck. Place Eventide into play, next to the current quest."/>
     <property name="Setup" value="ltttttt"/>
-    <alternate name="The Disappearance - 1B" type="B">
+    <alternate name="The Disappearance" type="B">
+      <property name="Encounter Set" value="The Stone of Erech"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="6"/>
       <property name="Text" value="When Revealed: Reveal 1 encounter card per player, adding them to the staging area.&#10;&#10;Players cannot defeat this stage while Tarlang's Neck is in play."/>
     </alternate>
   </card>
-  <card id="ecc8fd11-b2b9-4adc-91eb-6fcc1212e7ce" name="Terror of the Dead - 2A">
+  <card id="ecc8fd11-b2b9-4adc-91eb-6fcc1212e7ce" name="Terror of the Dead">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Stone of Erech"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Add The Stone of Erech to the staging area and attach Derufin to it."/>
-    <alternate name="Terror of the Dead - 2B" type="B">
+    <alternate name="Terror of the Dead" type="B">
+      <property name="Encounter Set" value="The Stone of Erech"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Forced: At the beginning of each round, the players must choose: each player skips the next planning phase, or heroes do not collect resources during the resource phase this round."/>
     </alternate>
   </card>
-  <card id="efd4cef9-ce8b-4985-8825-853ba98baa2b" name="The Shadow Host - 3A">
+  <card id="efd4cef9-ce8b-4985-8825-853ba98baa2b" name="The Shadow Host">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Stone of Erech"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Starting with the first player, each player searches the encounter deck and discard pile for 1 Oathbreaker enemy, reveals it, and adds it to the staging area. Add the Lord of the Dead to the staging area. Shuffle the encounter deck."/>
-    <alternate name="The Shadow Host - 3B" type="B">
+    <alternate name="The Shadow Host" type="B">
+      <property name="Encounter Set" value="The Stone of Erech"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="14"/>
       <property name="Text" value="Players cannot place progress on this stage unless they control Derufin.&#10;&#10;If the players defeat this stage, they have escaped the Blackroot Vale with Derufin and won the game."/>
     </alternate>

@@ -103,25 +103,35 @@
     <property name="Cost" value="2"/>
     <property name="Text" value="Combat Action: Enemies engaged with you do not attack this round. You cannot declare attacks this round."/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93001" name="Savagery of the Orcs - 1A">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93001" name="Savagery of the Orcs">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Set Ghulat aside, out of play. Put Lord Alcaron into play. Make Burning Farmhouse the active location. Add the Rescued Villagers and Dead Villagers objectives to the staging area. Then, shuffle the encounter deck and reveal 1 encounter card per player and add it to the staging area."/>
     <property name="Setup" value="ttlss"/>
-    <alternate name="Savagery of the Orcs - 1B" type="B">
+    <alternate name="Savagery of the Orcs" type="B">
+      <property name="Encounter Set" value="Encounter at Amon Dîn"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When progress would be placed on Savagery of the Orcs, move an equal number of villager tokens from this quest onto Rescued Villagers instead.&#10;&#10;If there are no villager tokens on Savagery of the Orcs, advance to the next stage."/>
     </alternate>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93002" name="Protect the Villagers - 1A">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93002" name="Protect the Villagers">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Add Ghulat to the staging area."/>
-    <alternate name="Protect the Villagers - 1B" type="B">
+    <alternate name="Protect the Villagers" type="B">
+      <property name="Encounter Set" value="Encounter at Amon Dîn"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="If an attack goes undefended, discard X villager tokens from Rescued Villagers instead of damaging a hero. X is the amount of damage that would have been dealt.&#10;&#10;When the players defeat this stage, end the game. Compare the number of tokens on Rescued Villagers to the number of tokens on Dead Villagers."/>
     </alternate>

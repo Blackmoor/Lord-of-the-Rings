@@ -103,36 +103,51 @@
     <property name="Cost" value="0"/>
     <property name="Text" value="Action: Name a sphere. Until the end of the phase, you can spend resources of any sphere when paying for cards that belong to the named sphere."/>
   </card>
-  <card id="4e12f20f-aec3-4311-a656-10a517fd97fe" name="Conspiracy - 1A">
+  <card id="4e12f20f-aec3-4311-a656-10a517fd97fe" name="Conspiracy">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Steward's Fear"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Create the underworld deck. Remove Roots of Mindolluin from the encounter deck and set it aside, out of play. Shuffle all Villain cards and randomly set one aside, out of play, without looking at it. Remove the others from the game. Repeat this with all Plot cards."/>
     <property name="Setup" value="tttttttl"/>
-    <alternate name="Conspiracy - 1B" type="B">
+    <alternate name="Conspiracy" type="B">
+      <property name="Encounter Set" value="The Steward's Fear"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When revealed: Search the encounter deck for The Fourth Star and make it the active location. Shuffle the encounter deck.&#10;&#10;Forced: After the active location leaves play as an explored location, place 1 resource token on this quest.&#10;&#10;If there are 4 or more resource tokens on Conspiracy, advance to the next stage."/>
     </alternate>
   </card>
-  <card id="21ee317d-9aca-43be-9782-521539827cb8" name="The Grand Design - 2A">
+  <card id="21ee317d-9aca-43be-9782-521539827cb8" name="The Grand Design">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Steward's Fear"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Reveal the set aside Plot card and add it to the staging area."/>
-    <alternate name="The Grand Design - 2B" type="B">
+    <alternate name="The Grand Design" type="B">
+      <property name="Encounter Set" value="The Steward's Fear"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When Revealed: Make Roots of Mindolluin the active location, returning any other active location to the staging area.&#10;&#10;Forced: After the active location leaves play as an explored location place 1 resource token on this quest.&#10;&#10;If there are 4 or more resource tokens on The Grand Design, advance to the next stage."/>
     </alternate>
   </card>
-  <card id="8239e81a-f779-4c7c-b586-cd5ad732f061" name="The Confrontation - 3A">
+  <card id="8239e81a-f779-4c7c-b586-cd5ad732f061" name="The Confrontation">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Steward's Fear"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Reveal the set aside Villain card and add it to the staging area."/>
-    <alternate name="The Confrontation - 3B" type="B">
+    <alternate name="The Confrontation" type="B">
+      <property name="Encounter Set" value="The Steward's Fear"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="When Revealed: Shuffle the underworld deck into the encounter deck. The players cannot defeat this stage while a Villain is in play.&#10;&#10;If this stage is defeated, the players have won the game."/>
     </alternate>

@@ -101,14 +101,19 @@
     <property name="Cost" value="1"/>
     <property name="Text" value="Attached hero gains a Ê resource icon."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9019" name="The Hills of Emyn Muil - 1A">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9019" name="The Hills of Emyn Muil">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Search the encounter deck for Amon Hen and Amon Lhaw, and add them to the staging area. Then shuffle the encounter deck."/>
     <property name="Setup" value="ss"/>
-    <alternate name="The Hills of Emyn Muil - 1B" type="B">
+    <alternate name="The Hills of Emyn Muil" type="B">
+      <property name="Encounter Set" value="The Hills of Emyn Muil"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="Forced: If there are no location cards in the staging area, the first treachery card revealed during the quest phase gains surge.&#10;&#10;Players cannot defeat this stage unless there are no Emyn Muil locations in play, and they have collected at least 20 victory points."/>
     </alternate>

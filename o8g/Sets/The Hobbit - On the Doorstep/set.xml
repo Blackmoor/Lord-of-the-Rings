@@ -690,142 +690,207 @@
     <property name="Keywords" value="Surge."/>
     <property name="Text" value="When Revealed: Choose a different quest to be the current quest until the end of the round, if able. If the current quest did not change as a result of this effect, this card gains Doomed 3."/>
   </card>
-  <card id="1866ce74-8552-4ac5-8b0a-1e7a6f3b4338" name="Into Mirkwood - 1A">
+  <card id="1866ce74-8552-4ac5-8b0a-1e7a6f3b4338" name="Into Mirkwood">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flies and Spiders"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Each player may shuffle 1 copy Bilbo's Magic Ring into his deck. Search the encounter deck for The Spider's Glade and set it aside, out of play. Then, shuffle the encounter deck and reveal 1 encounter card per player."/>
     <property name="Setup" value="t"/>
-    <alternate name="Into Mirkwood - 1B" type="B">
+    <alternate name="Into Mirkwood" type="B">
+      <property name="Encounter Set" value="Flies and Spiders"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="Unconscious characters cannot quest, attack, defend, collect resources, trigger abilities, be poisoned, or ready (except by effects that target unconscious characters)."/>
     </alternate>
   </card>
-  <card id="a4ffb8cd-fd95-4b47-95d1-637bd2bd78a1" name="Lost in the Dark - 2A">
+  <card id="a4ffb8cd-fd95-4b47-95d1-637bd2bd78a1" name="Lost in the Dark">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flies and Spiders"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Lost in the Dark - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Lost in the Dark" type="B">
+      <property name="Encounter Set" value="Flies and Spiders"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When Revealed: Reveal stage 3 and create a separate staging area for the first player using that stage. If there are no other players in the game, discard this stage and each card in its staging area. All other players advance to stage 4."/>
     </alternate>
   </card>
-  <card id="d99e07f6-7a57-4b5f-a108-13bd7ce6fa4b" name="Captured by Spiders - 3A">
+  <card id="d99e07f6-7a57-4b5f-a108-13bd7ce6fa4b" name="Captured by Spiders">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flies and Spiders"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Remove all resources from each hero's resource pool. Then, make each character you control (except Bilbo Baggins) unconscious."/>
-    <alternate name="Captured by Spiders - 3B" type="B">
+    <alternate name="Captured by Spiders" type="B">
+      <property name="Encounter Set" value="Flies and Spiders"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="11"/>
       <property name="Text" value="Unconscious characters cannot quest, attack, defend, collect resources, trigger abilities, be poisoned, or ready (except by effects that target unconscious characters).&#10;&#10;Do not pass the first player token. When this stage is complete, do not advance to stage 4 until the end of the quest phase. (Combine staging areas if necessary.)&#10;&#10;Action: Spend 2 Í resources to ready an unconscious character you control."/>
     </alternate>
   </card>
-  <card id="1ee75e10-bcc5-4243-ab28-3dc1978a50af" name="Battle with the Spiders - 4A">
+  <card id="1ee75e10-bcc5-4243-ab28-3dc1978a50af" name="Battle with the Spiders">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flies and Spiders"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Add The Spider's Glade to the staging area."/>
-    <alternate name="Battle with the Spiders - 4B" type="B">
+    <alternate name="Battle with the Spiders" type="B">
+      <property name="Encounter Set" value="Flies and Spiders"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="3"/>
       <property name="Text" value="Unconscious characters cannot quest, attack, defend, collect resources, trigger abilities, be poisoned, or ready (except by effects that target unconscious characters).&#10;&#10;Progress cannot be placed on this stage while The Spider's Glade is in play.&#10;&#10;Action: Spend 2 Í resources to ready an unconscious character you control.&#10;&#10;If the players defeat this stage, they have won the game and discovered the treasure card Bilbo's Magic Ring."/>
     </alternate>
   </card>
-  <card id="57fc374c-ca6d-4556-9181-c1b578d7a01d" name="A Warm Welcome - 1A">
+  <card id="57fc374c-ca6d-4556-9181-c1b578d7a01d" name="A Warm Welcome">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Lonely Mountain"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Search the encounter deck for Smaug the Golden, Smaug the Magnificent, The Lonely Mountain, and A Bare Patch. Set Smaug the Magnificent and A Bare Patch aside, out of play. Add Smaug the Golden and The Lonely Mountain to the staging area. Shuffle the five Erebor treasure cards and stack them facedown under The Lonely Mountain."/>
     <property name="Setup" value="sstt"/>
-    <alternate name="A Warm Welcome - 1B" type="B">
+    <alternate name="A Warm Welcome" type="B">
+      <property name="Encounter Set" value="The Lonely Mountain"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="Skip the Quest phase.&#10;&#10;Forced: At the end of round, advance to stage 2."/>
     </alternate>
   </card>
-  <card id="4355352b-307e-407b-98f9-3d4fb2a14a49" name="The Burglar's Turn - 2A">
+  <card id="4355352b-307e-407b-98f9-3d4fb2a14a49" name="The Burglar's Turn">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Lonely Mountain"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Burglar's Turn - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Burglar's Turn" type="B">
+      <property name="Encounter Set" value="The Lonely Mountain"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="Forced: After questing successfully, place 1 progress on Smaug the Golden. Then, the first player makes a burgle attempt. If successful, the first player takes the top treasure card from under The Lonely Mountain into his hand. Then, the players may advance to stage 3.&#10;&#10;Forced: After the first player makes an unsuccessful burgle attempt, Smaug the Golden attacks the first player."/>
     </alternate>
   </card>
-  <card id="a944e2e1-56e4-461d-b703-db991b673b9b" name="Inside Information - 3A">
+  <card id="a944e2e1-56e4-461d-b703-db991b673b9b" name="Inside Information">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Lonely Mountain"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Set Smaug the Golden aside, out of play. Add Smaug the Magnificent and A Bare Patch to the staging area."/>
-    <alternate name="Inside Information - 3B" type="B">
+    <alternate name="Inside Information" type="B">
+      <property name="Encounter Set" value="The Lonely Mountain"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="20"/>
       <property name="Text" value="Players cannot defeat this stage while Smaug the Magnificent is in play.&#10;&#10;Forced: If the total number of progress on this stage is greater than the total remaining hit points on Smaug the Magnificent, remove Smaug the Magnificent from play.&#10;&#10;If the players defeat this stage, they have won the game and discovered any treasure successfully burgled from The Lonely Mountain."/>
     </alternate>
   </card>
-  <card id="240a9f5b-17dc-4182-b854-3d2dd5a33f68" name="Thieves! Fire! Murder! - 4A">
+  <card id="240a9f5b-17dc-4182-b854-3d2dd5a33f68" name="Thieves! Fire! Murder!">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Lonely Mountain"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Remove all progress from Smaug the Golden and set him aside, out of play. Then, add Smaug the Magnificent to the staging area."/>
-    <alternate name="Thieves! Fire! Murder! - 4B" type="B">
+    <alternate name="Thieves! Fire! Murder!" type="B">
+      <property name="Encounter Set" value="The Lonely Mountain"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="Forced: After placing the 7th progress token on this stage, remove all damage from Smaug the Magnificent and set him aside, out of play. Then, add Smaug the Golden to the staging area and reset the quest deck to stage 2B."/>
     </alternate>
   </card>
-  <card id="dfd05c9f-1dc1-4af6-a22f-fe39969c6371" name="The Gathering of the Clouds - 1A">
+  <card id="dfd05c9f-1dc1-4af6-a22f-fe39969c6371" name="The Gathering of the Clouds">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Battle of Five Armies"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Search the encounter deck for Bolg and add it to the staging area. Then, shuffle the encounter deck and reveal 1 encounter card per player."/>
     <property name="Setup" value="s"/>
-    <alternate name="The Gathering of the Clouds - 1B" type="B">
+    <alternate name="The Gathering of the Clouds" type="B">
+      <property name="Encounter Set" value="The Battle of Five Armies"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When Revealed: Put stage 2, stage 3, and stage 4 into play at the same time. Then, remove this stage from play."/>
     </alternate>
   </card>
-  <card id="aa3355cb-57e1-4d8b-8a1b-9be22581a9f3" name="The Eastern Spur - 2A">
+  <card id="aa3355cb-57e1-4d8b-8a1b-9be22581a9f3" name="The Eastern Spur">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Battle of Five Armies"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Eastern Spur - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Eastern Spur" type="B">
+      <property name="Encounter Set" value="The Battle of Five Armies"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Players cannot advance from this stage unless stage 3 and stage 4 are complete.&#10;&#10;Forced: If there is no progress on this stage at the end of the round, each player must discard 1 random card from his hand."/>
     </alternate>
   </card>
-  <card id="81e81787-13b1-4bbf-a9ef-b8516deebbbc" name="Battle in the Dale - 3A">
+  <card id="81e81787-13b1-4bbf-a9ef-b8516deebbbc" name="Battle in the Dale">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Battle of Five Armies"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Battle in the Dale - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Battle in the Dale" type="B">
+      <property name="Encounter Set" value="The Battle of Five Armies"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Players cannot advance from this stage unless stage 2 and stage 4 are complete.&#10;&#10;Forced: If there is no progress on this stage at the end of the round, the first player adds the topmost enemy in the discard pile to the staging area, if able."/>
     </alternate>
   </card>
-  <card id="54ed3453-1df4-458d-bc7d-e1f7c10de237" name="The Defense of Ravenhill - 4A">
+  <card id="54ed3453-1df4-458d-bc7d-e1f7c10de237" name="The Defense of Ravenhill">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Battle of Five Armies"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Defense of Ravenhill - 4B" type="B">
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Defense of Ravenhill" type="B">
+      <property name="Encounter Set" value="The Battle of Five Armies"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Players cannot advance from this stage unless stage 2 and stage 3 are complete.&#10;&#10;Forced: If there is no progress on this stage at the end of the round, each player must discard all resources from each hero's resource pool."/>
     </alternate>
   </card>
-  <card id="82514713-7cc4-4b76-a5f2-42a69ccff76b" name="The Clouds Burst - 5A">
+  <card id="82514713-7cc4-4b76-a5f2-42a69ccff76b" name="The Clouds Burst">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Battle of Five Armies"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Clouds Burst - 5B" type="B">
+    <property name="Cost" value="5"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Clouds Burst" type="B">
+      <property name="Encounter Set" value="The Battle of Five Armies"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="5"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for a copy of Bodyguard of Bolg and add it to the staging area, if able. Shuffle the encounter deck.&#10;&#10;Progress cannot be placed on this stage. While Bolg is in the staging area, it is considered to be engaged with the first player.&#10;&#10;If Bolg is destroyed, the players win the game."/>
     </alternate>

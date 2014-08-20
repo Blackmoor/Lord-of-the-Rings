@@ -1,36 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - Through the Folds" id="ca1427d1-0ea2-4b49-a3ad-b2db4a854806" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
  <cards>
-  <card id="3ee4b042-636c-4ef5-941c-38c064c99b7a" name="To Edoras - 1A">
+  <card id="3ee4b042-636c-4ef5-941c-38c064c99b7a" name="To Edoras">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Remove all location, treachery and objective cards that do not pertain to the Through the Folds encounter set. Remove from the encounter deck all the Captain and Route cards, and set aside, out of play. Add Edoras Hills to the staging area. Shuffle the encounter deck."/>
     <property name="Setup" value="sttttt"/>
-    <alternate name="To Edoras - 1B" type="B">
+    <alternate name="To Edoras" type="B">
+      <property name="Encounter Set" value="Custom Set - Through the Folds"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="After the 5th progress token is placed here, add Bounty Hunter to the staging area.&#10;&#10;Unless Bounty Hunter is in the victory display, the players cannot defeat this stage."/>
     </alternate>
   </card>
-  <card id="2c84c2df-765f-427b-9735-1d9860837cdc" name="Course to Anorien - 2A">
+  <card id="2c84c2df-765f-427b-9735-1d9860837cdc" name="Course to Anorien">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Add The White Mountains to the staging area."/>
-    <alternate name="Course to Anorien - 2B" type="B">
+    <alternate name="Course to Anorien" type="B">
+      <property name="Encounter Set" value="Custom Set - Through the Folds"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="After the 5th progress token is placed here, add Junkorlg to the staging area.&#10;&#10;Unless Junkorlg is in the victory display, the players cannot defeat this stage."/>
     </alternate>
   </card>
-  <card id="72642b52-4335-4173-befd-ba55b92115d9" name="Reaching Minas Tirith - 3A">
+  <card id="72642b52-4335-4173-befd-ba55b92115d9" name="Reaching Minas Tirith">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Add Mindolluin and Ghulat to the staging area."/>
-    <alternate name="Reaching Minas Tirith - 3B" type="B">
+    <alternate name="Reaching Minas Tirith" type="B">
+      <property name="Encounter Set" value="Custom Set - Through the Folds"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="Reaching Minas Tirich gets +1 quest point for each attachment and ally in play.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
@@ -232,9 +247,12 @@
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Campaign"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Alert Example."/>
     <alternate name="Rule Card" type="B">
+      <property name="Encounter Set" value="Custom Set - Through the Folds"/>
       <property name="Type" value="Campaign"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Text" value="To calculate the Alert Value, first determine the highest number of allies or attachments controlled by a single player. Then multiply that number by the Alert number to calculate the value of X."/>
     </alternate>
   </card>

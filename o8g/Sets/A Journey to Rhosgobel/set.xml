@@ -105,33 +105,48 @@
     <property name="Health" value="3"/>
     <property name="Text" value="Radagast collects 1 resource each resource phase. These resources can be used to pay for Creature cards played from your hand.&#10;&#10;Action: Spend X resources from Radagast's pool to heal X wounds on any 1 Creature."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9020" name="The Wounded Eagle - 1A">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9020" name="The Wounded Eagle">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Search the encounter deck for Rhosgobel and Wilyador, and add them to the staging area with 2 damage tokens on Wilyador. Then, shuffle the encounter deck."/>
     <property name="Setup" value="ss"/>
-    <alternate name="The Wounded Eagle - 1B" type="B">
+    <alternate name="The Wounded Eagle" type="B">
+      <property name="Encounter Set" value="A Journey to Rhosgobel"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9022" name="Radagast's Request - 2A">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9022" name="Radagast's Request">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Radagast's Request - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Radagast's Request" type="B">
+      <property name="Encounter Set" value="A Journey to Rhosgobel"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="12"/>
       <property name="Text" value="Response: After the quest phase begins, the first player may place X damage tokens on Wilyador to look at the top 3 cards of the encounter deck. Reveal and add 1 of these cards to the staging area, and discard the other 2. X is the number of players in the game.&#10;&#10;Forced: After a card effect heals Wilyador, remove that card from the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9024" name="Return to Rhosgobel - 3A">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9024" name="Return to Rhosgobel">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Return to Rhosgobel - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Return to Rhosgobel" type="B">
+      <property name="Encounter Set" value="A Journey to Rhosgobel"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="0"/>
       <property name="Text" value="When Revealed: Heal 5 wounds from Wilyador for each Athelas objective card the players control.&#10;&#10;If Wilyador is completely healed when this effect resolves, Wilyador survives and the players have won the game. Otherwise, the players have lost the game."/>
     </alternate>

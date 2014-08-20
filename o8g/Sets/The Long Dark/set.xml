@@ -100,24 +100,34 @@
     <property name="Cost" value="0"/>
     <property name="Text" value="Response: After a Song card is played, add 1 resource to attached hero's resource pool."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9017" name="Journey in the Black Pit - 1A">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9017" name="Journey in the Black Pit">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: The first player attaches Cave Torch to a hero of his choice."/>
     <property name="Setup" value="t"/>
-    <alternate name="Journey in the Black Pit - 1B" type="B">
+    <alternate name="Journey in the Black Pit" type="B">
+      <property name="Encounter Set" value="The Long Dark"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="13"/>
       <property name="Text" value="When Revealed: Discard cards from the top of the encounter deck until you discard X locations, where X is one less than the number of players in the game (minimum of 1). Add those locations to the staging area, and shuffle the other discarded cards back into the encounter deck.&#10;&#10;Each location gets +1 $. If the players quest unsuccessfully, trigger all &quot;Lost:&quot; effects in play."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9003" name="Continuing Eastward - 2A">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9003" name="Continuing Eastward">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Continuing Eastward - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Continuing Eastward" type="B">
+      <property name="Encounter Set" value="The Long Dark"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="17"/>
       <property name="Text" value="When Revealed: The first player makes a locate test. If this test is failed, reveal cards from the encounter deck equal to the number of players in the game and add them to the staging area. Then, trigger all &quot;Lost:&quot; effects in play.&#10;&#10;If the players quest unsuccessfully, trigger all &quot;Lost:&quot; effects in play.&#10;If the players defeat this stage, they have won the game."/>
     </alternate>

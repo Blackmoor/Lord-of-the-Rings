@@ -1172,106 +1172,156 @@
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each location in the staging area gets +1 $ until the end of the phase. Then, each player with a threat of 35 or higher chooses and discards 1 card from his hand."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9119" name="Flies and Spiders - 1A">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9119" name="Flies and Spiders">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Passage Through Mirkwood"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Search the encounter deck for 1 copy of the Forest Spider and 1 copy of the Old Forest Road, and add them to the staging area. Then, shuffle the encounter deck."/>
     <property name="Setup" value="ss"/>
-    <alternate name="Flies and Spiders - 1B" type="B">
+    <alternate name="Flies and Spiders" type="B">
+      <property name="Encounter Set" value="Passage Through Mirkwood"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9121" name="A Fork in the Road - 2A">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9121" name="A Fork in the Road">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Passage Through Mirkwood"/>
     <property name="Type" value="Quest"/>
-    <alternate name="A Fork in the Road - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="A Fork in the Road" type="B">
+      <property name="Encounter Set" value="Passage Through Mirkwood"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="2"/>
       <property name="Text" value="Forced: When you defeat this stage, proceed to one of the 2 &quot;A Chosen Path&quot; stages, at random."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9123" name="A Chosen Path - 3A">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9123" name="A Chosen Path">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Passage Through Mirkwood"/>
     <property name="Type" value="Quest"/>
-    <alternate name="&quot;Don't Leave the Path!&quot; - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="&quot;Don't Leave the Path!&quot;" type="B">
+      <property name="Encounter Set" value="Passage Through Mirkwood"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="0"/>
       <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for 1 Spider card of his choice, and add it to the staging area.&#10;&#10;The players must find and defeat Ungoliant's Spawn to win this game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9125" name="A Chosen Path - 3A">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9125" name="A Chosen Path">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Passage Through Mirkwood"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Beorn's Path - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Beorn's Path" type="B">
+      <property name="Encounter Set" value="Passage Through Mirkwood"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="Players cannot defeat this stage while Ungoliant's Spawn is in play. If players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9127" name="The Necromancer's Tower - 1A">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9127" name="The Necromancer's Tower">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Search the encounter deck for the 3 objective cards, reveal and place them in the staging area. Also, place the Nazgul of Dol Guldur face up but out of play, alongside the quest deck. Then, shuffle the encounter deck, and attach 1 encounter to each objective card."/>
     <property name="Setup" value="ssst"/>
-    <alternate name="The Necromancer's Tower - 1B" type="B">
+    <alternate name="The Necromancer's Tower" type="B">
+      <property name="Encounter Set" value="Escape from Dol Guldur"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="When Revealed: Randomly select 1 hero card (among all the heroes controlled by the players) and turn it facedown. That hero is now considered a &quot;prisoner&quot;, cannot be used, cannot be damaged, and does not collect resources, until it is &quot;rescued&quot; (as instructed by card effects) later in this quest.&#10;&#10;The players, as a group, cannot play more than 1 ally card each round.&#10;&#10;Players cannot advance to the next stage of this quest unless they have at least 1 objective card."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9129" name="Through the Caverns - 2A">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9129" name="Through the Caverns">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Through the Caverns - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Through the Caverns" type="B">
+      <property name="Encounter Set" value="Escape from Dol Guldur"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="Response: After placing any number of progress tokens on this card, flip the &quot;prisoner&quot; hero card face-up, and place 1 damage token on it. This hero has been &quot;rescued&quot;, and may now be used by its controller.&#10;&#10;The players, as a group, cannot play more than 1 ally card each round.&#10;&#10;Players cannot advance to the next stage of this quest unless they have rescued the prisoner and have all 3 &quot;Escape from Dol Guldur&quot; objective cards."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9131" name="Out of the Dungeons - 3A">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9131" name="Out of the Dungeons">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Out of the Dungeons - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Out of the Dungeons" type="B">
+      <property name="Encounter Set" value="Escape from Dol Guldur"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="Forced: At the beginning of each quest phase, each player places the top card of his deck, face down in front of him, as if it just engaged him from the staging area. These cards are called &quot;Orc Guard&quot;, and act as enemies with: 1 hit point, 1 Û, and 1 Ú.&#10;&#10;Players cannot defeat this stage while Nazgul of Dol Guldur is in play. If this stage is defeated and Nazgul of Dol Guldur is not in play, the players have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9133" name="To the River... - 1A">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9133" name="To the River...">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey Down the Anduin"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Each player reveals 1 card from the top of the encounter deck, and adds it to the staging area."/>
-    <alternate name="To the River... - 1B" type="B">
+    <alternate name="To the River..." type="B">
+      <property name="Encounter Set" value="Journey Down the Anduin"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="When Revealed: Search the encounter deck for 1 Hill Troll (if one is not already in play), and place it in the staging area. Shuffle the encounter deck.&#10;&#10;Players cannot defeat this stage while any Hill Troll cards are in play."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9135" name="Anduin Passage - 2A">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9135" name="Anduin Passage">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey Down the Anduin"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Anduin Passage - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Anduin Passage" type="B">
+      <property name="Encounter Set" value="Journey Down the Anduin"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="16"/>
       <property name="Text" value="Reveal 1 additional card from the encounter deck each quest phase. Do not make engagement checks during the encounter phase. (Each player may still optionally engage 1 enemy each encounter phase.)"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9137" name="Ambush on the Shore - 3A">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9137" name="Ambush on the Shore">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey Down the Anduin"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Ambush on the Shore - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Ambush on the Shore" type="B">
+      <property name="Encounter Set" value="Journey Down the Anduin"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="0"/>
       <property name="Text" value="When Revealed: Reveal 2 encounter cards per player, and add them to the staging area.&#10;&#10;Skip the staging step of the quest phase for the remainder of the game.&#10;&#10;Once there are no enemies in play, the players have won the game."/>
     </alternate>

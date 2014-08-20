@@ -894,12 +894,13 @@ def nextEncounter(group, x, y, facedown, who=me):
 def nextQuestStage(group=None, x=0, y=0):
 	mute()
 	
-	#If the current quest card has side A showing it is flipped
+	#If the current quest card has side A showing it is simply flipped and we are done
 	for c in table:
-		if c.alternates is not None and "B" in c.alternates and c.alternate != "B" and c.Type == "Quest":
+		if c.Type in ("Quest", "Nightmare") and c.alternates is not None and "B" in c.alternates and c.alternate != "B":
 			flipcard(c)
 			return
-			
+	
+	#We need a new quest card
 	if group is None or group == table:
 		group = questDeck()
 	if len(group) == 0: return
@@ -916,7 +917,7 @@ def nextQuestStage(group=None, x=0, y=0):
 			
 	card = group.top()
 	card.moveToTable(x, y)
-	if card.Type == "Nightmare" or card.Type == "Campaign":
+	if card.Type in ("Nightmare", "Campaign"):
 		card.moveToTable(x, y+23)
 		notify("{} begins a {} quest '{}'".format(me, card.Type, card))
 		questSetup(card)

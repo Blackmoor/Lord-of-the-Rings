@@ -1,239 +1,349 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - NinjaDorg" id="b0d63521-04f7-49fa-a028-84b7efa7b000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d042" name="Dark Road - 1A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d042" name="Dark Road">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Branching Paths"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Put to one side Nazgul of Dol Guldur and 2 Dungeons Jailors from the Dol Guldur set and remove the Dol Guldur Objective cards from play. Unless stated otherwise, proceed to the next Stage in numerical order."/>
     <property name="Setup" value="ttt"/>
-    <alternate name="Dark Road - 1B" type="B">
+    <alternate name="Dark Road" type="B">
+      <property name="Encounter Set" value="Branching Paths"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="Each player must search the encounter deck and place the first location they find into the staging area. Shuffle the encounter deck."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d043" name="Sacred Shrine - 2A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d043" name="Sacred Shrine">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Branching Paths"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Sacred Shrine - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Sacred Shrine" type="B">
+      <property name="Encounter Set" value="Branching Paths"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="After defeating this stage, each player may choose to heal all wounds from all their heroes. If so, proceed to Stage 3. If all player choose not to heal, then proceed to Stage 4."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d044" name="Besieged - 3A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d044" name="Besieged">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Branching Paths"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Besieged - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Besieged" type="B">
+      <property name="Encounter Set" value="Branching Paths"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="14"/>
       <property name="Text" value="Each player must search the encounter deck and place the first orc they find into the staging area. Shuffle the encounter deck. After defeating this stage, the players must decide if they want to try to free the prisoners. If so, proceed to Stage 5. Otherwise, proceed to Stage 6."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d045" name="Take Flight - 4A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d045" name="Take Flight">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Branching Paths"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Take Flight - 4B" type="B">
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Take Flight" type="B">
+      <property name="Encounter Set" value="Branching Paths"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="After defeating this stage, the players must decide if they want to try to free the prisoners. If so, proceed to Stage 5. If all players choose not to free the prisoners, proceed to Stage 6."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d046" name="Liberation - 5A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d046" name="Liberation">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Branching Paths"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Liberation - 5B" type="B">
+    <property name="Cost" value="5"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Liberation" type="B">
+      <property name="Encounter Set" value="Branching Paths"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="5"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="12"/>
       <property name="Text" value="Players cannot defeat this stge without at least one Clue, or whilst any Dungeon Jailor cards are in play. After defeating this stage, as a response each player may place one ally or attachment into play from his hand for free. Proceed to Stage 7."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d047" name="Abandoned - 6A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d047" name="Abandoned">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Branching Paths"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Abandoned - 6B" type="B">
+    <property name="Cost" value="6"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Abandoned" type="B">
+      <property name="Encounter Set" value="Branching Paths"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="6"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="For every 2 players in the game, place one Dungeon Jailor into the staging area. Players cannot defeat this stage without at least one Clue, or whilst any Dungeon Jailor cards are in play. Proceed to Stage 7."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d048" name="Showdown - 7A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d048" name="Showdown">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Branching Paths"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Showdown - 7B" type="B">
+    <property name="Cost" value="7"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Showdown" type="B">
+      <property name="Encounter Set" value="Branching Paths"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="7"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Place the Nazgul of Dol Guldur into the staging area. players cannot defeat this stage without at least one Clue, or whilst any nazgul cards are in play."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d018" name="Ancient Path - 1A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d018" name="Ancient Path">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Forgotten Ruins"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Take out the Nazgul of Dol Guldur, Ungoliant's Spawn and Objective cards and set them to one side out of play."/>
     <property name="Setup" value="ttttt"/>
-    <alternate name="Ancient Path - 1B" type="B">
+    <alternate name="Ancient Path" type="B">
+      <property name="Encounter Set" value="Forgotten Ruins"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="When 9 Progress tokens have been placed on this card, put Ungoliant's Spawn into play. Players cannot defeat this stage whilst Ungoliant's Spawn is in play."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d020" name="Deep Catacombs - 2A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d020" name="Deep Catacombs">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Forgotten Ruins"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Place the Shadow Key into play and attach one encounter card to it for EACH player"/>
-    <alternate name="Deep Catacombs - 2B" type="B">
+    <alternate name="Deep Catacombs" type="B">
+      <property name="Encounter Set" value="Forgotten Ruins"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Players cannot place Progress tokens on this stage unless a Hero controls the Shadow Key"/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d022" name="Risen Nightmare - 3A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d022" name="Risen Nightmare">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Forgotten Ruins"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="You may now remove the Shadow Key from play."/>
-    <alternate name="Risen Nightmare - 3B" type="B">
+    <alternate name="Risen Nightmare" type="B">
+      <property name="Encounter Set" value="Forgotten Ruins"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="6"/>
       <property name="Text" value="When 6 Progres token have been placed on this card, put the Nazgul of Dol Guldur into play. Players cannot defeat this stage whilst the Nazgul of Dol Guldur is in play."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d026" name="Goblin Gate - 1A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d026" name="Goblin Gate">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Elven Assembly"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Each player searches the encounter deck and places the first Orc they find into the staging area. Shuffle the encounter deck."/>
-    <alternate name="Goblin Gate - 1B" type="B">
+    <alternate name="Goblin Gate" type="B">
+      <property name="Encounter Set" value="The Elven Assembly"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="12"/>
       <property name="Text" value="Each player immediately chooses and engages 1 Orc. Players cannot defeat this stage while any Orc cards in play."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d028" name="Elf Path - 2A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d028" name="Elf Path">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Elven Assembly"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Elf Path - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Elf Path" type="B">
+      <property name="Encounter Set" value="The Elven Assembly"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="5"/>
       <property name="Text" value="Do not make any more engagement chechs whilst on this stage. Enemies already engaged with you remain engaged. You are niether allowed to engage nor be engaged by enemies unless you are already engaged with them."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d030" name="The Veil of the Lonely Mountain - 3A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d030" name="The Veil of the Lonely Mountain">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Elven Assembly"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Each player searches the encounter deck and places the first Orc they find into the staging area. Shuffle the encounter deck."/>
-    <alternate name="The Veil of the Lonely Mountain - 3B" type="B">
+    <alternate name="The Veil of the Lonely Mountain" type="B">
+      <property name="Encounter Set" value="The Elven Assembly"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="Each player may immediately place 1 Elf from their hand into play for free and any Elf character may also heal 1 Wound. Each player immediately chooses and engages 1 Orc. Players cannot defeat this stage while any Orc cards are in play."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d010" name="Forgotten Path - 1A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d010" name="Forgotten Path">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Lost Road"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="SOLO PLAY: You may only choose ONE HERO (and thus one sphere deck) to perform this quest. Also, take out the Legolas Hero card (from the Tactics Sphere) and set it to one side out of play."/>
     <property name="Setup" value="t"/>
-    <alternate name="Forgotten Path - 1B" type="B">
+    <alternate name="Forgotten Path" type="B">
+      <property name="Encounter Set" value="The Lost Road"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="4"/>
       <property name="Text" value="You only need to carry out the staging element of the Quest Phase every other turn after your first turn, for this stage only."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d012" name="Tranquil Glade - 2A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d012" name="Tranquil Glade">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Lost Road"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Tranquil Glade - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Tranquil Glade" type="B">
+      <property name="Encounter Set" value="The Lost Road"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="2"/>
       <property name="Text" value="You may place Legolas into play on your side. For this Adventure only, any resources he generates are treated as the same as your current sphere."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d014" name="Goblin Mines - 3A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d014" name="Goblin Mines">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Lost Road"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Goblin Mines - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Goblin Mines" type="B">
+      <property name="Encounter Set" value="The Lost Road"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="4"/>
       <property name="Text" value="Search the encounter deck and discard pile for an Orc card and place it into the staging area. You may not defeat this stage whilst this Orc is in play."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d002" name="Orc War Party - 1A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d002" name="Orc War Party">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Take out 1 Hill Troll and the Chieftain Ufthak card and set them both to one side out of play."/>
     <property name="Setup" value="tt"/>
-    <alternate name="Orc War Party - 1B" type="B">
+    <alternate name="Orc War Party" type="B">
+      <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Each player searches the encounter deck for 1 Orc and places it into the staging area. Shuffle the encounter deck. Players cannot defeat this stage while any Orc cards in play."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d004" name="Dark Woods - 2A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d004" name="Dark Woods">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="tt"/>
-    <alternate name="Dark Woods - 2B" type="B">
+    <alternate name="Dark Woods" type="B">
+      <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="Place Chieftan Ufthak into the staging area. Players cannot defeat this stage while Chieftan Ufthak is in play."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d006" name="Daring Rescue - 3A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d006" name="Daring Rescue">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Daring Rescue - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Daring Rescue" type="B">
+      <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="The 1st player may immediately place 1 Ally from their hand into play. Place the Hill Troll you put to one side into the staging area. Players cannot defeat this stage while are Hill Troll cards are in play."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d034" name="Foul Tower - 1A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d034" name="Foul Tower">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Ungoliant's Lair"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Take out th Nazgul of Dol Guldur, Ungoliant's Spawn and the Objective cards and set them to one side out of play. Then choose a hero and five that hero Gandalf's Map."/>
     <property name="Setup" value="ttttt"/>
-    <alternate name="Foul Tower - 1B" type="B">
+    <alternate name="Foul Tower" type="B">
+      <property name="Encounter Set" value="Ungoliant's Lair"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="Whe 5 Progress tokens have been placed on this card, put Ungoliant's Spawn into play. Players cannot defeat this stage whilst Ungoliant's Spawn is in play. If Ungoliant's Spawn is defeated, place it to one side out of play."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d036" name="Twisted Caverns - 2A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d036" name="Twisted Caverns">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Ungoliant's Lair"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Allies may no longer enter play or be put into play."/>
-    <alternate name="Twisted Caverns - 2B" type="B">
+    <alternate name="Twisted Caverns" type="B">
+      <property name="Encounter Set" value="Ungoliant's Lair"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="When 5 Progress tokens have been placed on this card, put Ungoliant's Spawn into play. Players cannot defeat this stage whilst Ungoliant's Spawn is in play. If Ungoliant's Spawn is defeated, place it to one side out of play."/>
     </alternate>
   </card>
-  <card id="481eb8da-3657-486a-89d3-f27333d9d038" name="Final Stand - 3A">
+  <card id="481eb8da-3657-486a-89d3-f27333d9d038" name="Final Stand">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Ungoliant's Lair"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Allies or Attachments may no longer enter play or be put into play."/>
-    <alternate name="Final Stand - 3B" type="B">
+    <alternate name="Final Stand" type="B">
+      <property name="Encounter Set" value="Ungoliant's Lair"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="When 5 Progress tokens have been placed on this card, put Ungoliant's Spawn into play. Players cannot defeat this stage whilst Ungoliant's Spawn is in play. If Ungoliant's Spawn is defeated, shuffle it back into the encounter deck."/>
     </alternate>

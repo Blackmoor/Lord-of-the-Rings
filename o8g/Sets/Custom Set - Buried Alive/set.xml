@@ -30,35 +30,50 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Action: If there are more than X enemies in play, exhaust a Hero to claim Treacherous Slope. X equals twice the number of players. Attach Treacherous Slope to that Hero.&#10;&#10;Action: If claimed, place Treacherous Slope in the victory display to trigger an avalanche. Each player may reduce thier threat by 2 for each enemy engaged with them then discard all enemies from play."/>
   </card>
-  <card id="61377eb5-4d26-4769-a6f0-21e352ea26aa" name="The Mountain Pass - 1A">
+  <card id="61377eb5-4d26-4769-a6f0-21e352ea26aa" name="The Mountain Pass">
     <property name="Encounter Set" value="Buried Alive"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Search the encounter deck for a Great Cave Troll. Set it aside for later use along with Nor, Longbeard Cavern and Treacherous Slope."/>
     <property name="Setup" value="----"/>
-    <alternate name="The Mountain Pass - 1B" type="B">
+    <alternate name="The Mountain Pass" type="B">
+      <property name="Encounter Set" value="Buried Alive"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
       <property name="Text" value="When Revealed: Reveal 1 encounter card and add it to the staging area."/>
     </alternate>
   </card>
-  <card id="09848c47-f593-4daa-9b1d-aa27240e5f77" name="The Diversion - 2A">
+  <card id="09848c47-f593-4daa-9b1d-aa27240e5f77" name="The Diversion">
     <property name="Encounter Set" value="Buried Alive"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Each player must choose at least 1 of their heros and any number of their allies to join the diversion party. Flip over all the characters not in the diversion party along with thier attachments. Face down cards are considered to be out of play."/>
     <property name="Setup" value="s---"/>
-    <alternate name="The Diversion - 2B" type="B">
+    <alternate name="The Diversion" type="B">
+      <property name="Encounter Set" value="Buried Alive"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="2"/>
       <property name="Text" value="When Revealed: Put Treacherous Slope into the staging area.&#10;&#10;You cannot complete this stage of the quest until the Treacherous Slope is in your victory display."/>
     </alternate>
   </card>
-  <card id="f3cfdaa0-7ffb-4129-9460-f0a18979ecf8" name="The Rescue - 3A">
+  <card id="f3cfdaa0-7ffb-4129-9460-f0a18979ecf8" name="The Rescue">
     <property name="Encounter Set" value="Buried Alive"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Discard all locations from play. Flip over all player cards (All cards involved in the diversion will now be face down and all other cards will be face up). Face down cards are considered to be out of play."/>
     <property name="Setup" value="tss"/>
-    <alternate name="The Rescue - 3B" type="B">
+    <alternate name="The Rescue" type="B">
+      <property name="Encounter Set" value="Buried Alive"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="4"/>
       <property name="Text" value="When revealed: Refresh all characters. Put the Greate Cave Troll and Longbeard Cavern into the staging area. The first player chooses a player, put Nor into play under control of that player.&#10;&#10;Players cannot place progress tokens on this quest while Great Cave Troll is in play.&#10;&#10;If players defeat this stage flip over all face down cards. Your allies return and the remaining Orcs flee, you have won the game."/>
     </alternate>

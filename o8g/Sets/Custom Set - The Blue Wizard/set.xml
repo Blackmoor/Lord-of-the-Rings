@@ -251,48 +251,73 @@
     <property name="Quest Points" value="X"/>
     <property name="Victory Points" value="1"/>
   </card>
-  <card id="f710d9bb-10a3-4714-a179-fa525936f1a0" name="1A - Solving the Trouble">
+  <card id="f710d9bb-10a3-4714-a179-fa525936f1a0" name="Solving the Trouble">
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="ttttt-"/>
-    <alternate name="1B - Solving the Trouble" type="B">
+    <alternate name="Solving the Trouble" type="B">
+      <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="1"/>
     </alternate>
   </card>
-  <card id="18f421eb-541f-4ec7-8601-0ea73e904edd" name="2A - Uninvited Guests">
+  <card id="18f421eb-541f-4ec7-8601-0ea73e904edd" name="Uninvited Guests">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Quest"/>
-    <alternate name="2B - Uninvited Guests" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Uninvited Guests" type="B">
+      <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
-  <card id="78e6a828-32e2-4d0c-b190-f8f887b4b683" name="3A - Searching for Remnants">
+  <card id="78e6a828-32e2-4d0c-b190-f8f887b4b683" name="Searching for Remnants">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Quest"/>
-    <alternate name="3B - Searching for Remnants" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Searching for Remnants" type="B">
+      <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
-  <card id="3a6e8a37-c2d8-4a2a-badc-28e82d21c9ba" name="4A - Enemy Reorganized">
+  <card id="3a6e8a37-c2d8-4a2a-badc-28e82d21c9ba" name="Enemy Reorganized">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Quest"/>
-    <alternate name="4B - Enemy Reorganized" type="B">
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Enemy Reorganized" type="B">
+      <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
-  <card id="19769b48-6716-4cd3-9184-d9b63c72e086" name="4A - Problem Eliminated">
+  <card id="19769b48-6716-4cd3-9184-d9b63c72e086" name="Problem Eliminated">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Quest"/>
-    <alternate name="4B - Problem Eliminated" type="B">
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Problem Eliminated" type="B">
+      <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
@@ -399,40 +424,60 @@
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Objective"/>
   </card>
-  <card id="ce7a281f-0892-4072-a163-b63f859d34a2" name="1A - Travel to the Library">
+  <card id="ce7a281f-0892-4072-a163-b63f859d34a2" name="Travel to the Library">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="tss"/>
-    <alternate name="1B - Travel to the Library" type="B">
+    <alternate name="Travel to the Library" type="B">
+      <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
-  <card id="6bcc9b74-e42e-4d4f-957e-df0fe0720414" name="2A - A Frivolous Try">
+  <card id="6bcc9b74-e42e-4d4f-957e-df0fe0720414" name="A Frivolous Try">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Quest"/>
-    <alternate name="2B - A Frivolous Try" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="A Frivolous Try" type="B">
+      <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
-  <card id="7a8ce62c-7e7b-4d1f-9ccc-11a10127f90e" name="3A - The Daedal Writings">
+  <card id="7a8ce62c-7e7b-4d1f-9ccc-11a10127f90e" name="The Daedal Writings">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Quest"/>
-    <alternate name="3B - The Daedal Writings" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Daedal Writings" type="B">
+      <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
     </alternate>
   </card>
-  <card id="2a5b2668-6cc2-42f5-89a8-25307759e4e2" name="4A - Alaric, The Mad">
+  <card id="2a5b2668-6cc2-42f5-89a8-25307759e4e2" name="Alaric, The Mad">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Quest"/>
-    <alternate name="4B - Alaric, The Mad" type="B">
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Alaric, The Mad" type="B">
+      <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="0"/>
     </alternate>
   </card>
@@ -651,66 +696,101 @@
     <property name="Traits" value="Item. Cursed. Key."/>
     <property name="Keywords" value="Guarded by Skeleton King"/>
   </card>
-  <card id="1c016459-deb9-43a8-a49a-42eb123de850" name="1A - Only the Living Choose Their Destiny">
+  <card id="1c016459-deb9-43a8-a49a-42eb123de850" name="Only the Living Choose Their Destiny">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
-    <alternate name="1B - Only the Living Choose Their Destiny" type="B">
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Only the Living Choose Their Destiny" type="B">
+      <property name="Encounter Set" value="The Search for the Blue Wizard"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
-  <card id="94667783-b697-40a7-a1a7-d97eeabf26aa" name="2A - Onto the Green Ocean">
+  <card id="94667783-b697-40a7-a1a7-d97eeabf26aa" name="Onto the Green Ocean">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
-    <alternate name="2B - Onto the Green Ocean" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Onto the Green Ocean" type="B">
+      <property name="Encounter Set" value="The Search for the Blue Wizard"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
-  <card id="bf76394e-3e4d-47c3-8433-f8d7a8f144e0" name="3A - A Curious Key">
+  <card id="bf76394e-3e4d-47c3-8433-f8d7a8f144e0" name="A Curious Key">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
-    <alternate name="3B - A Curious Key" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="A Curious Key" type="B">
+      <property name="Encounter Set" value="The Search for the Blue Wizard"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
-  <card id="9b7313d2-e96b-4d6d-83f6-cd26d5aea53a" name="3A - A Mirror in the Grove">
+  <card id="9b7313d2-e96b-4d6d-83f6-cd26d5aea53a" name="A Mirror in the Grove">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
-    <alternate name="3B - A Mirror in the Grove" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="A Mirror in the Grove" type="B">
+      <property name="Encounter Set" value="The Search for the Blue Wizard"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="2"/>
     </alternate>
   </card>
-  <card id="1b041307-e4d7-4545-8db7-ff5056fc8059" name="3A - The White Wizard Writings">
+  <card id="1b041307-e4d7-4545-8db7-ff5056fc8059" name="The White Wizard Writings">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
-    <alternate name="3B - The White Wizard Writings" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The White Wizard Writings" type="B">
+      <property name="Encounter Set" value="The Search for the Blue Wizard"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="11"/>
     </alternate>
   </card>
-  <card id="6eeef7e8-d785-4e21-a333-faee980911aa" name="4A - A Flint of Light in the Darkness">
+  <card id="6eeef7e8-d785-4e21-a333-faee980911aa" name="A Flint of Light in the Darkness">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
-    <alternate name="4B - A Flint of Light in the Darkness" type="B">
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="A Flint of Light in the Darkness" type="B">
+      <property name="Encounter Set" value="The Search for the Blue Wizard"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
-  <card id="36f3a685-8e32-4e4a-b881-affa2bacf2dc" name="5A - On the Way">
+  <card id="36f3a685-8e32-4e4a-b881-affa2bacf2dc" name="On the Way">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
-    <alternate name="5B - On the Way" type="B">
+    <property name="Cost" value="5"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="On the Way" type="B">
+      <property name="Encounter Set" value="The Search for the Blue Wizard"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="5"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="0"/>
     </alternate>
   </card>

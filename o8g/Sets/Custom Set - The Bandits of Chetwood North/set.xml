@@ -91,31 +91,46 @@
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Item."/>
   </card>
-  <card id="080c8c11-0e46-424d-b866-570f902315bd" name="Chestwood Outskirts - 1A">
+  <card id="080c8c11-0e46-424d-b866-570f902315bd" name="Chestwood Outskirts">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="sstttttttttttt"/>
-    <alternate name="Chestwood Outskirts - 1B" type="B">
+    <alternate name="Chestwood Outskirts" type="B">
+      <property name="Encounter Set" value="The Bandits of Chetwood North"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="4"/>
     </alternate>
   </card>
-  <card id="cc906386-f8ec-4fd2-9ca6-74be679bc98c" name="Searching for Stolen Treasure - 2A">
+  <card id="cc906386-f8ec-4fd2-9ca6-74be679bc98c" name="Searching for Stolen Treasure">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Searching for Stolen Treasure - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Searching for Stolen Treasure" type="B">
+      <property name="Encounter Set" value="The Bandits of Chetwood North"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
-  <card id="7d77ed0c-4967-4a18-b639-79358939077a" name="Adella's Fight - 3A">
+  <card id="7d77ed0c-4967-4a18-b639-79358939077a" name="Adella's Fight">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Adella's Fight - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Adella's Fight" type="B">
+      <property name="Encounter Set" value="The Bandits of Chetwood North"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="14"/>
     </alternate>
   </card>

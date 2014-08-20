@@ -104,13 +104,18 @@
     <property name="Cost" value="1"/>
     <property name="Text" value="Planning Action: Exhaust Palantir and attached hero to name a card type and look at the top 3 cards of the encounter deck. For each of those cards that matches the named type, draw a card. For each of those cards that does not match the named type, raise your threat by 2."/>
   </card>
-  <card id="c46c37c3-b2e7-4e28-9466-e3a371417c8b" name="Retake the City - 1A">
+  <card id="c46c37c3-b2e7-4e28-9466-e3a371417c8b" name="Retake the City">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Assault on Osgiliath"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Each player chooses 1 enemy and 1 unique location and add them to the staging area. Shuffle the encounter deck."/>
-    <alternate name="Retake the City - 1B" type="B">
+    <alternate name="Retake the City" type="B">
+      <property name="Encounter Set" value="Assault on Osgiliath"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="Forced: When an Osgiliath location leaves play as an explored location, the first player takes control of that location.&#10;&#10;If the players control all Osgiliath locations in play at the end of the round, they have won the game."/>
     </alternate>

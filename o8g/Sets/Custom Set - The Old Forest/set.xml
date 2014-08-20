@@ -32,93 +32,138 @@
     <property name="Keywords" value="Guarded. Restricted."/>
     <property name="Text" value="Action: Exhaust a hero to claim this objective if it has no encounters attached. Then, attach Barrow Blade to that hero. (If detached return it to the staging area.)&#10;&#10;Action: Exhaust Barrow Blade to give attached Hero +1 Ò or +1 Û or +1 Ú until the end of the round."/>
   </card>
-  <card id="57f1c0b6-2b4f-4165-87e9-4d1a60ec56b6" name="Follow the Withywindle - 1A">
+  <card id="57f1c0b6-2b4f-4165-87e9-4d1a60ec56b6" name="Follow the Withywindle">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Form a 3x3 grid using the 9 quest cards. Put card 1A in the top left corner and card 3A in the bottom right corner. Shuffle the 2A cards and deal them out to fill the remaining 7 spaces, side A upwards. Put Old Man Willow in the staging area and set aside River Wight and Barrow Blade."/>
     <property name="Setup" value="stt"/>
-    <alternate name="Follow the Withywindle - 1B" type="B">
+    <alternate name="Follow the Withywindle" type="B">
+      <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="4"/>
       <property name="Text" value="When revealed: Place a resource token on this quest card to indicate that it is the active quest stage. When a quest stage is complete, players may move the resource token onto an adjacent quest card (not diagonally); it then becomes the active quest stage.&#10;&#10;Forced: Quest cards remain in the 3x3 grid formation with side B face upwards once completed. The rules on all face up quest cards are considered active."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ec" name="Follow the Withywindle - 2A">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ec" name="Follow the Withywindle">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Forced: Before the players place a resource token on this card, turn it over to side 2B."/>
-    <alternate name="Goldberry's Blessing - 2B" type="B">
+    <alternate name="Goldberry's Blessing" type="B">
+      <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="2"/>
       <property name="Text" value="Forced: When the players remove the resource token on this card they may also remove any number of damage tokens from thier characters. Then reveal 1 card from the encounterdeck per player and add to the staging area."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ed" name="Follow the Withywindle - 2A">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ed" name="Follow the Withywindle">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Forced: Before the players place a resource token on this card, turn it over to side 2B."/>
-    <alternate name="The Old Barrow - 2B" type="B">
+    <alternate name="The Old Barrow" type="B">
+      <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="6"/>
       <property name="Text" value="When Revealed: Put Barrow Blade into the staging area.&#10;&#10;Forced: When the players remove the resource token on this card, remove all progress tokens from it."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ee" name="Follow the Withywindle - 2A">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ee" name="Follow the Withywindle">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Forced: Before the players place a resource token on this card, turn it over to side 2B."/>
-    <alternate name="Pack of Wargs - 2B" type="B">
+    <alternate name="Pack of Wargs" type="B">
+      <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="3"/>
       <property name="Text" value="When revealed: Each player must search the encounter deck and discard pile for a copy of Wargs and add it to the staging area if possible.&#10;&#10;Forced: When the players remove the resource token on this card, remove all progress tokens from it."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ef" name="Follow the Withywindle - 2A">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ef" name="Follow the Withywindle">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Forced: Before the players place a resource token on this card, turn it over to side 2B."/>
-    <alternate name="Blocked - 2B" type="B">
+    <alternate name="Blocked" type="B">
+      <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="4"/>
       <property name="Text" value="Your way is blocked, you must head back and then find an alternative route.&#10;&#10;Forced: When the players remove the resource token on this card remove all progress tokens from it and then place the resource token on the quest stage they completed before this one."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f0" name="Follow the Withywindle - 2A">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f0" name="Follow the Withywindle">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Forced: Before the players place a resource token on this card, turn it over to side 2B."/>
-    <alternate name="Ambush - 2B" type="B">
+    <alternate name="Ambush" type="B">
+      <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="When revealed: Search the encounter deck and discard pile for a goblin sniper and put it in the staging area.&#10;&#10;Forced: When the players place a resource token on this card, reveal 1 encounter card per player and add to the staging area.&#10;&#10;Forced: When the players remove the resource token on this card remove all progress tokens from it."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f1" name="Follow the Withywindle - 2A">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f1" name="Follow the Withywindle">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Forced: Before the players place a resource token on this card, turn it over to side 2B."/>
-    <alternate name="Spiders - 2B" type="B">
+    <alternate name="Spiders" type="B">
+      <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="4"/>
       <property name="Text" value="When revealed: Each player must search the encounter deck and discard pile for a spider card and put it in the staging area. One of them must be Ungoliant Spawn.&#10;&#10;Forced: When the players remove the resource token on this card remove all progress tokens from it."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f2" name="Follow the Withywindle - 2A">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f2" name="Follow the Withywindle">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Forced: Before the players place a resource token on this card, turn it over to side 2B."/>
-    <alternate name="The Heart of the Forest - 2B" type="B">
+    <alternate name="The Heart of the Forest" type="B">
+      <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="5"/>
       <property name="Text" value="When revealed: If Old Man Willow is in the staging area it engages the first player, regardless of threat.&#10;&#10;Forced: When the players remove the resource token on this card, remove all progress tokens from it."/>
     </alternate>
   </card>
-  <card id="d9744022-31fb-4d4d-bb8e-89254b4b7e21" name="Follow the Withywindle - 3A">
+  <card id="d9744022-31fb-4d4d-bb8e-89254b4b7e21" name="Follow the Withywindle">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Forced: Before the players place a resource token on this card, turn it over to side 3B."/>
-    <alternate name="Disturbed Grave - 3B" type="B">
+    <alternate name="Disturbed Grave" type="B">
+      <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="3"/>
       <property name="Text" value="Up ahead you see a hooded figure on a small boat, slowly punting towards the river bank where a crumbling barrow has collapsed into the water.&#10;&#10;When revealed: Put River Wight into the staging area.&#10;You cannot complete this stage of the quest while River Wight is in play.&#10;&#10;When you complete this stage of the quest, you have won the game."/>
     </alternate>

@@ -668,129 +668,189 @@
     <property name="Text" value="When Revealed: Each player discards the top card of his deck. Until the end of the phase, raise the total $ in the staging area by X, where X is the total cost of all cards discarded by this effect."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. Deal it another shadow card."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9021" name="The Leaping Fish - 1A">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9021" name="The Leaping Fish">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Search the encounter deck for The Leaping Fish and Alcaron's Scroll. Make The Leaping Fish the active location and attach Alcaron's Scroll to a hero."/>
     <property name="Setup" value="lt"/>
-    <alternate name="The Leaping Fish - 1B" type="B">
+    <alternate name="The Leaping Fish" type="B">
+      <property name="Encounter Set" value="Peril in Pelargir"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="6"/>
       <property name="Text" value="When Revealed: Each player must search the encounter deck for a copy of Harbor Thug and add it to the staging area. Shuffle the encounter deck."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9023" name="Fighting in the Streets - 2A">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9023" name="Fighting in the Streets">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Fighting in the Streets - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Fighting in the Streets" type="B">
+      <property name="Encounter Set" value="Peril in Pelargir"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="13"/>
       <property name="Text" value="The players cannot advance to the next stage unless Alcaron's Scroll is attached to a hero.&#10;&#10;When Revealed: Attach Alcaron's Scroll to the highest engagement cost enemy in play, if able. Otherwise, add Alcaron's Scroll to the staging area."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9025" name="Escape to the Quays - 3A">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9025" name="Escape to the Quays">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Each player searches the encounter deck and discard pile for 1 enemy and adds it to the staging area."/>
-    <alternate name="Escape to the Quays - 3B" type="B">
+    <alternate name="Escape to the Quays" type="B">
+      <property name="Encounter Set" value="Peril in Pelargir"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="Enemies cannot be optionally engaged.&#10;&#10;Forced: The first enemy revealed from the encounter deck each round makes an immediate attack against the player who controls Alcaron's Scroll from the staging area.&#10;&#10;The players cannot defeat this stage unless Alcaron's Scroll is attached to a hero. If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9027" name="Ambush in Ithilien - 1A">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9027" name="Ambush in Ithilien">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Add Celador to the staging area. Search the encounter deck for a copy of Ithilien Road and make it the active location. Each player must search the encounter deck for a copy of Southron Company and add it to the staging area. Shuffle the encounter deck."/>
     <property name="Setup" value="sl"/>
-    <alternate name="Ambush in Ithilien - 1B" type="B">
+    <alternate name="Ambush in Ithilien" type="B">
+      <property name="Encounter Set" value="Into Ithilien"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="If the players complete this stage with Celador in the staging area, advance to stage 3A (bypassing stage 2)."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9029" name="Southron Counter-attack - 2A">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9029" name="Southron Counter-attack">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Southron Counter-attack - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Southron Counter-attack" type="B">
+      <property name="Encounter Set" value="Into Ithilien"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="X is the number of players in the game.&#10;&#10;After this stage is completed, advance to stage 4A (bypassing stage 3)."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9031" name="The Hidden Way - 3A">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9031" name="The Hidden Way">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Hidden Way - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Hidden Way" type="B">
+      <property name="Encounter Set" value="Into Ithilien"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="12"/>
       <property name="Text" value="When Revealed: The first player takes control of all Ranger objectives in the staging area.&#10;&#10;Enemies do not make engagement checks and cannot be optionally engaged."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9033" name="Approaching Cair Andros - 4A">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9033" name="Approaching Cair Andros">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Approaching Cair Andros - 4B" type="B">
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Approaching Cair Andros" type="B">
+      <property name="Encounter Set" value="Into Ithilien"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="If any player's threat is 37 or higher, Approaching Cair Andros gains siege.&#10;&#10;Forced: At the end of each round, raise each player's threat by 2.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9035" name="The Defense - 1A">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9035" name="The Defense">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Add The Approach, The Citadel, and The Banks to the staging area. Shuffle the encounter deck."/>
     <property name="Setup" value="sss"/>
-    <alternate name="The Defense - 1B" type="B">
+    <alternate name="The Defense" type="B">
+      <property name="Encounter Set" value="The Siege of Cair Andros"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="Players must deal damage from undefended attacks to the lowest $ Battleground location in play. If there are no Battleground locations in play, immediately advance to the next stage."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9037" name="Reinforcing the Banks - 2A">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9037" name="Reinforcing the Banks">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Reinforcing the Banks - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Reinforcing the Banks" type="B">
+      <property name="Encounter Set" value="The Siege of Cair Andros"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="Reveal 1 additional card from the encounter deck and add it to the staging area during the staging step each round."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9039" name="Breakthrough at the Approach - 3A">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9039" name="Breakthrough at the Approach">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Breakthrough at the Approach - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Breakthrough at the Approach" type="B">
+      <property name="Encounter Set" value="The Siege of Cair Andros"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="Forced: After the players quest unsuccessfully, instead of raising threat, each player must choose and discard 1 character he controls."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9041" name="Breakthrough at the Citadel - 4A">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9041" name="Breakthrough at the Citadel">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Breakthrough at the Citadel - 4B" type="B">
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Breakthrough at the Citadel" type="B">
+      <property name="Encounter Set" value="The Siege of Cair Andros"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="5"/>
       <property name="Text" value="Breakthrough at the Citadel adds 5 $ to the staging area."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9043" name="The Last Battle - 5A">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9043" name="The Last Battle">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Last Battle - 5B" type="B">
+    <property name="Cost" value="5"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Last Battle" type="B">
+      <property name="Encounter Set" value="The Siege of Cair Andros"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="5"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="When Revealed: Reveal 1 card per player from the encounter deck and add it to the staging area.&#10;&#10;If the players have collected 4 or more victory points, The Last Battle gains battle and loses siege.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>

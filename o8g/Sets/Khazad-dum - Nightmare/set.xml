@@ -5,16 +5,24 @@
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
     <alternate name="Into the Pit" type="B">
+      <property name="Encounter Set" value="Into the Pit - Nightmare"/>
       <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
     </alternate>
   </card>
-  <card id="17039c31-d3fd-4730-8b74-8f08458071fe" name="Goblin Ambush - 2A">
+  <card id="17039c31-d3fd-4730-8b74-8f08458071fe" name="Goblin Ambush">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Goblin Ambush - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Goblin Ambush" type="B">
+      <property name="Encounter Set" value="Into the Pit - Nightmare"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="X"/>
     </alternate>
   </card>
@@ -79,9 +87,12 @@
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="tt"/>
     <alternate name="The Seventh Level" type="B">
+      <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
       <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
     </alternate>
   </card>
   <card id="6d1eb802-0cb1-427a-9aa3-4e0c3b403681" name="Overseer Marûl">
@@ -171,34 +182,52 @@
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
     <alternate name="Flight from Moria" type="B">
+      <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
       <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
     </alternate>
   </card>
-  <card id="6c9419b0-e016-4ba8-b90a-575d4378984e" name="Search for an Exit - 2A">
+  <card id="6c9419b0-e016-4ba8-b90a-575d4378984e" name="Search for an Exit">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Pursued by Shadow - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Pursued by Shadow" type="B">
+      <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
-  <card id="5ed5e5a0-8924-424a-a49f-527fe91c6374" name="Search for an Exit - 2A">
+  <card id="5ed5e5a0-8924-424a-a49f-527fe91c6374" name="Search for an Exit">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Blocked by Flame - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Blocked by Flame" type="B">
+      <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>
-  <card id="45c91742-29a2-4409-a7e5-1f6234d73908" name="Search for an Exit - 2A">
+  <card id="45c91742-29a2-4409-a7e5-1f6234d73908" name="Search for an Exit">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Ghash! - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Ghash!" type="B">
+      <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="1"/>
     </alternate>
   </card>

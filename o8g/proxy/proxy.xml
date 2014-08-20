@@ -129,15 +129,20 @@
 		<text color="#FE9A2E" size="24" font="fonts/VafthrudnirLOTR.ttf" />
 		<wordwrap height="30" width="50" align="center" />
 	</block>
-	<block type="text" id="quest_stage">
+	<block type="text" id="quest_name">
 		<location x="130" y="24" />
 		<text color="#000000" size="21" font="fonts/VafthrudnirLOTR.ttf" />
 		<wordwrap height="20" width="360" align="center" />
 	</block>
-	<block type="text" id="quest_name">
+	<block type="text" id="encounter">
 		<location x="170" y="57" />
 		<text color="#000000" size="11" font="fonts/Vafthrudnir-allcaps.ttf" />
 		<wordwrap height="20" width="260" align="center" />
+	</block>
+	<block type="text" id="quest_stage">
+		<location x="20" y="30" />
+		<text color="#8FB7CC" size="32" font="fonts/Vafthrudnir-allcaps.ttf" />
+		<wordwrap height="32" width="64" align="center" />
 	</block>
 	<block type="text" id="quest_description">
 		<location x="34" y="230" />
@@ -690,13 +695,16 @@
   <template src="proxy/questA.jpg" default="False">
     <matches>
       <match name="Type" value="Quest" />
-	  <match name="Quest Points" value="" />
+	  <match name="Engagement Cost" value="A" />
     </matches>
     <textblocks>
-	  <link block="quest_stage">
+	  <link block="quest_name">
 	   <property name="Name" />
 	  </link>
-	  <link block="quest_name">
+	  <link block="quest_stage">
+	   <property name="Cost" format="{}A"/>
+	  </link>
+	  <link block="encounter">
 	   <property name="Encounter Set" />
 	  </link>
 	  <link block="quest_description">
@@ -707,12 +715,16 @@
   <template src="proxy/questB.jpg" default="False">
     <matches>
       <match name="Type" value="Quest" />
+	  <match name="Engagement Cost" value="B" />
     </matches>
     <textblocks>
-	  <link block="quest_stage">
+	  <link block="quest_name">
 	   <property name="Name" />
 	  </link>
-	  <link block="quest_name">
+	  <link block="quest_stage">
+	   <property name="Cost" format="{}BEnga"/>
+	  </link>
+	  <link block="encounter">
 	   <property name="Encounter Set" />
 	  </link>
 	  <link block="quest_description" separator="&#10;&#10;">

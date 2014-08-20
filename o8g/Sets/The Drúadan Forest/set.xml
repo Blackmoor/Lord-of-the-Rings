@@ -100,24 +100,34 @@
     <property name="Health" value="3"/>
     <property name="Text" value="If each hero you control belongs to the same sphere of influence, you may assign damage from undefended enemy attacks to White Tower Watchman instead of a hero you control."/>
   </card>
-  <card id="71079813-3afe-41b7-8746-92dcc1f91084" name="The Pursuit - 1A">
+  <card id="71079813-3afe-41b7-8746-92dcc1f91084" name="The Pursuit">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Search the encounter deck for Drû-buri-Drû and set him aside, out of play. Shuffle the encounter deck."/>
     <property name="Setup" value="t"/>
-    <alternate name="The Pursuit - 1B" type="B">
+    <alternate name="The Pursuit" type="B">
+      <property name="Encounter Set" value="The Drúadan Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="11"/>
       <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player and add it to the staging area."/>
     </alternate>
   </card>
-  <card id="346fda89-94df-410a-8027-41eacbf27238" name="An Untimely End - 2A">
+  <card id="346fda89-94df-410a-8027-41eacbf27238" name="An Untimely End">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Quest"/>
-    <alternate name="An Untimely End - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="An Untimely End" type="B">
+      <property name="Encounter Set" value="The Drúadan Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="17"/>
       <property name="Text" value="Archery damage must be assigned to allies, if able."/>
     </alternate>
@@ -135,13 +145,18 @@
     <property name="Health" value="6"/>
     <property name="Text" value="Allies cannot defend against Drû-buri-Drû.&#10;&#10;While Drû-buri-Drû is in the victory display, characters get +1 Ò and +1 Ú.&#10;&#10;Unless Drû-buri-Drû is in the victory display, the players cannot win."/>
   </card>
-  <card id="f6578eb7-1b94-458b-aba1-82b406507a4d" name="The Passage Out - 3A">
+  <card id="f6578eb7-1b94-458b-aba1-82b406507a4d" name="The Passage Out">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Add Drû-buri-Drû to the staging area."/>
-    <alternate name="The Passage Out - 3B" type="B">
+    <alternate name="The Passage Out" type="B">
+      <property name="Encounter Set" value="The Drúadan Forest"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="14"/>
       <property name="Text" value="Characters use their Ò instead of Û when attacking enemies. If an enemy would be damaged this way, place progress tokens on it instead of damage tokens. When an enemy has progress equal to its hit points, add it to the victory display and place those progress tokens on the quest.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>

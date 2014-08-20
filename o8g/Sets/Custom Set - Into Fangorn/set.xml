@@ -71,41 +71,66 @@
   <card id="2cf345c7-c38e-4524-8c93-9dbcc18c83d5" name="Chase Through Darkness">
     <property name="Quantity" value="1"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <alternate name="Chase Through Darkness" type="B">
+      <property name="Encounter Set" value=""/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
     </alternate>
   </card>
   <card id="1234e90f-3f16-45d6-b696-92a7970623f2" name="Entering the Forest">
     <property name="Quantity" value="1"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="s"/>
     <alternate name="Entering the Forest" type="B">
+      <property name="Encounter Set" value=""/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="9"/>
     </alternate>
   </card>
   <card id="b332627d-2835-4e15-b846-1189a74ce7af" name="Into the Web">
     <property name="Quantity" value="1"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <alternate name="Into the Web" type="B">
+      <property name="Encounter Set" value=""/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
   <card id="f36064e5-0889-4699-9adf-9110909dc5b8" name="Seeking the Ents">
     <property name="Quantity" value="1"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
     <alternate name="Seeking the Ents" type="B">
+      <property name="Encounter Set" value=""/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="1"/>
     </alternate>
   </card>
   <card id="6ce9a5b7-ca6a-4895-921a-e64f5835d819" name="Showdown with the Fallen">
     <property name="Quantity" value="1"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="5"/>
+    <property name="Engagement Cost" value="A"/>
     <alternate name="Showdown with the Fallen" type="B">
+      <property name="Encounter Set" value=""/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="5"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="0"/>
     </alternate>
   </card>

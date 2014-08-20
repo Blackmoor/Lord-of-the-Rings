@@ -103,24 +103,34 @@
     <property name="Cost" value="1"/>
     <property name="Text" value="Attached hero gains a Î resource icon."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9012" name="Grimbeorn's Quest - 1A">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9012" name="Grimbeorn's Quest">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Add The Carrock to the staging area. Remove 4 unique Troll cards and 4 copies of the &quot;Sacked!&quot; card from the encounter deck and set them aside, out of play. Then shuffle 1 &quot;Sacked!&quot; card per player back into the encounter deck."/>
     <property name="Setup" value="stttttttt"/>
-    <alternate name="Grimbeorn's Quest - 1B" type="B">
+    <alternate name="Grimbeorn's Quest" type="B">
+      <property name="Encounter Set" value="Conflict at the Carrock"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="Forced: After placing the 7th progress token on Grimbeorn's Quest, The Carrock becomes the active location. Discard the previous active location from play."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9003" name="Against the Trolls - 2A">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9003" name="Against the Trolls">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Against the Trolls - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Against the Trolls" type="B">
+      <property name="Encounter Set" value="Conflict at the Carrock"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="When Revealed: Place the unique Troll cards previously set aside into the staging area.&#10;&#10;Players cannot defeat this stage if there are any Troll enemies in play."/>
     </alternate>

@@ -519,87 +519,132 @@
     <property name="Encounter Set" value="Weary Travellers"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="74f297ed-3cb6-4c2d-83d8-c27b447a9250" name="Fight at the Fords - 1A">
+  <card id="74f297ed-3cb6-4c2d-83d8-c27b447a9250" name="Fight at the Fords">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="ss"/>
-    <alternate name="Fight at the Fords - 1B" type="B">
+    <alternate name="Fight at the Fords" type="B">
+      <property name="Encounter Set" value="Fords of Isen"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
-  <card id="93ece501-fae4-46e8-9720-316383b86688" name="Dunlending Attack - 2A">
+  <card id="93ece501-fae4-46e8-9720-316383b86688" name="Dunlending Attack">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Dunlending Attack - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Dunlending Attack" type="B">
+      <property name="Encounter Set" value="Fords of Isen"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="14"/>
     </alternate>
   </card>
-  <card id="0cdc4034-738d-487d-9a8c-8ef364772076" name="Hold the Fords - 3A">
+  <card id="0cdc4034-738d-487d-9a8c-8ef364772076" name="Hold the Fords">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Hold the Fords - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Hold the Fords" type="B">
+      <property name="Encounter Set" value="Fords of Isen"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="16"/>
     </alternate>
   </card>
-  <card id="0e0b125c-ffed-4473-9a64-7d709b16cca5" name="Orders from Orthanc - 1A">
+  <card id="0e0b125c-ffed-4473-9a64-7d709b16cca5" name="Orders from Orthanc">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="tttt"/>
-    <alternate name="Orders from Orthanc - 1B" type="B">
+    <alternate name="Orders from Orthanc" type="B">
+      <property name="Encounter Set" value="To Catch an Orc"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>
-  <card id="8472068c-fdd7-4197-8046-b9da12c29135" name="Searching for Mugash - 2A">
+  <card id="8472068c-fdd7-4197-8046-b9da12c29135" name="Searching for Mugash">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Searching for Mugash - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Searching for Mugash" type="B">
+      <property name="Encounter Set" value="To Catch an Orc"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>
-  <card id="c71fa40c-524e-43ec-b058-7ea239fdfd1d" name="The Wizard's Prize - 3A">
+  <card id="c71fa40c-524e-43ec-b058-7ea239fdfd1d" name="The Wizard's Prize">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Wizard's Prize - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Wizard's Prize" type="B">
+      <property name="Encounter Set" value="To Catch an Orc"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
     </alternate>
   </card>
-  <card id="99bdb330-27f2-4534-a355-0bb9f1682a8d" name="Into the Woods - 1A">
+  <card id="99bdb330-27f2-4534-a355-0bb9f1682a8d" name="Into the Woods">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="ss"/>
-    <alternate name="Into the Woods - 1B" type="B">
+    <alternate name="Into the Woods" type="B">
+      <property name="Encounter Set" value="Into Fangorn"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="11"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="9"/>
     </alternate>
   </card>
-  <card id="c7e3bde9-8348-41d6-8272-aa733f60a108" name="Escape from Fangorn - 2A">
+  <card id="c7e3bde9-8348-41d6-8272-aa733f60a108" name="Escape from Fangorn">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Escape from Fangorn - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Escape from Fangorn" type="B">
+      <property name="Encounter Set" value="Into Fangorn"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="12"/>
     </alternate>
   </card>
-  <card id="d8c6d8df-9856-4fad-ba85-a96d17b67cfd" name="The Angry Forest - 3A">
+  <card id="d8c6d8df-9856-4fad-ba85-a96d17b67cfd" name="The Angry Forest">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Angry Forest - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Angry Forest" type="B">
+      <property name="Encounter Set" value="Into Fangorn"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>

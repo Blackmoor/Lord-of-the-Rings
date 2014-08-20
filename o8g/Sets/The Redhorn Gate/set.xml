@@ -92,34 +92,49 @@
     <property name="Cost" value="0"/>
     <property name="Text" value="Action: Discard Good Meal to lower the cost of the next event you play this round that matches attached hero's sphere by 2."/>
   </card>
-  <card id="0ec5f691-e5b3-41b5-bcec-2f963786ef4d" name="Up the Pass - 1A">
+  <card id="0ec5f691-e5b3-41b5-bcec-2f963786ef4d" name="Up the Pass">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Redhorn Gate"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Add Caradhras to the staging area. Remove all copies of Snowstorm from the encounter deck and set them aside, out of play. Put Arwen Undomiel into play under the control of the first player."/>
     <property name="Setup" value="stttttt"/>
-    <alternate name="Up the Pass - 1B" type="B">
+    <alternate name="Up the Pass" type="B">
+      <property name="Encounter Set" value="The Redhorn Gate"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area."/>
     </alternate>
   </card>
-  <card id="737a8d5f-2f82-47e4-844e-52fdae95ccf5" name="Snowdrifts - 2A">
+  <card id="737a8d5f-2f82-47e4-844e-52fdae95ccf5" name="Snowdrifts">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Redhorn Gate"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Snowdrifts - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Snowdrifts" type="B">
+      <property name="Encounter Set" value="The Redhorn Gate"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="11"/>
       <property name="Text" value="When Revealed: Shuffle 1 more copy of Snowstorm into the encounter deck than the number of players in the game.&#10;&#10;Forced: After placing the 11th progress token on Snowdrifts, discard any active location. Caradhras becomes the active location."/>
     </alternate>
   </card>
-  <card id="001dbc8b-3b8e-4f02-bdbd-7e78c6ecd348" name="The Mountains' Peaks - 3A">
+  <card id="001dbc8b-3b8e-4f02-bdbd-7e78c6ecd348" name="The Mountains' Peaks">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Redhorn Gate"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Mountains' Peaks - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Mountains' Peaks" type="B">
+      <property name="Encounter Set" value="The Redhorn Gate"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="13"/>
       <property name="Text" value="When Revealed: Shuffle all copies of Snowstorm in the encounter discard pile back into the encounter deck.&#10;&#10;Characters are discarded from play if their Ò is ever 0.&#10;&#10;Players cannot defeat this stage unless they have 5 victory points. If the players defeat this stage, they have won the game."/>
     </alternate>

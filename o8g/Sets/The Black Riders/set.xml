@@ -226,90 +226,130 @@
     <property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +1 Ò and gains the Noble trait."/>
     <property name="Setup" value="t"/>
   </card>
-  <card id="6b34adb4-b510-4db9-aaba-9a1876626dce" name="Three is Company - 1A">
+  <card id="6b34adb4-b510-4db9-aaba-9a1876626dce" name="Three is Company">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Set Bucklebury Ferry aside, out of play.  Add 1 Black Rider to the staging area and make Bag End the active location.  Shuffle the encounter deck."/>
     <property name="Setup" value="ttsl"/>
-    <alternate name="Three is Company - 1B" type="B">
+    <alternate name="Three is Company" type="B">
+      <property name="Encounter Set" value="A Shadow of the Past"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="When a player fails a Hide test, each Nazgul enemy in the staging area engages that player. (Trigger Forced effects after resolving this effect.)&#10;&#10;The players cannot advance unless Bag End is in the victory display."/>
     </alternate>
   </card>
-  <card id="40c7a675-d48f-4e71-8818-5f0ffb9fa0dd" name="A Shortcut to Mushrooms - 2A">
+  <card id="40c7a675-d48f-4e71-8818-5f0ffb9fa0dd" name="A Shortcut to Mushrooms">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
     <property name="Type" value="Quest"/>
-    <alternate name="A Shortcut to Mushrooms - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="A Shortcut to Mushrooms" type="B">
+      <property name="Encounter Set" value="A Shadow of the Past"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="14"/>
       <property name="Text" value="When Revealed: The first player searches the encounter deck and discard pile for a Black Rider, reveals it (cannot be cancelled), and adds it to the staging area.  Shuffle the encounter deck.&#10;&#10;When a player makes a Hide test, add 1 to the total $ for each ally that player controls.&#10;&#10;When a player fails a Hide test, each Nazgul enemy in the staging area engages that player. (Trigger Forced effects after resolving this effect.)"/>
     </alternate>
   </card>
-  <card id="7371cfea-03d0-4bc0-98a1-d99e0acdbf88" name="Escape to Buckland - 3A">
+  <card id="7371cfea-03d0-4bc0-98a1-d99e0acdbf88" name="Escape to Buckland">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Shadow of the Past"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Add Bucklebury Ferry to the staging area."/>
-    <alternate name="Escape to Buckland - 3B" type="B">
+    <alternate name="Escape to Buckland" type="B">
+      <property name="Encounter Set" value="A Shadow of the Past"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="When Revealed: The first player searches the encounter deck and discard pile for a Black Rider, reveals it (cannot be cancelled), and adds it to the staging area.  Shuffle the encounter deck.&#10;&#10;When a player fails a Hide test, each Nazgul enemy in the staging area engages that player. (Trigger Forced effects after resolving this effect.)&#10;&#10;Response: After a player makes a successful Hide test, place X progress on a non-unique location in play.  X is twice the number of players in the game."/>
     </alternate>
   </card>
-  <card id="d0b6992d-9dc4-41fa-a483-b4ad0a3d60b3" name="Trouble in Bree - 1A">
+  <card id="d0b6992d-9dc4-41fa-a483-b4ad0a3d60b3" name="Trouble in Bree">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Knife in the Dark"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Set all copies of Ringwraith, The Witch-king, Midgewater, and Weathertop aside, out of play.  Add The Prancing Pony and Bill Ferny to the staging area.  Shuffle the encounter deck."/>
     <property name="Setup" value="ttttsstttt"/>
-    <alternate name="Trouble in Bree - 1B" type="B">
+    <alternate name="Trouble in Bree" type="B">
+      <property name="Encounter Set" value="A Knife in the Dark"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
       <property name="Text" value="The players cannot advance while The Prancing Pony is in play."/>
     </alternate>
   </card>
-  <card id="28a4721b-3696-4fae-9eea-01b5a250c892" name="Into the Wild - 2A">
+  <card id="28a4721b-3696-4fae-9eea-01b5a250c892" name="Into the Wild">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Knife in the Dark"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Into the Wild - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Into the Wild" type="B">
+      <property name="Encounter Set" value="A Knife in the Dark"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="6"/>
       <property name="Text" value="When Revealed: Add Midgewater to the staging area.  Each player places 1 progress on the current quest.&#10;&#10;Forced: At the end of the round, either remove X progress from the current quest or shuffle 1 out of play Ringwraith into the encounter deck.  X is the number of players in the game.&#10;&#10;The players cannot advance while Midgewater is in play."/>
     </alternate>
   </card>
-  <card id="257f9b44-2744-4f02-bbf6-115d12b52e8d" name="The Ringwraiths Attack - 3A">
+  <card id="257f9b44-2744-4f02-bbf6-115d12b52e8d" name="The Ringwraiths Attack">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Knife in the Dark"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Add Weathertop and The Witch-king to the staging area.  Search the encounter deck and discard pile and add each Nazgul enemy found to the staging area.  Shuffle the encounter deck."/>
-    <alternate name="The Ringwraiths Attack - 3B" type="B">
+    <alternate name="The Ringwraiths Attack" type="B">
+      <property name="Encounter Set" value="A Knife in the Dark"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
       <property name="Text" value="If there are no Nazgul enemies in play, the players win the game."/>
     </alternate>
   </card>
-  <card id="f9824e39-fda8-4e4b-bc74-83b4bd40c72d" name="Pursued by the Enemy - 1A">
+  <card id="f9824e39-fda8-4e4b-bc74-83b4bd40c72d" name="Pursued by the Enemy">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight to the Ford"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Shuffle each burden card from the Flight to the Ford burden set into a Burden deck. Attach An Evil Wound to the Ring-bearer.  Set Ford of Bruinen and The Witch-King aside, out of play.  Add The Last Bridge and 1 Fell Rider per player to the staging area.  Set the Ring-bearer's life at 15. Shuffle the encounter deck."/>
     <property name="Setup" value="ttttstttt"/>
-    <alternate name="Pursued by the Enemy - 1B" type="B">
+    <alternate name="Pursued by the Enemy" type="B">
+      <property name="Encounter Set" value="Flight to the Ford"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="The players cannot advance unless The Last Bridge is in the victory display.&#10;&#10;Forced: At the end of the round, reduce the Ring-bearer's life by 1."/>
     </alternate>
   </card>
-  <card id="6b2673af-c764-4599-a265-6e43d3b75310" name="Race To Rivendell - 2A">
+  <card id="6b2673af-c764-4599-a265-6e43d3b75310" name="Race To Rivendell">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight to the Ford"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Race To Rivendell - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Race To Rivendell" type="B">
+      <property name="Encounter Set" value="Flight to the Ford"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="When Revealed: Add Ford of Bruinen and The Witch-king to the staging area.&#10;&#10;While at least 1 Nazgul enemy is in play, Race to Rivendell gets +15 quest points.&#10;&#10;Forced: At the end of the round. Reduce the Ring-bearer's life by 1.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
@@ -318,10 +358,13 @@
     <property name="Quantity" value="1"/>
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Attach Mr. Underhill to the Ring-bearer. Add Gandalf's Delay to the staging area. Shuffle Gildor Inglorion and the The Ring Draws Them into the encounter deck."/>
     <property name="Setup" value="-----"/>
     <alternate name="A Shadow of the Past" type="B">
+      <property name="Encounter Set" value=""/>
       <property name="Type" value="Campaign"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Text" value="Resolution: Choose Gandalf's Delay or The Ring Draws Them and add it to the Campaign Pool.  Then, choose Gildor Inglorion or Mr. Underhill and add it to the Campaign Pool.  The chosen cards have been earned by the players."/>
     </alternate>
   </card>
@@ -461,9 +504,12 @@
     <property name="Quantity" value="1"/>
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="-----------"/>
     <alternate name="A Knife in the Dark" type="B">
+      <property name="Encounter Set" value=""/>
       <property name="Type" value="Campaign"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Text" value="Resolution: Starting with the first player, each player may choose one of the following boon cards and attach it to a hero he controls: Tireless Ranger, Skilled Healer, Valiant Warrior, Noble Hero. The chosen cards have been earned by the players."/>
     </alternate>
   </card>
@@ -593,10 +639,13 @@
     <property name="Encounter Set" value="The Lord of the Rings Part 3"/>
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Response: After an enemy is declared as an attacker, shuffle the top card of the burden deck into the encounter deck to cancel that attack. (Any player may trigger that ability.)"/>
     <property name="Setup" value="----------"/>
     <alternate name="Flight to the Ford" type="B">
+      <property name="Encounter Set" value="The Lord of the Rings Part 3"/>
       <property name="Type" value="Campaign"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Text" value="Resolution: Add each burden card in player, in the encounter deck, and in the discard pile to the Campaign Pool.  Then added cards have been earned by the players."/>
     </alternate>
   </card>

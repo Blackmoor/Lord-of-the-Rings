@@ -96,43 +96,63 @@
     <property name="Cost" value="2"/>
     <property name="Text" value="Action: Move the top card of the encounter discard pile to the top of the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9021" name="Through the Forest - 1A">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9021" name="Through the Forest">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Search the encounter deck for Gollum. Choose a player to guard Gollum at the start of the game, and place Gollum in front of that player. Then shuffle the encounter deck. Reveal 1 card per player from the encounter deck, and add it to the staging area."/>
     <property name="Setup" value="t"/>
-    <alternate name="Through the Forest - 1B" type="B">
+    <alternate name="Through the Forest" type="B">
+      <property name="Encounter Set" value="Return to Mirkwood"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="12"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9010" name="Escape Attempt - 2A">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9010" name="Escape Attempt">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Escape Attempt - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Escape Attempt" type="B">
+      <property name="Encounter Set" value="Return to Mirkwood"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="3"/>
       <property name="Text" value="The player guarding Gollum cannot commit characters to this quest (unless he is the only player remaining in the game).&#10;&#10;If the players quest unsuccessfully, Gollum escapes and the players have lost the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9023" name="To the Elvin King's Halls - 3A">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9023" name="To the Elvin King's Halls">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Quest"/>
-    <alternate name="To the Elvin King's Halls - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="To the Elvin King's Halls" type="B">
+      <property name="Encounter Set" value="Return to Mirkwood"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="The player guarding Gollum cannot play cards from his hand."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9001" name="Ambush - 4A">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9001" name="Ambush">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Ambush - 4B" type="B">
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Ambush" type="B">
+      <property name="Encounter Set" value="Return to Mirkwood"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="2"/>
       <property name="Text" value="Forced: At the beginning of the combat phase, all enemies in play engage the player guarding Gollum.&#10;&#10;Players cannot defeat this stage if there are any enemies in play. If players defeat this stage, they have won the game."/>
     </alternate>

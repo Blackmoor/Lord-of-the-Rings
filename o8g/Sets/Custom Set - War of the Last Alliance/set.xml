@@ -39,35 +39,50 @@
     <property name="Victory Points" value="15"/>
     <property name="Text" value="Action: Discard X cards from hand to reduce Sauron’s Ú by X until the end of the phase. Action: If the players control Elven Alliance and Human Alliance add Narsil to the victory display to place 1 resource token on Sauron."/>
   </card>
-  <card id="c836d176-eb56-4274-b33a-8adbcb81c9c9" name="Preparing for Battle - 1A">
+  <card id="c836d176-eb56-4274-b33a-8adbcb81c9c9" name="Preparing for Battle">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Construct the encounter deck using all the cards from this scenario plus all the enemies with the Goblin or Orc trait from the indicated sets. Remove Sauron and Narsil from encounter deck and set them aside out of play. Shuffle the encounter deck."/>
     <property name="Setup" value="tt"/>
-    <alternate name="Preparing for Battle - 1B" type="B">
+    <alternate name="Preparing for Battle" type="B">
+      <property name="Encounter Set" value="War of the Last Alliance"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="0"/>
       <property name="Text" value="When revealed: Each player may put an additional Noldor hero into play from his collection, who must match spheres with a hero he already controls. (The threat cost of the additional hero does not add to the starting threat level of his controller?. Forced: Skip the quest phase. At the end of the round, advance to stage 2."/>
     </alternate>
   </card>
-  <card id="c47983e2-8843-409e-b137-20887a3f36f9" name="Combat - 2A">
+  <card id="c47983e2-8843-409e-b137-20887a3f36f9" name="Combat">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Combat - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Combat" type="B">
+      <property name="Encounter Set" value="War of the Last Alliance"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="99"/>
       <property name="Text" value="Forced: At the beginning of the combat phase, each player discards X cards from the encounter deck. Each enemy discarded engages the player that discarded it. Each objective discarded is considered revealed from encounter deck. X is equal to the current round number divided by two (rounding down)."/>
     </alternate>
   </card>
-  <card id="fd01fd5c-eb37-464f-900d-ede623b0f043" name="Terrible and Unstoppable - 3A">
+  <card id="fd01fd5c-eb37-464f-900d-ede623b0f043" name="Terrible and Unstoppable">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When revealed: Discard all enemies from play then add Sauron to the staging area. Any player may discard a Noldor hero and put Narsil into play, attached to a Gondor hero they control. Advance to the refresh phase."/>
-    <alternate name="Terrible and Unstoppable - 3B" type="B">
+    <alternate name="Terrible and Unstoppable" type="B">
+      <property name="Encounter Set" value="War of the Last Alliance"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="0"/>
       <property name="Text" value="Progress tokens cannot be placed on this quest. Forced: If the total Û of an attack against Sauron is higher than his Ú, place 1 resource token on Sauron. If the attacking player does not control Narsil, discard the top card of the encounter deck. If the discarded card has a shadow effect, do not place the resource token on Sauron. If Sauron has X or more resource tokens on him, he is defeated and the players win the game. X is the number of players multiplied by 2."/>
     </alternate>

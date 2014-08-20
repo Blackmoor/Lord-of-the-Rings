@@ -95,22 +95,32 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="2"/>
   </card>
-  <card id="022c654e-9d4d-40ff-9d67-8e465fda0e78" name="Double Dealings - 1A">
+  <card id="022c654e-9d4d-40ff-9d67-8e465fda0e78" name="Double Dealings">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Trouble in Tharbad"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="ttttttlt"/>
-    <alternate name="Double Dealings - 1B" type="B">
+    <alternate name="Double Dealings" type="B">
+      <property name="Encounter Set" value="Trouble in Tharbad"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>
-  <card id="f86ef645-bc8b-41a0-b288-80118f5433cc" name="Escape from Tharbad - 2A">
+  <card id="f86ef645-bc8b-41a0-b288-80118f5433cc" name="Escape from Tharbad">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Trouble in Tharbad"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Escape from Tharbad - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Escape from Tharbad" type="B">
+      <property name="Encounter Set" value="Trouble in Tharbad"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>

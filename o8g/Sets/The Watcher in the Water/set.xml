@@ -98,24 +98,34 @@
     <property name="Cost" value="4"/>
     <property name="Text" value="Attach to a hero you control.&#10;&#10;Attached hero collects 1 additional resource during the resource phase each round."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9023" name="To the West-door - 1A">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9023" name="To the West-door">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Remove The Watcher and Doors of Durin from the encounter deck and set them aside, out of play."/>
     <property name="Setup" value="tt"/>
-    <alternate name="To the West-door - 1B" type="B">
+    <alternate name="To the West-door" type="B">
+      <property name="Encounter Set" value="The Watcher in the Water"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="13"/>
       <property name="Text" value="When Revealed: Reveal cards from the encounter deck and add them to the staging area until there is at least X $ in the staging area. X is twice the number of players in the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9019" name="The Seething Lake - 2A">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9019" name="The Seething Lake">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Seething Lake - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Seething Lake" type="B">
+      <property name="Encounter Set" value="The Watcher in the Water"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="5"/>
       <property name="Text" value="When Revealed: Add The Watcher to the staging area. Doors of Durin becomes the active location, moving any previous active location to the staging area. Shuffle all Tentacle cards in the encounter discard pile back into the encounter deck.&#10;&#10;If the players have at least 3 victory points and defeat this stage, they have won the game."/>
     </alternate>

@@ -232,100 +232,145 @@
     <property name="Cost" value="0"/>
     <property name="Text" value="Attached character gets +2 Û.&#10;&#10;Response: After attached character destroys an Orc enemy, draw 1 card."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9013" name="An Unexpected Party - 1A">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9013" name="An Unexpected Party">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Remove and shuffle the 7 Sack cards into a Sack deck and set it aside face down. Remove the 3 Troll enemies and the Troll Cave from the encounter deck and set them aside out of play. Then, shuffle the encounter deck. Each player reveals 1 card from the top of the encounter deck and adds it to the staging area."/>
     <property name="Setup" value="tttt"/>
-    <alternate name="An Unexpected Party - 1B" type="B">
+    <alternate name="An Unexpected Party" type="B">
+      <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="7"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9072" name="Roast Mutton - 2A">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9072" name="Roast Mutton">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Add the set-aside Troll enemies and the Troll Cave to the staging area. Shuffle the encounter discard pile back into the encounter deck."/>
-    <alternate name="Roast Mutton - 2B" type="B">
+    <alternate name="Roast Mutton" type="B">
+      <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="Forced: If there are no Troll enemies left in play, or if there are no cards left in the encounter deck, advance to the next stage.&#10;&#10;Any time players would place progress tokens on this quest, discard an equal number of cards from the encounter deck instead. (Progress is placed on the active location before triggering this effect.)"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9025" name="Dawn Take You All - 3A">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9025" name="Dawn Take You All">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Dawn Take You All - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Dawn Take You All" type="B">
+      <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="0"/>
       <property name="Text" value="When Revealed: Remove all Troll enemies and Sack cards from the game. If Troll Cave is in the victory display, the players have discovered the treasure cards Sting, Glamdring, and Orcrist.&#10;&#10;The players have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9005" name="A Short Rest - 1A">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9005" name="A Short Rest">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Over the Misty Mountains Grim"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Shuffle the Over the Misty Mountains Grim and Western Lands encounter sets into one encounter deck and make it the active encounter deck. Then, shuffle the The Great Goblin and Misty Mountain Goblins encounter sets into a second encounter deck and set it aside, inactive."/>
     <property name="Setup" value="s"/>
-    <alternate name="A Short Rest - 1B" type="B">
+    <alternate name="A Short Rest" type="B">
+      <property name="Encounter Set" value="Over the Misty Mountains Grim"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="0"/>
       <property name="Text" value="When Revealed: Each player may search his deck for 1 treasure card and add it to his hand, then shuffle his deck. Advance to stage 2A."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9080" name="The Mountain Pass - 2A">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9080" name="The Mountain Pass">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Over the Misty Mountains Grim"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Mountain Pass - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Mountain Pass" type="B">
+      <property name="Encounter Set" value="Over the Misty Mountains Grim"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="16"/>
       <property name="Text" value="When Revealed: Search the encounter deck for 1 copy of Stone-giant and add it to the staging area. Then, shuffle the encounter deck. Reveal 1 card per player from the encounter deck and add it to the staging area."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9028" name="Down, Down to Goblin Town - 3A">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9028" name="Down, Down to Goblin Town">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Great Goblin"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Shuffle all encounter cards back into the encounter deck and set it aside, inactive. The second encounter deck becomes the active encounter deck. Search the encounter deck for The Great Goblin and add it to the staging area. Then, shuffle the encounter deck."/>
-    <alternate name="Down, Down to Goblin Town - 3B" type="B">
+    <alternate name="Down, Down to Goblin Town" type="B">
+      <property name="Encounter Set" value="The Great Goblin"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="20"/>
       <property name="Text" value="Players cannot defeat this stage unless The Great Goblin is in the victory display.&#10;&#10;When Revealed: Reveal 3 encounter cards per player. Bilbo Baggins may spend X resources to reduce the total number of encounter cards revealed by X. (To a minimum of 1.)&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9066" name="Out of the Frying Pan - 1A">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9066" name="Out of the Frying Pan">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Add Lake in the Cavern to the staging area. Create a riddle area with stage 2A and follow the setup instructions on that card."/>
     <property name="Setup" value="stt"/>
-    <alternate name="Out of the Frying Pan - 1B" type="B">
+    <alternate name="Out of the Frying Pan" type="B">
+      <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="14"/>
       <property name="Text" value="Players cannot advance to stage 3A unless both 1B and 2B are complete.&#10;&#10;Forced: Reveal 1 additional encounter card per player during the staging step."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9069" name="Riddles in the Dark - 2A">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9069" name="Riddles in the Dark">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Search the encounter deck for Gollum and Bilbo's Magic Ring. Place Gollum and Bilbo Baggins in the riddle area and attach Bilbo's Magic Ring to Bilbo Baggins. Then, shuffle the encounter deck."/>
-    <alternate name="Riddles in the Dark - 2B" type="B">
+    <alternate name="Riddles in the Dark" type="B">
+      <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="Players cannot advance to stage 3A unless both 1B and 2B are complete.&#10;&#10;Progress tokens cannot be added to, or removed from, this quest except by answering riddles.&#10;&#10;Cards in the riddle area are immune to player card effects and cannot leave the riddle area except by quest effects."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9052" name="Into the Fire - 3A">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9052" name="Into the Fire">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Into the Fire - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Into the Fire" type="B">
+      <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="16"/>
       <property name="Text" value="When Revealed: The first player gains control of Bilbo Baggins. Reveal 1 encounter card per player and add it to the staging area.&#10;&#10;Gollum engages the first player. Damage from undefended attacks made by Gollum must be placed on Bilbo Baggins.&#10;&#10;All riddle effects are ignored. Treachery cards gain surge.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>

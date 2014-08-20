@@ -104,26 +104,36 @@
     <property name="Cost" value="0"/>
     <property name="Text" value="Action: Discard the top 2 cards of your deck. You may attach 1 attachment card discarded by this effect to an eligible Dwarf character in play."/>
   </card>
-  <card id="23768a0d-bf6c-4405-9b09-ea8fdbfded31" name="Ambush - 1A">
+  <card id="23768a0d-bf6c-4405-9b09-ea8fdbfded31" name="Ambush">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Add the Crossroads and Black Númenorean to the staging area. Put the Faramir and Lord Alcaron objective allies into play. Shuffle the encounter deck and reveal 1 card from the encounter deck per player and add it to the staging area. "/>
     <property name="Setup" value="sstt"/>
-    <alternate name="Ambush - 1B" type="B">
+    <alternate name="Ambush" type="B">
+      <property name="Encounter Set" value="The Blood of Gondor"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="11"/>
       <property name="Text" value="At the beginning of the quest phase, each player takes 1 hidden card. At the beginning of the combat phase, each player must turn each of his hidden cards faceup or take 1 hidden card."/>
     </alternate>
   </card>
-  <card id="d2bf00ad-2e1e-4537-b662-f6f20f9a1cfe" name="Captured! - 2A">
+  <card id="d2bf00ad-2e1e-4537-b662-f6f20f9a1cfe" name="Captured!">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Type" value="Quest"/>
     <property name="Keywords" value="Battle."/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Place Faramir and Lord Alcaron under Captured! (they are in play but players cannot gain control of them). Each player turns each of his hudden cards faceup. "/>
-    <alternate name="Captured! - 2B" type="B">
+    <alternate name="Captured!" type="B">
+      <property name="Encounter Set" value="The Blood of Gondor"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="At the beginning of the quest phase, each player takes 1 hidden card. If a player has 5 hidden cards, he must turn them faceup. If the players defeat this stage, they have won the game."/>
     </alternate>

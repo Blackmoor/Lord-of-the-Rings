@@ -320,13 +320,18 @@
     <property name="Traits" value="Armor. Artifact."/>
     <property name="Text" value="When Revealed: Attach this card to the hero with the most progress tokens. Search the encounter deck and encounter discard pile for all copies of Archaic Find, and remove them from the game. Then shuffle the encounter deck. This effect cannot be canceled. Response: After a hero is damaged, cancel the damage and remove all progress tokens from attached hero. Limit once per game."/>
   </card>
-  <card id="fb5d67d5-29ef-460d-90c6-b7ccc65a100f" name="The Trial of the Dark Forest - 1A">
+  <card id="fb5d67d5-29ef-460d-90c6-b7ccc65a100f" name="The Trial of the Dark Forest">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Orc hunting"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Remove and shuffle the Wild enemies into a Orcs from Dark Forest deck and set it aside face down. Then, shuffle the encounter deck. Each player reveals 1 card from the top of the encounter deck and adds it to the staging area."/>
-    <alternate name="The Trial of the Dark Forest - 1B" type="B">
+    <alternate name="The Trial of the Dark Forest" type="B">
+      <property name="Encounter Set" value="Custom Set - Orc hunting"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="After an Orc enemy is destroyed by an attack, place 1 progress token on any 1 character that participated in that attack. Forced: At the end of the round, each player discards from play all allies he controls. If one hero leaves play, the players have lost the game. If each hero in play has 2 or more progress tokens on him and the players defeat this stage, they have won the game."/>
     </alternate>
@@ -380,9 +385,12 @@
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Campaign"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Hunting X Keyword. After a location with the hunting keyword leaves play as an explored location, reveal X cards from the top of the Orcs of Dark Forest deck and add them to the staging area. X is the specified value in that location. If a Wild enemy card would be discarded without being defeated, it is placed in the encounter deck discard pile. If a location with hunting leaves play as an explored location and there are no cards left in the Orcs of Dark Forest deck, then the hunting keyword has no effect."/>
     <alternate name="Rule Card" type="B">
+      <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
       <property name="Type" value="Campaign"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Text" value="Risk X Keyword. When a location with the risk keyword is in play at the end of the combat phase, discard cards from the top of the Orcs of Dark Forest deck equal to the specified value. If the total of the discarded card’s Û is higher than the total of all ready characters’ Ò in play, the discarded cards engage the first player. If there are any risk locations in play, only the risk keyword with the highest value is considered to be active."/>
     </alternate>
   </card>

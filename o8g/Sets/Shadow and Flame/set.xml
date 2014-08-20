@@ -91,34 +91,49 @@
     <property name="Cost" value="2"/>
     <property name="Text" value="Action: Exhaust Elrond and Vilya to reveal the top card of your deck. You can immediately play or put into play the revealed card for no cost, if able. Otherwise, move the revealed card to the bottom of your deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9017" name="Nearing the Gate - 1A">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9017" name="Nearing the Gate">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Remove Dark Pit from the encounter deck and place it aside, out of play. Add Durin's Bane to the staging area. Shuffle the encounter deck."/>
     <property name="Setup" value="ts"/>
-    <alternate name="Nearing the Gate - 1B" type="B">
+    <alternate name="Nearing the Gate" type="B">
+      <property name="Encounter Set" value="Shadow and Flame"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="9"/>
       <property name="Text" value="When Revealed: Reduce each player's threat to 0. Reveal X cards from the encounter deck, where X is one less than the number of players in the game, and add them to the staging area."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9025" name="The Rear Guard - 2A">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9025" name="The Rear Guard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Quest"/>
-    <alternate name="The Rear Guard - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Rear Guard" type="B">
+      <property name="Encounter Set" value="Shadow and Flame"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="16"/>
       <property name="Text" value="Forced: If at least 1 hero committed to the quest this round, place 4 progress tokens on The Rear Guard (bypassing any active location) at the end of the quest phase.&#10;&#10;If Durin's Bane has 0 hit points, advance to the next stage of the scenario immediately."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9011" name="Last Lord of Moria - 3A">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9011" name="Last Lord of Moria">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Last Lord of Moria - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Last Lord of Moria" type="B">
+      <property name="Encounter Set" value="Shadow and Flame"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="When Revealed: Durin's Bane makes an immediate attack on the first player. Add Dark Pit to the staging area.&#10;&#10;Players cannot win the game while Durin's Bane is in play. If Durin's Bane leaves play by the effect on Dark Pit, the players have won the game."/>
     </alternate>

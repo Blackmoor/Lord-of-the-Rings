@@ -5,9 +5,12 @@
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Hunt for Gollum - Nightmare"/>
     <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <alternate name="The Hunt for Gollum" type="B">
+      <property name="Encounter Set" value="The Hunt for Gollum - Nightmare"/>
       <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Text" value="You are playing Nightmare mode.&#10;&#10;Forced: At the end of the refresh phase, choose an unclaimed Clue card not attached to a Mordor enemy and attach it to a Mordor enemy, if able. (If it was guarded, detach the encounter guarding if first. The newly attached Mordor enemy is now guarding it.)&#10;&#10;If at any point there are four or more Clue cards attached to Mordor enemies, the players lose the game."/>
     </alternate>
   </card>
@@ -89,10 +92,13 @@
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
     <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Setup" value="sttttttttt"/>
     <alternate name="Conflict at the Carrock" type="B">
+      <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
       <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Text" value="You are playing Nightmare mode. &#10;&#10;Stage 1A should read, &quot;Remove 5 unique Troll cards&quot; instead of 4.&#10;&#10;Stage 2B should read, &quot;When Revealed: Place Louis, Morris, Rupert and Stuart into the staging area.&quot;&#10;&#10;Forced: At the end of the quest phase, if no progress was placed on the current quest this phase, place 1 progress on the current quest (bypassing the active location).&#10;&#10;Response: After defeating a unique Troll enemy, you may choose and discard 1 &quot;Sacked!&quot; card from play."/>
     </alternate>
   </card>
@@ -205,13 +211,18 @@
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player chooses a hero in any player's discard pile and removes that hero from the game. Then, heal all damage from each Troll enemy in play. If no damage is removed from any Troll enemy as a result of this effect, Time for Supper gains surge."/>
   </card>
-  <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0043" name="Grimbeorn's Folly - 3A">
+  <card id="b91cc63a-7fa3-46b4-b5b2-9da1663f0043" name="Grimbeorn's Folly">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Add Rob &amp; Bob to the staging area. Then, each player must search the encounter deck and discard pile for a non-unique Troll enemy and add it to the staging area, if able. Shuffle the encounter deck."/>
-    <alternate name="Grimbeorn's Folly - 3B" type="B">
+    <alternate name="Grimbeorn's Folly" type="B">
+      <property name="Encounter Set" value="Conflict at the Carrock - Nightmare"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Text" value="When Rob &amp; Bob have been defeated, the players have rescued Grimbeorn the Old from certain death, and have won the game."/>
     </alternate>
   </card>
@@ -219,10 +230,13 @@
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare"/>
     <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Setup" value="sss"/>
     <alternate name="A Journey to Rhosgobel" type="B">
+      <property name="Encounter Set" value="A Journey to Rhosgobel - Nightmare"/>
       <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Text" value="You are playing Nightmare mode.&#10;&#10;Setup: Search the encounter deck for 1 copy of Goblin Eagle-hunter and add it to the staging area. Then shuffle the encounter deck.&#10;&#10;Forced: The first Creature enemy revealed during each quest phase gains surge.&#10;&#10;Response: After an Athelas card is placed in the discard pile, you may shuffle it into the encounter deck."/>
     </alternate>
   </card>
@@ -300,10 +314,13 @@
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare"/>
     <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Setup" value="ss"/>
     <alternate name="The Hunt for Gollum" type="B">
+      <property name="Encounter Set" value="The Hills of Emyn Muil - Nightmare"/>
       <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Text" value="You are playing Nightmare mode.&#10;&#10;No more than 1 progress may be placed on each location in the staging area each round."/>
     </alternate>
   </card>
@@ -387,10 +404,13 @@
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
     <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Setup" value="ss"/>
     <alternate name="The Dead Marshes" type="B">
+      <property name="Encounter Set" value="The Dead Marshes - Nightmare"/>
       <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Text" value="You are playing Nightmare mode.&#10;&#10;Players cannot reduce their threat.&#10;&#10;Setup: Search the encounter deck for The Mere of Dead Faces, and add it to the staging area. Then shuffle the encounter deck.&#10;&#10;Forced: After Gollum is placed in the discard pile, shuffle him into the encounter deck."/>
     </alternate>
   </card>
@@ -489,10 +509,13 @@
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Return to Mirkwood - Nightmare"/>
     <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Setup" value="s"/>
     <alternate name="Return to Mirkwood" type="B">
+      <property name="Encounter Set" value="Return to Mirkwood - Nightmare"/>
       <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Text" value="You are playing Nightmare mode.&#10;&#10;Forced: At the beginning of the quest phase, the player who is guarding Gollum must either exhaust a hero he controls or resolve the &quot;when revealed&quot; effect of the topmost Tantrum card in the encounter discard pile.&#10;&#10;Forced: When Stage 4A is revealed, search the encounter deck and discard pile for 1 copy of Attercop, Attercop and add it to the staging area, if able. Shuffle the encounter deck."/>
     </alternate>
   </card>

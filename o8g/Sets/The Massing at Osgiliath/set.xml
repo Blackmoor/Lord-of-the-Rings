@@ -159,44 +159,64 @@
     <property name="Text" value="When Revealed: The first player takes control of Ranger of Ithilien, exhausted and committed to the quest. Then, Ranger of Ithilien gains surge."/>
     <property name="Shadow" value="Shadow: Deal 2 damage to attacking enemy. The defending player may exhaust a character he controls to take control of Ranger of Ithilien."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801202c9016" name="Beyond Expectations - 1A">
+  <card id="51223bd0-ffd1-11df-a976-1801202c9016" name="Beyond Expectations">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Search the encounter deck for 12 Scout cards, and add 3 per player (one of each title), to the staging area. Remove The Witch-king from the encounter deck and set him aside, out of play. Shuffle any unused Scoutcards back into the encounter deck."/>
     <property name="Setup" value="ttttttttttttt"/>
-    <alternate name="Beyond Expectations - 1B" type="B">
+    <alternate name="Beyond Expectations" type="B">
+      <property name="Encounter Set" value="The Massing at Osgiliath"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="7"/>
       <property name="Text" value="Players cannot travel to West Bank locations."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801202c9018" name="Through the Ruins - 2A">
+  <card id="51223bd0-ffd1-11df-a976-1801202c9018" name="Through the Ruins">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Through the Ruins - 2B" type="B">
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Through the Ruins" type="B">
+      <property name="Encounter Set" value="The Massing at Osgiliath"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="5"/>
       <property name="Text" value="Players cannot travel to West Bank locations.&#10;&#10;Each player cannot play or put into play more than 1 card from his hand each round."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801202c9020" name="Anduin Crossing - 3A">
+  <card id="51223bd0-ffd1-11df-a976-1801202c9020" name="Anduin Crossing">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Anduin Crossing - 3B" type="B">
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Anduin Crossing" type="B">
+      <property name="Encounter Set" value="The Massing at Osgiliath"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="1"/>
       <property name="Text" value="Progress tokens from card effects cannot be placed on this quest card or the active location.&#10;&#10;Players cannot travel to East Bank or West Bank locations.&#10;&#10;In order to commit characters to the Quest, a player must first choose a hero or 1 Ranger of Ithilien card he controls. Discard each chosen card from play."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801202c9022" name="Race to Minas Tirith - 4A">
+  <card id="51223bd0-ffd1-11df-a976-1801202c9022" name="Race to Minas Tirith">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Massing at Osgiliath"/>
     <property name="Type" value="Quest"/>
-    <alternate name="Race to Minas Tirith - 4B" type="B">
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Race to Minas Tirith" type="B">
+      <property name="Encounter Set" value="The Massing at Osgiliath"/>
       <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
       <property name="Text" value="When Revealed: Add The Witch-king to the staging area. Players have now crossed the Anduin. Players cannot travel to East Bank locations.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
