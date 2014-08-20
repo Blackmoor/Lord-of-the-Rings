@@ -3,7 +3,7 @@
   <blocks>
     <block type="text" id="description">
 		<location x="39" y="367" />
-		<text color="#000000" size="12" font="fonts/TimesNewRomanLOTR.ttf" />
+		<text color="#000000" size="14" font="fonts/TimesNewRomanLOTR.ttf" />
 		<wordwrap height="195" width="300" />
 	</block>
 	<block type="text" id="traits">
@@ -111,12 +111,12 @@
 	</block>
 	<block type="text" id="objective_description">
 		<location x="50" y="344" />
-		<text color="#000000" size="12" font="fonts/TimesNewRomanLOTR.ttf" />
+		<text color="#000000" size="14" font="fonts/TimesNewRomanLOTR.ttf" />
 		<wordwrap height="190" width="270" />
 	</block>
 	<block type="text" id="encounter_description">
 		<location x="39" y="344" />
-		<text color="#000000" size="12" font="fonts/TimesNewRomanLOTR.ttf" />
+		<text color="#000000" size="14" font="fonts/TimesNewRomanLOTR.ttf" />
 		<wordwrap height="190" width="300" />
 	</block>
 	<block type="text" id="encounter_traits">
@@ -144,9 +144,14 @@
 		<text color="#8FB7CC" size="32" font="fonts/Vafthrudnir-allcaps.ttf" />
 		<wordwrap height="32" width="64" align="center" />
 	</block>
+	<block type="text" id="quest_cost">
+		<location x="20" y="30" />
+		<text color="#FFFFFF" size="37" font="fonts/VafthrudnirLOTR.ttf" />
+		<wordwrap height="32" width="64" align="center" />
+	</block>
 	<block type="text" id="quest_description">
 		<location x="34" y="230" />
-		<text color="#000000" size="11" font="fonts/TimesNewRomanLOTR.ttf" />
+		<text color="#000000" size="13" font="fonts/TimesNewRomanLOTR.ttf" />
 		<wordwrap width="455" height="120" />
 	</block>
 	<block type="text" id="quest_points">
@@ -186,7 +191,7 @@
 	</block>
 	<block type="text" id="nightmare_description">
 		<location x="40" y="250" />
-		<text color="#000000" size="12" font="fonts/TimesNewRomanLOTR.ttf" />
+		<text color="#000000" size="13" font="fonts/TimesNewRomanLOTR.ttf" />
 		<wordwrap height="250" width="300" />
 	</block>
 	<block type="text" id="campaign_resolution">
@@ -211,7 +216,7 @@
 	</block>
 	<block type="text" id="campaign_description">
 		<location x="40" y="265" />
-		<text color="#000000" size="14" font="fonts/TimesNewRomanLOTR.ttf" />
+		<text color="#000000" size="15" font="fonts/TimesNewRomanLOTR.ttf" />
 		<wordwrap width="300" height="230" />
 	</block>
 	<block type="overlay" id="lore_hero" src="proxy/lore_hero.png">
@@ -696,6 +701,7 @@
     <matches>
       <match name="Type" value="Quest" />
 	  <match name="Engagement Cost" value="A" />
+	  <match name="Sphere" value="" />
     </matches>
     <textblocks>
 	  <link block="quest_name">
@@ -716,6 +722,7 @@
     <matches>
       <match name="Type" value="Quest" />
 	  <match name="Engagement Cost" value="B" />
+	  <match name="Sphere" value="" />
     </matches>
     <textblocks>
 	  <link block="quest_name">
@@ -723,6 +730,32 @@
 	  </link>
 	  <link block="quest_stage">
 	   <property name="Cost" format="{}BEnga"/>
+	  </link>
+	  <link block="encounter">
+	   <property name="Encounter Set" />
+	  </link>
+	  <link block="quest_description" separator="&#10;&#10;">
+	   <property name="Keywords" />
+	   <property name="Text" />	   
+	  </link>
+	  <link block="quest_points">
+	   <property name="Quest Points" />
+	  </link>
+	  <link block="quest_victory">
+	   <property name="Victory Points" />
+	  </link>
+    </textblocks>
+  </template>
+  <template src="proxy/questB.jpg" default="False">
+    <matches>
+      <match name="Type" value="Quest" />
+    </matches>
+    <textblocks>
+	  <link block="quest_name">
+	   <property name="Name" />
+	  </link>
+	  <link block="quest_cost">
+	   <property name="Cost" />
 	  </link>
 	  <link block="encounter">
 	   <property name="Encounter Set" />
