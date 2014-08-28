@@ -293,14 +293,6 @@ def myID():
 	update()
 	debug("Player {} sits in position {} for game {}".format(me, id, game))
 	return id
-	
-def nextGame():
-	unlockDeck()
-	setGlobalVariable("playersSetup", "")
-	setActivePlayer(None)
-	setGlobalVariable("game", str(num(getGlobalVariable("game"))+1))
-	update()
-	notify("Starting Game {}".format(getGlobalVariable("game")))
 
 def playerID(p):	
 	return num(p.getGlobalVariable("playerID"))
@@ -378,21 +370,36 @@ def unlockDeck():
 # Workflow routines
 #---------------------------------------------------------------------------
 
-def deckLoaded(player, groups):
+#Triggered event OnGameStart
+def startOfGame(): 
+	unlockDeck()
+	setActivePlayer(None)	
+	if me._id == 1:
+		setGlobalVariable("playersSetup", "")
+		setGlobalVariable("game", str(num(getGlobalVariable("game"))+1))
+		notify("Starting Game {}".format(getGlobalVariable("game")))
+
+#Triggered event OnLoadDeck
+def deckLoaded(player, groups): 
 	mute()
 	if player != me:
 		return
 	
-	#If we are loading into the shared piles we need to become the controller of all the shared piles
 	isShared = False
+	isPlayer = False
 	for p in groups:
 		if p.name in shared.piles:
 			isShared = True
+		elif p.name in me.piles:
+			isPlayer = True
+	
+	#If we are loading into the shared piles we need to become the controller of all the shared piles	
 	if isShared:
 		notify("{} Takes control of the encounter deck".format(me))
 		for p in shared.piles:
 			if shared.piles[p].controller != me:
 				shared.piles[p].setController(me)
+		rnd(1,2) # This causes OCTGN to sync the controller changes!
 			
 	#Cards for the encounter deck and player deck are loaded into the discard pile because this has visibility="all"	
 	#Check for cards with a Setup effects and move other cards back into the correct pile
@@ -409,16 +416,16 @@ def deckLoaded(player, groups):
 	update()
 	
 	if automate():			
-		playerSetup(table, 0, 0, isShared)
-
-#Called when a counter is changed by a player
-def counterChanged(player, counter, oldV):
+		playerSetup(table, 0, 0, isPlayer, isShared)
+		
+#Triggered event OnChangeCounter
+def counterChanged(player, counter, oldV): 
 	if counter == shared.counters['Round']:
 		fp = getFirstPlayerToken()
 		if fp is not None and fp.controller == me:
 			fp.markers[Turn] = shared.counters['Round'].value
 
-#Called when a player changes one of their global variables
+#Triggered event OnPlayerGlobalVariableChanged
 #We use this to manage turn and phase management by tracking changes to the player "done" variable			
 def globalChanged(player, var, oldV, newV):
 	debug("globalChanged(player {}, Variable {}, from {}, to {})".format(player, var, oldV, newV))
@@ -665,6 +672,8 @@ def updatePhase(who=me):
 				doRestoreAll()
 				me.counters['Threat_Level'].value += 1
 				notify("{} increases threat to {}.".format(me, me.counters['Threat_Level'].value))
+				#Normally the encounter player would call nextPhase() here but it's effect doesn't ripple through to the other player quick enough
+				#so every player sets the phase to 7 if it is not already 7
 				if shared.counters['Phase'].value != 7:
 					shared.counters['Phase'].value = 7
 				if shared.counters['Step'].value != 1:
@@ -686,16 +695,14 @@ def updatePhase(who=me):
 				shared.counters['Phase'].value = 1
 				shared.counters['Step'].value = 1
 				setActivePlayer(None)
+				clearHighlights()
 	
 	if isEncounterPlayer:
 		if phaseManagement():
 			showPhase()
 			highlightPlayers()
-		elif turnManagement():
-			if shared.counters['Phase'].value in (0,6,7):
-				highlightPlayers()
-			else:
-				clearHighlights()
+		if turnManagement() and phase == 7 and not ready:
+			highlightPlayers()
 
 #---------------------------------------------------------------------------
 # Table menu options
@@ -836,7 +843,8 @@ def readyForRefresh(group, x = 0, y = 0):
 	
 	if turnManagement():
 		if shared.counters['Phase'].value < 7:
-			setPlayerDone(6, 3) # Mark step 6 (combat) as done - i.e. ready to refresh
+			highlightPlayer(me, WaitingColour)
+			setPlayerDone(6, 3) # Mark step 6 (combat) as done - i.e. ready to refresh			
 		return
 	
 	doRestoreAll(group)
@@ -993,6 +1001,7 @@ def readyForNextRound(group=table, x=0, y=0):
 		return
 
 	if turnManagement():
+		highlightPlayer(me, DoneColour)
 		setPlayerDone(7, 1) # Mark phase 7 (Refresh) as complete - i.e. ready for next round
 		return
 
@@ -1026,21 +1035,47 @@ def doNextRound():
 	if not phaseManagement():
 		clearHighlights()
 					
-def playerSetup(group=table, x=0, y=0, doEncounter=False):
+def playerSetup(group=table, x=0, y=0, doPlayer=True, doEncounter=False):
 	mute()
 	
 	if not getLock():
 		whisper("Others players are setting up, please try manual setup again (Ctrl+Shift+S)")
 		return
 		
-	unlockDeck()		
-	id = myID() #This ensures we have a unique ID based on our position in the setup order	
-	if len(group) == 0: #Initialise global variables if there is nothing on the table
-		nextGame()
+	unlockDeck()
+	if doPlayer:
+		id = myID() #This ensures we have a unique ID based on our position in the setup order	
+		if shared.counters['Round'].value == 0 and id == 0: #First time actions
+			me.setActivePlayer()
+			setFirstPlayer(id)
 		
-	if shared.counters['Round'].value == 0 and id == 0 and not doEncounter: #First time actions
-		me.setActivePlayer()
-		setFirstPlayer(id)
+		#Move Heroes to the table
+		heroCount = countHeroes(me)
+		newHero = False
+		lore = 0
+		mirlonde = False
+		for card in me.hand:
+			if card.Type == "Hero":
+				card.moveToTable(heroX(id, heroCount), HeroY)
+				heroCount += 1
+				newHero = True
+				me.counters['Threat_Level'].value += num(card.Cost)
+				if card.Name == 'Mirlonde':
+					mirlonde = True
+				if card.Sphere == 'Lore':
+					lore += 1
+		if mirlonde:
+			me.counters['Threat_Level'].value -= lore
+
+		if newHero:		
+			notify("{} places his Heroes on the table and sets his starting Threat to {}".format(me,me.counters['Threat_Level'].value))
+			if len(me.hand) == 0:
+				shuffle(me.deck)
+				drawMany(me.deck, shared.HandSize)
+			if len(getPlayers()) > 1 and getFirstPlayerID() == playerID(me): #Put the first player token onto the table
+				x, y = firstHero(me).position
+				c = moveFirstPlayerToken(x, y+Spacing)
+				c.setController(me)
 					
 	#If we loaded the encounter deck - add the first quest card to the table
 	if doEncounter or encounterDeck().controller == me:
@@ -1049,36 +1084,8 @@ def playerSetup(group=table, x=0, y=0, doEncounter=False):
 			nextQuestStage()
 			shuffle(encounterDeck())
 			shuffle(specialDeck())	
-			
-	#Move Heroes to the table
-	heroCount = countHeroes(me)
-	newHero = False
-	lore = 0
-	mirlonde = False
-	for card in me.hand:
-		if card.Type == "Hero":
-			card.moveToTable(heroX(id, heroCount), HeroY)
-			heroCount += 1
-			newHero = True
-			me.counters['Threat_Level'].value += num(card.Cost)
-			if card.Name == 'Mirlonde':
-				mirlonde = True
-			if card.Sphere == 'Lore':
-				lore += 1
-	if mirlonde:
-		me.counters['Threat_Level'].value -= lore
-
-	if newHero:		
-		notify("{} places his Heroes on the table and sets his starting Threat to {}".format(me,me.counters['Threat_Level'].value))
-		if len(me.hand) == 0:
-			shuffle(me.deck)
-			drawMany(me.deck, shared.HandSize)
-		if len(getPlayers()) > 1 and getFirstPlayerID() == playerID(me): #Put the first player token onto the table
-			x, y = firstHero(me).position
-			c = moveFirstPlayerToken(x, y+Spacing)
-			c.setController(me)
 		
-	if automate():
+	if phaseManagement():
 		highlightPlayers()
 		
 	if not clearLock():
