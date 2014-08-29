@@ -474,40 +474,20 @@ def nextStep():
 
 def showPhase():
 	mute()
+	phaseID = [ [0], [1], [2, 3, 4], [5], [6], [7, 8, 9], [10] ]
 	phase = shared.counters['Phase'].value
 	step = shared.counters['Step'].value
 	x = StagingStart + StagingWidth / 2 - 36
 	y = StagingY + 113
 
 	debug("showPhase: {} {}".format(phase, step))
+	
 	if phase == 0:
 		notify("Player Setup")
 		idx = -1
-	elif phase == 1:
-		idx = 0		
-	elif phase == 2:
-		idx = 1
-	elif phase == 3:
-		if step == 1:
-			idx = 2
-		elif step == 2:
-			idx = 3
-		else:
-			idx = 4
-	elif phase == 4:
-		idx = 5
-	elif phase == 5:
-		idx = 6
-	elif phase == 6:
-		if step == 1:
-			idx = 7
-		elif step == 2:
-			idx = 8
-		else:
-			idx = 9
-	elif phase == 7:
-		idx = 10
-	
+	else:
+		idx = phaseID[phase-1][step-1]	
+		
 	phaseCard = None
 	for c in table:
 		if c.model in phases:
@@ -538,49 +518,21 @@ def playerDone(group, x=0, y=0):
 		notify("<{}> done".format(me))
 		return
 		
-	#Depending on current game state we either
-	# Advance to next player
-	# Advance to next step of this phase
-	# Advance to next phase
-	# Advance to next round
-	debug("playerDone: Phase {} Step {}".format(shared.counters['Phase'].value, shared.counters['Step'].value))
-	
+	#The game state is defined by the phase and step we are in.
+	#Some states allow any player to act (False), others restrict actions to the current active player (True)
+	phaseState = [ [False], #Setup
+					[False], #Resource
+					[True], #Planning
+					[True, True, False], #Quest (Commit, Reveal, Resolve)
+					[False], #Travel
+					[False], #Encounter
+					[True, True, False], #Combat (Defend, Attack, Actions)
+					[False] ] #Refresh
 	phase = shared.counters['Phase'].value
 	step = shared.counters['Step'].value
+	debug("{} playerDone: Phase {} Step {} activeOnly {} Active Player {}".format(me, phase, step, phaseState[phase][step-1], getActivePlayer()))	
 
-	if phase == 1: #Resource
-		setPlayerDone()
-	elif phase == 2: #Planning
-		#Only the active player can use this function
-		if getActivePlayer() == me:
-			setPlayerDone()
-	elif phase == 3: #Quest
-		if step == 1: #Commit
-			#Only the active player can use this function
-			if getActivePlayer() == me:
-				setPlayerDone()
-		elif step == 2: #Reveal Encounter cards
-			#Only the active player can use this function
-			if getActivePlayer() == me:
-				setPlayerDone()
-		else: #Resolve questing
-			setPlayerDone()
-	elif phase == 4: #Travel
-		setPlayerDone()
-	elif phase == 5: #Encounter
-		setPlayerDone()
-	elif phase == 6: #Combat
-		if step == 1: #Defend
-			#Only the active player can use this function
-			if getActivePlayer() == me:
-				setPlayerDone()
-		elif step == 2: #Attack
-			#Only the active player can use this function
-			if getActivePlayer() == me:
-				setPlayerDone()				
-		else:
-			setPlayerDone()
-	else: #Refresh or Setup
+	if phaseState[phase][step-1] == False or getActivePlayer() == me:
 		setPlayerDone()
 
 #Called when the "done" global variable is changed by one of the players
@@ -615,32 +567,54 @@ def updatePhase(who=me):
 			if eliminated(np):
 				np = nextPlayer(playerID(np))
 			setActivePlayer(np)
+			if phaseManagement():
+				highlightPlayers()
+		elif phaseManagement() and who == me:
+			highlightPlayers()
 	elif phase == 2: #Planning
 		if ready:
 			if isEncounterPlayer:
 				nextPhase()
 				setActivePlayer(getPlayer(getFirstPlayerID()))
+				if phaseManagement:
+					highlightPlayers()
 		elif isActive:
-			setActivePlayer(nextPlayer(playerID(me)))		
+			setActivePlayer(nextPlayer(playerID(me)))
+			if phaseManagement():
+				highlightPlayers()
 	elif phase == 3: #Quest
 		if step == 1: #Commit
 			if ready:
 				if isEncounterPlayer:
 					nextStep()
 					setActivePlayer(me)
+					if phaseManagement():
+						highlightPlayers()
 			elif isActive:
 				setActivePlayer(nextPlayer(playerID(me)))
+				if phaseManagement():
+					highlightPlayers()
 		elif step == 2: #Reveal Encounter cards
 			if isActive:
 				nextStep()
 				setActivePlayer(None)
+				if phaseManagement():
+					highlightPlayers()
 		else: #Resolve questing
 			if ready and isEncounterPlayer:
 				nextPhase()
 				setActivePlayer(None)
+				if phaseManagement():
+					highlightPlayers()
+			elif phaseManagement() and who == me:
+				highlightPlayers()
 	elif phase == 4: #Travel
 		if ready and isEncounterPlayer:
 			nextPhase()
+			if phaseManagement():
+				highlightPlayers()
+		elif phaseManagement() and who == me:
+			highlightPlayers()
 	elif phase == 5: #Encounter
 		if ready and isEncounterPlayer:
 			nextPhase()
@@ -648,6 +622,10 @@ def updatePhase(who=me):
 			if eliminated(np):
 				np = nextPlayer(playerID(np))
 			setActivePlayer(np)
+			if phaseManagement():
+				highlightPlayers()
+		elif phaseManagement() and who == me:
+			highlightPlayers()
 	elif phase == 6: #Combat
 		if step == 1: #Defend
 			if ready:
@@ -658,15 +636,23 @@ def updatePhase(who=me):
 					if eliminated(np):
 						np = nextPlayer(playerID(np))
 					setActivePlayer(np)
+					if phaseManagement():
+						highlightPlayers()
 			elif isActive:
 				setActivePlayer(nextPlayer(playerID(me)))
+				if phaseManagement():
+					highlightPlayers()
 		elif step == 2: #Attack
 			if ready:
 				if isEncounterPlayer:
 					nextStep()
 					setActivePlayer(None)
+					if phaseManagement():
+						highlightPlayers()
 			elif isActive:
 				setActivePlayer(nextPlayer(playerID(me)))
+				if phaseManagement():
+					highlightPlayers()
 		else:
 			if ready:
 				doRestoreAll()
@@ -683,8 +669,11 @@ def updatePhase(who=me):
 					advanceFirstPlayer()
 				if me.isActivePlayer:				
 					setActivePlayer(None)
-				if turnManagement():
-					updatePhase() # We might all be ready for the end of the turn too					
+
+			if phaseManagement() and who == me:
+				highlightPlayers()
+			if ready and turnManagement():
+				updatePhase(who) # We might all be ready for the end of the turn too
 	elif phase == 7 or phase <= 0: #Refresh or Setup
 		if ready:
 			doNextRound()
@@ -695,14 +684,16 @@ def updatePhase(who=me):
 				shared.counters['Phase'].value = 1
 				shared.counters['Step'].value = 1
 				setActivePlayer(None)
-				clearHighlights()
+				if phaseManagement():
+					highlightPlayers()
+				elif turnManagement():
+					clearHighlights()
+		elif phaseManagement() and who == me:
+			highlightPlayers()	
 	
-	if isEncounterPlayer:
-		if phaseManagement():
-			showPhase()
-			highlightPlayers()
-		if turnManagement() and phase == 7 and not ready:
-			highlightPlayers()
+	#Show the updated game state by updating the phase card
+	if phaseManagement() and isEncounterPlayer:
+		showPhase()
 
 #---------------------------------------------------------------------------
 # Table menu options
@@ -733,7 +724,10 @@ def turnManagementOn(group, x=0, y=0):
 	mute()
 	setGlobalVariable("Automation", "Turn")
 	clearHighlights(group)
-	clearPhase()
+	if me == encounterDeck().controller:
+		clearPhase()
+	else:
+		remoteCall(encounterDeck().controller, "clearPhase", [])
 	notify("{} enables Turn Management for all players".format(me))
 	notify("Use ctrl+N to advance the turn")
 	
@@ -741,7 +735,10 @@ def phaseManagementOn(group, x = 0, y = 0):
 	mute()
 	setGlobalVariable("Automation", "Phase")
 	highlightPlayers()
-	showPhase()
+	if me == encounterDeck().controller:
+		showPhase()
+	else:
+		remoteCall(encounterDeck().controller, "showPhase", [])
 	notify("{} enables Phase Management for all players".format(me))
 	notify("Use ctrl+Right Arrow to advance the phase/step")
 	
@@ -749,7 +746,10 @@ def automationOff(group, x = 0, y = 0):
 	mute()
 	setGlobalVariable("Automation", "Off")
 	clearHighlights(group)
-	clearPhase()
+	if me == encounterDeck().controller:
+		clearPhase()
+	else:
+		remoteCall(encounterDeck().controller, "clearPhase", [])
 	notify("{} disables all turn management".format(me))
 	
 def automationHelp(group, x = 0, y = 0):
@@ -758,7 +758,10 @@ def automationHelp(group, x = 0, y = 0):
 	if phaseManagement():
 		whisper("Phase Management is on")
 		highlightPlayers()
-		showPhase()
+		if me == encounterDeck().controller:
+			showPhase()
+		else:
+			remoteCall(encounterDeck().controller, "showPhase", [])
 	elif turnManagement():
 		whisper("Turn Management is on")
 	else:
