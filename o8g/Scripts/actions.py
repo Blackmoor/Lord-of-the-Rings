@@ -672,11 +672,12 @@ def updatePhase(who=me):
 
 			if phaseManagement() and who == me:
 				highlightPlayers()
-			if ready and turnManagement():
+			if ready and turnManagement(): # Players not done should have their orange highlight removed
+				if not isPlayerDone(me):
+					highlightPlayer(me, None)
 				updatePhase(who) # We might all be ready for the end of the turn too
 	elif phase == 7 or phase <= 0: #Refresh or Setup
 		if ready:
-			doNextRound()
 			if me.isActivePlayer:
 				if shared.counters['Round'].value > 0: # Skip this on the first game because we did it during player setup
 					getPlayer(getFirstPlayerID()).setActivePlayer()
@@ -686,8 +687,7 @@ def updatePhase(who=me):
 				setActivePlayer(None)
 				if phaseManagement():
 					highlightPlayers()
-				elif turnManagement():
-					clearHighlights()
+			doNextRound()
 		elif phaseManagement() and who == me:
 			highlightPlayers()	
 	
