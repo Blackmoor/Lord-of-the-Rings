@@ -356,13 +356,14 @@
   </card>
   <card id="307411f3-4a45-44ae-bc64-4e16deb97d10" name="A Shadow of the Past">
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Lord of the Rings Part 1"/>
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Attach Mr. Underhill to the Ring-bearer. Add Gandalf's Delay to the staging area. Shuffle Gildor Inglorion and the The Ring Draws Them into the encounter deck."/>
     <property name="Setup" value="-----"/>
     <alternate name="A Shadow of the Past" type="B">
-      <property name="Encounter Set" value=""/>
+      <property name="Encounter Set" value="The Lord of the Rings Part 1"/>
       <property name="Type" value="Campaign"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Text" value="Resolution: Choose Gandalf's Delay or The Ring Draws Them and add it to the Campaign Pool.  Then, choose Gildor Inglorion or Mr. Underhill and add it to the Campaign Pool.  The chosen cards have been earned by the players."/>
@@ -502,12 +503,13 @@
   </card>
   <card id="2efa631a-eb16-4078-84a5-18c7033b86f3" name="A Knife in the Dark">
     <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Lord of the Rings Part 2"/>
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
     <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="-----------"/>
     <alternate name="A Knife in the Dark" type="B">
-      <property name="Encounter Set" value=""/>
+      <property name="Encounter Set" value="The Lord of the Rings Part 2"/>
       <property name="Type" value="Campaign"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Text" value="Resolution: Starting with the first player, each player may choose one of the following boon cards and attach it to a hero he controls: Tireless Ranger, Skilled Healer, Valiant Warrior, Noble Hero. The chosen cards have been earned by the players."/>
