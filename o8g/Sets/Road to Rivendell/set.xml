@@ -104,7 +104,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="Setup: Put Arwen Undomiel into play under the control of the first player. Shuffle the encounter deck. Reveal 1 card from the encounter deck per player, and add them to the staging area."/>
+    <property name="Text" value="Setup: Put Arwen Undómiel into play under the control of the first player. Shuffle the encounter deck. Reveal 1 card from the encounter deck per player, and add them to the staging area."/>
     <property name="Setup" value="t"/>
     <alternate name="Along the Misty Mountains" type="B">
       <property name="Encounter Set" value="Road to Rivendell"/>
@@ -154,7 +154,7 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="The first player gains control of Arwen Undomiel, as an ally.&#10;&#10;Response: After Arwen Undomiel exhausts, choose a hero. Add 1 resource to that hero's resource pool.&#10;&#10;If Arwen Undomiel leaves play, the players are defeated."/>
+    <property name="Text" value="The first player gains control of Arwen Undómiel, as an ally.&#10;&#10;Response: After Arwen Undómiel exhausts, choose a hero. Add 1 resource to that hero's resource pool.&#10;&#10;If Arwen Undómiel leaves play, the players are defeated."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801209c9024" name="Ruined Road">
     <property name="Quantity" value="2"/>

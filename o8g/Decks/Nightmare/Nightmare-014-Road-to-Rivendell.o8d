@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="c7777cad-8e18-49b3-bff7-290a241dd84c">Road to Rivendell</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801209c9001">Along the Misty Mountains</card>
+    <card qty="1" id="e7faf287-1288-48c2-86be-82449aa05193">Ambush in the Night</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801209c9003">Approaching Rivendell</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801209c9008">Crebain</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801209c9011">Followed by Night</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801209c9012">Goblin Gate</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801209c9013">Goblin Taskmaster</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801209c9016">Orc Ambush</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801209c9019">Orc Raiders</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801209c9021">Pathless Country</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801209c9025">Sleeping Sentry</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801209c9028">Wild Bear</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9020">Chieftain of the Pit</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9082">Undisturbed Bones</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9045">Knees of the Mountain</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9081">Turbulent Waters</card>
+    <card qty="3" id="abb76690-2b56-4a51-af0d-10c292621697">Uruk Elf-Stalker</card>
+    <card qty="3" id="745919b3-e323-4368-a4ad-25d3bd5baab1">Goblin Trapper</card>
+    <card qty="2" id="eaeb6bc6-0064-4816-951c-b836e979fe01">Raiding Party</card>
+    <card qty="2" id="8af079b1-fe2f-407e-a66c-0c9421ffe5d6">Vicious Trackers</card>
+    <card qty="3" id="2a49f405-1431-44ff-8316-573c23aaffcb">Treacherous Bluffs</card>
+    <card qty="3" id="77dccc28-9be1-41ec-98c2-8b9099678660">Concealed Woods</card>
+    <card qty="2" id="8c9df134-1740-42a5-a69e-32cd928e884f">Tumultuous Assault</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801209c9005">Arwen Undómiel</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -98,7 +98,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="Setup: Add Caradhras to the staging area. Remove all copies of Snowstorm from the encounter deck and set them aside, out of play. Put Arwen Undomiel into play under the control of the first player."/>
+    <property name="Text" value="Setup: Add Caradhras to the staging area. Remove all copies of Snowstorm from the encounter deck and set them aside, out of play. Put Arwen Undómiel into play under the control of the first player."/>
     <property name="Setup" value="stttttt"/>
     <alternate name="Up the Pass" type="B">
       <property name="Encounter Set" value="The Redhorn Gate"/>
@@ -149,7 +149,7 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="The first player gains control of Arwen Undomiel, as an ally.&#10;&#10;Response: After Arwen Undomiel exhausts, choose a hero. Add 1 resource to that hero's resource pool.&#10;&#10;If Arwen Undomiel leaves play, the players are defeated."/>
+    <property name="Text" value="The first player gains control of Arwen Undómiel, as an ally.&#10;&#10;Response: After Arwen Undómiel exhausts, choose a hero. Add 1 resource to that hero's resource pool.&#10;&#10;If Arwen Undómiel leaves play, the players are defeated."/>
   </card>
   <card id="f433a8a8-00ee-45d3-b0ac-1643216a2422" name="Caradhras">
     <property name="Quantity" value="1"/>

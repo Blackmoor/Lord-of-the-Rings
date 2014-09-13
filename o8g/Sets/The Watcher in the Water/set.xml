@@ -64,7 +64,7 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Response: After Arwen Undomiel exhausts, choose a character. That character gains sentinel and gets +1 Ú until the end of the round."/>
+    <property name="Text" value="Response: After Arwen Undómiel exhausts, choose a character. That character gains sentinel and gets +1 Ú until the end of the round."/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-0801210c9005" name="Elrond's Counsel">
     <property name="Quantity" value="3"/>
