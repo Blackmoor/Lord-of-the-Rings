@@ -344,7 +344,7 @@ def clearPlayerDone():
 	updatePhase()
 	update()
 	
-def isPlayerDone(p):
+def isPlayerDone(p, phase=-1, step=-1):
 	debug("isPlayerDone({}): {}".format(p, p.getGlobalVariable("done")))
 	when = p.getGlobalVariable("done").split('.')
 	if len(when) != 4: return False
@@ -353,9 +353,13 @@ def isPlayerDone(p):
 	if num(when[0]) < game: return False
 	if num(when[1]) > shared.counters['Round'].value: return True
 	if num(when[1]) < shared.counters['Round'].value: return False
-	if num(when[2]) > shared.counters['Phase'].value: return True
-	if num(when[2]) < shared.counters['Phase'].value: return False
-	return num(when[3]) >= shared.counters['Step'].value
+	if phase == -1:
+		phase = shared.counters['Phase'].value
+	if num(when[2]) > phase: return True
+	if num(when[2]) < phase: return False
+	if step == -1:
+		step = shared.counters['Step'].value
+	return num(when[3]) >= step
 
 def deckLocked():
 	return me.getGlobalVariable("deckLocked") == "1"
@@ -388,7 +392,9 @@ def deckLoaded(player, groups):
 	isShared = False
 	isPlayer = False
 	for p in groups:
-		if p.name in shared.piles:
+		if p.name == 'Hand':
+			isPlayer = True
+		elif p.name in shared.piles:
 			isShared = True
 		elif p.name in me.piles:
 			isPlayer = True
@@ -429,14 +435,13 @@ def counterChanged(player, counter, oldV):
 #We use this to manage turn and phase management by tracking changes to the player "done" variable			
 def globalChanged(player, var, oldV, newV):
 	debug("globalChanged(player {}, Variable {}, from {}, to {})".format(player, var, oldV, newV))
-	#Only the active player cares about this
 	if var == "done":
 		updatePhase(player)
 		
-def numDone():
+def numDone(phase=-1, step=-1):
 	count = 0
 	for p in getPlayers():
-		if isPlayerDone(p): count += 1
+		if isPlayerDone(p, phase, step): count += 1
 	debug("numDone() == {}".format(count))
 	return count
 	
@@ -549,6 +554,7 @@ def updatePhase(who=me):
 	# Advance to next round
 
 	if turnManagement() and shared.counters['Phase'].value > 0 and shared.counters['Phase'].value < 6:
+		#The phase and step will not have been updated in turn management mode so we skip straight to the end of combat (ready for refresh)
 		shared.counters['Phase'].value = 6
 		shared.counters['Step'].value = 3
 			
@@ -653,30 +659,29 @@ def updatePhase(who=me):
 				setActivePlayer(nextPlayer(playerID(me)))
 				if phaseManagement():
 					highlightPlayers()
-		else:
-			if ready:
+		else: 
+			if ready: # Trigger refresh
 				doRestoreAll()
 				me.counters['Threat_Level'].value += 1
 				notify("{} increases threat to {}.".format(me, me.counters['Threat_Level'].value))
-				#Normally the encounter player would call nextPhase() here but it's effect doesn't ripple through to the other player quick enough
-				#so every player sets the phase to 7 if it is not already 7
-				if shared.counters['Phase'].value != 7:
-					shared.counters['Phase'].value = 7
-				if shared.counters['Step'].value != 1:
-					shared.counters['Step'].value = 1
-				#The first player token needs to move on
+				
+				#The first player token needs to move on in the refresh phase
 				if getFirstPlayerID() == playerID(me):
 					advanceFirstPlayer()
-				if me.isActivePlayer:				
+				if me.isActivePlayer: # Anyone can act in the refresh phase			
 					setActivePlayer(None)
-
-			if phaseManagement() and who == me:
-				highlightPlayers()
-			if ready and turnManagement(): # Players not done should have their orange highlight removed
-				if not isPlayerDone(me):
+				if turnManagement() and not isPlayerDone(me, 7, 1): # Clear my refresh highlight if I'm not ready for phase 7
 					highlightPlayer(me, None)
-				updatePhase(who) # We might all be ready for the end of the turn too
-	elif phase == 7 or phase <= 0: #Refresh or Setup
+				if isEncounterPlayer:
+					nextPhase()
+				
+				#We need to check if we are ready to complete phase 7
+				ready = (numDone(7, 1) >= activePlayers())
+				if ready:
+					phase = 7
+			if phaseManagement() and isEncounterPlayer:
+				highlightPlayers()
+	if phase == 7 or phase <= 0: #Refresh or Setup
 		if ready:
 			if me.isActivePlayer:
 				if shared.counters['Round'].value > 0: # Skip this on the first game because we did it during player setup
