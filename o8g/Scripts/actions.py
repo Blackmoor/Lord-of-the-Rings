@@ -541,7 +541,9 @@ def playerDone(group, x=0, y=0):
 		setPlayerDone()
 
 #Called when the "done" global variable is changed by one of the players
-#We use this check to see if all players are ready to advance to the next phase		
+#We use this check to see if all players are ready to advance to the next phase	
+#Note - all players get called whenever any player changes state. To ensure we don't all do the same thing multiple times
+#       only the Encounter player is allowed to change the phase or step and only the player triggering the event is allowed to change the highlights	
 def updatePhase(who=me):
 	mute()
 	if not automate():
@@ -553,18 +555,22 @@ def updatePhase(who=me):
 	# Advance to next phase
 	# Advance to next round
 
-	if turnManagement() and shared.counters['Phase'].value > 0 and shared.counters['Phase'].value < 6:
-		#The phase and step will not have been updated in turn management mode so we skip straight to the end of combat (ready for refresh)
-		shared.counters['Phase'].value = 6
-		shared.counters['Step'].value = 3
-			
-	phase = shared.counters['Phase'].value
-	step = shared.counters['Step'].value
-	debug("me = {} updatePhase({}): Phase {} Step {}".format(me, who, phase, step))
-		
-	ready = (numDone() >= activePlayers())
 	isActive = (getActivePlayer() == me and who == me)
 	isEncounterPlayer = (encounterDeck().controller == me)
+	
+	if turnManagement() and shared.counters['Phase'].value > 0 and shared.counters['Phase'].value < 6:
+		#The phase and step will not have been updated in turn management mode so we skip straight to the end of combat (ready for refresh)
+		if isEncounterPlayer:
+			shared.counters['Phase'].value = 6
+			shared.counters['Step'].value = 3
+		phase = 6
+		step = 3
+	else:			
+		phase = shared.counters['Phase'].value
+		step = shared.counters['Step'].value
+	debug("me = {} updatePhase({}): Phase {} Step {}".format(me, who, phase, step))
+		
+	ready = (numDone(phase, step) >= activePlayers())
 
 	if phase == 1: #Resource
 		if ready and isEncounterPlayer:
@@ -670,7 +676,7 @@ def updatePhase(who=me):
 					advanceFirstPlayer()
 				if me.isActivePlayer: # Anyone can act in the refresh phase			
 					setActivePlayer(None)
-				if turnManagement() and not isPlayerDone(me, 7, 1): # Clear my refresh highlight if I'm not ready for phase 7
+				if turnManagement() and who == me and not isPlayerDone(me, 7, 1): # Clear my refresh highlight if I'm not ready for phase 7
 					highlightPlayer(me, None)
 				if isEncounterPlayer:
 					nextPhase()
