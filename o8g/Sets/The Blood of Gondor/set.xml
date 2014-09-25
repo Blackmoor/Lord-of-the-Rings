@@ -104,7 +104,7 @@
     <property name="Cost" value="0"/>
     <property name="Text" value="Action: Discard the top 2 cards of your deck. You may attach 1 attachment card discarded by this effect to an eligible Dwarf character in play."/>
   </card>
-  <card id="23768a0d-bf6c-4405-9b09-ea8fdbfded31" name="Ambush">
+  <card id="23768a0d-bf6c-4405-9b09-ea8fdbfded31" name="The Ambush">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Blood of Gondor"/>
     <property name="Type" value="Quest"/>
@@ -112,13 +112,13 @@
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Add the Crossroads and Black Númenorean to the staging area. Put the Faramir and Lord Alcaron objective allies into play. Shuffle the encounter deck and reveal 1 card from the encounter deck per player and add it to the staging area. "/>
     <property name="Setup" value="sstt"/>
-    <alternate name="Ambush" type="B">
+    <alternate name="The Ambush" type="B">
       <property name="Encounter Set" value="The Blood of Gondor"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="11"/>
-      <property name="Text" value="At the beginning of the quest phase, each player takes 1 hidden card. At the beginning of the combat phase, each player must turn each of his hidden cards faceup or take 1 hidden card."/>
+      <property name="Text" value="At the beginning of the quest phase, each player takes 1 hidden card. At the beginning of the combat phase, each player must either turn each of his hidden cards faceup or take 1 hidden card."/>
     </alternate>
   </card>
   <card id="d2bf00ad-2e1e-4537-b662-f6f20f9a1cfe" name="Captured!">
@@ -195,7 +195,7 @@
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Ithilien."/>
-    <property name="Keywords" value="The current quest card gains siege."/>
+    <property name="Keywords" value="The current quest card gains siege (and loses battle)."/>
     <property name="Threat" value="X"/>
     <property name="Quest Points" value="2"/>
     <property name="Victory Points" value="3"/>

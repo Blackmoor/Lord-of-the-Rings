@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="76bc1b4a-da8c-4822-b6be-518240c6d2f9">Blood in Breeland</card>
+    <card qty="1" id="b47c289a-fcc5-447d-98d1-141dd4555cc4">Smoke Over Bree</card>
+    <card qty="1" id="1578ea31-071b-478f-b85d-c1ad46b9e96e">Hunting for Bill Ferny</card>
+    <card qty="1" id="01a3e78c-563b-4067-885b-ce38466e3b09">The Purge of Bree</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="1ba0e8a8-54b7-4d19-9b24-be381b8b8e75">Harry Goatleaf</card>
+    <card qty="1" id="7fd99ef4-a5e2-47c7-8f95-9549414bf01c">Squinty Eyed Southerner</card>
+    <card qty="4" id="e578c1a0-f843-4b67-b98d-254806adbc49">Ruffian</card>
+    <card qty="2" id="75438d2e-4f10-4802-9001-3bfae095cd30">Arsonist</card>
+    <card qty="2" id="d80ab8fb-e935-44f8-8b1e-5e6dca273efc">Bandit Sympathizer</card>
+    <card qty="1" id="1b3bc6ff-3e28-40eb-948d-a209806f9e59">Stonekeg Brewery</card>
+    <card qty="1" id="0b9a4470-8f89-428a-af22-1ac20ce94d4d">The Prancing Pony</card>
+    <card qty="1" id="a0cb9080-7add-4f93-a6ed-d974fd780548">West Gate</card>
+    <card qty="1" id="5b4f43f7-5b3e-48c2-8ee2-5fdc71276a7e">Appledore's Stables</card>
+    <card qty="1" id="e2f8762d-84c2-453c-852a-db4de1888d7f">Heathertoe's Warehouse</card>
+    <card qty="1" id="10bb5583-a683-4861-86c1-d234edbba311">Bill Ferny's House</card>
+    <card qty="3" id="bf1e1467-d300-4823-a898-bda7370e8996">Burning Homes</card>
+    <card qty="2" id="1f9b6450-3951-46ab-9a26-78c0d5d5f4ae">Close to the Fire</card>
+    <card qty="2" id="0e2054c2-fdc1-42d4-ad7a-188c425dd26d">Arson!</card>
+    <card qty="2" id="a76d2e3b-2047-4e0f-86df-19581ce173d3">Dry Well</card>
+    <card qty="3" id="a94c2957-b6c0-4a14-8d85-c8df55f5e977">Choking Smoke</card>
+    <card qty="3" id="4552e17b-e837-4f2e-83e6-9344af6197cd">Spreading Flames</card>
+    <card qty="1" id="f6d92e23-0741-4f08-9f60-3dde09ed3a23">Stolen Goods</card>
+    <card qty="1" id="c7f341d7-4d84-4994-b842-177a3205a75f">Hidden Contraband</card>
+    <card qty="1" id="d1fb797e-5a70-497a-96a0-058c8cdcea16">Smuggler's Maps</card>
+    <card qty="1" id="cb02fc1a-398b-4e02-bcb0-6703a7c02d08">Bucket Brigade</card>
+    <card qty="1" id="1bb4da5c-089e-41eb-8f0e-04ef4f3a5d1a">Dobomar Stonekeg</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="9f7f43d3-15d0-4f72-afca-499aac0c8126">Bill Ferny</card>
+    <card qty="1" id="788b7aa2-c434-497a-ad58-cea3b0125dff">Bill Ferny's Secret Hideout</card>
+    <card qty="1" id="4fffb5e4-0532-442c-b834-5b1b12a09013">South Gate</card>
+    <card qty="1" id="ac872236-3052-4f68-9992-7618cee69af1">Burning Homes</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

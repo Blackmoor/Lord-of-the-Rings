@@ -1,0 +1,894 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - Rise of Orthanc" id="245203b7-7aec-48dc-bfbe-4f0a2a276221" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+ <cards>
+  <card id="626fd395-dc84-48c5-b855-cbc8a2566eae" name="Athelstan">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Rohan. Outlaw. Fellowship."/>
+    <property name="Keywords" value="Sentinel."/>
+    <property name="Cost" value="11"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Response: After Athelstan commits to a quest, put one card from your discard pile into play (paying all costs). Remove that card from the game at the end of the round."/>
+  </card>
+  <card id="a44d55e7-ea96-4267-955c-e07a0d0898df" name="Cadoran">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Dunedain. Ranger. Fellowship."/>
+    <property name="Cost" value="11"/>
+    <property name="Willpower" value="3"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Quest Action: Ready Cadoran and remove him from the quest, negate the $ of any location in the staging area till the end of the phase."/>
+  </card>
+  <card id="99a3cb9a-12b9-4c5f-9f37-df9da6a7858c" name="Faladril">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Noldor. Noble. Fellowship."/>
+    <property name="Cost" value="9"/>
+    <property name="Willpower" value="3"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="You may spend resources from Faladril’s resource pool to pay for Ì, Ê, and Ï events. &#10;&#10;Response: After a card effect allows you to draw cards, draw 1 additional card. (Limit once per round)."/>
+  </card>
+  <card id="41965394-9965-49ce-8c6a-2124bce8bbba" name="Dobomar Stonekeg">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Dwarf. Warrior. Fellowship."/>
+    <property name="Cost" value="11"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="When Dobomar makes an attack against an Orc or Goblin, the enemy he attacks gets -2 Ú until the end of the phase. &#10;&#10;Response: Before a &quot;When Revealed&quot; effect on a card exhausts Dobomar, exhaust a weapon on Dobomar instead."/>
+  </card>
+  <card id="6f1749b6-d1ab-4019-b4a4-0bb4da1206cb" name="Riv Lightfoot">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Hobbit. Burglar. Fellowship."/>
+    <property name="Cost" value="7"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Action: Remove two event cards from your discard pile from the game to give Riv +1 Ò till the end of the turn. &#10;&#10;Action: Remove two attachment cards from your discard pile from the game to give Riv Î until the end of the turn. &#10;&#10;Action: Remove two ally cards from your discard pile from the game to reduce your threat by 1."/>
+  </card>
+  <card id="3ad793c1-3f5e-4452-99a7-eec5f44c577e" name="Saelirneth">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Silvan. Ranger. Fellowship."/>
+    <property name="Keywords" value="Ranged. Sentinel."/>
+    <property name="Cost" value="10"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Response: After Saelirneth makes a ranged attack that deals damage to an enemy, add 1 resource to any other hero that parcitipated in that attack."/>
+  </card>
+  <card id="4754ee67-3a4d-41d3-8716-e85522a29543" name="Taveon">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Dunlending. Warrior. Fellowship."/>
+    <property name="Cost" value="11"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="Taveon does not benefit from the Ranged keyword. &#10;&#10; Response: Raise your threat by one to give Taveon +1 Û till the end of the phase. This effect may be triggered by each player (Limit once per round)."/>
+  </card>
+  <card id="80eada9a-3e5f-487e-bc71-5eb34d9be337" name="Celemir">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Silvan. Fellowship."/>
+    <property name="Cost" value="5"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="If you control Saelirneth Celemir gains +1 Ò and can be targeted by cards that can only target heroes. &#10;&#10;Action: Exhaust Celemir to give a hero with the Fellowship trait 1 resource. (Limit once per turn)"/>
+  </card>
+  <card id="f6156b5b-bf08-482f-b406-c319773b4b64" name="Gwitha">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Rohan. Creature. Fellowship."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="If you control Athelstan Gwitha gains +1 Ò , +1 Û, and +1 Hit Point. &#10;&#10;Response: After a hero with the Fellowship trait is assigned any amount of damage place that damage on Gwitha instead."/>
+  </card>
+  <card id="8269bc51-7b66-471f-b3bb-73f1f285ecdc" name="Hector">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Bree-folk. Constable."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Action: Exhaust Hector to increase a non-unique enemy’s engagement cost by 5 until the end of the turn."/>
+  </card>
+  <card id="d14521ae-c359-4dba-ad0d-dd63b8c089c7" name="Aeglin">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Item. Weapon."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Attach to a hero. Restricted.&#10;&#10;Aeglin attaches to Athelstan for 2 less resources.&#10;&#10;Attached hero gets +2 Û."/>
+  </card>
+  <card id="5aed455c-6ef6-4790-905c-cd09ac3f3c51" name="Aldarion's Bow">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Item. Weapon."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Attach to a hero. Restricted.&#10;&#10;Cadoran treats this card at not Restricted.&#10;&#10;Attached hero gains ranged.&#10;&#10;When attached character makes a ranged attack against an enemy, that enemy gets -1 Ú until the end of the phase."/>
+  </card>
+  <card id="1e2ac09d-1075-4baa-8b4a-b2fabb908ffc" name="Brewing Cup">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Item. Artifact."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Attach to a hero. Restricted.&#10;&#10;Faladril treats this card as not Restricted.&#10;&#10;Response: Exhaust Brewing Cup and discard X cards from your hand when a character with the Fellowship Trait takes damage to reduce that damage by X."/>
+  </card>
+  <card id="c6560d61-8e8d-454f-a1ca-2520c5db4f59" name="Daggers of Westernesse">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Item. Weapon."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Attach to a character.&#10;&#10;Response: If you control Riv Lightfoot when Daggers enters play draw 1 card. Action: Discard Daggers of Westernesse and target an enemy in the staging area, that enemy  does not make engagement checks this turn. &#10;&#10;While in the discard pile this card counts as two."/>
+  </card>
+  <card id="bc9a9809-e4b8-4b81-b463-75065fc0a3f2" name="Dagnirdraug">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Item. Weapon."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Attach to a hero. Restricted.&#10;&#10;Taveon treats this card as not Restricted.&#10;&#10;Attached hero gets +2 Û when attacking an enemy with the Creature trait.&#10;&#10;Action: Exhaust Dagnirdraug to treat the text box of any enemy with the creature trait as blank until the end of the round."/>
+  </card>
+  <card id="8be57e45-1800-4561-8fb3-ccea2d5a3ae1" name="Defender's Helm">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Item. Armor."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Attach to a hero. Restricted.&#10;&#10;This card attaches to Cadoran for 2 less resources.&#10;&#10;Attached hero gains +2 Ò."/>
+  </card>
+  <card id="bd3468b2-3d33-4fca-967c-9864958b0d6e" name="Haeraht">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Item. Weapon."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Attach to a hero. Restricted.&#10;&#10;Attached hero gains ranged.&#10;Faladril gain +2 Û while Haeraht is attached. &#10;&#10;Response: After attached hero participates in an attack that destroys an enemy, draw 1 card."/>
+  </card>
+  <card id="6cb906e0-0d5b-4dd7-8a06-a9ed4fc51a7f" name="Helm of Erebor">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Item. Armor."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Attach to a hero. Restricted.&#10;&#10;Dobomar treats this card as not Restricted.&#10;&#10;Attached hero gains +2 Ú."/>
+  </card>
+  <card id="af26f27b-8a8e-42a7-b18e-b7ac67d487b8" name="Lalaith's Brooch">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Item. Artifact."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Attach to a hero.&#10;&#10;Response: Discard the Broach to cancel any Treachery card just revealed from the encounter deck. If attached hero is Saelirneth you may also cancel any Surge or Doom trait on that card."/>
+  </card>
+  <card id="9437e1b4-14f6-4732-97df-fcb2e7da7c5a" name="Mithril Chain Shirt">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Item. Armor."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Attach to a hero. Restricted.&#10;&#10;Mithril Chain Shirt attaches to Saelirneth for 2 less resources.&#10;&#10;Attached hero gains +1 Ú and +1 Ò."/>
+  </card>
+  <card id="efce006d-d041-4647-a4af-4eece9ec93c0" name="Oath of Fellowship">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Oath. Fellowship."/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Attach to a character.&#10;&#10;Attached character gains the Fellowship trait."/>
+  </card>
+  <card id="3ac38fcd-a519-4a34-813c-aabcd3d5c194" name="Shield of Amon Sul">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Item. Armor."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Attach to a hero. Restricted.&#10;&#10;Athelstan treats this card as not Restricted.&#10;&#10;Combat Action: Exhaust Shield to add attached hero’s Ú to another hero’s Ú until the end of the phase. You may move Shield of Amon Sul to that hero."/>
+  </card>
+  <card id="5d3eb304-b9af-4af1-9d9a-ad33b3023c96" name="Skullsplitter">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Item. Weapon."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Attach to a hero.&#10;&#10;Attached hero gains ranged.&#10;&#10;Combat Action: Remove Skullsplitter from the game to deal 2 damage to any enemy in play. If attached to Dobomar pay 2 Ï to put Skullsplitter back into your hand instead."/>
+  </card>
+  <card id="5541295e-a8a0-4269-8577-a73e0fbfcf3b" name="Vambraces of Arthedain">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Item. Armor."/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Attach to a hero. Restricted.&#10;&#10;Vambraces attach to Taveon for 2 less resources. &#10;&#10;Attached hero gains +1 Ú and +1 Hit Point."/>
+  </card>
+  <card id="b741a172-bec8-4854-b1ee-5f16f7b1b7cc" name="Diplomacy">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Target two different heroes with the Fellowship trait. Each hero gains the sphere of the other until the end of the round. If you control Faladril both heroes also gain the Î sphere and +2 Ò until the end of the round."/>
+  </card>
+  <card id="cbb1336a-b182-40ad-a753-79f3ffc6c39d" name="I Know a Better Path">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Response: After a location is revealed from the encounter deck, exhaust a character with the Fellowship trait to move that location to the bottom of the encounter deck. Cadoran may pay this cost without exhasuting. Then place two progress on any location."/>
+  </card>
+  <card id="9ef7b6f8-f269-4e2c-8d5b-8bf95959540e" name="I've Said It Before...">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Action: Ready any character in play with the Fellowship trait. They may use any printed ability with the &quot;Limit once per round&quot; stipulation one addittional time this turn. If you target Taveon with is effect reduce the cost of this card by 2 resources."/>
+  </card>
+  <card id="0286ea00-b552-4bd3-b704-893b2886ea3d" name="Sticky Fingers">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Cost" value="0"/>
+    <property name="Text" value="Action: Target a player who controls a character with the Fellowship trait. You may treat his discard pile as your own until the end of the round. If you control Riv Lightfoot return one card from target player’s discard pile to its owner’s hand."/>
+  </card>
+  <card id="8afd0d42-e27a-4428-a13b-9b8e6fbf490a" name="Stonekeg Songs">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Song."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Exhaust a character with the Fellowship trait to draw X cards where X is equal to the character’s current remaining hit points. Dobomar may pay this cost without exhausting. Then raise your threat by the number of Song cards in your discard pile (Including this one)."/>
+  </card>
+  <card id="af7d1261-48ee-4cd1-b0a7-a130b5236482" name="Strength in Numbers">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Fellowship."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Give one character with the Fellowship trait +X Ú where X is the number of other characters in play with the Fellowship trait."/>
+  </card>
+  <card id="5cd2d4a1-7539-4e2c-a9c7-42f3792db100" name="Trap Finding">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Action: Discard any Condition card attached to a character with the Fellowship trait. You may exhaust Riv Lightfoot to put this card back into your hand.#10;&#10; Reaction: Cancel a shadow effect just triggered during an attack involving a character with the Fellowship trait. If you control Riv Lightfoot this costs 2 less resources to play."/>
+  </card>
+  <card id="abb58022-698f-44f6-a929-0e49b6e4b88c" name="While the Fellowship Holds True">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Rise of Orthanc"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Fellowship."/>
+    <property name="Cost" value="5"/>
+    <property name="Text" value="Action: Ready all characters in play with the Fellowship trait."/>
+  </card>
+  <card id="5a403b90-ae60-4a78-9742-f0c392637b5e" name="Ranger Cache">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Cache."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="Travel: Exhaust Dunedain Key to travel here. Forced: When Ranger Cache leaves play as an explored location the first player searches the discard pile and encounter deck and places one Dragon Lily into the staging area."/>
+    <property name="Setup" value="s"/>
+  </card>
+  <card id="23c22d22-7aa5-41dc-a47e-a99f6b28d407" name="Staddle">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Bree-lands. Village."/>
+    <property name="Threat" value="0"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Text" value="While Staddle is the active location all other locations get -1 $. Response: When Staddle is explored heal one hero of all his wounds."/>
+  </card>
+  <card id="2f1fdf97-2b91-43b0-875a-6bba6b9d5033" name="Celemir">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Sylvan. Ally."/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Celemir can not be healed except by Dragon Lily effects. When Celemir enters play place one wound on him. Forced: If Celemir has no wounds and is not enganged with Neeker Breeker Swarm the first player takes control of Celemir at the end of the phase. If Celemir leaves play, the players are defeated."/>
+    <property name="Setup" value="s"/>
+  </card>
+  <card id="d745f47d-43ec-4eea-a73c-370f405471f0" name="Neeker Breeker Swarm">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Midge."/>
+    <property name="Keywords" value="Swarm"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Neeker Breeker Swarm can not be optionally engaged. Immune to player card effects while inthe staging area. Forced: At the start of the Combat Phase Neeker Breeker Swarm attacks Celemir. Deal it a shadow card as normal. Celemir must defend against it. Ignore all effects on these cards that don’t alter card stats."/>
+    <property name="Setup" value="s"/>
+  </card>
+  <card id="2878a67b-3856-4dc1-85a5-bf27f94cbf6d" name="Dunedain Key">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Item. Attachment."/>
+    <property name="Keywords" value="Guarded."/>
+    <property name="Text" value="Action: Claim this objective and attach it to a hero if it has no encounters attached. Action: Exhaust Dunedain Key to look at the top card of the encounteter deck. Discard it if it it not an objective card."/>
+    <property name="Shadow" value="Shadow: Shuffle Key back into the encounter deck."/>
+  </card>
+  <card id="91e8cf0e-2afd-4b03-8b44-d993460bcda0" name="Chetwood Bandit">
+    <property name="Quantity" value="5"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Bandit."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Chetwood Bandit gain +1 $ for each other Bandit in play. Forced: When Chetwood Bandit leaves play discard the top card of the encounter deck. If it is the Dunedain Key put that card into the staging area."/>
+    <property name="Shadow" value="Shadow: Add Chetwood Bandit to the staging area."/>
+  </card>
+  <card id="32cca7a7-5be8-4a40-bfca-b0df03ce0615" name="Traek">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Bandit. Dunlending."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="4"/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="Traek can not be optionally engaged if any other bandit enemies are in the staging area. Forced: When Traek leaves play search the encounter deck and discard pile for Dunedain Key and place it in the staging area."/>
+    <property name="Shadow" value="Shadow: If attacking enemy is a Bandit it gets +2 Û."/>
+  </card>
+  <card id="59ef8fb6-e224-4c7a-8c7b-fed777c480a1" name="Neeker Breeker">
+    <property name="Quantity" value="5"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Midge."/>
+    <property name="Keywords" value="Surge. Swarm."/>
+    <property name="Engagement Cost" value="15"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="1"/>
+    <property name="Shadow" value="Shadow: Put Neeker Breeker into play engaged with the defending player. (Deal it a shadow card as normal). If Defending character is Celemir instead give Neeker Breeker Swarm +1 Û."/>
+  </card>
+  <card id="3cac9953-b053-4930-a218-cf6c3917a046" name="Dragon Lily">
+    <property name="Quantity" value="6"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Herb."/>
+    <property name="Keywords" value="Guarded."/>
+    <property name="Text" value="Action: If unguarded exhaust a hero to attach Dragon Lily to that hero. Action: Discard Dragon Lily to heal Celemir of 2 wounds."/>
+  </card>
+  <card id="d489c0d9-fd83-428b-a4a9-19423b7f3c1e" name="Neeker Breeker Burrower">
+    <property name="Quantity" value="5"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Midge."/>
+    <property name="Keywords" value="Surge. Swarm."/>
+    <property name="Engagement Cost" value="15"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="2"/>
+    <property name="Shadow" value="Shadow: Ignore defending characters Ú for this attack."/>
+  </card>
+  <card id="8f4fb84b-50be-4c3b-9e89-bc9e7dd1bf95" name="Relentless Neeker Breeker">
+    <property name="Quantity" value="5"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Midge."/>
+    <property name="Keywords" value="Surge. Swarm."/>
+    <property name="Engagement Cost" value="15"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="2"/>
+    <property name="Shadow" value="Shadow: Remove 1 progress from the current quest."/>
+  </card>
+  <card id="ab1e45bc-1d8f-45f8-a04e-5589fd1620d0" name="Stirring Up the Swarm">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: All Midges in play immediately engage the first player, except Neeker Breeeker Swarm."/>
+    <property name="Shadow" value="Shadow: Shuffle all Midges in the discard pile back into the encounter deck."/>
+  </card>
+  <card id="acff3cd8-6d38-4aec-8dbd-c95c32289f48" name="Ambush!">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Any bandits currently engaged with players make an immediate attack against them (deal them a shadow card)."/>
+    <property name="Shadow" value="Shadow: Shuffle all Bandits in the discard pile back into the encounter deck."/>
+  </card>
+  <card id="2ee94bb7-70d7-475b-97ae-f47db845335e" name="Bandit Camp">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Camp."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="2"/>
+    <property name="Text" value="While bandit camp is the active location all Bandits gain +1 Ú. Travel: There must be a bandit in the discard pile to travel here. Response: When Bandit Camp is explored each player may put 1 resource on a hero he controls."/>
+  </card>
+  <card id="4cbaba91-f453-42fe-99c8-5beda46758b4" name="Neeker Breeker Hive">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Hive. Marsh."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Text" value="While in the staging area all Midges gain +1 $. While Hive is the active location all Midges gain +1 Hit Points. Response: When Hive is explored do 2 wounds to any one Midge in play other than Neeker Breeker Swarm."/>
+  </card>
+  <card id="a89989c7-7cda-493a-adee-d3e9fa092187" name="Making of a Fellowship">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Campaign"/>
+    <property name="Text" value="This adventure arc follows the RPG campaign Rise of Orthanc found on the Play by Post website http://brennor.dyndns.org . &#10;&#10;Making of a Fellowship is the introductory adventure in the RPG campaign. The elves Saelirneth and Celemir are exploring the Midgewater Marshes when Celemir is bitten by a strange creature and falls ill. &#10;The young she-elf must seek out the aid of others to find a cure. She encounters the Noldor Faladril and Ranger Cadoran who have the skill and herbs to heal her mentor. &#10;However the key to open the ranger cache has gone missing. Tracking the Hobbit burglar toward Bree the trio find Riv Lightfoot captured by Chetwood Bandits. &#10;Among their ranks is a Rohirrim Outlaw, Athelstan, who has a change of heart and helps to free Riv and fights against their leader Traek. &#10;Now with the key the small fellowship races to collect the herbs Dragon Lily in time before Celemir gives in to the illness or the denizens of the Marshes."/>
+    <property name="Setup" value="----"/>
+    <alternate name="Making of a Fellowship" type="B">
+      <property name="Encounter Set" value="Making of a Fellowship"/>
+      <property name="Type" value="Campaign"/>
+      <property name="Text" value="Swarm: The swarm trait is new to Making of a Fellowship. When an enemy with the Swarm trait engages a player that already is engaged with an enemy with the Swarm trait the two enemies combine into one larger foe. &#10;Stack the cards atop one another and add the new cards $, Û, Ú, and hit points together with any other cards in the  Swarm. The end result is one larger foe that has combined stats as well as actions and abilites. &#10;It is treated as one foe for all other purposes and card effects until after it is placed in the discard pile.&#10;&#10; Set Up and Celemir: During the set up stage players are instructed to place Celemir in the staging area engaged with the Neeker Breeker Swarm. Both cards are considered in the staging area and contribute $ during the quest phase. When the combat phase takes place players deal the Swarm one Shadow card and the Swarm attacks Celemir, and Celemir defends against it. Any Shadow effect that targets a player does not resolve and is discarded from play without effect. Shadow cards that affect the attacker or defender are still resolved. Beware the Swarm may eventually get strong enough to kill Celemir and then the players will lose the game."/>
+    </alternate>
+  </card>
+  <card id="c86a2d17-43fb-4726-8575-93debfc39501" name="Looking for a Cure">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="Put Celemir into the staging area with Neeker-Breeker Swarm engaged with him. Put Ranger Cache into the staging area. Remove all Hill Trolls and Goblin Snipers from the game."/>
+    <property name="Setup" value="sss"/>
+    <alternate name="Looking for a Cure" type="B">
+      <property name="Encounter Set" value="Making of a Fellowship"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="7"/>
+      <property name="Text" value="Players cannot defeat this stage if Ranger Cache is in play."/>
+    </alternate>
+  </card>
+  <card id="3e8a1d4c-12f9-42b2-b17a-4d8ae64f0558" name="Midgewater Marshes">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Making of a Fellowship"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Midgewater Marshes" type="B">
+      <property name="Encounter Set" value="Making of a Fellowship"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="10"/>
+      <property name="Text" value="Each player searches the discard pile then encounter deck for one Midge and adds it to the staging area. (These cards are not considered revealed.) When the 10th progress token is placed on this quest Neeker Breeker Swarm engages the first player. Players can not defeat the game while Neeker Breeker Swarm is in play. Players can not defeat the game while Celemir has any wounds on him."/>
+    </alternate>
+  </card>
+  <card id="9f7f43d3-15d0-4f72-afca-499aac0c8126" name="Bill Ferny">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Bree. Conspirator."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="5"/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="Immune to player card effects while in the staging area. Cannot be optionally engaged.&#10;&#10;Forced: When Ferny's Secret Hideout leaves play Ferny engages the first player and makes an immediate attack.&#10;&#10;Forced: When Ferny attacks search the encounter deck and discard pile for a brigand and put it into play engaged with the first player."/>
+    <property name="Setup" value="t"/>
+  </card>
+  <card id="788b7aa2-c434-497a-ad58-cea3b0125dff" name="Bill Ferny's Secret Hideout">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Bree."/>
+    <property name="Engagement Cost" value="X"/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="X"/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="X is equal to twice the number of players in the game.&#10;Players may not travel here. Players may not place progress on this location except through Objective Card effects.&#10;All brigands get +2 Û and +2 Ú while this card is in play."/>
+    <property name="Setup" value="t"/>
+  </card>
+  <card id="1ba0e8a8-54b7-4d19-9b24-be381b8b8e75" name="Harry Goatleaf">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Bree. Gatekeeper. Conspirator."/>
+    <property name="Keywords" value="Doomed 2"/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="When Revealed: Shuffle one objective card the players control back into the Encounter Deck, if able."/>
+    <property name="Shadow" value="Shadow: Choose and discard 1 objective from the defending character. (If this attack is undefended, discard all objectives you control.)"/>
+  </card>
+  <card id="7fd99ef4-a5e2-47c7-8f95-9549414bf01c" name="Squinty Eyed Southerner">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Half-Orc. Conspirator."/>
+    <property name="Keywords" value="Archery X"/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="X is equal to 1 plus the number of Objectives in play. Squinty Eyed Southron gains +1 $ for each location with the Burning key word in the staging area."/>
+  </card>
+  <card id="e578c1a0-f843-4b67-b98d-254806adbc49" name="Ruffian">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Brigand."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Forced: Deal Ruffian one additional Shadow Card for each other Brigand engaged with the player Ruffian is engaged with."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +2 Û."/>
+  </card>
+  <card id="75438d2e-4f10-4802-9001-3bfae095cd30" name="Arsonist">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Brigand."/>
+    <property name="Keywords" value="Doomed 2"/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="When Revealed: Burning 2 that targets all players in the game."/>
+    <property name="Shadow" value="Shadow: Enemy gains +1 Û for each location with Burning on it in play."/>
+  </card>
+  <card id="d80ab8fb-e935-44f8-8b1e-5e6dca273efc" name="Bandit Sympathizer">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Bree. Conspirator."/>
+    <property name="Engagement Cost" value="25"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Forced: When Sympathizer leaves play search the discard pile for one Objective Clue card and add it to the staging area."/>
+  </card>
+  <card id="4fffb5e4-0532-442c-b834-5b1b12a09013" name="South Gate">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Bree."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="2"/>
+    <property name="Text" value="While South Gate is in the staging area all Brigands gain +2 Û."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gains +2 Û. (+4 instead if this attack is undefended.)"/>
+    <property name="Setup" value="s"/>
+  </card>
+  <card id="1b3bc6ff-3e28-40eb-948d-a209806f9e59" name="Stonekeg Brewery">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Bree."/>
+    <property name="Keywords" value="Burning X"/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="X is the number of players in the game. Travel: Exhaust a hero and give him 1 damage to travel here. Ignore this cost if you control Dobomar Stonekeg. Forced: When this card leaves play as an explored location search the encounter deck and discard pile for Dobomar Stonekeg and put him into play unguarded."/>
+  </card>
+  <card id="0b9a4470-8f89-428a-af22-1ac20ce94d4d" name="The Prancing Pony">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Bree."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="Response: After the players travel here, the first player puts 1 ally into play from his hand. Forced: After The Prancing Pony leaves play, discard cards from the top of the encounter deck until X enemies have been discarded. X is the number of players in the game. Put each enemy discarded by this effect into play engaged with the first player."/>
+  </card>
+  <card id="a0cb9080-7add-4f93-a6ed-d974fd780548" name="West Gate">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Bree."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="2"/>
+    <property name="Text" value="While West Gate is in the staging area all Brigands gain +2 Ú."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gains +2 Ú. (+4 instead if this attack is undefended.)"/>
+  </card>
+  <card id="5b4f43f7-5b3e-48c2-8ee2-5fdc71276a7e" name="Appledore's Stables">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Bree."/>
+    <property name="Keywords" value="Burning X"/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="2"/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="X is equal to the current quest stage number. Forced: When Stables leaves play as an explored location search the Encounter Deck for Stolen Goods and put it into play."/>
+  </card>
+  <card id="e2f8762d-84c2-453c-852a-db4de1888d7f" name="Heathertoe's Warehouse">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Bree."/>
+    <property name="Keywords" value="Burning X"/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="2"/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="X is equal to the number of Objective cards in play. Forced: When Warehouse leaves play as an explored location search the Encounter Deck for Hidden Contraband and put it into play."/>
+  </card>
+  <card id="10bb5583-a683-4861-86c1-d234edbba311" name="Bill Ferny's House">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Bree."/>
+    <property name="Keywords" value="Burning X"/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Victory Points" value="3"/>
+    <property name="Text" value="X is equal to twice the number of players in the game. Forced: At the end of the turn discard any Objective Card in the staging area."/>
+    <property name="Shadow" value="Shadow: Raise the defending player’s threat by the number of locations in play with Burning."/>
+  </card>
+  <card id="ac872236-3052-4f68-9992-7618cee69af1" name="Burning Homes">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Bree."/>
+    <property name="Keywords" value="Surge. Peril."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="2"/>
+    <property name="Text" value="Burning 1"/>
+  </card>
+  <card id="bf1e1467-d300-4823-a898-bda7370e8996" name="Burning Homes">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Bree."/>
+    <property name="Keywords" value="Surge. Peril."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="2"/>
+    <property name="Text" value="Burning 1"/>
+  </card>
+  <card id="1f9b6450-3951-46ab-9a26-78c0d5d5f4ae" name="Close to the Fire">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Do damage equal to the number of locations in play with Burning to questing characters. This damage may be divided up among all questing characters."/>
+    <property name="Shadow" value="Shadow: Defending character takes one damage."/>
+  </card>
+  <card id="0e2054c2-fdc1-42d4-ad7a-188c425dd26d" name="Arson!">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each enemy and location currently in the staging area gets +1 $(+3 $ instead if it has the Burning keyword). Players may ehxaust Bucket Brigade to cancel this."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gains +1 Û (+3 Û instead if the active location has Burning)."/>
+  </card>
+  <card id="a76d2e3b-2047-4e0f-86df-19581ce173d3" name="Dry Well">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Trigger the Burning keyword on a location in the staging area with the highest value."/>
+  </card>
+  <card id="a94c2957-b6c0-4a14-8d85-c8df55f5e977" name="Choking Smoke">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each player must exhaust one character he controls. If Choking Smoke exhausts no character this card gains Surge."/>
+    <property name="Shadow" value="Shadow: Defending character looses 2 Ú until the end of the phase."/>
+  </card>
+  <card id="4552e17b-e837-4f2e-83e6-9344af6197cd" name="Spreading Flames">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each players searches the Discard Pile and Encounter Deck for one location with the Burning keyword, reveals and adds it to the staging area. Each of the cards gain Peril till the end of the phase."/>
+    <property name="Shadow" value="Shadow: Return this enemy to the staging area after it attacks."/>
+  </card>
+  <card id="f6d92e23-0741-4f08-9f60-3dde09ed3a23" name="Stolen Goods">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Item. Clue."/>
+    <property name="Keywords" value="Guarded."/>
+    <property name="Text" value="Action: Exhaust a hero to claim this objective if it has no encounters attached and attach it to him. Travel Action: Exhaust Stolen Goods to place one progress on Ferny’s Secret Hideout."/>
+  </card>
+  <card id="c7f341d7-4d84-4994-b842-177a3205a75f" name="Hidden Contraband">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Item. Clue."/>
+    <property name="Keywords" value="Guarded."/>
+    <property name="Text" value="Action: Exhaust a hero to claim this objective if it has no encounters attached and attach it to him. Travel Action: Exhaust Hidden Contraband to place one progress on Ferny’s Secret Hideout."/>
+  </card>
+  <card id="d1fb797e-5a70-497a-96a0-058c8cdcea16" name="Smuggler's Maps">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Item. Clue."/>
+    <property name="Keywords" value="Guarded."/>
+    <property name="Text" value="Action: Exhaust a hero to claim this objective if it has no encounters attached and attach it to him. Travel Action: Exhaust Smuggeler's Maps to place one progress on Ferny’s Secret Hideout."/>
+  </card>
+  <card id="cb02fc1a-398b-4e02-bcb0-6703a7c02d08" name="Bucket Brigade">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Bree. Ally."/>
+    <property name="Keywords" value="Guarded."/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="1"/>
+    <property name="Text" value="Action: Exhaust a hero to claim this card if it has no no encounters attached to it. Action: Exhaust Bucket Brigade to place 2 progress on any location in play with the Burning keyword."/>
+  </card>
+  <card id="1bb4da5c-089e-41eb-8f0e-04ef4f3a5d1a" name="Dobomar Stonekeg">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Dwarf. Ally."/>
+    <property name="Keywords" value="Guarded."/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Action: Exhaust a hero to claim this card if it has no encounters attached. Reaction: Exhaust Dobomar to reduce one Burning effect to 0 as it enters play."/>
+  </card>
+  <card id="76bc1b4a-da8c-4822-b6be-518240c6d2f9" name="Blood in Breeland">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Campaign"/>
+    <property name="Text" value="This adventure arc follows the RPG campaign “Rise of Orthanc” found on the Play by Post website http://brennor.dyndns.org. Blood in Breeland is the second adventure in the RPG campaign. After rescuing the elf Celemir and defeating bandits in the woods the Fellowship returns to Bree only to find it on fire. Bill Ferny and his Squity-Eyed Southern ally have been stiring up trouble in Bree. After the locals turn against him four now lie dead and Bree has been set on fire by arsonists. The heros rush to control the fires while battling against Ferny’s allies in an attempt to find the man behind it all and put and end to his treachory. Will they be able to save Bree and uncover Ferny’s conspiriacy in time?"/>
+    <property name="Setup" value="-----"/>
+    <alternate name="Blood in Breeland" type="B">
+      <property name="Encounter Set" value="Blood in Bree-land"/>
+      <property name="Type" value="Campaign"/>
+      <property name="Text" value="New Staging Rules: When playing the scenario, players reveal encounter cards individually in player order during the Staging step of the Quest phase. Beginning with the first player, each player reveals 1 encounter card and resolves its staging before the next player reveals a card. If an encounter card has an effect that uses the word “you” then the encounter card is referring to the player who revealed the card. If the revealed encounter has the Surge keyword, the player who revealed that card reveals an additional encounter card. Encounter cards with the Doomed X keyword still affecteach player. Burning X: Burning X is a new keyword used in Blood in Breland. When a card with Burning X is revealed from the encounter deck the player that revealed it must choose to either remove progress from the quest stage (but not the active location) or do damage to characters he controls equal to X. If there are no progress tokens on the quest stage the player must do damage to characters he controls instead. Peril: Peril is a new keyword found in The Lord of the Rings Saga Expansion and used here. When a player reveals an encounter card with the Peril keyword, he must resolve the staging of that card on his own without conferring with the other players. The other players cannot take any actions or trigger any responses during the resolution of that card's staging."/>
+    </alternate>
+  </card>
+  <card id="b47c289a-fcc5-447d-98d1-141dd4555cc4" name="Smoke Over Bree">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="Remove Bill Ferny and Ferny’s Secret Hideout from the deck and set them out of play to the side. Then put South Gate and 1 Burning Homes into the staging area."/>
+    <property name="Setup" value="ttss"/>
+    <alternate name="Smoke Over Bree" type="B">
+      <property name="Encounter Set" value="Blood in Bree-land"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="10"/>
+      <property name="Text" value="Forced: At the end of the turn remove 1 progress from the quest for each player in the game."/>
+    </alternate>
+  </card>
+  <card id="1578ea31-071b-478f-b85d-c1ad46b9e96e" name="Hunting for Bill Ferny">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Reaveled: Each player must serch the encounter deck and discard pile for 1 Brigand card of his choice, reveal it and add it to the staging area."/>
+    <alternate name="Hunting for Bill Ferny" type="B">
+      <property name="Encounter Set" value="Blood in Bree-land"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="6"/>
+      <property name="Text" value="Players cannot defeat this stage unless they control at least 1 Objective Clue Card."/>
+    </alternate>
+  </card>
+  <card id="01a3e78c-563b-4067-885b-ce38466e3b09" name="The Purge of Bree">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Blood in Bree-land"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Reaveled: Add Bill Ferny and Ferny’s Secret Hideout to the staging area."/>
+    <alternate name="The Purge of Bree" type="B">
+      <property name="Encounter Set" value="Blood in Bree-land"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="8"/>
+      <property name="Text" value="Players cannot defeat this stage while Bill Ferny is in play."/>
+    </alternate>
+  </card>
+ </cards>
+</set>

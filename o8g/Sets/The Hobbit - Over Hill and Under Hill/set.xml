@@ -150,7 +150,7 @@
     <property name="Cost" value="0"/>
     <property name="Text" value="Action: Exhaust Spare Hood and Cloak and exhaust attached character to ready another character. Then, attach Spare Hood and Cloak to that character."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9084" name="Thror's Map">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9084" name="Thrór's Map">
     <property name="Quantity" value="3"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
@@ -158,7 +158,7 @@
     <property name="Traits" value="Artifact. Item."/>
     <property name="Keywords" value="Attach to a hero."/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Travel Action: Exhaust Thror's Map to choose a location in the staging area. Make that location the active location. (If there is another active location, return it to the staging area.)"/>
+    <property name="Text" value="Travel Action: Exhaust Thrór's Map to choose a location in the staging area. Make that location the active location. (If there is another active location, return it to the staging area.)"/>
   </card>
   <card id="51223bd0-ffd1-11df-a976-1801204c9011" name="A Very Good Tale">
     <property name="Quantity" value="3"/>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Voice of Isengard" id="424cad9d-8552-4a76-aad1-46cad23903a8" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
-  <card id="21cfb9e9-6777-4bc6-ace6-08fe68e949a4" name="Eomer">
+  <card id="21cfb9e9-6777-4bc6-ace6-08fe68e949a4" name="Éomer">
     <property name="Quantity" value="1"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
@@ -12,7 +12,7 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
-    <property name="Text" value="Response: After a character leaves play, Eomer gets +2 Û attack until the end of the round. (Limit once per round.)"/>
+    <property name="Text" value="Response: After a character leaves play, Éomer gets +2 Û attack until the end of the round. (Limit once per round.)"/>
   </card>
   <card id="b49c3563-b3cd-4f33-b706-c2a721028891" name="Gríma">
     <property name="Quantity" value="1"/>

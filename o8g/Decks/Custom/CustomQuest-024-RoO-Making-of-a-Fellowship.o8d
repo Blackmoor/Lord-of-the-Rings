@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="a89989c7-7cda-493a-adee-d3e9fa092187">Making of a Fellowship</card>
+    <card qty="1" id="c86a2d17-43fb-4726-8575-93debfc39501">Looking for a Cure</card>
+    <card qty="1" id="3e8a1d4c-12f9-42b2-b17a-4d8ae64f0558">Midgewater Marshes</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="23c22d22-7aa5-41dc-a47e-a99f6b28d407">Staddle</card>
+    <card qty="1" id="2878a67b-3856-4dc1-85a5-bf27f94cbf6d">Dunedain Key</card>
+    <card qty="5" id="91e8cf0e-2afd-4b03-8b44-d993460bcda0">Chetwood Bandit</card>
+    <card qty="1" id="32cca7a7-5be8-4a40-bfca-b0df03ce0615">Traek</card>
+    <card qty="5" id="59ef8fb6-e224-4c7a-8c7b-fed777c480a1">Neeker Breeker</card>
+    <card qty="6" id="3cac9953-b053-4930-a218-cf6c3917a046">Dragon Lily</card>
+    <card qty="5" id="d489c0d9-fd83-428b-a4a9-19423b7f3c1e">Neeker Breeker Burrower</card>
+    <card qty="5" id="8f4fb84b-50be-4c3b-9e89-bc9e7dd1bf95">Relentless Neeker Breeker</card>
+    <card qty="1" id="ab1e45bc-1d8f-45f8-a04e-5589fd1620d0">Stirring Up the Swarm</card>
+    <card qty="1" id="acff3cd8-6d38-4aec-8dbd-c95c32289f48">Ambush!</card>
+    <card qty="3" id="2ee94bb7-70d7-475b-97ae-f47db845335e">Bandit Camp</card>
+    <card qty="4" id="4cbaba91-f453-42fe-99c8-5beda46758b4">Neeker Breeker Hive</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9115">Eastern Crows</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9116">Evil Storm</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9117">Pursued by Shadow</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9118">Treacherous Fog</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9081">Wolf Rider</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9084">Marsh Adder</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9085">Wargs</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9086">Despair</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9087">The Brown Lands</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9088">The East Bight</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="5a403b90-ae60-4a78-9742-f0c392637b5e">Ranger Cache</card>
+    <card qty="1" id="2f1fdf97-2b91-43b0-875a-6bba6b9d5033">Celemir</card>
+    <card qty="1" id="d745f47d-43ec-4eea-a73c-370f405471f0">Neeker Breeker Swarm</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>
