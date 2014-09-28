@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="a4e67c29-716e-4221-b300-e7c03f339a96">Shadow and Flame</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9017">Nearing the Gate</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9025">The Rear Guard</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9011">Last Lord of Moria</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9001">Counter-Spell</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9005">Fiery Sword</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801213c9006">Fires in the Deep</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9009">Inner Flame</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9010">Inner Shadow</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9013">Leaping Flame</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9014">Many Thonged Whip</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9023">Second Deep</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9024">Second Hall</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801213c9029">Whip Lash</card>
+    <card qty="5" id="51223bd0-ffd1-11df-a976-0801207c9040">Goblin Swordsman</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9087">Watchful Eyes</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9019">Chance Encounter</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9042">Great Cave-troll</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9048">Massing in the Deep</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9052">Orc Drummer</card>
+    <card qty="3" id="d4b4c172-dec4-4d31-91f8-24f3e3127713">Servant of Flame</card>
+    <card qty="2" id="bb81a9e4-3458-4893-bb85-788ef3f02184">Captain of Mordor</card>
+    <card qty="2" id="ed12d29f-d8f8-4689-8097-417b4d31f214">Fiery Depths</card>
+    <card qty="2" id="ce3322ab-b890-40e0-852a-a4638796a122">Crumbling Stairs</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9002">Dark Pit</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9003">Durin's Bane</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True">
+    <card qty="2" id="b94e993e-27a6-4ef4-b6f6-a7719928aceb">Terrible Strength</card>
+    <card qty="2" id="41cf7fb0-1194-4654-b23a-0b49259faf63">The Dark Fire</card>
+    <card qty="2" id="3b1df5e8-ce5e-4c66-a12b-25a322cfb0ba">Blazing Grip</card>
+    <card qty="2" id="f376de21-bb3f-49dc-94e5-ce57216963e7">Morgoth's Bidding</card>
+    <card qty="2" id="4858bd5a-6d80-4351-849b-532fc2bc4ffe">Flame of Udûn</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

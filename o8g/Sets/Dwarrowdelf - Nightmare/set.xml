@@ -185,6 +185,7 @@
   <card id="5ee5fd66-eb6f-4958-a5a0-cc8dbb54142c" name="The Watcher">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Watcher in the Water - Nightmare"/>
+    <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature.  Tentacle"/>
     <property name="Engagement Cost" value="50"/>
@@ -242,6 +243,238 @@
     <property name="Encounter Set" value="The Watcher in the Water - Nightmare"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+  </card>
+  <card id="b1217b87-40bd-442d-b7c8-0d9b7d262b04" name="The Long Dark">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Long Dark - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="t"/>
+    <alternate name="The Long Dark" type="B">
+      <property name="Encounter Set" value="The Long Dark - Nightmare"/>
+      <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
+    </alternate>
+  </card>
+  <card id="3e0b01f7-0870-4585-be26-4cd1860d3137" name="Goblin Stalker">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Long Dark - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Goblin. Orc."/>
+    <property name="Engagement Cost" value="28"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+    <property name="Victory Points" value="PASS"/>
+  </card>
+  <card id="fc3ec643-ec75-4d49-beca-57f11d6b641a" name="Trapdoor Spider">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Long Dark - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Spider"/>
+    <property name="Engagement Cost" value="42"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="6"/>
+    <property name="Victory Points" value="PASS"/>
+  </card>
+  <card id="83a77d46-89f5-4eeb-970b-8c1cd7d5eb4a" name="Sentinel of the Deep">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Long Dark - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Uruk."/>
+    <property name="Engagement Cost" value="12"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="8b225bb2-a809-45ce-af4a-aa98f1d53e82" name="Eastern Mines">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Long Dark - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Threat" value="5"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="c23266f8-cd28-4e21-8983-1c6180531e18" name="Bottomless Chasm">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Long Dark - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground. Dark."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="6"/>
+  </card>
+  <card id="c0b9de2b-ada7-468b-9dc5-08bb28c07c3d" name="Dreadful Deep">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Long Dark - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="0c0f7215-3a7f-489c-9edc-4fd5b896e635" name="Lost and Helpless">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Long Dark - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge."/>
+  </card>
+  <card id="72230f13-1064-464a-aa14-283a1c61e2e6" name="Foundations of Stone">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Foundations of Stone - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="t"/>
+    <alternate name="Foundations of Stone" type="B">
+      <property name="Encounter Set" value="Foundations of Stone - Nightmare"/>
+      <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
+    </alternate>
+  </card>
+  <card id="6e4985a3-5501-41ef-bd15-ec58eadba12c" name="Mithril Seeker">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Foundations of Stone - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Goblin. Orc."/>
+    <property name="Engagement Cost" value="18"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="5afd0c41-3fe9-40a1-bdfc-f5e8bc323958" name="Giant Cave Centipede">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Foundations of Stone - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Insect."/>
+    <property name="Engagement Cost" value="28"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="5"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="c4efe804-2832-42f1-bebf-45d3072cc70f" name="Unspeakable Thing">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Foundations of Stone - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Nameless."/>
+    <property name="Engagement Cost" value="15"/>
+    <property name="Threat" value="5"/>
+    <property name="Attack" value="X"/>
+    <property name="Defense" value="5"/>
+    <property name="Health" value="X"/>
+  </card>
+  <card id="53b038f1-01c5-40d9-b583-7501b0d7c8df" name="Primeval Thing">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Foundations of Stone - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Nameless."/>
+    <property name="Engagement Cost" value="45"/>
+    <property name="Threat" value="6"/>
+    <property name="Attack" value="X"/>
+    <property name="Defense" value="6"/>
+    <property name="Health" value="X"/>
+  </card>
+  <card id="0a53cafe-3137-4475-98f8-37818d1b91a5" name="Nest of Horrors">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Foundations of Stone - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground. Dark."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="3f0b92d5-18d9-4a85-8efb-ce6e64172674" name="Shivering River">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Foundations of Stone - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground. River."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="7"/>
+  </card>
+  <card id="42d80e7e-8217-48a2-a386-c18b6bff1bf1" name="Chill of the Roots">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Foundations of Stone - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="a4e67c29-716e-4221-b300-e7c03f339a96" name="Shadow and Flame">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Shadow and Flame - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="ts"/>
+    <alternate name="Shadow and Flame" type="B">
+      <property name="Encounter Set" value="Shadow and Flame - Nightmare"/>
+      <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
+    </alternate>
+  </card>
+  <card id="b94e993e-27a6-4ef4-b6f6-a7719928aceb" name="Terrible Strength">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Shadow and Flame - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Attack."/>
+  </card>
+  <card id="41cf7fb0-1194-4654-b23a-0b49259faf63" name="The Dark Fire">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Shadow and Flame - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Attack."/>
+  </card>
+  <card id="3b1df5e8-ce5e-4c66-a12b-25a322cfb0ba" name="Blazing Grip">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Shadow and Flame - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Attack."/>
+  </card>
+  <card id="f376de21-bb3f-49dc-94e5-ce57216963e7" name="Morgoth's Bidding">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Shadow and Flame - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Attack."/>
+  </card>
+  <card id="4858bd5a-6d80-4351-849b-532fc2bc4ffe" name="Flame of Udún">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Shadow and Flame - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Attack."/>
+  </card>
+  <card id="d4b4c172-dec4-4d31-91f8-24f3e3127713" name="Servant of Flame">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Shadow and Flame - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Mordor. Orc. Uruk."/>
+    <property name="Engagement Cost" value="12"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="bb81a9e4-3458-4893-bb85-788ef3f02184" name="Captain of Mordor">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Shadow and Flame - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Mordor. Orc. Uruk."/>
+    <property name="Engagement Cost" value="42"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="7"/>
+  </card>
+  <card id="ed12d29f-d8f8-4689-8097-417b4d31f214" name="Fiery Depths">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Shadow and Flame - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Keywords" value="Progress cannot be placed on Fiery Depths while it is in the staging area."/>
+    <property name="Threat" value="5"/>
+    <property name="Quest Points" value="2"/>
+  </card>
+  <card id="ce3322ab-b890-40e0-852a-a4638796a122" name="Crumbling Stairs">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Shadow and Flame - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="7"/>
   </card>
  </cards>
 </set>

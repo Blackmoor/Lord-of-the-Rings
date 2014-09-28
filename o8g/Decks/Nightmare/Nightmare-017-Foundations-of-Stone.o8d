@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="72230f13-1064-464a-aa14-283a1c61e2e6">Foundations of Stone</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9029">The Dripping Walls</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9031">The Water's Edge</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9034">Washed Away!</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9002">Below the Mines</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9004">Below the Mines</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9006">Below the Mines</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9008">Below the Mines</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9026">Out of the Depths</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9021">Crumbling Ruin</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9022">Dark and Dreadful</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9023">Dreadful Gap</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9033">Fouled Well</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9076">Sudden Pitfall</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9013">Branching Paths</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9035">Goblin Follower</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9046">Lightless Passage</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9089">Zigil Mineshaft</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9040">Goblin Swordsman</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9041">Goblin Tunnels</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9087">Watchful Eyes</card>
+    <card qty="3" id="6e4985a3-5501-41ef-bd15-ec58eadba12c">Mithril Seeker</card>
+    <card qty="2" id="5afd0c41-3fe9-40a1-bdfc-f5e8bc323958">Giant Cave Centipede</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="5" id="51223bd0-ffd1-11df-a976-0801212c9025">Nameless Thing</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801212c9022">Lost and Alone</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801212c9015">Elder Nameless Thing</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9014">Durin's Helm</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801212c9013">Durin's Axe</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801212c9011">Deep Deep Dark</card>
+    <card qty="3" id="c4efe804-2832-42f1-bebf-45d3072cc70f">Unspeakable Thing</card>
+    <card qty="2" id="53b038f1-01c5-40d9-b583-7501b0d7c8df">Primeval Thing</card>
+    <card qty="3" id="0a53cafe-3137-4475-98f8-37818d1b91a5">Nest of Horrors</card>
+    <card qty="3" id="3f0b92d5-18d9-4a85-8efb-ce6e64172674">Shivering River</card>
+    <card qty="3" id="42d80e7e-8217-48a2-a386-c18b6bff1bf1">Chill of the Roots</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9017">Cave Torch</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

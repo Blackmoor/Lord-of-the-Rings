@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="b1217b87-40bd-442d-b7c8-0d9b7d262b04">The Long Dark</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801211c9017">Journey in the Black Pit</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801211c9003">Continuing Eastward</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801211c9001">Abandoned Mine</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801211c9002">Cave Spider</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801211c9005">Durin's Greaves</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801211c9006">Dwarven Forge</card>
+    <card qty="4" id="51223bd0-ffd1-11df-a976-0801211c9011">Foul Air</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801211c9013">Gathering Ground</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801211c9015">Goblin Warlord</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801211c9023">Silent Caverns</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801211c9024">Twisting Passage</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801211c9025">Vast and Intricate</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9013">Branching Paths</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9046">Lightless Passage</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9047">Many Roads</card>
+    <card qty="3" id="51223bd0-ffd1-11df-a976-0801207c9089">Zigil Mineshaft</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9019">Chance Encounter</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9042">Great Cave-troll</card>
+    <card qty="2" id="51223bd0-ffd1-11df-a976-0801207c9048">Massing in the Deep</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9052">Orc Drummer</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9075">Stray Goblin</card>
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9079">The Mountains' Roots</card>
+    <card qty="4" id="3e0b01f7-0870-4585-be26-4cd1860d3137">Goblin Stalker</card>
+    <card qty="3" id="fc3ec643-ec75-4d49-beca-57f11d6b641a">Trapdoor Spider</card>
+    <card qty="2" id="83a77d46-89f5-4eeb-970b-8c1cd7d5eb4a">Sentinel of the Deep</card>
+    <card qty="2" id="8b225bb2-a809-45ce-af4a-aa98f1d53e82">Eastern Mines</card>
+    <card qty="3" id="c23266f8-cd28-4e21-8983-1c6180531e18">Bottomless Chasm</card>
+    <card qty="3" id="c0b9de2b-ada7-468b-9dc5-08bb28c07c3d">Dreadful Deep</card>
+    <card qty="2" id="0c0f7215-3a7f-489c-9edc-4fd5b896e635">Lost and Helpless</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="51223bd0-ffd1-11df-a976-0801207c9017">Cave Torch</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>
