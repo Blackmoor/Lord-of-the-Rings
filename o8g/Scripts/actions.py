@@ -1059,7 +1059,7 @@ def playerSetup(group=table, x=0, y=0, doPlayer=True, doEncounter=False):
 	unlockDeck()
 	if doPlayer:
 		id = myID() #This ensures we have a unique ID based on our position in the setup order	
-		if shared.counters['Round'].value == 0 and id == 0: #First time actions
+		if shared.counters['Round'].value == 0 and id == 0 and countHeroes(me) == 0: #First time actions
 			me.setActivePlayer()
 			setFirstPlayer(id)
 		
