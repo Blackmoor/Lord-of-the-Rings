@@ -259,7 +259,6 @@ def getLock():
 	
 	setGlobalVariable("lock", str(me._id))
 	if len(getPlayers()) > 1:
-		#time.sleep(2)
 		update()
 	return getGlobalVariable("lock") == str(me._id)
 
@@ -676,7 +675,7 @@ def updatePhase(who=me):
 					advanceFirstPlayer()
 				if me.isActivePlayer: # Anyone can act in the refresh phase			
 					setActivePlayer(None)
-				if turnManagement() and who == me and not isPlayerDone(me, 7, 1): # Clear my refresh highlight if I'm not ready for phase 7
+				if turnManagement() and not isPlayerDone(me, 7, 1): # Clear my refresh highlight if I'm not ready for phase 7
 					highlightPlayer(me, None)
 				if isEncounterPlayer:
 					nextPhase()
@@ -692,10 +691,15 @@ def updatePhase(who=me):
 			if me.isActivePlayer:
 				if shared.counters['Round'].value > 0: # Skip this on the first game because we did it during player setup
 					getPlayer(getFirstPlayerID()).setActivePlayer()
+				setActivePlayer(None)
+			if isEncounterPlayer:
+				# We really want all the other players to have completed running their call to this function before we advance the round
+				# There is no official way to sync but calling rnd then update seems to do the trick
+				rnd(1,2)
+				update()
 				shared.counters['Round'].value += 1
 				shared.counters['Phase'].value = 1
 				shared.counters['Step'].value = 1
-				setActivePlayer(None)
 				if phaseManagement():
 					highlightPlayers()
 			doNextRound()
@@ -1058,13 +1062,13 @@ def playerSetup(group=table, x=0, y=0, doPlayer=True, doEncounter=False):
 		
 	unlockDeck()
 	if doPlayer:
-		id = myID() #This ensures we have a unique ID based on our position in the setup order	
-		if shared.counters['Round'].value == 0 and id == 0 and countHeroes(me) == 0: #First time actions
+		id = myID() #This ensures we have a unique ID based on our position in the setup order
+		heroCount = countHeroes(me)		
+		if shared.counters['Round'].value == 0 and id == 0 and heroCount == 0: #First time actions
 			me.setActivePlayer()
 			setFirstPlayer(id)
 		
-		#Move Heroes to the table
-		heroCount = countHeroes(me)
+		#Move Heroes to the table		
 		newHero = False
 		lore = 0
 		mirlonde = False
