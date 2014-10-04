@@ -1,0 +1,929 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Road Darkens" id="a18ab620-936a-4c5e-acdb-5e28f998439a" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+ <cards>
+  <card id="f9196cda-8f50-4cc5-9aad-1c56cb677bca" name="Frodo Baggins">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Fellowship"/>
+    <property name="Traits" value="Hobbit. Ring-bearer."/>
+    <property name="Cost" value="0"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="3e055edf-4540-4cf1-94ce-afbf5fc28f82" name="Gandalf">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Istari."/>
+    <property name="Cost" value="14"/>
+    <property name="Willpower" value="3"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="3d09a998-9ad0-4b98-9c42-50c4226cc73b" name="Galadriel">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Noldor. Noble."/>
+    <property name="Keywords" value="At the end of the round, discard Galadriel from play."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="3"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="36b26228-1c01-4064-a109-d110e00d8e4b" name="Boromir">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Gondor. Warrior."/>
+    <property name="Cost" value="4"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="638638f0-8177-410a-bce8-9e2bbf5ad81f" name="Elrond">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Noldor. Noble."/>
+    <property name="Keywords" value="At the end of the round, discard Elrond from play."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="3"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="e02cc17b-80e4-4a8f-ba55-1df74aac816d" name="Bilbo Baggins">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Hobbit."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="8a5ff815-56cf-4d5f-a649-a111e736a9f1" name="Flame of Anor">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Spell."/>
+    <property name="Cost" value="1"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="02e56cef-e78d-4dbd-bd4d-6ec43e4b1d2b" name="Gandalf's Staff">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Artifact. Item. Staff."/>
+    <property name="Keywords" value="Attach to Gandalf. Restricted."/>
+    <property name="Cost" value="2"/>
+  </card>
+  <card id="428256aa-e03e-4f57-9b38-b8f7b5f17578" name="Wizard Pipe">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Item. Pipe."/>
+    <property name="Keywords" value="Attach to an Istari character. Limit 1 per character."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="d5f09d24-be50-4958-b0d0-41b1ad09b7af" name="Fellowship of the Ring">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Fellowship"/>
+    <property name="Traits" value="Fellowship."/>
+    <property name="Keywords" value="Attach to the Ring-bearer."/>
+    <property name="Cost" value="2"/>
+  </card>
+  <card id="7791cd04-7ffe-41f3-9633-cf57ad3a34ca" name="Sting">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Boon"/>
+    <property name="Traits" value="Artifact. Item. Weapon."/>
+    <property name="Keywords" value="Attach to a Hobbit hero. Restricted."/>
+    <property name="Cost" value="2"/>
+    <property name="Setup" value="t"/>
+  </card>
+  <card id="23acfc2e-3262-4f22-8496-a753fa9089bd" name="Mithril Shirt">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Boon"/>
+    <property name="Traits" value="Artifact. Item. Armor."/>
+    <property name="Keywords" value="Attach to the Ring-bearer."/>
+    <property name="Cost" value="1"/>
+    <property name="Setup" value="t"/>
+  </card>
+  <card id="c7f5eac0-dbda-419f-994c-c182775682b3" name="Glamdring">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Boon"/>
+    <property name="Traits" value="Artifact. Item. Weapon."/>
+    <property name="Keywords" value="Attach to a Warrior hero or Gandalf. Restricted."/>
+    <property name="Cost" value="2"/>
+    <property name="Setup" value="t"/>
+  </card>
+  <card id="24eabbac-62b1-4d2c-93a0-f97c04a2aefa" name="Andúril">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Boon"/>
+    <property name="Traits" value="Artifact. Item. Weapon."/>
+    <property name="Keywords" value="Attach to a Noble hero or Aragorn. Restricted."/>
+    <property name="Cost" value="3"/>
+    <property name="Setup" value="t"/>
+  </card>
+  <card id="14cbe0e1-0916-427f-8f19-abef59232dd2" name="Phial of Galadriel">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Boon"/>
+    <property name="Traits" value="Item. Gift."/>
+    <property name="Keywords" value="Setup: Attach to a hero in play."/>
+    <property name="Cost" value="0"/>
+    <property name="Victory Points" value="3"/>
+    <property name="Setup" value="t"/>
+  </card>
+  <card id="37488d87-8c07-4f13-b354-66bbdc9e5263" name="Three Golden Hairs">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Boon"/>
+    <property name="Traits" value="Item. Gift."/>
+    <property name="Keywords" value="Setup: Attach to a hero in play."/>
+    <property name="Cost" value="0"/>
+    <property name="Victory Points" value="3"/>
+    <property name="Setup" value="t"/>
+  </card>
+  <card id="606ee31e-a9cf-4ccf-8eed-003c006e5168" name="Lórien Rope">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Boon"/>
+    <property name="Traits" value="Item. Gift."/>
+    <property name="Keywords" value="Setup: Attach to a hero in play."/>
+    <property name="Cost" value="0"/>
+    <property name="Victory Points" value="3"/>
+    <property name="Setup" value="t"/>
+  </card>
+  <card id="8b15901c-c6b2-421e-8c6d-3200558e3609" name="Leaf-wrapped Lembas">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Boon"/>
+    <property name="Traits" value="Item. Gift."/>
+    <property name="Keywords" value="Setup: Attach to a hero in play."/>
+    <property name="Cost" value="0"/>
+    <property name="Victory Points" value="3"/>
+    <property name="Setup" value="t"/>
+  </card>
+  <card id="fb0f51c6-c96e-44f1-9f67-1235eb2351dc" name="The Ring Goes South">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Lord of the Rings Part 4"/>
+    <property name="Type" value="Campaign"/>
+    <property name="Keywords" value="You are playing Campaign Mode."/>
+    <property name="Setup" value="tttttttt"/>
+    <alternate name="The Ring Goes South" type="B">
+      <property name="Encounter Set" value="The Lord of the Rings Part 4"/>
+      <property name="Type" value="Campaign"/>
+    </alternate>
+  </card>
+  <card id="0c0fdef7-f55a-4bcf-91f9-317cd7a00777" name="The Council of Elrond">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="tttt"/>
+    <alternate name="The Council of Elrond" type="B">
+      <property name="Encounter Set" value="The Ring Goes South"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="–"/>
+    </alternate>
+  </card>
+  <card id="9e678947-2687-4b3b-b98c-f05f289793ff" name="The Nine Walkers">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Nine Walkers" type="B">
+      <property name="Encounter Set" value="The Ring Goes South"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="8"/>
+    </alternate>
+  </card>
+  <card id="0ae0d2d5-b082-4cc7-b227-9b60c60de8b4" name="The Hunt is Up!">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Hunt is Up!" type="B">
+      <property name="Encounter Set" value="The Ring Goes South"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="12"/>
+    </alternate>
+  </card>
+  <card id="3e99373a-ce10-4907-acd5-5a4b8dce425c" name="The Gates of Moria">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Gates of Moria" type="B">
+      <property name="Encounter Set" value="The Ring Goes South"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="–"/>
+    </alternate>
+  </card>
+  <card id="8f38ca4f-5893-4bd4-854d-6788a3ada41f" name="Watcher in the Water">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature."/>
+    <property name="Keywords" value="Idestructible. Immune to player card effects."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="5"/>
+    <property name="Attack" value="6"/>
+    <property name="Defense" value="5"/>
+    <property name="Health" value="12"/>
+  </card>
+  <card id="232256cb-40ee-4cec-84ac-995b3ba43eb2" name="Great Warg Chief">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Warg."/>
+    <property name="Keywords" value="Cannot have attachments."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="6"/>
+  </card>
+  <card id="1a55452f-9e4c-4cdc-8ce1-549c862bf96e" name="Hound of Sauron">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Warg."/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="e476b426-a9db-4d95-ab93-a32f4a5b7f48" name="Howling Warg">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Warg."/>
+    <property name="Engagement Cost" value="38"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="74f47fcd-31fb-4034-924c-034e1615a3c4" name="Crebain from Dunland">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature."/>
+    <property name="Keywords" value="Peril."/>
+    <property name="Engagement Cost" value="28"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="ebd1944a-928c-40ff-88de-dfebdfcf633c" name="Redhorn Pass">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mountain."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="6"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="5963e5c4-0f2e-43c4-afa2-a9b2cfde73d1" name="Doors of Durin">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Gate."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="9"/>
+  </card>
+  <card id="ca18c3fa-ebda-4cf9-99bb-2ce47c9160a1" name="Tree-crowned Hill">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Hills."/>
+    <property name="Keywords" value="While Tree-crowned Hill is the active location, each enemy gets -1 $."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="6"/>
+  </card>
+  <card id="5d0085bd-ebb9-46a7-ae28-698da3d11ae6" name="Hills of Hollin">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Hills."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="867b61a1-4e23-4426-ad94-b912e89055b8" name="Redhorn Foothills">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Hills."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="5"/>
+  </card>
+  <card id="af787868-59d6-48be-983f-447ba0523f46" name="Eregion">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Hills."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="78fd9e40-f68d-46c9-b6bf-8fec3b77bfcf" name="Regiments of Crows">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="ca24cab1-1489-4c4d-8cea-50d076c020b8" name="Snowdrifts">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Weather."/>
+  </card>
+  <card id="60546e25-329e-4846-852d-65c1a6ee6c5c" name="Bitter Cold">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Weather."/>
+  </card>
+  <card id="54981b6b-c247-40f9-9321-fd7913b897dd" name="Storm of Howls">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Peril."/>
+  </card>
+  <card id="a073c291-5f86-4b49-821e-d965baf369fa" name="Journey in the Dark">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Lord of the Rings Part 5"/>
+    <property name="Type" value="Campaign"/>
+    <property name="Keywords" value="You are playing Campaign Mode."/>
+    <property name="Setup" value="-----"/>
+    <alternate name="Journey in the Dark" type="B">
+      <property name="Encounter Set" value="The Lord of the Rings Part 5"/>
+      <property name="Type" value="Campaign"/>
+    </alternate>
+  </card>
+  <card id="91735f73-7dc8-48ee-8a61-b7c9648f5def" name="The Long Dark of Moria">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="ttts"/>
+    <alternate name="The Long Dark of Moria" type="B">
+      <property name="Encounter Set" value="Journey in the Dark"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="14"/>
+    </alternate>
+  </card>
+  <card id="e6b1a8ef-b595-4bca-9afb-3afbbd52d16e" name="Drums in the Deep">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Drums in the Deep" type="B">
+      <property name="Encounter Set" value="Journey in the Dark"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="9"/>
+    </alternate>
+  </card>
+  <card id="52754c5f-30b8-4d55-b9c2-5dfa8020ead3" name="The Bridge of Kazad-dûm">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Bridge of Khazad-dûm" type="B">
+      <property name="Encounter Set" value="Journey in the Dark"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="15"/>
+    </alternate>
+  </card>
+  <card id="e6fea7ff-7fdf-4938-a57b-6be82af1c152" name="Doom, Doom, Doom">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Shadow. Flame."/>
+  </card>
+  <card id="a62b42dc-ab4a-4573-a281-53742e2739f5" name="The Balrog">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Balrog. Shadow. Flame."/>
+    <property name="Keywords" value="Indestructible. Cannot be optionally engaged. The Balrog and shadow cards dealt to The Balrog are immune to player card effects."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="5"/>
+    <property name="Attack" value="8"/>
+    <property name="Defense" value="9"/>
+    <property name="Health" value="25"/>
+    <property name="Victory Points" value="50"/>
+  </card>
+  <card id="e6e7d9de-4b7d-422c-b367-8f2c65982468" name="Orc-chieftan">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Uruk."/>
+    <property name="Keywords" value="Cannot have attachments. Allies cannot defend against Orc-chieftan."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="6"/>
+  </card>
+  <card id="fc145eae-9671-4697-8d28-473f3b138295" name="Great Cave-troll">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Troll."/>
+    <property name="Keywords" value="Cannot have attachments."/>
+    <property name="Engagement Cost" value="36"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="6"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="6"/>
+  </card>
+  <card id="d2e57235-6df7-40fc-9a47-1ad06b4ed7a3" name="Uruk from Mordor">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Uruk."/>
+    <property name="Engagement Cost" value="34"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="21a5e7e1-013b-478e-a1c3-ab0300541f39" name="Moria Orc">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc."/>
+    <property name="Engagement Cost" value="38"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="b309f3a1-af3e-4c2e-9fce-59e8d88fbd7b" name="Moria Archer">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc."/>
+    <property name="Keywords" value="Peril. Archery 2."/>
+    <property name="Engagement Cost" value="42"/>
+    <property name="Threat" value="X"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="9c81c18a-b143-48ae-a22c-821f52efc229" name="The Great Bridge">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground. Bridge."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="5"/>
+    <property name="Quest Points" value="5"/>
+    <property name="Victory Points" value="5"/>
+  </card>
+  <card id="14fb1fba-dd55-4511-80f3-14808fc0f174" name="Chamber of Mazarbul">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Victory Points" value="4"/>
+  </card>
+  <card id="38853a8e-09c2-44f8-a76e-62aac1809d18" name="Mines of Moria">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="ef815939-8e88-4a70-a4f4-bdf36a84ea77" name="Many-pillard Hall">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="6"/>
+  </card>
+  <card id="bd30f509-04f8-4135-a5e9-20d3cbbe7cd8" name="Darkened Stairway">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="2"/>
+  </card>
+  <card id="3c53610e-0126-424f-a4cc-9e7710ebcffe" name="Ancient Guardroom">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="3"/>
+  </card>
+  <card id="b0b64e9f-0a9f-42f1-9ad0-0e54db93dc47" name="They Are Coming!">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Doomed 2."/>
+  </card>
+  <card id="b69bdceb-a155-4aa6-b7e8-b0265f5d0928" name="We Cannot Get Out">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="8527856a-e0eb-4799-9985-e73f1ee5281a" name="Deep Fissure">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Hazard."/>
+    <property name="Keywords" value="Peril."/>
+  </card>
+  <card id="4f47ef56-46c8-4a6b-85dd-656eb71c5828" name="Fool of a Took!">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Doomed 1."/>
+  </card>
+  <card id="dfb04502-e86f-41bc-83a0-b77048b9668c" name="Breaking of the Fellowship">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Lord of the Rings Part 6"/>
+    <property name="Type" value="Campaign"/>
+    <property name="Keywords" value="You are playing Campaign Mode."/>
+    <property name="Setup" value="------"/>
+    <alternate name="Breaking of the Fellowship" type="B">
+      <property name="Encounter Set" value="The Lord of the Rings Part 6"/>
+      <property name="Type" value="Campaign"/>
+    </alternate>
+  </card>
+  <card id="d32ba7ec-fa7d-4a1a-b157-da4186e62ea6" name="The Great River">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="tttss"/>
+    <alternate name="The Great River" type="B">
+      <property name="Encounter Set" value="Breaking of the Fellowship"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="12"/>
+    </alternate>
+  </card>
+  <card id="500d3f5b-2de3-4770-bb2a-7db2b104bbf2" name="The Company Divided">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Company Divided" type="B">
+      <property name="Encounter Set" value="Breaking of the Fellowship"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="–"/>
+    </alternate>
+  </card>
+  <card id="00008179-c6a7-46d0-be2f-b4b3b748afc2" name="Searching the Woods">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Searching the Woods" type="B">
+      <property name="Encounter Set" value="Breaking of the Fellowship"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="–"/>
+    </alternate>
+  </card>
+  <card id="f4e81861-8cf6-41e7-b347-af7879fa8b06" name="Guard the Hobbits">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Guard the Hobbits" type="B">
+      <property name="Encounter Set" value="Breaking of the Fellowship"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="–"/>
+    </alternate>
+  </card>
+  <card id="7dbe33ca-5c8f-411a-ae21-d4b8ceb46f00" name="The Seat of Amon Hen">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Seat of Amon Hen" type="B">
+      <property name="Encounter Set" value="Breaking of the Fellowship"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="–"/>
+    </alternate>
+  </card>
+  <card id="8f133b99-75d7-43b8-acec-3e298724134a" name="Orc Hunting">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Orc Hunting" type="B">
+      <property name="Encounter Set" value="Breaking of the Fellowship"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="–"/>
+    </alternate>
+  </card>
+  <card id="c10ac747-573f-46c7-a228-8b6d1cd8875a" name="The Ring-bearer Sets Out">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Ring-bearer Sets Out" type="B">
+      <property name="Encounter Set" value="Breaking of the Fellowship"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="16"/>
+    </alternate>
+  </card>
+  <card id="f1d2d99e-27e6-44d3-ad3d-ef727fa9ddc2" name="Frodo's Choice">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Doom."/>
+    <property name="Keywords" value="If Frodo's Choice is discarded, reveal it instead."/>
+  </card>
+  <card id="9ccd6851-ec1e-4d47-9e8d-486365c261e2" name="Uruk-hai Captain">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Uruk-hai."/>
+    <property name="Keywords" value="Toughness 2. Cannot have attachments."/>
+    <property name="Engagement Cost" value="36"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="c91a6d23-7dea-4efd-9f2b-326b74f9a935" name="Uruk-hai Archer">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Uruk-hai."/>
+    <property name="Keywords" value="Peril. Toughness 1. Archery X."/>
+    <property name="Engagement Cost" value="44"/>
+    <property name="Threat" value="X"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="9bba91a8-d375-4935-9956-9cb4cc4716c5" name="Uruk-hai Tracker">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Uruk-hai."/>
+    <property name="Keywords" value="Surge. Toughness 1. Archery 1."/>
+    <property name="Engagement Cost" value="33"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="a11ea1e0-372e-4932-86e4-f84737e842e9" name="Uruk-hai Hunter">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Uruk-hai."/>
+    <property name="Keywords" value="Peril. Toughness 1."/>
+    <property name="Engagement Cost" value="28"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="72276508-67e0-4133-8b9f-41fb8d44ffa9" name="Parth Galen">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="River. Lawn."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="8948aa81-f7fb-4979-9add-555598df529a" name="Seat of Seeing">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Hills."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="6"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="13a4b435-fa14-42b8-975e-804d3b8b929d" name="The Argonath">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="River."/>
+    <property name="Keywords" value="Immune to player card effects. X is the number of players in the game."/>
+    <property name="Threat" value="X"/>
+    <property name="Quest Points" value="2"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="d8cfafbd-7976-4a87-bdb3-a12c87503cd3" name="Sarn Gebir">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="River."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="6d4c7a3b-e0e7-4267-8f53-6ba99054892c" name="River Anduin">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="River."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="5"/>
+  </card>
+  <card id="67c97a60-a53c-4624-83ec-2122a74ea730" name="Wooded Shoreline">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="River. Forest."/>
+    <property name="Keywords" value="While Wooded Shoreline is in the staging area, it gains archery 2."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="43db612f-6c3c-4a3c-a4ba-816a85f47d16" name="Slopes of Amon Hen">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest. Hills."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="3"/>
+  </card>
+  <card id="aeba0e59-8dde-4422-bfb5-911ae8de42a1" name="Growing Threat">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Peril."/>
+  </card>
+  <card id="87539fa5-677d-4163-aff5-321841981cd4" name="Orcs of the White Hand">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="da177cbd-31e7-42ea-b051-e61f28dbb749" name="Black Feathered Arrows">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="57fdb41b-3a17-477d-89e7-b3b139d58642" name="Fallen into Evil">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Corruption."/>
+  </card>
+  <card id="7068731b-3837-40f3-9e98-6c996af4dddc" name="Lust for the Ring">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ring Goes South"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Sphere" value="Burden"/>
+    <property name="Traits" value="Corruption."/>
+    <property name="Keywords" value="Peril. Surge."/>
+  </card>
+  <card id="d2e3342e-f2eb-47fe-a653-2b1824b808dc" name="Shadow of Fear">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Sphere" value="Burden"/>
+    <property name="Keywords" value="Doomed 1. Surge."/>
+  </card>
+  <card id="3b05acf1-2c72-4e6c-9f59-a2bacde4820b" name="Pursued by the Enemy">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Sphere" value="Burden"/>
+    <property name="Keywords" value="Doomed 1. Surge."/>
+  </card>
+  <card id="0c4b67f7-6bd3-452b-8a7d-8b1e206dca0e" name="Overcome by Grief">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Objective"/>
+    <property name="Sphere" value="Burden"/>
+    <property name="Traits" value="Despair."/>
+    <property name="Setup" value="s"/>
+  </card>
+  <card id="7056509d-298d-4a21-be0c-9780f30b149e" name="Grievous Wound">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey in the Dark"/>
+    <property name="Type" value="Objective"/>
+    <property name="Sphere" value="Burden"/>
+    <property name="Traits" value="Wound."/>
+    <property name="Setup" value="s"/>
+  </card>
+  <card id="9317bbd9-12e5-47e1-a038-360df6c837b1" name="Followed by Night">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Sphere" value="Burden"/>
+    <property name="Keywords" value="Peril. Surge."/>
+  </card>
+  <card id="a09670b1-ccfe-449a-8743-e468c9d76782" name="Ill Fate">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Breaking of the Fellowship"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Sphere" value="Burden"/>
+    <property name="Traits" value="Despair."/>
+    <property name="Keywords" value="Peril. Surge."/>
+  </card>
+  <card id="ba2e4a33-edc6-4638-a3f5-b818b080aea8" name="The One Ring">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Artifact. Item. Ring."/>
+    <property name="Setup" value="t"/>
+  </card>
+ </cards>
+</set>

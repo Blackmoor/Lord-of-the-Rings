@@ -516,7 +516,7 @@
     </alternate>
   </card>
   <card id="984d2a01-f12a-4e8b-800c-6a04b1904049" name="The Prancing Pony">
-    <property name="Quantity" value="2"/>
+    <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Knife in the Dark"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>

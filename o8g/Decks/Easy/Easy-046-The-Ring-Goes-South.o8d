@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="f9196cda-8f50-4cc5-9aad-1c56cb677bca">Frodo Baggins</card>
+  </section>
+  <section name="Quest" shared="True">
+    <card qty="1" id="0c0fdef7-f55a-4bcf-91f9-317cd7a00777">The Council of Elrond</card>
+    <card qty="1" id="9e678947-2687-4b3b-b98c-f05f289793ff">The Nine Walkers</card>
+    <card qty="1" id="0ae0d2d5-b082-4cc7-b227-9b60c60de8b4">The Hunt is Up!</card>
+    <card qty="1" id="3e99373a-ce10-4907-acd5-5a4b8dce425c">The Gates of Moria</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="232256cb-40ee-4cec-84ac-995b3ba43eb2">Great Warg Chief</card>
+    <card qty="2" id="1a55452f-9e4c-4cdc-8ce1-549c862bf96e">Hound of Sauron</card>
+    <card qty="4" id="e476b426-a9db-4d95-ab93-a32f4a5b7f48">Howling Warg</card>
+    <card qty="2" id="74f47fcd-31fb-4034-924c-034e1615a3c4">Crebain from Dunland</card>
+    <card qty="1" id="ca18c3fa-ebda-4cf9-99bb-2ce47c9160a1">Tree-crowned Hill</card>
+    <card qty="3" id="5d0085bd-ebb9-46a7-ae28-698da3d11ae6">Hills of Hollin</card>
+    <card qty="2" id="867b61a1-4e23-4426-ad94-b912e89055b8">Redhorn Foothills</card>
+    <card qty="2" id="af787868-59d6-48be-983f-447ba0523f46">Eregion</card>
+    <card qty="1" id="78fd9e40-f68d-46c9-b6bf-8fec3b77bfcf">Regiments of Crows</card>
+    <card qty="2" id="ca24cab1-1489-4c4d-8cea-50d076c020b8">Snowdrifts</card>
+    <card qty="1" id="60546e25-329e-4846-852d-65c1a6ee6c5c">Bitter Cold</card>
+    <card qty="2" id="54981b6b-c247-40f9-9321-fd7913b897dd">Storm of Howls</card>
+    <card qty="1" id="ba2e4a33-edc6-4638-a3f5-b818b080aea8">The One Ring</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="7068731b-3837-40f3-9e98-6c996af4dddc">Lust for the Ring</card>
+    <card qty="1" id="ebd1944a-928c-40ff-88de-dfebdfcf633c">Redhorn Pass</card>
+    <card qty="1" id="5963e5c4-0f2e-43c4-afa2-a9b2cfde73d1">Doors of Durin</card>
+    <card qty="1" id="8f38ca4f-5893-4bd4-854d-6788a3ada41f">Watcher in the Water</card>
+  </section>
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>
