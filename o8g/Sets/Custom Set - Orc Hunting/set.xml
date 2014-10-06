@@ -210,7 +210,7 @@
     <property name="Keywords" value="Hunt X. X is the number of players in the game."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="4"/>
-    <property name="Shadow" value="Shadows: Defending player must discard 1 ally card from his hand, if able."/>
+    <property name="Shadow" value="Shadow: Defending player must discard 1 ally card from his hand, if able."/>
   </card>
   <card id="18f56141-d648-42a4-b371-dd7169388bde" name="East Path">
     <property name="Quantity" value="2"/>
