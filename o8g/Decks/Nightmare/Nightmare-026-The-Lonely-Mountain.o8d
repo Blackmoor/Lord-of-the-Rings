@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="4e61b160-2104-497f-9977-4b353e54fbb7">Bilbo Baggins</card>
+  </section>
+  <section name="Quest" shared="True">
+    <card qty="1" id="efe062c5-dcdc-47fb-a66a-5c31f4ed5f7c">The Lonely Mountain</card>
+    <card qty="1" id="57fc374c-ca6d-4556-9181-c1b578d7a01d">A Warm Welcome</card>
+    <card qty="1" id="4355352b-307e-407b-98f9-3d4fb2a14a49">The Burglar's Turn</card>
+    <card qty="1" id="a944e2e1-56e4-461d-b703-db991b673b9b">Inside Information</card>
+    <card qty="1" id="240a9f5b-17dc-4182-b854-3d2dd5a33f68">Thieves! Fire! Murder!</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="3f78ed57-49cc-4886-b84f-3fe886203794">Hidden Path</card>
+    <card qty="2" id="10c41b09-adf9-4a78-a67a-a9a1e04d7e8d">Weighed Down</card>
+    <card qty="3" id="babeedb8-f7cd-4e8a-a5c4-fbfdd57238fb">Croaking Crows</card>
+    <card qty="3" id="435e12a1-d479-42f6-a40d-8067615ec9e1">Desolation of Smaug</card>
+    <card qty="3" id="1c65b78b-6b68-458f-9510-a00a9576a042">Great Hall</card>
+    <card qty="2" id="da46fcb3-2810-4c21-9070-43969532ef9b">Known to an Ounce</card>
+    <card qty="3" id="b7b62c58-7d5d-483d-807e-f4d7e2869579">Pretending to Sleep</card>
+    <card qty="2" id="db6355c7-3edd-4573-a63c-1b6fc08bb8fa">Dragon-Spell</card>
+    <card qty="4" id="424d4f29-d7c6-465f-9742-adb51177affc">Erebor Bats</card>
+    <card qty="3" id="8da00775-fb2b-4abe-bde9-39ecce643d5d">Secret Tunnel</card>
+    <card qty="3" id="f2484786-8e29-4d43-866e-31c4adae3b1f">Southern Spur</card>
+    <card qty="2" id="2e77da31-a3ef-4bea-9af8-3f663c608a62">The Front Gate</card>
+    <card qty="4" id="fa005ccd-cf35-4d49-8259-23f3c8035954">The Dragon's Ire</card>
+    <card qty="3" id="ece25a80-d4c6-4032-90eb-ca485da5373d">Lust for Treasure</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="1" id="12d51424-0edd-4977-9df1-5f6a7a5a96e1">Mithril Shirt</card>
+    <card qty="1" id="ae774680-c6e9-49eb-96b8-fcdebe90b49d">The Arkenstone</card>
+    <card qty="1" id="857d6dc8-ba1e-4839-8e96-a8a0136a2302">Thror's Battle Axe</card>
+    <card qty="1" id="ff7b0b9d-f8ae-4464-9db3-7205c5ae4db7">Thror's Golden Cup</card>
+    <card qty="1" id="7adc49c0-640d-4934-89c5-312ab584b77c">Thror's Hunting Bow</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="0554f2f9-c578-4644-9c28-b617e846b787">The Lonely Mountain</card>
+    <card qty="1" id="81b31016-bcc3-4445-8f4d-64187e99aff3">Smaug the Golden</card>
+    <card qty="1" id="65ad784f-d82e-4659-8d1c-53d2e4d19336">Smaug the Magnificent</card>
+    <card qty="1" id="9a37677f-6bb6-4ff1-bf0e-8d0798e268c9">A Bare Patch</card>
+  </section>
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

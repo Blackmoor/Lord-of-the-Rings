@@ -697,7 +697,7 @@
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Each player may shuffle 1 copy Bilbo's Magic Ring into his deck. Search the encounter deck for The Spider's Glade and set it aside, out of play. Then, shuffle the encounter deck and reveal 1 encounter card per player."/>
-    <property name="Setup" value="t"/>
+    <property name="Setup" value="tttt"/>
     <alternate name="Into Mirkwood" type="B">
       <property name="Encounter Set" value="Flies and Spiders"/>
       <property name="Type" value="Quest"/>

@@ -4,6 +4,7 @@
     <card qty="1" id="4e61b160-2104-497f-9977-4b353e54fbb7">Bilbo Baggins</card>
   </section>
   <section name="Quest" shared="True">
+    <card qty="1" id="337906ff-c49f-4768-ad9f-57561a4c1eb1">Flies and Spiders</card>
     <card qty="1" id="1866ce74-8552-4ac5-8b0a-1e7a6f3b4338">Into Mirkwood</card>
     <card qty="1" id="a4ffb8cd-fd95-4b47-95d1-637bd2bd78a1">Lost in the Dark</card>
     <card qty="1" id="d99e07f6-7a57-4b5f-a108-13bd7ce6fa4b">Captured by Spiders</card>
@@ -11,16 +12,21 @@
   </section>
   <section name="Encounter" shared="True">
     <card qty="2" id="7a165c5c-caba-4af1-880e-845a124344d7">Caught in Webs</card>
-    <card qty="2" id="b06030a9-7ab9-48a6-b7da-5ffd8ce3a1a6">Crazy Cob</card>
+    <card qty="3" id="b06030a9-7ab9-48a6-b7da-5ffd8ce3a1a6">Crazy Cob</card>
     <card qty="3" id="5b038648-7a06-4014-b207-a5d68c99e76d">Fat Spider</card>
     <card qty="2" id="818e2f2f-4070-4056-85bd-5e729ccbad30">Forest Stream</card>
     <card qty="3" id="eb353293-1a80-445c-b4a9-422c83dadfd5">Giant Web</card>
-    <card qty="1" id="8815a340-fc16-41c5-ac2c-d647876c2bbd">Lazy Lob</card>
-    <card qty="1" id="b0d31a1c-2155-4a97-a5ff-912e32a4809e">Old Tomnoddy</card>
-    <card qty="5" id="2c20ea14-e7bc-4a38-a809-8834d659adf5">Wicked Spider</card>
-    <card qty="3" id="323842f5-457f-4dd4-95b8-eb19c24664cb">Dark Bats</card>
-    <card qty="3" id="3f78ed57-49cc-4886-b84f-3fe886203794">Hidden Path</card>
-    <card qty="1" id="10c41b09-adf9-4a78-a67a-a9a1e04d7e8d">Weighed Down</card>
+    <card qty="3" id="8815a340-fc16-41c5-ac2c-d647876c2bbd">Lazy Lob</card>
+    <card qty="3" id="b0d31a1c-2155-4a97-a5ff-912e32a4809e">Old Tomnoddy</card>
+    <card qty="2" id="31ada226-448d-48f8-9f9a-c1f5046ad041">Poisoned by Spiders</card>
+    <card qty="2" id="10c41b09-adf9-4a78-a67a-a9a1e04d7e8d">Weighed Down</card>
+    <card qty="3" id="c101383e-807d-44b7-992d-a8299c4402a0">Attercop</card>
+    <card qty="5" id="8607dbe8-720a-436f-a946-af666e5db568">Venomous Spider</card>
+    <card qty="2" id="ebf0f1f6-8627-4d7d-986e-fd7ae9a2de55">Dark Colony</card>
+    <card qty="2" id="aac8023b-431b-4cfa-8f6e-659a4e8dd04e">Mirkwood Path</card>
+    <card qty="3" id="92d3dcbb-8ce7-40fa-9df1-44617ebf08b4">Patch of Midnight</card>
+    <card qty="2" id="0f9b520c-f5c8-4704-a887-feb72fe7cba5">A Horrible Battle</card>
+    <card qty="2" id="8471389d-5424-41f9-8ed8-e7f29e9e78f4">Spider Bite</card>
   </section>
   <section name="Setup" shared="True">
     <card qty="1" id="4d423c39-09c1-4c0b-b46f-6983fae4c07b">The Spider's Glade</card>

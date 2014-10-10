@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="4e61b160-2104-497f-9977-4b353e54fbb7">Bilbo Baggins</card>
+  </section>
+  <section name="Quest" shared="True">
+    <card qty="1" id="46ac76d7-4215-4840-a029-c4aceb051b94">The Battle of Five Armies</card>
+    <card qty="1" id="dfd05c9f-1dc1-4af6-a22f-fe39969c6371">The Gathering of the Clouds</card>
+    <card qty="1" id="aa3355cb-57e1-4d8b-8a1b-9be22581a9f3">The Eastern Spur</card>
+    <card qty="1" id="81e81787-13b1-4bbf-a9ef-b8516deebbbc">Battle in the Dale</card>
+    <card qty="1" id="54ed3453-1df4-458d-bc7d-e1f7c10de237">The Defense of Ravenhill</card>
+    <card qty="1" id="82514713-7cc4-4b76-a5f2-42a69ccff76b">The Clouds Burst</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="10c41b09-adf9-4a78-a67a-a9a1e04d7e8d">Weighed Down</card>
+    <card qty="4" id="66812347-fac2-4a76-aa69-ac0861071c0d">Bodyguard of Bolg</card>
+    <card qty="2" id="ac4724db-a3cc-4984-bef5-f51b0f4421f8">Goblins are Upon You!</card>
+    <card qty="2" id="19e2470a-94c6-4f14-b824-7d2f952b60fd">Heedless of Order</card>
+    <card qty="2" id="87d2f0c4-8874-4910-9bb4-4f2d06c64168">Hatred Rekindled</card>
+    <card qty="3" id="29005ca1-107a-4473-8769-ce7d944e9844">Northern Slopes</card>
+    <card qty="1" id="f388bf8b-461c-4478-8155-74775bf27714">Ravenhill</card>
+    <card qty="2" id="f29b2736-9499-4e1d-9e53-96be59f78741">Ravenous Warg</card>
+    <card qty="1" id="ee451e81-d7ee-40a6-9079-7f6538a26a26">Ruins of Dale</card>
+    <card qty="1" id="19f36ec5-7ad4-4dab-80a7-4a7a6c716941">The Front Gate</card>
+    <card qty="3" id="56e98bd5-c952-436e-b552-832031d4bb20">Vanguard of Bolg</card>
+    <card qty="2" id="fca6840a-ae90-42c7-b0cb-79ef8c7de099">Gundabad Archer</card>
+    <card qty="3" id="d4309384-8472-4385-8122-163d6c4c8396">Great Warg</card>
+    <card qty="4" id="b028411b-ab1d-4a54-a9d0-38cb70489f98">Frenzied Warg-Rider</card>
+    <card qty="4" id="40956aef-c093-489d-b74a-24502705c6bb">Gundabad Elite</card>
+    <card qty="2" id="29baa3ae-f954-49c1-b127-f364887f80a7">Embattled Valley</card>
+    <card qty="3" id="487955be-4805-427c-984b-23bb88e697a6">Eastern Ridge</card>
+    <card qty="3" id="1b770413-a3b1-41ae-b843-b3b9e78b2906">Dread Has Come!</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="624d5999-1a76-4783-b4e4-d9b596242d18">Bolg</card>
+  </section>
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

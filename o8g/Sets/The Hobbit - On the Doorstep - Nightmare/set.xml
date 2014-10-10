@@ -6,6 +6,7 @@
     <property name="Encounter Set" value="Flies and Spiders - Nightmare"/>
     <property name="Type" value="Nightmare"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="-----"/>
     <alternate name="Flies and Spiders" type="B">
       <property name="Encounter Set" value="Flies and Spiders - Nightmare"/>
       <property name="Type" value="Nightmare"/>
@@ -78,6 +79,7 @@
     <property name="Encounter Set" value="The Lonely Mountain - Nightmare"/>
     <property name="Type" value="Nightmare"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="sstt"/>
     <alternate name="The Lonely Mountain" type="B">
       <property name="Encounter Set" value="The Lonely Mountain - Nightmare"/>
       <property name="Type" value="Nightmare"/>
@@ -136,6 +138,7 @@
     <property name="Encounter Set" value="The Battle of Five Armies - Nightmare"/>
     <property name="Type" value="Nightmare"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="s"/>
     <alternate name="The Battle of Five Armies" type="B">
       <property name="Encounter Set" value="The Battle of Five Armies - Nightmare"/>
       <property name="Type" value="Nightmare"/>
