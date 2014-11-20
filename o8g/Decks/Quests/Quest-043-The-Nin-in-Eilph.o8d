@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="874a98ba-9b90-49b3-9cd4-c06464696b5b">Fleeing from Tharbad</card>
+    <card qty="1" id="51124d05-205c-49e6-ad19-aa67185c8bdc">Through the Marsh</card>
+    <card qty="1" id="9945fdee-b56e-488d-a5bf-33d5a82afdad">Through the Marsh</card>
+    <card qty="1" id="3dfaab4d-04b1-49a6-bd17-63c184784985">Through the Marsh</card>
+    <card qty="1" id="f9e9bc93-8044-474c-8f80-d3787edbca5f">Lost in the Swanfleet</card>
+    <card qty="1" id="bb58f446-da73-47e3-98e8-70f69ee77d34">Lost in the Swanfleet</card>
+    <card qty="1" id="c760eeaf-d923-4d98-af5c-eb7cb2d2f4d9">Lost in the Swanfleet</card>
+    <card qty="1" id="b49b5be7-5bfc-4e65-bced-862a409e097d">Out of the Swamp</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="4" id="356f37d9-34c9-4fae-864d-c34dff7eaaa4">Giant Swamp Adder</card>
+    <card qty="3" id="8ef56cb3-b483-4b38-b208-6c16e16bdb6d">Neekerbreekers</card>
+    <card qty="3" id="3d19de02-b3a9-4612-a90a-30b37bd1e9b1">Fen of Reeds</card>
+    <card qty="3" id="f542bca1-68d1-4975-aea9-3ff3e7801be5">Finger of Glanduin</card>
+    <card qty="2" id="1156ac5f-09cf-418b-9486-030b397a5514">Hidden Eyot</card>
+    <card qty="3" id="1e96a8e3-ad11-48d5-8554-7cb1a90937a7">Sinking Bog</card>
+    <card qty="3" id="a0f5082c-acc7-4884-a3d4-a7eed0f053e6">Shifting Marshland</card>
+    <card qty="1" id="944aaafa-17e2-4352-9a04-384673089ee6">Remnants of Elder Days</card>
+    <card qty="3" id="5f18c4ca-fcda-46d2-874b-3a1a73ef7c53">Low on Provisions</card>
+    <card qty="2" id="7fc629f3-3115-47df-b997-4a5026d97d2b">Off Track</card>
+    <card qty="2" id="3a8869dc-077e-4b8c-b3d5-474e4f9c14ba">In Need of Rest</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="b34e79d4-7806-4fd9-b12d-bb291e44f354">Ancient Marsh-dweller</card>
+    <card qty="1" id="d5134ddf-8c78-4e68-a603-7df5d48f5016">Nalir</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
