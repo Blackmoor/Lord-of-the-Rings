@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Celebrimbor's Secret" id="44d751a2-8ec1-4928-aee2-41632b378e52" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+ <cards>
+  <card id="8d6a15a8-e363-46bb-8e49-0af45a1ea0d1" name="Galadriel">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Noldor. Noble."/>
+    <property name="Cost" value="9"/>
+    <property name="Willpower" value="4"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="83842580-bfe9-4d56-addf-e1d290eb7bcf" name="Heir of Mardil">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Title."/>
+    <property name="Keywords" value="Attach to a Noble hero."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="9220dbae-e7fc-43fc-b772-043af7d4bda1" name="Orophin">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Silvan. Scout."/>
+    <property name="Keywords" value="Ranged."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="05577e9f-477b-4842-8491-32c748c1a0e4" name="Henneth Annun Guard">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Gondor. Ranger."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="4fb48ed9-1651-4ae7-83d1-9d76a1dc27e7" name="Charge of the Rohirrim">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Cost" value="2"/>
+  </card>
+  <card id="ff3794e8-d8b1-48dc-a9f8-97ea7d6b3874" name="Galadriel's Handmaiden">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Silvan."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="1"/>
+  </card>
+  <card id="6e97a705-2458-4aa1-ad90-f3cd8200ca5a" name="Mirror of Galadriel">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Artifact. Item."/>
+    <property name="Keywords" value="Attach to Galadriel."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="496b62d9-2e7c-4206-bae5-2b180fec84d1" name="Wandering Ent">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Ent."/>
+    <property name="Keywords" value="Cannot have restricted attachments. Enters play exhausted."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="f40cc90c-02df-464b-a401-6640aa93e2f8" name="Cloak of Lorien">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Item."/>
+    <property name="Keywords" value="Attach to a Noldor or Silvan character. Limit 1 per character."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="17ed9b53-19f5-4ad1-ab91-14c2859e5a60" name="Nenya">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Artifact. Ring."/>
+    <property name="Keywords" value="Attach to Galadriel. She gains a Î resource icon."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="9e9e76b7-ef3c-4c7c-baf2-061dc0d2ccd0" name="The Ruins of Ost-in-Edhil">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="ssst"/>
+    <alternate name="The Ruins of Ost-in-Edhil" type="B">
+      <property name="Encounter Set" value="Celembrimbor's Secret"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="14"/>
+    </alternate>
+  </card>
+  <card id="f3d71c42-c368-45c1-9228-b58cf9c54ff5" name="The Enemy's Servant">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Enemy's Servant" type="B">
+      <property name="Encounter Set" value="Celembrimbor's Secret"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="12"/>
+    </alternate>
+  </card>
+  <card id="fb36c038-bbb8-454f-a4a6-1f8d8fcbd112" name="Bellach">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Mordor. Spy."/>
+    <property name="Keywords" value="X is the number of cards underneath The Orc’s Search."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="X"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="7"/>
+    <property name="Victory Points" value="5"/>
+  </card>
+  <card id="1589883f-87ae-4f4d-a92b-e5e23c25c8e0" name="The Orcs' Search">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Type" value="Objective"/>
+  </card>
+  <card id="738b3bad-7a2b-47ad-a34f-503028f4f4c1" name="The Secret Chamber">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ost-in-Edhil. Ruins."/>
+    <property name="Keywords" value="X is the number of players in the game.&#10;Immune to player card effects."/>
+    <property name="Threat" value="X"/>
+    <property name="Quest Points" value="6"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="c5d1793e-a4e2-4a40-97e9-e5e6f8b1cdfb" name="Celebrimbor's Mould">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Artifact. Item."/>
+  </card>
+  <card id="dbdb65b4-924c-4d74-adcc-14b6d8e1e2f8" name="Bellach's Scout">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Mordor. Orc."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="82141d38-fb53-472c-a5e8-6a495447c9ad" name="Prowling Orc">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Mordor. Orc."/>
+    <property name="Engagement Cost" value="45"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="529bb9e4-36c3-45bd-bac0-1ce5de6a581d" name="Ruined Plaza">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ost-in-Edhil. Ruins."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="2"/>
+  </card>
+  <card id="246b941e-f8a7-46ba-966d-d0515111ab46" name="Collapsed Tower">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ost-in-Edhil. Ruins."/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="39773513-ff69-4918-9323-6f04b7109b2f" name="Ancient Foundation">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ost-in-Edhil. Ruins."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="6f7cdfa5-f61f-44b1-8b6c-2b3f477f7557" name="City Remains">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ost-in-Edhil. Ruins."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="3"/>
+  </card>
+  <card id="566898f1-9e85-4463-b220-6924d5106447" name="Discovered!">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="abd56f0e-0238-432b-84b2-7c715d96477b" name="Desecrated Ruins">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="ddac1c59-4e5d-4a90-9666-0753133d4de9" name="Spies from Mordor">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Celembrimbor's Secret"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+ </cards>
+</set>

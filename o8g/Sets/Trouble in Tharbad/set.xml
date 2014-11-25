@@ -13,6 +13,7 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Combat Action: If you have not engaged an enemy this round, exhaust Haldir of Lórien to declare him as an attacker (and resolve his attack) against an enemy not engaged with you. Limit once per round."/>
   </card>
   <card id="8c6be9f6-f97c-40a9-88da-2f3ba7f640ed" name="Herald of Anórien">
     <property name="Quantity" value="3"/>
@@ -24,6 +25,7 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="1"/>
+    <property name="Text" value="You may give Herald of Anórien doomed 2 when you play it from your hand. If you do, it gains: &quot;Response: After you play Herald of Anórien, choose a player. That player may put into play 1 ally from his hand with a printed cost of 2 or lower.&quot;"/>
   </card>
   <card id="b4d93180-0ebc-4a9b-9817-e761068570e3" name="O Lórien!">
     <property name="Quantity" value="3"/>
@@ -32,6 +34,7 @@
     <property name="Traits" value="Song."/>
     <property name="Keywords" value="Attach to a hero."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Exhaust O Lórien! To lower the cost of the next Silvan ally played this phase by 1 (to a minimum of 1)."/>
   </card>
   <card id="2e7f22cc-218e-4dad-b4e4-00b2208713d9" name="Gwaihir">
     <property name="Quantity" value="3"/>
@@ -45,24 +48,28 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="4"/>
+    <property name="Text" value="Response: After Gwaihir enters play, search your discard pile for an Eagle ally and put it into play under your control. At the end of the round, if that ally is still in play, add it to your hand."/>
   </card>
   <card id="af74e00e-a04e-4a15-a538-d36539bfb751" name="Pursuing the Enemy">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="0"/>
+    <property name="Text" value="Action: Return a Silvan ally you control to your hand to choose a player. Deal 1 damage to each enemy engaged with that player."/>
   </card>
   <card id="72ec977b-6d24-459c-aaa8-49c2a01f0766" name="Courage Awakened">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Choose a hero. That hero gets +2 Ò until the end of the phase. Then, if your threat is 20 or less and this is the first time you played a copy of Courage Awakened this round, return this card to your hand instead of discarding it."/>
   </card>
   <card id="0d0b210e-995a-4ded-b7b0-d32b59dbaa4f" name="Free to Choose">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Cost" value="0"/>
+    <property name="Text" value="Response: After your threat is raised by an encounter card effect, reduce your threat by an equal amount."/>
   </card>
   <card id="bd81ff6a-9c8f-415e-85fb-da84c21ef2a4" name="Galadhrim Minstrel">
     <property name="Quantity" value="3"/>
@@ -74,6 +81,7 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="1"/>
+    <property name="Text" value="Response: After Galadhrim Minstrel enters play, search the top 5 cards of your deck for an event card and add it to your hand. Shuffle the other cards back into your deck."/>
   </card>
   <card id="f86ea37a-d70d-4ff2-ac36-2a0ff1f7ffa9" name="Lembas">
     <property name="Quantity" value="3"/>
@@ -82,6 +90,7 @@
     <property name="Traits" value="Item."/>
     <property name="Keywords" value="Play only if you control a Noldor or Silvan hero.&#10;&#10;Attach to a hero."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Discard Lembas to ready attached hero and heal 3 damage from it."/>
   </card>
   <card id="b91ba94d-e6b9-41f6-89ed-df1fb1f22335" name="Defender of the Naith">
     <property name="Quantity" value="3"/>
@@ -94,6 +103,7 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="2"/>
+    <property name="Text" value="Response: After a Silvan ally you control leaves play, ready Defender of the Naith."/>
   </card>
   <card id="022c654e-9d4d-40ff-9d67-8e465fda0e78" name="Double Dealings">
     <property name="Quantity" value="1"/>
@@ -101,6 +111,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="Setup: Set Bellach and The Crossing of Tharbad aside, out of play. Search the encounter deck for 1 copy of Spy From Mordor per player, and add them to the staging area. Make The Empty Mug the active location. The first player takes control of Nalir, as an ally. Shuffle the encounter deck."/>
     <property name="Setup" value="ttttttlt"/>
     <alternate name="Double Dealings" type="B">
       <property name="Encounter Set" value="Trouble in Tharbad"/>
@@ -108,6 +119,7 @@
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
+      <property name="Text" value="Time 4. Forced: After the last time counter is removed from this quest, reduce each player's threat elimination level by 10 for the remainder of the game. Then, place 4 time counters on this stage.&#10;&#10;Forced: After 1 or more progress is placed on this quest, cancel all progress and reduce each player's threat by an equal amount.&#10;&#10;When all players have 0 threat, immediately proceed to stage 2."/>
     </alternate>
   </card>
   <card id="f86ef645-bc8b-41a0-b288-80118f5433cc" name="Escape from Tharbad">
@@ -116,12 +128,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Add Bellach and The Crossing of Tharbad to the staging area. Then, shuffle the encounter discard pile into the encounter deck and discard cards from the encounter deck until X Orc enemies have been discarded, where X is the number of players in the game. Add all discarded Orc enemies to the staging area."/>
     <alternate name="Escape from Tharbad" type="B">
       <property name="Encounter Set" value="Trouble in Tharbad"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
+      <property name="Text" value="Time 3. Forced: After the last time counter is removed from this quest, either raise each player's threat by 3 or Bellach makes an immediate attack against Nalir. Then, place 3 time counters on this stage.&#10;&#10;Progress that would be placed on this quest are instead placed on The Crossing of Tharbad.&#10;&#10;Forced: After a character leaves play, raise its controller's threat by 2."/>
     </alternate>
   </card>
   <card id="79f789a1-8a89-468b-8fb1-7a0292cc963f" name="Nalir">
@@ -135,6 +149,7 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Forced: At the beginning of the refresh phase, raise your threat by 1 for each player in the game.&#10;&#10;If Nalir leaves play, the players lose the game."/>
   </card>
   <card id="1d1adc93-c364-41d0-b987-6038d9df0c07" name="The Empty Mug">
     <property name="Quantity" value="1"/>
@@ -146,6 +161,7 @@
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="4"/>
     <property name="Victory Points" value="4"/>
+    <property name="Text" value="While the Empty Mug is in the victory display, the current quest gains &quot;Forced: After a player card effect reduces a player's threat, remove it from the game.&quot;"/>
   </card>
   <card id="8f6254c0-a723-4e66-bdc7-4c92eed415f8" name="Bellach">
     <property name="Quantity" value="1"/>
@@ -159,6 +175,7 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="7"/>
+    <property name="Text" value="Orc and Creature enemies get -30 engagement cost and +1 $.&#10;&#10;Forced: When Bellach is destroyed, shuffle him into the encounter deck."/>
   </card>
   <card id="8b203ead-9fb6-4734-9109-3633fc24d1a9" name="The Crossing at Tharbad">
     <property name="Quantity" value="1"/>
@@ -169,6 +186,7 @@
     <property name="Keywords" value="Immune to player card effects. Cannot leave the staging area."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="10"/>
+    <property name="Text" value="The Crossing at Tharbad gets +2 quest points for each player in the game.&#10;&#10;When The Crossing at Tharbad is explored, the players win the game."/>
   </card>
   <card id="8cc366fb-68f0-4401-9df9-20f9258a728c" name="Spy from Mordor">
     <property name="Quantity" value="4"/>
@@ -180,6 +198,7 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
+    <property name="Text" value="Forced: When Spy from Mordor attacks, remove 1 time counter from the current quest."/>
   </card>
   <card id="57f80fa2-0fdb-47b1-a441-939ee4cc6b4e" name="Bellach's Marauder">
     <property name="Quantity" value="2"/>
@@ -191,6 +210,8 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="While Bellach's Marauder is engaged with a player, it gains: &quot;Forced: After a time counter is removed from the current quest, deal Bellach's Marauder 2 shadow cards.&quot;"/>
+    <property name="Shadow" value="Shadow: Remove 1 time counter from the current quest."/>
   </card>
   <card id="c2181617-ad55-4bf7-a6f3-60979d112ce6" name="Streets of Tharbad">
     <property name="Quantity" value="2"/>
@@ -200,6 +221,7 @@
     <property name="Keywords" value="Progress cannot be placed on Streets of Tharbad while it is in the staging area."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="1"/>
+    <property name="Text" value="While Streets of Tharbad is the active location, enemeis get -20 engagement cost."/>
   </card>
   <card id="eaad2b4a-3ac0-4672-ad43-036152d81322" name="Tharbad Hideout">
     <property name="Quantity" value="2"/>
@@ -209,6 +231,7 @@
     <property name="Keywords" value="Surge."/>
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="1"/>
+    <property name="Text" value="While Tharbad Hideout is the active location, time counters cannot be removed from the current quest.&#10;&#10;Forced: At the beginning of the quest phase, place 1 progress on Tharbad Hideout."/>
   </card>
   <card id="3d25a41e-6a10-4fd7-a159-2b25bfc54454" name="Ruins of the Second Age">
     <property name="Quantity" value="2"/>
@@ -217,6 +240,7 @@
     <property name="Traits" value="City. Ruins."/>
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="5"/>
+    <property name="Text" value="While Ruins of the Second Age is in the staging area, City locations get +1 $.&#10;&#10;While Ruins of the Second Age is the active location, deal engaged enemies 1 additional shadow card at the beginning of the combat phase."/>
   </card>
   <card id="ead7703f-43e0-464e-ac09-304b86a54b50" name="Seedy Inn">
     <property name="Quantity" value="2"/>
@@ -225,6 +249,8 @@
     <property name="Traits" value="City."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="Travel: Search the encounter deck and discard pile for a Spy enemy and add it to the staging area. Shuffle the encounter deck."/>
+    <property name="Shadow" value="Shadow: Raise the defending player's threat by X, where X is the amount of damage dealt by this attack."/>
   </card>
   <card id="cafa6a4e-1994-4a22-a465-3c03f1c0a425" name="Hidden Alleyway">
     <property name="Quantity" value="2"/>
@@ -233,6 +259,7 @@
     <property name="Traits" value="City."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="5"/>
+    <property name="Text" value="Travel: Raise each player's threat by X to travel here. X is the number of enemies in play.&#10;&#10;Forced: After traveling to Hidden Alleyway, add 1 time counter to the current quest."/>
   </card>
   <card id="8a4aebc3-32db-4b2f-965c-548058440a7c" name="Decrepit Rooftops">
     <property name="Quantity" value="2"/>
@@ -241,26 +268,34 @@
     <property name="Traits" value="City."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="While Decrepit Rooftops is the active location, enemies get +1 $ and do not make engagement checks.&#10;&#10;Forced: After traveling to Decrepit Rooftops, return all engaged enemies to the staging area."/>
   </card>
   <card id="51681809-60af-4819-bfa0-3f568987f4ea" name="Constant Tail">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Trouble in Tharbad"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Return all engaged enemies to the staging area. Then, the first player either removes 1 time counter from the current quest or each Spy enemy in the staging area gets +2 $ until the end of the phase."/>
   </card>
   <card id="1b3b1063-e102-4fea-a29b-5692fbfb9cd6" name="Conspicuous Lot">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Trouble in Tharbad"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each player raises his threat by 1 for each ally he controls. Then, if any player's threat is 20 or less, this card gains surge."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. (+2 Û instead if the defending player's threat is 20 or less)."/>
   </card>
   <card id="44c49a79-6396-494c-a311-bf1b25263acb" name="Cornered">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Trouble in Tharbad"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: The first player either removes 1 time counter from the current quest or each enemy gets -20 engagement cost and +1 Û until the end of the round."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. (+2 Û instead if the defending player's threat is 20 or less)."/>
   </card>
   <card id="2f7770cd-3102-4f35-a3bc-bd9afcab8303" name="Get That Dwarf!">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Trouble in Tharbad"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: The enemy in the staging area with the highest Û engages the first player and makes an immediate attack against Nalir. If there are no enemies in the staging area, Get That Dwarf! Gains surge."/>
+    <property name="Shadow" value="Shadow: If this attack is undefended, deal 2 damage to Nalir."/>
   </card>
  </cards>
 </set>
