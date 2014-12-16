@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Fog on the Barrow-downs" id="a0cb27b2-e62f-4fb4-ba98-7647ac6f81a4" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+ <cards>
+  <card id="550e9f11-14bb-4fac-806a-3f43035b30c9" name="The House of Tom Bombadil">
+    <property name="Quantity" value="1"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The House of Tom Bombadil" type="B">
+      <property name="Encounter Set" value=""/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="1"/>
+    </alternate>
+  </card>
+  <card id="ed3c4835-2741-406c-b43e-0ad72f6b2496" name="Across the Downs">
+    <property name="Quantity" value="1"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Across the Downs" type="B">
+      <property name="Encounter Set" value=""/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="14"/>
+    </alternate>
+  </card>
+  <card id="b477d0be-d70a-4eb4-8c35-89c17199cab3" name="Lost in the Fog">
+    <property name="Quantity" value="1"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Lost in the Fog" type="B">
+      <property name="Encounter Set" value=""/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="16"/>
+    </alternate>
+  </card>
+  <card id="262d615b-5b5d-4f16-975e-335d34e6c733" name="Trapped Inside a Barrow">
+    <property name="Quantity" value="4"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Inside the Barrow" type="B">
+      <property name="Encounter Set" value=""/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="9"/>
+    </alternate>
+  </card>
+  <card id="c616d30d-9242-401b-b386-4fe0660dc97b" name="Hollow Circle">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ruins. Downs."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="fa85988c-4530-414e-95a6-066002e0ef7a" name="Standing Stones">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ruins. Downs."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="da95d039-0f3f-452b-9ff5-60c03432facc" name="Great Barrow">
+    <property name="Quantity" value="5"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ruins. Downs."/>
+    <property name="Keywords" value="Peril. Immune to player card effects. The players cannot travel here."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="1"/>
+    <property name="Victory Points" value="5"/>
+  </card>
+  <card id="24a841df-854e-444b-9b2f-0214f0e26002" name="Ancient Barrow">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ruins. Downs."/>
+    <property name="Keywords" value="X is 1 plus the number of facedown cards under this location."/>
+    <property name="Threat" value="X"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="aa632825-0b60-4dc7-9733-8aa554631d6e" name="Stone Ring">
+    <property name="Quantity" value="4"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ruins. Downs."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="3"/>
+  </card>
+  <card id="d7d1581c-74a4-4c6f-acf9-e2d598ccb276" name="North Downs">
+    <property name="Quantity" value="4"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Downs."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="5"/>
+  </card>
+  <card id="1b9e02cc-d46e-4816-bdbd-9daa05590173" name="Barrow-wight">
+    <property name="Quantity" value="4"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Wight."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="6"/>
+  </card>
+  <card id="516b75d8-9abe-423e-9ef1-a92f1c87c86f" name="Cold-wight">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Wight."/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="29562ee1-56d9-4a46-ba4b-1af24f85deb6" name="Dark-wight">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Wight."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="7"/>
+  </card>
+  <card id="a727d1ec-2bbf-452b-9e7d-92fffc39acd2" name="I'm Waiting for You!">
+    <property name="Quantity" value="2"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="9a5fb929-296c-41ef-a0df-1d670d1c356d" name="Long Groping Arm">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Peril."/>
+  </card>
+  <card id="9dae9a06-1a90-4a9f-be69-b6451e4a1883" name="Chill Fog">
+    <property name="Quantity" value="2"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="f18b362f-1669-4743-8802-daf58e638198" name="Frozen by Fear">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge. Doomed 1."/>
+  </card>
+  <card id="7fe0f143-9d3b-461a-b6bd-bc86e1491311" name="Dreadful Song">
+    <property name="Quantity" value="2"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Enchantment."/>
+    <property name="Keywords" value="Peril."/>
+  </card>
+  <card id="21b27ec8-a778-4bac-8228-aa013043b8ed" name="Tom Bombadil">
+    <property name="Quantity" value="1"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Legend."/>
+    <property name="Willpower" value="3"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="6"/>
+  </card>
+  <card id="d34c9025-6380-4294-be3f-01c992922830" name="Fog on the Barrow-downs">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Fog on the Barrow-downs"/>
+    <property name="Type" value="Campaign"/>
+    <property name="Traits" value="The Lord of the Rings Part 1.2"/>
+    <alternate name="Fog on the Barrow-downs" type="B">
+      <property name="Encounter Set" value="Fog on the Barrow-downs"/>
+      <property name="Type" value="Campaign"/>
+    </alternate>
+  </card>
+  <card id="381821e5-7bf6-44cd-91d7-e5a5e9ff8066" name="Ho! Tom Bombadil!">
+    <property name="Quantity" value="1"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Boon"/>
+    <property name="Traits" value="Song."/>
+    <property name="Keywords" value="Setup: The first player adds this card to his hand."/>
+    <property name="Victory Points" value="1"/>
+  </card>
+ </cards>
+</set>

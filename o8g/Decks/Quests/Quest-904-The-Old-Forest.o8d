@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="185d7d65-ebec-4d7a-aca0-b5b2e3449c3c">Farewell to the Shire</card>
+    <card qty="1" id="ab7ef031-1d13-4623-a9c3-2f6e3ce15d38">The Living Forest</card>
+    <card qty="1" id="47c0a2e6-0b38-4142-9891-fcb3b3e0bbd8">The Living Forest</card>
+    <card qty="1" id="f2bb7a4e-eca9-4889-b908-1da95fbb089f">The Living Forest</card>
+    <card qty="1" id="49304bf6-63f3-4fd1-b3ec-072a034e4eb0">The Living Forest</card>
+    <card qty="1" id="6805d08f-84e0-412d-a728-35a42ea9a091">The Wicked Willow</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="4" id="54c8ecae-73b1-4c42-84ed-0411551c363a">Long Trailer</card>
+    <card qty="4" id="ffd2cfe7-e5fc-4f47-b85e-19e8b2df5171">Grasping Root</card>
+    <card qty="3" id="d2cd3802-0667-4124-b7b6-5e753ff71ec3">Army of Flies</card>
+    <card qty="2" id="a1827b45-42bd-44b3-a86d-d773e60ac1b5">Misleading Path</card>
+    <card qty="4" id="fdfc404e-67b0-44d6-a1e7-a5e568ac0265">Deep Gulley</card>
+    <card qty="3" id="c60642b2-4ce3-42e8-8cb5-41c9ac9251fb">Strange Woods</card>
+    <card qty="4" id="4bdcd185-ba8e-45f7-83e3-04325a07a5ed">Wall of Trees</card>
+    <card qty="2" id="7445051f-ca99-4a2c-8a8c-656f325fa227">Oppressive Forest</card>
+    <card qty="2" id="1ba09574-9d2a-4687-bd58-ca37ceadb023">Swaying Without Wind</card>
+    <card qty="3" id="389072e7-d59a-4a04-bed8-568cc367b06f">Falling Branches</card>
+    <card qty="2" id="3f24ad57-1c50-47dc-a117-5aee279b8451">Song of Sleep</card>
+    <card qty="2" id="bb1652ba-37e4-4a59-a7c7-39f398c0ab19">Lost and Witless</card>
+    <card qty="2" id="021d423c-d9e4-4b7f-bca3-ee1ec4361a23">Ending and Failing</card>
+    <card qty="1" id="75b111c9-fb49-4a53-ac50-729ff2d06abe">Tom Bombadil</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="08b55b0b-93e5-42d3-a746-703c7ce9146f">Old Man Willow</card>
+    <card qty="1" id="b00c623e-2aaa-4286-9fba-499fe39eb204">Withywindle</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
