@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Antlered Crown" id="fc19e7a8-54b3-4974-b670-52677bc492f7" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+ <cards>
+  <card id="f2a282eb-eab1-472d-b7fb-71429a1a4855" name="Erkenbrand">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Rohan. Warrior."/>
+    <property name="Keywords" value="Sentinel."/>
+    <property name="Cost" value="10"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="f64befcc-d4de-47a4-8517-5f2617984270" name="Warden of Helm's Deep">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Rohan. Warrior."/>
+    <property name="Keywords" value="Sentinel."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="5d1c8757-7409-41da-9e12-454af06e8946" name="The Day's Rising">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Song."/>
+    <property name="Keywords" value="Attach to a hero with sentinel."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="29b76593-0ef3-410b-aa85-1c282d4b1582" name="Captain of Gondor">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Title."/>
+    <property name="Keywords" value="Attach to a Warrior hero."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="665b16ad-accf-45c9-8725-f3f5d0818310" name="Booming Ent">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Ent."/>
+    <property name="Keywords" value="Cannot have restricted attachments. Enters play exhausted."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="6461b502-cb47-4528-b18a-db45988f1692" name="Ride Them Down">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Cost" value="2"/>
+  </card>
+  <card id="7c7912dc-4d55-4c40-98a0-befbbff24c90" name="Shadows Give Way">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Keywords" value="You must use resources from 3 different heroes' pools to pay for this card."/>
+    <property name="Cost" value="3"/>
+  </card>
+  <card id="31406925-1626-4c17-b3ee-2e2700a99c14" name="Don't be Hasty!">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Cost" value="0"/>
+  </card>
+  <card id="79cb32f4-053c-47e1-983d-59d64b493a76" name="Waters of Nimrodel">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Keywords" value="Doomed 3."/>
+    <property name="Cost" value="3"/>
+  </card>
+  <card id="c266126d-cf2d-4a61-aac7-28bac2d1ea0d" name="Treebeard">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Ent."/>
+    <property name="Keywords" value="Cannot have restricted attachments. Treebeard enters play exhausted and collects 1 resource each resource phase. These resources can be used to pay for Ent cards played from your hand."/>
+    <property name="Cost" value="4"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="4bc78852-59b2-4126-86e1-96a1ee918a05" name="Battle for Dunland">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="tttls"/>
+    <alternate name="Battle for Dunland" type="B">
+      <property name="Encounter Set" value="The Antlered Crown"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="10"/>
+    </alternate>
+  </card>
+  <card id="9b75695b-8431-40ea-8041-afaaa34dc3f4" name="The Raven Clan">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Raven Clan" type="B">
+      <property name="Encounter Set" value="The Antlered Crown"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="15"/>
+    </alternate>
+  </card>
+  <card id="c9c2b094-c895-4714-bb2e-c6558c82a153" name="The Last Stage">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Last Stage" type="B">
+      <property name="Encounter Set" value="The Antlered Crown"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="–"/>
+    </alternate>
+  </card>
+  <card id="a56cab99-d482-4aa3-b5e4-b1e5b857515f" name="Chief Turch">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Dunland. Boar Clan."/>
+    <property name="Keywords" value="The first player gains control of Chief Turch.&#10;Immune to player card effects. Chief Turch does not exhaust to defend."/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="eaaececf-9322-43b5-a190-bdfadd7a695e" name="Raven Chief">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Dunland. Raven Clan."/>
+    <property name="Keywords" value="Cannot have attachments. While Raven Chief’s Camp is in play, Raven Chief cannot be damaged."/>
+    <property name="Engagement Cost" value="15"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="5"/>
+    <property name="Health" value="9"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="1208f735-6984-4c4d-ab8c-429664e4e060" name="Raven Chief's Camp">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Dunland."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="9"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="4ebd8ec5-79fe-4305-9c33-e06d37b1c8d5" name="Raven Warrior">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Dunland. Raven Clan."/>
+    <property name="Engagement Cost" value="36"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="7271da0e-570b-461c-b632-b6f82ab2c146" name="Raven Skirmisher">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Dunland. Raven Clan."/>
+    <property name="Engagement Cost" value="26"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="5842e027-3789-4253-a382-27527ec4fe8a" name="Raven War-camp">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Dunland."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="2935fd55-6945-4c20-8586-c435ceec52f3" name="Raven Village">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Dunland."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="3"/>
+  </card>
+  <card id="13b4d81e-1bd7-4a56-a418-b60e58767c12" name="Dunland Battlefield">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Dunland."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="5"/>
+  </card>
+  <card id="54a26608-eebd-4bd6-855a-ceccb4507bab" name="Raven Country">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Dunland."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="6"/>
+  </card>
+  <card id="e1479aa5-7a6d-426a-930b-64ae24143733" name="Raising the Cry">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="857da3db-7159-4dfa-a925-8547fb6df455" name="Fierce Folk">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Doomed 3."/>
+  </card>
+  <card id="1edaecb1-72e8-49db-98fd-6fc377815c4b" name="Driven Back">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Antlered Crown"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+ </cards>
+</set>

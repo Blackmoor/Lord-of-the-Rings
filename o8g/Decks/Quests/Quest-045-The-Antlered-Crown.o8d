@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="4bc78852-59b2-4126-86e1-96a1ee918a05">Battle for Dunland</card>
+    <card qty="1" id="9b75695b-8431-40ea-8041-afaaa34dc3f4">The Raven Clan</card>
+    <card qty="1" id="c9c2b094-c895-4714-bb2e-c6558c82a153">The Last Stage</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="4" id="4ebd8ec5-79fe-4305-9c33-e06d37b1c8d5">Raven Warrior</card>
+    <card qty="3" id="7271da0e-570b-461c-b632-b6f82ab2c146">Raven Skirmisher</card>
+    <card qty="3" id="5842e027-3789-4253-a382-27527ec4fe8a">Raven War-camp</card>
+    <card qty="3" id="2935fd55-6945-4c20-8586-c435ceec52f3">Raven Village</card>
+    <card qty="2" id="13b4d81e-1bd7-4a56-a418-b60e58767c12">Dunland Battlefield</card>
+    <card qty="2" id="54a26608-eebd-4bd6-855a-ceccb4507bab">Raven Country</card>
+    <card qty="3" id="e1479aa5-7a6d-426a-930b-64ae24143733">Raising the Cry</card>
+    <card qty="2" id="857da3db-7159-4dfa-a925-8547fb6df455">Fierce Folk</card>
+    <card qty="2" id="1edaecb1-72e8-49db-98fd-6fc377815c4b">Driven Back</card>
+    <card qty="2" id="a0d5be90-8618-4fe4-a917-d8d969c11264">Old Hatreds</card>
+    <card qty="2" id="ef975c81-544a-4f1b-a3c4-d0bc42ef636c">Wild Men of Dunland</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="3" id="d80a5ca5-20d8-4c4b-814c-0c91bba40d43">Dunland Prowler</card>
+    <card qty="2" id="8ab3701c-7814-403c-be93-21cdff4283ed">Dunlending Bandit</card>
+    <card qty="2" id="7b491dcc-668a-431f-b0a1-ec2bf34840a7">Dunland Raider</card>
+    <card qty="2" id="c749f16f-1b34-48ce-ba8e-45f36b8b8229">Dunland Tribesman</card>
+    <card qty="2" id="ceb5ede8-0acc-40b6-ac43-b9f1ff006d9e">Dunland Chieftain</card>
+    <card qty="3" id="def7d5a8-3af5-428d-ac94-485c33388ff9">Dunland Berserker</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="eaaececf-9322-43b5-a190-bdfadd7a695e">Raven Chief</card>
+    <card qty="1" id="1208f735-6984-4c4d-ab8c-429664e4e060">Raven Chief's Camp</card>
+    <card qty="1" id="a56cab99-d482-4aa3-b5e4-b1e5b857515f">Chief Turch</card>
+    <card qty="1" id="13b4d81e-1bd7-4a56-a418-b60e58767c12">Dunland Battlefield</card>
+    <card qty="1" id="5842e027-3789-4253-a382-27527ec4fe8a">Raven War-camp</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
