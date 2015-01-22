@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Old Forest" id="32607cde-a499-48cb-b665-d91f9686020b" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
  <cards>
-  <card id="185d7d65-ebec-4d7a-aca0-b5b2e3449c3c" name="Farewell to the Shire">
+  <card id="185d7d65-ebec-4d7a-aca0-b5b2e3449c3c" name="Farewell to the Shire" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
@@ -16,7 +16,7 @@
       <property name="Quest Points" value="0"/>
     </alternate>
   </card>
-  <card id="ab7ef031-1d13-4623-a9c3-2f6e3ce15d38" name="The Living Forest">
+  <card id="ab7ef031-1d13-4623-a9c3-2f6e3ce15d38" name="The Living Forest" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
@@ -30,7 +30,7 @@
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>
-  <card id="47c0a2e6-0b38-4142-9891-fcb3b3e0bbd8" name="The Living Forest">
+  <card id="47c0a2e6-0b38-4142-9891-fcb3b3e0bbd8" name="The Living Forest" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
@@ -44,7 +44,7 @@
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>
-  <card id="f2bb7a4e-eca9-4889-b908-1da95fbb089f" name="The Living Forest">
+  <card id="f2bb7a4e-eca9-4889-b908-1da95fbb089f" name="The Living Forest" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
@@ -58,7 +58,7 @@
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>
-  <card id="49304bf6-63f3-4fd1-b3ec-072a034e4eb0" name="The Living Forest">
+  <card id="49304bf6-63f3-4fd1-b3ec-072a034e4eb0" name="The Living Forest" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
@@ -72,7 +72,7 @@
       <property name="Quest Points" value="-"/>
     </alternate>
   </card>
-  <card id="6805d08f-84e0-412d-a728-35a42ea9a091" name="The Wicked Willow">
+  <card id="6805d08f-84e0-412d-a728-35a42ea9a091" name="The Wicked Willow" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
@@ -86,7 +86,7 @@
       <property name="Quest Points" value="18"/>
     </alternate>
   </card>
-  <card id="08b55b0b-93e5-42d3-a746-703c7ce9146f" name="Old Man Willow">
+  <card id="08b55b0b-93e5-42d3-a746-703c7ce9146f" name="Old Man Willow" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Unique" value="‰"/>
@@ -99,7 +99,7 @@
     <property name="Defense" value="4"/>
     <property name="Health" value="12"/>
   </card>
-  <card id="54c8ecae-73b1-4c42-84ed-0411551c363a" name="Long Trailer">
+  <card id="54c8ecae-73b1-4c42-84ed-0411551c363a" name="Long Trailer" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Enemy"/>
@@ -110,7 +110,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="6"/>
   </card>
-  <card id="ffd2cfe7-e5fc-4f47-b85e-19e8b2df5171" name="Grasping Root">
+  <card id="ffd2cfe7-e5fc-4f47-b85e-19e8b2df5171" name="Grasping Root" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Enemy"/>
@@ -121,7 +121,7 @@
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
   </card>
-  <card id="d2cd3802-0667-4124-b7b6-5e753ff71ec3" name="Army of Flies">
+  <card id="d2cd3802-0667-4124-b7b6-5e753ff71ec3" name="Army of Flies" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Enemy"/>
@@ -133,7 +133,7 @@
     <property name="Defense" value="0"/>
     <property name="Health" value="2"/>
   </card>
-  <card id="b00c623e-2aaa-4286-9fba-499fe39eb204" name="Withywindle">
+  <card id="b00c623e-2aaa-4286-9fba-499fe39eb204" name="Withywindle" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Unique" value="‰"/>
@@ -144,7 +144,7 @@
     <property name="Quest Points" value="5"/>
     <property name="Victory Points" value="3"/>
   </card>
-  <card id="a1827b45-42bd-44b3-a86d-d773e60ac1b5" name="Misleading Path">
+  <card id="a1827b45-42bd-44b3-a86d-d773e60ac1b5" name="Misleading Path" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Location"/>
@@ -153,7 +153,7 @@
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="2"/>
   </card>
-  <card id="fdfc404e-67b0-44d6-a1e7-a5e568ac0265" name="Deep Gulley">
+  <card id="fdfc404e-67b0-44d6-a1e7-a5e568ac0265" name="Deep Gulley" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Location"/>
@@ -162,7 +162,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Victory Points" value="2"/>
   </card>
-  <card id="c60642b2-4ce3-42e8-8cb5-41c9ac9251fb" name="Strange Woods">
+  <card id="c60642b2-4ce3-42e8-8cb5-41c9ac9251fb" name="Strange Woods" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Location"/>
@@ -171,7 +171,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Victory Points" value="1"/>
   </card>
-  <card id="4bdcd185-ba8e-45f7-83e3-04325a07a5ed" name="Wall of Trees">
+  <card id="4bdcd185-ba8e-45f7-83e3-04325a07a5ed" name="Wall of Trees" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Location"/>
@@ -181,7 +181,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Victory Points" value="X"/>
   </card>
-  <card id="7445051f-ca99-4a2c-8a8c-656f325fa227" name="Oppressive Forest">
+  <card id="7445051f-ca99-4a2c-8a8c-656f325fa227" name="Oppressive Forest" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Location"/>
@@ -190,37 +190,37 @@
     <property name="Quest Points" value="5"/>
     <property name="Victory Points" value="2"/>
   </card>
-  <card id="1ba09574-9d2a-4687-bd58-ca37ceadb023" name="Swaying Without Wind">
+  <card id="1ba09574-9d2a-4687-bd58-ca37ceadb023" name="Swaying Without Wind" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Peril."/>
   </card>
-  <card id="389072e7-d59a-4a04-bed8-568cc367b06f" name="Falling Branches">
+  <card id="389072e7-d59a-4a04-bed8-568cc367b06f" name="Falling Branches" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="3f24ad57-1c50-47dc-a117-5aee279b8451" name="Song of Sleep">
+  <card id="3f24ad57-1c50-47dc-a117-5aee279b8451" name="Song of Sleep" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Enchantment."/>
     <property name="Keywords" value="Peril."/>
   </card>
-  <card id="bb1652ba-37e4-4a59-a7c7-39f398c0ab19" name="Lost and Witless">
+  <card id="bb1652ba-37e4-4a59-a7c7-39f398c0ab19" name="Lost and Witless" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
   </card>
-  <card id="021d423c-d9e4-4b7f-bca3-ee1ec4361a23" name="Ending and Failing">
+  <card id="021d423c-d9e4-4b7f-bca3-ee1ec4361a23" name="Ending and Failing" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 2."/>
   </card>
-  <card id="75b111c9-fb49-4a53-ac50-729ff2d06abe" name="Tom Bombadil">
+  <card id="75b111c9-fb49-4a53-ac50-729ff2d06abe" name="Tom Bombadil" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Unique" value="‰"/>

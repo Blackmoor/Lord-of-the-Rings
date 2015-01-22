@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - The Old Forest" id="90334769-def7-4bf3-b74f-407b511514fe" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
-  <card id="c166c81e-6327-4bd5-b913-197219c39e25" name="Barrow Wight">
+  <card id="c166c81e-6327-4bd5-b913-197219c39e25" name="Barrow Wight" size="EncounterCard">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Undead. Wight"/>
@@ -13,7 +13,7 @@
     <property name="Victory Points" value="2"/>
     <property name="Text" value="Forced: Characters with 1 Ò or less cannot attack River Wight."/>
   </card>
-  <card id="87829466-4503-4eb5-ab23-2e8b2c274483" name="Old Man Willow">
+  <card id="87829466-4503-4eb5-ab23-2e8b2c274483" name="Old Man Willow" size="EncounterCard">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Tree."/>
@@ -25,14 +25,14 @@
     <property name="Victory Points" value="5"/>
     <property name="Text" value="Forced: If Old Man Willow is dealt a shadow card with no effect, defending player must choose and discard a character they control."/>
   </card>
-  <card id="6a3c0e41-0111-4496-9178-56f0ccc0c2f9" name="Barrow Blade">
+  <card id="6a3c0e41-0111-4496-9178-56f0ccc0c2f9" name="Barrow Blade" size="EncounterCard">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Item. Weapon"/>
     <property name="Keywords" value="Guarded. Restricted."/>
     <property name="Text" value="Action: Exhaust a hero to claim this objective if it has no encounters attached. Then, attach Barrow Blade to that hero. (If detached return it to the staging area.)&#10;&#10;Action: Exhaust Barrow Blade to give attached Hero +1 Ò or +1 Û or +1 Ú until the end of the round."/>
   </card>
-  <card id="57f1c0b6-2b4f-4165-87e9-4d1a60ec56b6" name="Follow the Withywindle">
+  <card id="57f1c0b6-2b4f-4165-87e9-4d1a60ec56b6" name="Follow the Withywindle" size="QuestCard">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
@@ -48,7 +48,7 @@
       <property name="Text" value="When revealed: Place a resource token on this quest card to indicate that it is the active quest stage. When a quest stage is complete, players may move the resource token onto an adjacent quest card (not diagonally); it then becomes the active quest stage.&#10;&#10;Forced: Quest cards remain in the 3x3 grid formation with side B face upwards once completed. The rules on all face up quest cards are considered active."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ec" name="Follow the Withywindle">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ec" name="Follow the Withywindle" size="QuestCard">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
@@ -63,7 +63,7 @@
       <property name="Text" value="Forced: When the players remove the resource token on this card they may also remove any number of damage tokens from thier characters. Then reveal 1 card from the encounterdeck per player and add to the staging area."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ed" name="Follow the Withywindle">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ed" name="Follow the Withywindle" size="QuestCard">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
@@ -78,7 +78,7 @@
       <property name="Text" value="When Revealed: Put Barrow Blade into the staging area.&#10;&#10;Forced: When the players remove the resource token on this card, remove all progress tokens from it."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ee" name="Follow the Withywindle">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ee" name="Follow the Withywindle" size="QuestCard">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
@@ -93,7 +93,7 @@
       <property name="Text" value="When revealed: Each player must search the encounter deck and discard pile for a copy of Wargs and add it to the staging area if possible.&#10;&#10;Forced: When the players remove the resource token on this card, remove all progress tokens from it."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ef" name="Follow the Withywindle">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9ef" name="Follow the Withywindle" size="QuestCard">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
@@ -108,7 +108,7 @@
       <property name="Text" value="Your way is blocked, you must head back and then find an alternative route.&#10;&#10;Forced: When the players remove the resource token on this card remove all progress tokens from it and then place the resource token on the quest stage they completed before this one."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f0" name="Follow the Withywindle">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f0" name="Follow the Withywindle" size="QuestCard">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
@@ -123,7 +123,7 @@
       <property name="Text" value="When revealed: Search the encounter deck and discard pile for a goblin sniper and put it in the staging area.&#10;&#10;Forced: When the players place a resource token on this card, reveal 1 encounter card per player and add to the staging area.&#10;&#10;Forced: When the players remove the resource token on this card remove all progress tokens from it."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f1" name="Follow the Withywindle">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f1" name="Follow the Withywindle" size="QuestCard">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
@@ -138,7 +138,7 @@
       <property name="Text" value="When revealed: Each player must search the encounter deck and discard pile for a spider card and put it in the staging area. One of them must be Ungoliant Spawn.&#10;&#10;Forced: When the players remove the resource token on this card remove all progress tokens from it."/>
     </alternate>
   </card>
-  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f2" name="Follow the Withywindle">
+  <card id="6d7a5638-eb9f-4edd-8d70-7ffaf510f9f2" name="Follow the Withywindle" size="QuestCard">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
@@ -153,7 +153,7 @@
       <property name="Text" value="When revealed: If Old Man Willow is in the staging area it engages the first player, regardless of threat.&#10;&#10;Forced: When the players remove the resource token on this card, remove all progress tokens from it."/>
     </alternate>
   </card>
-  <card id="d9744022-31fb-4d4d-bb8e-89254b4b7e21" name="Follow the Withywindle">
+  <card id="d9744022-31fb-4d4d-bb8e-89254b4b7e21" name="Follow the Withywindle" size="QuestCard">
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>

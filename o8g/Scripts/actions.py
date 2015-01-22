@@ -24,7 +24,7 @@ StagingWidth = 750
 StagingY = -224
 StagingSpace = 82
 QuestStartX = 331
-QuestStartY = -268
+QuestStartY = -246
 DoneColour = "#D8D8D8" # Grey
 WaitingColour = "#FACC2E" # Orange
 ActiveColour = "#82FA58" # Green
@@ -977,7 +977,7 @@ def nextQuestStage(group=None, x=0, y=0):
 	card = group.top()
 	card.moveToTable(x, y)
 	if card.Type in ("Nightmare", "Campaign"):
-		card.moveToTable(x, y+23)
+		card.moveToTable(x, y+1)
 		notify("{} begins a {} quest '{}'".format(me, card.Type, card))
 		questSetup(card)
 		if card.Type == "Nightmare":

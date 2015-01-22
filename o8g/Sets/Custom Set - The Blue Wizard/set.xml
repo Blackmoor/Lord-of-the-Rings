@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - The Blue Wizard" id="8f6d22d1-7a53-4143-983d-02f19d220315" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
-  <card id="67f163fe-8338-49af-b17b-221c458b48a4" name="Morana">
+  <card id="67f163fe-8338-49af-b17b-221c458b48a4" name="Morana" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Blood Seekers"/>
     <property name="Type" value="Enemy"/>
@@ -13,7 +13,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
   </card>
-  <card id="38510503-f88e-4874-8641-ef53b12940b6" name="Samael">
+  <card id="38510503-f88e-4874-8641-ef53b12940b6" name="Samael" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Blood Seekers"/>
     <property name="Unique" value="‰"/>
@@ -27,7 +27,7 @@
     <property name="Health" value="5"/>
     <property name="Victory Points" value="4"/>
   </card>
-  <card id="acee6abc-fffd-4ecd-8326-b2fb1ec789d1" name="Selene">
+  <card id="acee6abc-fffd-4ecd-8326-b2fb1ec789d1" name="Selene" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Blood Seekers"/>
     <property name="Type" value="Enemy"/>
@@ -38,7 +38,7 @@
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
   </card>
-  <card id="00d3f614-fe5a-4db6-a85e-fdab61bb8c9e" name="Vespera">
+  <card id="00d3f614-fe5a-4db6-a85e-fdab61bb8c9e" name="Vespera" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Blood Seekers"/>
     <property name="Type" value="Enemy"/>
@@ -49,7 +49,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
   </card>
-  <card id="487d506c-0201-4727-a16f-f0aff0ba17aa" name="Decaying Church">
+  <card id="487d506c-0201-4727-a16f-f0aff0ba17aa" name="Decaying Church" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Blood Seekers"/>
     <property name="Type" value="Location"/>
@@ -57,7 +57,7 @@
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="3"/>
   </card>
-  <card id="ef1cdf10-29d2-481d-8438-6fe78d6825e7" name="Lost Catacombs">
+  <card id="ef1cdf10-29d2-481d-8438-6fe78d6825e7" name="Lost Catacombs" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Blood Seekers"/>
     <property name="Type" value="Location"/>
@@ -65,7 +65,7 @@
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="1"/>
   </card>
-  <card id="fabf83f5-33f2-4a44-89e2-f66996662192" name="Old Ritualistic Site">
+  <card id="fabf83f5-33f2-4a44-89e2-f66996662192" name="Old Ritualistic Site" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Blood Seekers"/>
     <property name="Type" value="Location"/>
@@ -73,17 +73,17 @@
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="4"/>
   </card>
-  <card id="ed0d546e-e7de-4607-896c-52f568147061" name="Frenetic Neck Bite">
+  <card id="ed0d546e-e7de-4607-896c-52f568147061" name="Frenetic Neck Bite" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Blood Seekers"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="8285e1d8-1252-4d2d-a42a-f1e7c0344af3" name="Mesmerized">
+  <card id="8285e1d8-1252-4d2d-a42a-f1e7c0344af3" name="Mesmerized" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Blood Seekers"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="b736f146-48ba-405b-9cc5-40754155944c" name="Foreign Eagle">
+  <card id="b736f146-48ba-405b-9cc5-40754155944c" name="Foreign Eagle" size="EncounterCard">
     <property name="Quantity" value="5"/>
     <property name="Encounter Set" value="Destroyer"/>
     <property name="Type" value="Enemy"/>
@@ -94,7 +94,7 @@
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
   </card>
-  <card id="078cb8fb-47da-4d35-be83-87a080a479c0" name="Great-River Valley Beast">
+  <card id="078cb8fb-47da-4d35-be83-87a080a479c0" name="Great-River Valley Beast" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Destroyer"/>
     <property name="Type" value="Enemy"/>
@@ -105,7 +105,7 @@
     <property name="Defense" value="1"/>
     <property name="Health" value="4"/>
   </card>
-  <card id="b26c34a0-6577-4abc-88ff-37f2b0e6b6a3" name="Great-River Valley Rider">
+  <card id="b26c34a0-6577-4abc-88ff-37f2b0e6b6a3" name="Great-River Valley Rider" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Destroyer"/>
     <property name="Type" value="Enemy"/>
@@ -116,7 +116,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="6"/>
   </card>
-  <card id="f0194e48-d63d-4d5e-97af-76d1fdafc1f3" name="Mouth of Sauron">
+  <card id="f0194e48-d63d-4d5e-97af-76d1fdafc1f3" name="Mouth of Sauron" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Destroyer"/>
     <property name="Unique" value="‰"/>
@@ -129,7 +129,7 @@
     <property name="Health" value="6"/>
     <property name="Victory Points" value="5"/>
   </card>
-  <card id="153bb215-8713-4c62-829c-b79bc306efd6" name="Morraine-Dammed Lake">
+  <card id="153bb215-8713-4c62-829c-b79bc306efd6" name="Morraine-Dammed Lake" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Destroyer"/>
     <property name="Type" value="Location"/>
@@ -137,7 +137,7 @@
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="3"/>
   </card>
-  <card id="414f261f-21ba-4902-8e58-035d5671ae72" name="The Gladden Pass">
+  <card id="414f261f-21ba-4902-8e58-035d5671ae72" name="The Gladden Pass" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Destroyer"/>
     <property name="Type" value="Location"/>
@@ -146,13 +146,13 @@
     <property name="Quest Points" value="4"/>
     <property name="Victory Points" value="2"/>
   </card>
-  <card id="cdd1c620-f2dd-4750-9cfe-c538e8ca6733" name="Blades from the Woods">
+  <card id="cdd1c620-f2dd-4750-9cfe-c538e8ca6733" name="Blades from the Woods" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Destroyer"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 2."/>
   </card>
-  <card id="735fce2a-9e90-4f12-bdee-e97cde331e39" name="Distractions on the Road">
+  <card id="735fce2a-9e90-4f12-bdee-e97cde331e39" name="Distractions on the Road" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Destroyer"/>
     <property name="Type" value="Treachery"/>
@@ -226,7 +226,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
   </card>
-  <card id="454d4ae9-8efe-46de-949a-bff7f1999e72" name="Methedras Caves">
+  <card id="454d4ae9-8efe-46de-949a-bff7f1999e72" name="Methedras Caves" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Location"/>
@@ -234,7 +234,7 @@
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="2"/>
   </card>
-  <card id="9a7fbbef-7741-41e4-9734-b715b2e8a07b" name="Mirrormere">
+  <card id="9a7fbbef-7741-41e4-9734-b715b2e8a07b" name="Mirrormere" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Location"/>
@@ -242,7 +242,7 @@
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="4"/>
   </card>
-  <card id="2a4549c0-061a-47d9-b1cc-93c60e175423" name="Nest of the Eagles">
+  <card id="2a4549c0-061a-47d9-b1cc-93c60e175423" name="Nest of the Eagles" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Location"/>
@@ -251,7 +251,7 @@
     <property name="Quest Points" value="X"/>
     <property name="Victory Points" value="1"/>
   </card>
-  <card id="f710d9bb-10a3-4714-a179-fa525936f1a0" name="Solving the Trouble">
+  <card id="f710d9bb-10a3-4714-a179-fa525936f1a0" name="Solving the Trouble" size="QuestCard">
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
@@ -265,7 +265,7 @@
       <property name="Quest Points" value="1"/>
     </alternate>
   </card>
-  <card id="18f421eb-541f-4ec7-8601-0ea73e904edd" name="Uninvited Guests">
+  <card id="18f421eb-541f-4ec7-8601-0ea73e904edd" name="Uninvited Guests" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Quest"/>
@@ -279,7 +279,7 @@
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
-  <card id="78e6a828-32e2-4d0c-b190-f8f887b4b683" name="Searching for Remnants">
+  <card id="78e6a828-32e2-4d0c-b190-f8f887b4b683" name="Searching for Remnants" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Quest"/>
@@ -293,7 +293,7 @@
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
-  <card id="3a6e8a37-c2d8-4a2a-badc-28e82d21c9ba" name="Enemy Reorganized">
+  <card id="3a6e8a37-c2d8-4a2a-badc-28e82d21c9ba" name="Enemy Reorganized" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Quest"/>
@@ -307,7 +307,7 @@
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
-  <card id="19769b48-6716-4cd3-9184-d9b63c72e086" name="Problem Eliminated">
+  <card id="19769b48-6716-4cd3-9184-d9b63c72e086" name="Problem Eliminated" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Quest"/>
@@ -321,18 +321,18 @@
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
-  <card id="427d5bc6-33ce-4e21-8bc0-f8d06a174c17" name="Calling the Eagles">
+  <card id="427d5bc6-33ce-4e21-8bc0-f8d06a174c17" name="Calling the Eagles" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="86754bc2-4741-4c50-bc11-eac78d32dfd6" name="Eagle Infighting">
+  <card id="86754bc2-4741-4c50-bc11-eac78d32dfd6" name="Eagle Infighting" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Quarrel in the Misty Mountains"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 1."/>
   </card>
-  <card id="789d9d7b-af8e-4799-a64e-09ef6c98944a" name="Corrupted Druid">
+  <card id="789d9d7b-af8e-4799-a64e-09ef6c98944a" name="Corrupted Druid" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Enemy"/>
@@ -342,7 +342,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
   </card>
-  <card id="34a8a6e8-d59d-4e31-af64-379abe49b2c1" name="Dead Historian">
+  <card id="34a8a6e8-d59d-4e31-af64-379abe49b2c1" name="Dead Historian" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Enemy"/>
@@ -352,7 +352,7 @@
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
   </card>
-  <card id="fb3fb583-0c84-4172-97a0-7e0df9cf4d0f" name="Nyx">
+  <card id="fb3fb583-0c84-4172-97a0-7e0df9cf4d0f" name="Nyx" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Unique" value="‰"/>
@@ -365,7 +365,7 @@
     <property name="Health" value="5"/>
     <property name="Victory Points" value="4"/>
   </card>
-  <card id="646184e7-c818-4947-bb37-53ebcac5a374" name="Priest of War">
+  <card id="646184e7-c818-4947-bb37-53ebcac5a374" name="Priest of War" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Enemy"/>
@@ -375,7 +375,7 @@
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
   </card>
-  <card id="41a7611a-21c1-4f21-ae79-611043914edb" name="Secluded Quarters">
+  <card id="41a7611a-21c1-4f21-ae79-611043914edb" name="Secluded Quarters" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Location"/>
@@ -384,7 +384,7 @@
     <property name="Quest Points" value="5"/>
     <property name="Victory Points" value="1"/>
   </card>
-  <card id="5c0a6aad-e8ae-4b69-ac92-329858774a26" name="Secondary Library">
+  <card id="5c0a6aad-e8ae-4b69-ac92-329858774a26" name="Secondary Library" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Location"/>
@@ -392,7 +392,7 @@
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="3"/>
   </card>
-  <card id="89241580-0411-4318-9a41-a07e1710b87e" name="Alaric Wisdom-Hoarder">
+  <card id="89241580-0411-4318-9a41-a07e1710b87e" name="Alaric Wisdom-Hoarder" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Objective"/>
@@ -402,29 +402,29 @@
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
   </card>
-  <card id="5cd59d10-d70b-4faa-83bd-136ead9d87dc" name="Book of Tides">
+  <card id="5cd59d10-d70b-4faa-83bd-136ead9d87dc" name="Book of Tides" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Item."/>
   </card>
-  <card id="73f72223-b7ec-4059-b360-497217f254e8" name="Lost Tales of Nelkiot">
+  <card id="73f72223-b7ec-4059-b360-497217f254e8" name="Lost Tales of Nelkiot" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Item. Book."/>
   </card>
-  <card id="6671bb90-1d08-4a8b-a054-8979748196f5" name="Treaty of War">
+  <card id="6671bb90-1d08-4a8b-a054-8979748196f5" name="Treaty of War" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Objective"/>
   </card>
-  <card id="7f398714-5cf9-4282-96ae-6b1131da8ea9" name="Work of Nature. Vol III">
+  <card id="7f398714-5cf9-4282-96ae-6b1131da8ea9" name="Work of Nature. Vol III" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Objective"/>
   </card>
-  <card id="ce7a281f-0892-4072-a163-b63f859d34a2" name="Travel to the Library">
+  <card id="ce7a281f-0892-4072-a163-b63f859d34a2" name="Travel to the Library" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Quest"/>
@@ -439,7 +439,7 @@
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
-  <card id="6bcc9b74-e42e-4d4f-957e-df0fe0720414" name="A Frivolous Try">
+  <card id="6bcc9b74-e42e-4d4f-957e-df0fe0720414" name="A Frivolous Try" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Quest"/>
@@ -453,7 +453,7 @@
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
-  <card id="7a8ce62c-7e7b-4d1f-9ccc-11a10127f90e" name="The Daedal Writings">
+  <card id="7a8ce62c-7e7b-4d1f-9ccc-11a10127f90e" name="The Daedal Writings" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Quest"/>
@@ -467,7 +467,7 @@
       <property name="Quest Points" value="15"/>
     </alternate>
   </card>
-  <card id="2a5b2668-6cc2-42f5-89a8-25307759e4e2" name="Alaric, The Mad">
+  <card id="2a5b2668-6cc2-42f5-89a8-25307759e4e2" name="Alaric, The Mad" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Quest"/>
@@ -486,17 +486,17 @@
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Campaign"/>
   </card>
-  <card id="8e1b7836-e338-4dec-81ae-2d83a6faff3f" name="Clash of Culture">
+  <card id="8e1b7836-e338-4dec-81ae-2d83a6faff3f" name="Clash of Culture" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="65ac1c6b-ef85-4d95-9739-c2f74955f629" name="Dubious Translations">
+  <card id="65ac1c6b-ef85-4d95-9739-c2f74955f629" name="Dubious Translations" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Quest for Obscure Knowledge"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="df3f71b4-b0ca-4b01-8193-ae35cec653c0" name="Basswood">
+  <card id="df3f71b4-b0ca-4b01-8193-ae35cec653c0" name="Basswood" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Enemy"/>
@@ -507,7 +507,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="6"/>
   </card>
-  <card id="9de4d74f-6617-491b-b08e-08e24d186901" name="Descendant of Numenor">
+  <card id="9de4d74f-6617-491b-b08e-08e24d186901" name="Descendant of Numenor" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Enemy"/>
@@ -518,7 +518,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
   </card>
-  <card id="c609c79f-d625-4d9d-84de-5ebeaff013ee" name="Elenna">
+  <card id="c609c79f-d625-4d9d-84de-5ebeaff013ee" name="Elenna" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Unique" value="‰"/>
@@ -529,7 +529,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
   </card>
-  <card id="008314f7-38a1-4302-bb11-ac7bd4c12d6b" name="Fladrif">
+  <card id="008314f7-38a1-4302-bb11-ac7bd4c12d6b" name="Fladrif" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Unique" value="‰"/>
@@ -542,7 +542,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
   </card>
-  <card id="655f1fc8-9a03-41fb-a74b-0aca8790de2c" name="Green Scout">
+  <card id="655f1fc8-9a03-41fb-a74b-0aca8790de2c" name="Green Scout" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Enemy"/>
@@ -553,7 +553,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="2"/>
   </card>
-  <card id="4061a42e-39be-4035-8b6e-7f877a6cf9c5" name="Huorn">
+  <card id="4061a42e-39be-4035-8b6e-7f877a6cf9c5" name="Huorn" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Enemy"/>
@@ -565,7 +565,7 @@
     <property name="Defense" value="3"/>
     <property name="Health" value="4"/>
   </card>
-  <card id="a57551f4-a360-4b65-b3bd-e6bb248198b7" name="Sassafras">
+  <card id="a57551f4-a360-4b65-b3bd-e6bb248198b7" name="Sassafras" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Unique" value="‰"/>
@@ -576,7 +576,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="7"/>
   </card>
-  <card id="93c0e429-b5b4-4e53-a505-5edba0556f95" name="Skeleton King">
+  <card id="93c0e429-b5b4-4e53-a505-5edba0556f95" name="Skeleton King" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Unique" value="‰"/>
@@ -589,7 +589,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="2"/>
   </card>
-  <card id="a2a03412-e692-4a34-89cf-6c4e05859f8a" name="Tamarack">
+  <card id="a2a03412-e692-4a34-89cf-6c4e05859f8a" name="Tamarack" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Enemy"/>
@@ -601,7 +601,7 @@
     <property name="Defense" value="4"/>
     <property name="Health" value="5"/>
   </card>
-  <card id="d48549de-4755-49e9-ab7b-440b8d57011e" name="Trap-Maker">
+  <card id="d48549de-4755-49e9-ab7b-440b8d57011e" name="Trap-Maker" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Enemy"/>
@@ -611,7 +611,7 @@
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
   </card>
-  <card id="c2fc133c-cc23-43b9-b7cd-728fb870d74b" name="Veteran Ranger">
+  <card id="c2fc133c-cc23-43b9-b7cd-728fb870d74b" name="Veteran Ranger" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Enemy"/>
@@ -620,7 +620,7 @@
     <property name="Defense" value="1"/>
     <property name="Health" value="5"/>
   </card>
-  <card id="0634f1a1-6bed-44b3-980d-30af86da3aeb" name="Wandering Ent">
+  <card id="0634f1a1-6bed-44b3-980d-30af86da3aeb" name="Wandering Ent" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Enemy"/>
@@ -643,7 +643,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="6"/>
   </card>
-  <card id="b5d09c9d-0a09-4a4c-a2f5-aa49ccf1a1ac" name="Azygous Swamp">
+  <card id="b5d09c9d-0a09-4a4c-a2f5-aa49ccf1a1ac" name="Azygous Swamp" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Location"/>
@@ -651,7 +651,7 @@
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="2"/>
   </card>
-  <card id="04f27850-3573-4a39-aa76-9497a7aa27b1" name="Pool of Divination">
+  <card id="04f27850-3573-4a39-aa76-9497a7aa27b1" name="Pool of Divination" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Location"/>
@@ -660,7 +660,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Victory Points" value="2"/>
   </card>
-  <card id="1fd3c108-31bc-41f1-b34c-d6443c4225d2" name="Tall-Mark Grove">
+  <card id="1fd3c108-31bc-41f1-b34c-d6443c4225d2" name="Tall-Mark Grove" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Location"/>
@@ -668,14 +668,14 @@
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="3"/>
   </card>
-  <card id="22253188-b1dd-4990-a2a0-ec8944398265" name="The Darkest Corner">
+  <card id="22253188-b1dd-4990-a2a0-ec8944398265" name="The Darkest Corner" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Location"/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="3"/>
   </card>
-  <card id="b2bce54e-bf9f-44ef-8d76-e270dba55b8d" name="The Outskirts">
+  <card id="b2bce54e-bf9f-44ef-8d76-e270dba55b8d" name="The Outskirts" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Location"/>
@@ -683,20 +683,20 @@
     <property name="Quest Points" value="2"/>
     <property name="Victory Points" value="1"/>
   </card>
-  <card id="a17baad8-3efa-43a9-b7ed-8c1b7e8dbcfb" name="Saruman's Journal">
+  <card id="a17baad8-3efa-43a9-b7ed-8c1b7e8dbcfb" name="Saruman's Journal" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Item. Cursed. Book"/>
   </card>
-  <card id="806a6e7c-dcef-4d40-a31a-360444ea192c" name="The Shapeless Key">
+  <card id="806a6e7c-dcef-4d40-a31a-360444ea192c" name="The Shapeless Key" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Item. Cursed. Key."/>
     <property name="Keywords" value="Guarded by Skeleton King"/>
   </card>
-  <card id="1c016459-deb9-43a8-a49a-42eb123de850" name="Only the Living Choose Their Destiny">
+  <card id="1c016459-deb9-43a8-a49a-42eb123de850" name="Only the Living Choose Their Destiny" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
@@ -710,7 +710,7 @@
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
-  <card id="94667783-b697-40a7-a1a7-d97eeabf26aa" name="Onto the Green Ocean">
+  <card id="94667783-b697-40a7-a1a7-d97eeabf26aa" name="Onto the Green Ocean" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
@@ -724,7 +724,7 @@
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
-  <card id="bf76394e-3e4d-47c3-8433-f8d7a8f144e0" name="A Curious Key">
+  <card id="bf76394e-3e4d-47c3-8433-f8d7a8f144e0" name="A Curious Key" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
@@ -738,7 +738,7 @@
       <property name="Quest Points" value="6"/>
     </alternate>
   </card>
-  <card id="9b7313d2-e96b-4d6d-83f6-cd26d5aea53a" name="A Mirror in the Grove">
+  <card id="9b7313d2-e96b-4d6d-83f6-cd26d5aea53a" name="A Mirror in the Grove" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
@@ -752,7 +752,7 @@
       <property name="Quest Points" value="2"/>
     </alternate>
   </card>
-  <card id="1b041307-e4d7-4545-8db7-ff5056fc8059" name="The White Wizard Writings">
+  <card id="1b041307-e4d7-4545-8db7-ff5056fc8059" name="The White Wizard Writings" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
@@ -766,7 +766,7 @@
       <property name="Quest Points" value="11"/>
     </alternate>
   </card>
-  <card id="6eeef7e8-d785-4e21-a333-faee980911aa" name="A Flint of Light in the Darkness">
+  <card id="6eeef7e8-d785-4e21-a333-faee980911aa" name="A Flint of Light in the Darkness" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
@@ -780,7 +780,7 @@
       <property name="Quest Points" value="5"/>
     </alternate>
   </card>
-  <card id="36f3a685-8e32-4e4a-b881-affa2bacf2dc" name="On the Way">
+  <card id="36f3a685-8e32-4e4a-b881-affa2bacf2dc" name="On the Way" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Quest"/>
@@ -799,32 +799,32 @@
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Campaign"/>
   </card>
-  <card id="48e060f9-97d8-4ca3-a196-85ba0b83a51b" name="Ent-Draught">
+  <card id="48e060f9-97d8-4ca3-a196-85ba0b83a51b" name="Ent-Draught" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="ba23f965-0074-4230-b57c-b400e7b9f23b" name="Poisoned Arrow">
+  <card id="ba23f965-0074-4230-b57c-b400e7b9f23b" name="Poisoned Arrow" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="7138c934-1dea-4373-814e-2a04578eb460" name="Scouting Far Ahead">
+  <card id="7138c934-1dea-4373-814e-2a04578eb460" name="Scouting Far Ahead" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="d9eb291e-99f1-461e-9404-f39f751fb8e5" name="Spike-Tip Arrow">
+  <card id="d9eb291e-99f1-461e-9404-f39f751fb8e5" name="Spike-Tip Arrow" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="8d3939fd-1636-4e7c-ac0e-baeaeb481e1b" name="Tall Tree, Deep Shadow">
+  <card id="8d3939fd-1636-4e7c-ac0e-baeaeb481e1b" name="Tall Tree, Deep Shadow" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="fa5b1ac3-0e14-4e58-a917-2b422003da1c" name="We've been here already">
+  <card id="fa5b1ac3-0e14-4e58-a917-2b422003da1c" name="We've been here already" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Search for the Blue Wizard"/>
     <property name="Type" value="Treachery"/>

@@ -100,7 +100,7 @@
     <property name="Cost" value="0"/>
     <property name="Text" value="Response: After a Song card is played, add 1 resource to attached hero's resource pool."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9017" name="Journey in the Black Pit">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9017" name="Journey in the Black Pit" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Quest"/>
@@ -117,7 +117,7 @@
       <property name="Text" value="When Revealed: Discard cards from the top of the encounter deck until you discard X locations, where X is one less than the number of players in the game (minimum of 1). Add those locations to the staging area, and shuffle the other discarded cards back into the encounter deck.&#10;&#10;Each location gets +1 $. If the players quest unsuccessfully, trigger all &quot;Lost:&quot; effects in play."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9003" name="Continuing Eastward">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9003" name="Continuing Eastward" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Quest"/>
@@ -132,7 +132,7 @@
       <property name="Text" value="When Revealed: The first player makes a locate test. If this test is failed, reveal cards from the encounter deck equal to the number of players in the game and add them to the staging area. Then, trigger all &quot;Lost:&quot; effects in play.&#10;&#10;If the players quest unsuccessfully, trigger all &quot;Lost:&quot; effects in play.&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9005" name="Durin's Greaves">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9005" name="Durin's Greaves" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Unique" value="‰"/>
@@ -140,7 +140,7 @@
     <property name="Traits" value="Artifact. Armour."/>
     <property name="Text" value="When Revealed: The first player attaches Durin's Greaves to a hero of his choice as an attachment.&#10;&#10;Attached hero gets +1 Ú."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9001" name="Abandoned Mine">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9001" name="Abandoned Mine" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Location"/>
@@ -150,7 +150,7 @@
     <property name="Victory Points" value="PASS"/>
     <property name="Text" value="Lost: Return the top 2 Goblin enemies in the encounter discard pile to the staging area, if able."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9006" name="Dwarven Forge">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9006" name="Dwarven Forge" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Location"/>
@@ -160,7 +160,7 @@
     <property name="Victory Points" value="PASS"/>
     <property name="Text" value="Lost: Each player must choose and discard 1 card from his hand."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9023" name="Silent Caverns">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9023" name="Silent Caverns" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Location"/>
@@ -170,7 +170,7 @@
     <property name="Victory Points" value="PASS"/>
     <property name="Text" value="Lost: Exhaust all characters."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9024" name="Twisting Passage">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9024" name="Twisting Passage" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Location"/>
@@ -180,34 +180,34 @@
     <property name="Victory Points" value="PASS"/>
     <property name="Text" value="Forced: Before placing progress tokens on Twisting Passage, the first player must make a locate test. If this test is failed, do not place any progress tokens on Twisting Passage and trigger all &quot;Lost:&quot; effects in play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9010" name="Fatigue">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9010" name="Fatigue" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must exhaust 1 character he controls, if able. Then, if any player controls no unexhausted characters, Fatigue gains surge."/>
     <property name="Shadow" value="Shadow: The defending player must exhaust 1 character he controls, if able."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9011" name="Foul Air">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9011" name="Foul Air" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Treachery"/>
     <property name="Victory Points" value="PASS"/>
     <property name="Text" value="When Revealed: The first player makes a locate test. If this test is failed, deal 2 damage to all characters and trigger all &quot;Lost:&quot; effects in play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9013" name="Gathering Ground">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9013" name="Gathering Ground" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Treachery"/>
     <property name="Victory Points" value="PASS"/>
     <property name="Text" value="When Revealed: Attach this card to a location in the staging area with the highest combined threat and remaining quest points. (Counts as a Condition attachment with the text: &quot;Each enemy revealed from the encounter deck gains surge.&quot;)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9025" name="Vast and Intricate">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9025" name="Vast and Intricate" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player makes a locate test. If this test is failed, raise each player's threat by 7, remove all progress tokens from play, and trigger all &quot;Lost:&quot; effects in play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9002" name="Cave Spider">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9002" name="Cave Spider" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Enemy"/>
@@ -219,7 +219,7 @@
     <property name="Health" value="4"/>
     <property name="Text" value="When Revealed: The first player draws 1 card. Then, that player must choose and discard 4 cards from his hand, if able.&#10;&#10;Forced: After Cave Spider engages a player, that player must choose and discard 1 card from his hand, if able."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9014" name="Goblin Sneak">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9014" name="Goblin Sneak" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Enemy"/>
@@ -232,7 +232,7 @@
     <property name="Text" value="Forced: After Goblin Sneak engages a player, discard the top card of the encounter deck. If it is a treachery card, Goblin Sneak engages the next player, if able."/>
     <property name="Shadow" value="Shadow: Add Goblin Sneak to the staging area."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9015" name="Goblin Warlord">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9015" name="Goblin Warlord" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Enemy"/>
@@ -245,7 +245,7 @@
     <property name="Text" value="Lost: Each player must choose and discard 1 ally he controls from play, if able."/>
     <property name="Shadow" value="Shadow: Trigger all &quot;Lost:&quot; effects in play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801211c9022" name="Rock Adder">
+  <card id="51223bd0-ffd1-11df-a976-0801211c9022" name="Rock Adder" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Long Dark"/>
     <property name="Type" value="Enemy"/>

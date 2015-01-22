@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - War of the Last Alliance" id="f5d4ba1d-7871-4b90-ab07-a53fe09c44c7" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
-  <card id="0bf809bf-e7c2-4ea1-96bb-84c9c24edffe" name="Sauron">
+  <card id="0bf809bf-e7c2-4ea1-96bb-84c9c24edffe" name="Sauron" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Unique" value="‰"/>
@@ -15,21 +15,21 @@
     <property name="Health" value="0"/>
     <property name="Text" value="Sauron cannot leave the staging area, and is considered to be engaged with each player. Forced: After Sauron attacks, the defending player must discard 2 characters if possible."/>
   </card>
-  <card id="43aaa840-408b-488f-9ab6-ee5a1eb4246c" name="Elven Alliance">
+  <card id="43aaa840-408b-488f-9ab6-ee5a1eb4246c" name="Elven Alliance" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Condition."/>
     <property name="Text" value="When revealed: The first player attaches this card to a hero of his choice as an attachment. Action: If another player controls Narsil, exhaust Elven Alliance to attach Narsil to one of your Gondor heroes."/>
   </card>
-  <card id="639a2faa-2bc6-44f6-98b9-c8bba6e6a6c8" name="Human Alliance">
+  <card id="639a2faa-2bc6-44f6-98b9-c8bba6e6a6c8" name="Human Alliance" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Condition."/>
     <property name="Text" value="When revealed: The first player attaches this card to a hero of his choice as an attachment. Attached hero gains Gondor trait."/>
   </card>
-  <card id="b0a3aaa4-11b9-4b64-b0d5-52caf6706c2b" name="Narsil">
+  <card id="b0a3aaa4-11b9-4b64-b0d5-52caf6706c2b" name="Narsil" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Unique" value="‰"/>
@@ -39,7 +39,7 @@
     <property name="Victory Points" value="15"/>
     <property name="Text" value="Action: Discard X cards from hand to reduce Sauron’s Ú by X until the end of the phase. Action: If the players control Elven Alliance and Human Alliance add Narsil to the victory display to place 1 resource token on Sauron."/>
   </card>
-  <card id="c836d176-eb56-4274-b33a-8adbcb81c9c9" name="Preparing for Battle">
+  <card id="c836d176-eb56-4274-b33a-8adbcb81c9c9" name="Preparing for Battle" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Type" value="Quest"/>
@@ -56,7 +56,7 @@
       <property name="Text" value="When revealed: Each player may put an additional Noldor hero into play from his collection, who must match spheres with a hero he already controls. (The threat cost of the additional hero does not add to the starting threat level of his controller?. Forced: Skip the quest phase. At the end of the round, advance to stage 2."/>
     </alternate>
   </card>
-  <card id="c47983e2-8843-409e-b137-20887a3f36f9" name="Combat">
+  <card id="c47983e2-8843-409e-b137-20887a3f36f9" name="Combat" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Type" value="Quest"/>
@@ -71,7 +71,7 @@
       <property name="Text" value="Forced: At the beginning of the combat phase, each player discards X cards from the encounter deck. Each enemy discarded engages the player that discarded it. Each objective discarded is considered revealed from encounter deck. X is equal to the current round number divided by two (rounding down)."/>
     </alternate>
   </card>
-  <card id="fd01fd5c-eb37-464f-900d-ede623b0f043" name="Terrible and Unstoppable">
+  <card id="fd01fd5c-eb37-464f-900d-ede623b0f043" name="Terrible and Unstoppable" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="War of the Last Alliance"/>
     <property name="Type" value="Quest"/>

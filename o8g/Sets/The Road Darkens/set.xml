@@ -224,7 +224,7 @@
       <property name="Text" value="Resolution: If Lust for the Ring is attached to a hero, the players have earned that burden."/>
     </alternate>
   </card>
-  <card id="0c0fdef7-f55a-4bcf-91f9-317cd7a00777" name="The Council of Elrond">
+  <card id="0c0fdef7-f55a-4bcf-91f9-317cd7a00777" name="The Council of Elrond" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Quest"/>
@@ -241,7 +241,7 @@
       <property name="Text" value="Forced: At the end of the planning phase, each player places the top card of his deck faceup in front of him, in player order, until there are a total of 4 faceup cards between the players. The first player chooses 1 faceup card to player for 0 cost, 1 to add to its owners hand, 1 to discard, and 1 to shuffle into its owner's deck. Then, either shuffle Lust for the Ring into the encounter deck, or raise each player's threat by 5. Advance to stage 2."/>
     </alternate>
   </card>
-  <card id="9e678947-2687-4b3b-b98c-f05f289793ff" name="The Nine Walkers">
+  <card id="9e678947-2687-4b3b-b98c-f05f289793ff" name="The Nine Walkers" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Quest"/>
@@ -257,7 +257,7 @@
       <property name="Text" value="During the travel phase, the players must travel to a location, if able.&#10;&#10;Forced: After an enemy engages a player, place 1 damage on the active location, if able."/>
     </alternate>
   </card>
-  <card id="0ae0d2d5-b082-4cc7-b227-9b60c60de8b4" name="The Hunt is Up!">
+  <card id="0ae0d2d5-b082-4cc7-b227-9b60c60de8b4" name="The Hunt is Up!" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Quest"/>
@@ -273,7 +273,7 @@
       <property name="Text" value="During the travel phase, the players must travel to a location, if able.&#10;Forced: After a location enters play, place 1 damage on it.&#10;&#10;Forced: After an enemy engages a player, place 1 damage on the active location, if able."/>
     </alternate>
   </card>
-  <card id="3e99373a-ce10-4907-acd5-5a4b8dce425c" name="The Gates of Moria">
+  <card id="3e99373a-ce10-4907-acd5-5a4b8dce425c" name="The Gates of Moria" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Quest"/>
@@ -289,7 +289,7 @@
       <property name="Text" value="There can be 2 active locations. During the travel phase, the players must travel to a location, if able.&#10;Forced: After an enemy engages a player, place 1 damage on each active location.&#10;&#10;If Doors of Durin is explored, the players win the game."/>
     </alternate>
   </card>
-  <card id="8f38ca4f-5893-4bd4-854d-6788a3ada41f" name="Watcher in the Water">
+  <card id="8f38ca4f-5893-4bd4-854d-6788a3ada41f" name="Watcher in the Water" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Unique" value="‰"/>
@@ -303,7 +303,7 @@
     <property name="Health" value="12"/>
     <property name="Text" value="Cannot leave the staging area but is considered to be engaged with each player.&#10;Forced: After placing the 6th damage here, the first player takes control of the Ring-bearer, exhausted with 1 damage on it."/>
   </card>
-  <card id="232256cb-40ee-4cec-84ac-995b3ba43eb2" name="Great Warg Chief">
+  <card id="232256cb-40ee-4cec-84ac-995b3ba43eb2" name="Great Warg Chief" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Unique" value="‰"/>
@@ -317,7 +317,7 @@
     <property name="Health" value="6"/>
     <property name="Text" value="Forced: After Great Warg Chief engages you, discard cards from the encounter deck until a Warg enemy is discarded. Put that enemy into play engaged with you."/>
   </card>
-  <card id="1a55452f-9e4c-4cdc-8ce1-549c862bf96e" name="Hound of Sauron">
+  <card id="1a55452f-9e4c-4cdc-8ce1-549c862bf96e" name="Hound of Sauron" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Enemy"/>
@@ -331,7 +331,7 @@
     <property name="Text" value="Hound of Sauron gets -5 engagement cost for each enemy in the staging area."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if it was engaged this round)."/>
   </card>
-  <card id="e476b426-a9db-4d95-ab93-a32f4a5b7f48" name="Howling Warg">
+  <card id="e476b426-a9db-4d95-ab93-a32f4a5b7f48" name="Howling Warg" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Enemy"/>
@@ -344,7 +344,7 @@
     <property name="Text" value="Forced: When Howling Warg attacks, place 1 damage on an active location."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If this attack destoys a character, place 1 damage on an active location."/>
   </card>
-  <card id="74f47fcd-31fb-4034-924c-034e1615a3c4" name="Crebain from Dunland">
+  <card id="74f47fcd-31fb-4034-924c-034e1615a3c4" name="Crebain from Dunland" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Enemy"/>
@@ -357,7 +357,7 @@
     <property name="Health" value="2"/>
     <property name="Text" value="When Revealed: Either exhaust a hero you control, or engage Crebain from Dunland.&#10;Forced: After Crebain from Dunland engages a player, reveal the top card of the encounter deck."/>
   </card>
-  <card id="ebd1944a-928c-40ff-88de-dfebdfcf633c" name="Redhorn Pass">
+  <card id="ebd1944a-928c-40ff-88de-dfebdfcf633c" name="Redhorn Pass" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Unique" value="‰"/>
@@ -369,7 +369,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Forced: When Redhorn Pass is explored, each player assigns X damage among characters he controls. X is the number of damage here."/>
   </card>
-  <card id="5963e5c4-0f2e-43c4-afa2-a9b2cfde73d1" name="Doors of Durin">
+  <card id="5963e5c4-0f2e-43c4-afa2-a9b2cfde73d1" name="Doors of Durin" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Unique" value="‰"/>
@@ -380,7 +380,7 @@
     <property name="Quest Points" value="9"/>
     <property name="Text" value="Progress must be placed on each other active location before it can be placed here. Progress cannot be placed here unless the first player controls the Ring-bearer.&#10;&#10;If there are 9 damage tokens here, the players lose the game."/>
   </card>
-  <card id="ca18c3fa-ebda-4cf9-99bb-2ce47c9160a1" name="Tree-crowned Hill">
+  <card id="ca18c3fa-ebda-4cf9-99bb-2ce47c9160a1" name="Tree-crowned Hill" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Location"/>
@@ -390,7 +390,7 @@
     <property name="Quest Points" value="6"/>
     <property name="Text" value="Forced: When Tree-crowned Hill is explored, the players, as a group, exhaust X characters in play. X is the number of damage here."/>
   </card>
-  <card id="5d0085bd-ebb9-46a7-ae28-698da3d11ae6" name="Hills of Hollin">
+  <card id="5d0085bd-ebb9-46a7-ae28-698da3d11ae6" name="Hills of Hollin" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Location"/>
@@ -399,7 +399,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Text" value="While Hills of Hollin is the active location, each enemy in the staging area gets +5 engagement cost.&#10;&#10;Forced: When Hills of Hollin is explored, each player raises his threat by 1 for each damage here."/>
   </card>
-  <card id="867b61a1-4e23-4426-ad94-b912e89055b8" name="Redhorn Foothills">
+  <card id="867b61a1-4e23-4426-ad94-b912e89055b8" name="Redhorn Foothills" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Location"/>
@@ -408,7 +408,7 @@
     <property name="Quest Points" value="5"/>
     <property name="Text" value="While Redhorn Foothills is the active location, it gains: &quot;Forced: After an enemy is added to the staging area, it gets -5 engagement cost until the end of the round.&quot;&#10;&#10;Forced: When Redhorn Foothills is explored, each player must discard X cards from his hand at random. X is the number of damage here."/>
   </card>
-  <card id="af787868-59d6-48be-983f-447ba0523f46" name="Eregion">
+  <card id="af787868-59d6-48be-983f-447ba0523f46" name="Eregion" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Location"/>
@@ -418,21 +418,21 @@
     <property name="Text" value="Forced: When Eregion is explored, the players as a group must discard X allies from play. X is the number of damage here."/>
     <property name="Shadow" value="Shadow: Defending player discards a non-objective attachment he controls."/>
   </card>
-  <card id="78fd9e40-f68d-46c9-b6bf-8fec3b77bfcf" name="Regiments of Crows">
+  <card id="78fd9e40-f68d-46c9-b6bf-8fec3b77bfcf" name="Regiments of Crows" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Place 3 damage on each active location."/>
     <property name="Shadow" value="Shadow: Undefended damage from this attack must be assigned to the active location."/>
   </card>
-  <card id="ca24cab1-1489-4c4d-8cea-50d076c020b8" name="Snowdrifts">
+  <card id="ca24cab1-1489-4c4d-8cea-50d076c020b8" name="Snowdrifts" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Weather."/>
     <property name="Text" value="When Revealed: Attach to the active location. (Counts as a Condition attachment with the text, &quot;Limit 1 per location. No more than 3 progress can be placed on attached location each round.&quot;) If Snowdrifts is not attached to the active location, it gains surge."/>
   </card>
-  <card id="60546e25-329e-4846-852d-65c1a6ee6c5c" name="Bitter Cold">
+  <card id="60546e25-329e-4846-852d-65c1a6ee6c5c" name="Bitter Cold" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Treachery"/>
@@ -440,7 +440,7 @@
     <property name="Text" value="When Revealed: Each player must choose: either discard each ally he controls, or raise his threat by 1 for each ally he controls."/>
     <property name="Shadow" value="Shadow: Attacking enemy makes an additional attack after this one."/>
   </card>
-  <card id="54981b6b-c247-40f9-9321-fd7913b897dd" name="Storm of Howls">
+  <card id="54981b6b-c247-40f9-9321-fd7913b897dd" name="Storm of Howls" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Treachery"/>
@@ -460,7 +460,7 @@
       <property name="Text" value="Resolution: The first player must choose one of the burden treachery cards (Pursued by the Enemy or Shadow of Fear), and one of the burden objective cards (Grevious Wound or Overcome by Grief) to add to the Campaign Pool. If The Balrog is still in play, the first player must choose all 4 burden cards instead. The chosen burdens have been earned by the players."/>
     </alternate>
   </card>
-  <card id="91735f73-7dc8-48ee-8a61-b7c9648f5def" name="The Long Dark of Moria">
+  <card id="91735f73-7dc8-48ee-8a61-b7c9648f5def" name="The Long Dark of Moria" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Quest"/>
@@ -477,7 +477,7 @@
       <property name="Text" value="Forced: After a player optionally engages an enemy, remove 1 damage token from Doom, Doom, Doom."/>
     </alternate>
   </card>
-  <card id="e6b1a8ef-b595-4bca-9afb-3afbbd52d16e" name="Drums in the Deep">
+  <card id="e6b1a8ef-b595-4bca-9afb-3afbbd52d16e" name="Drums in the Deep" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Quest"/>
@@ -493,7 +493,7 @@
       <property name="Text" value="If there are no enemies in the staging area at the beginning of the quest phase, the first player reveals an additional encounter card during the staging step.&#10;&#10;The players cannot advance unless there are X resource tokens on this stage. X is the number of players times 3.&#10;&#10;Forced: After an enemy is defeated, place 1 resource token on this stage."/>
     </alternate>
   </card>
-  <card id="52754c5f-30b8-4d55-b9c2-5dfa8020ead3" name="The Bridge of Kazad-dûm">
+  <card id="52754c5f-30b8-4d55-b9c2-5dfa8020ead3" name="The Bridge of Kazad-dûm" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Quest"/>
@@ -509,14 +509,14 @@
       <property name="Text" value="No more than 5 progress can be placed on this stage each round.&#10;&#10;The players cannot defeat this stage while The Great Bridge is in play. If the players defeat this stage, they win the game."/>
     </alternate>
   </card>
-  <card id="e6fea7ff-7fdf-4938-a57b-6be82af1c152" name="Doom, Doom, Doom">
+  <card id="e6fea7ff-7fdf-4938-a57b-6be82af1c152" name="Doom, Doom, Doom" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Shadow. Flame."/>
     <property name="Text" value="Forced: At the end of the quest phase, remove 1 damage token from Doom, Doom, Doom. Then, if there are no damage tokens here, add The Balrog to the staging area.&#10;&#10;Forced: At the end of the quest phase, The Balrog makes an attack if it is in play."/>
   </card>
-  <card id="a62b42dc-ab4a-4573-a281-53742e2739f5" name="The Balrog">
+  <card id="a62b42dc-ab4a-4573-a281-53742e2739f5" name="The Balrog" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Unique" value="‰"/>
@@ -531,7 +531,7 @@
     <property name="Victory Points" value="50"/>
     <property name="Text" value="While in the staging area, The Balrog is considered to be engaged with the first player and only the first player can declare attackers against The Balrog."/>
   </card>
-  <card id="e6e7d9de-4b7d-422c-b367-8f2c65982468" name="Orc-chieftan">
+  <card id="e6e7d9de-4b7d-422c-b367-8f2c65982468" name="Orc-chieftan" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Enemy"/>
@@ -544,7 +544,7 @@
     <property name="Health" value="6"/>
     <property name="Text" value="Forced: At the beginning of the encounter phase, Orc-chieftan engages the first player."/>
   </card>
-  <card id="fc145eae-9671-4697-8d28-473f3b138295" name="Great Cave-troll">
+  <card id="fc145eae-9671-4697-8d28-473f3b138295" name="Great Cave-troll" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Enemy"/>
@@ -557,7 +557,7 @@
     <property name="Health" value="6"/>
     <property name="Text" value="For each point of excess combat damage dealt by Great Cave-troll (damage that is dealt beyond the remaining hit points of the character damaged by its attack) remove 1 progress from the current quest."/>
   </card>
-  <card id="d2e57235-6df7-40fc-9a47-1ad06b4ed7a3" name="Uruk from Mordor">
+  <card id="d2e57235-6df7-40fc-9a47-1ad06b4ed7a3" name="Uruk from Mordor" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Enemy"/>
@@ -570,7 +570,7 @@
     <property name="Text" value="When Revealed: Uruk from Mordor makes an attack against the first player."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If this attack destroys a character, attacking enemy makes an additional attack."/>
   </card>
-  <card id="21a5e7e1-013b-478e-a1c3-ab0300541f39" name="Moria Orc">
+  <card id="21a5e7e1-013b-478e-a1c3-ab0300541f39" name="Moria Orc" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Enemy"/>
@@ -583,7 +583,7 @@
     <property name="Text" value="When Revealed: Either remove 1 damage from Doom, Doom, Doom, or reveal an additional encounter card."/>
     <property name="Shadow" value="Shadow: The defending player raises his threat by 1 for each enemy engaged with him."/>
   </card>
-  <card id="b309f3a1-af3e-4c2e-9fce-59e8d88fbd7b" name="Moria Archer">
+  <card id="b309f3a1-af3e-4c2e-9fce-59e8d88fbd7b" name="Moria Archer" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Enemy"/>
@@ -596,7 +596,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="X is the number of players in the game.&#10;&#10;When Revealed: Assign X damage among characters you control."/>
   </card>
-  <card id="9c81c18a-b143-48ae-a22c-821f52efc229" name="The Great Bridge">
+  <card id="9c81c18a-b143-48ae-a22c-821f52efc229" name="The Great Bridge" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Unique" value="‰"/>
@@ -608,7 +608,7 @@
     <property name="Victory Points" value="5"/>
     <property name="Text" value="Response: When The Great Bridge is explored, discard a hero from play to deal X damage to The Balrog. X is that hero's threat cost. Then, The Balrog loses all keywords for the remainder of the game. Any player may trigger this response."/>
   </card>
-  <card id="14fb1fba-dd55-4511-80f3-14808fc0f174" name="Chamber of Mazarbul">
+  <card id="14fb1fba-dd55-4511-80f3-14808fc0f174" name="Chamber of Mazarbul" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Unique" value="‰"/>
@@ -620,7 +620,7 @@
     <property name="Victory Points" value="4"/>
     <property name="Text" value="The players cannot advance to the next stage.&#10;&#10;Travel: Each player searches the encounter deck and discard pile for a different enemy and adds it to the staging area to travel here. One of those enemies must be Orc-chieftan, if able."/>
   </card>
-  <card id="38853a8e-09c2-44f8-a76e-62aac1809d18" name="Mines of Moria">
+  <card id="38853a8e-09c2-44f8-a76e-62aac1809d18" name="Mines of Moria" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Location"/>
@@ -630,7 +630,7 @@
     <property name="Text" value="While Mines of Moria is in the staging area, progress must be placed on Mines of Moria before it can be placed on the current quest."/>
     <property name="Shadow" value="Shadow: Defending player discards a non-objective attachment he controls (2 non-objective attachments instead if his threat is 35 or higher)."/>
   </card>
-  <card id="ef815939-8e88-4a70-a4f4-bdf36a84ea77" name="Many-pillard Hall">
+  <card id="ef815939-8e88-4a70-a4f4-bdf36a84ea77" name="Many-pillard Hall" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Location"/>
@@ -640,7 +640,7 @@
     <property name="Text" value="Many-pillard Hall gets +1 $ for each Many-pillared Hall in play."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if the defending player's threat is 35 or higher)."/>
   </card>
-  <card id="bd30f509-04f8-4135-a5e9-20d3cbbe7cd8" name="Darkened Stairway">
+  <card id="bd30f509-04f8-4135-a5e9-20d3cbbe7cd8" name="Darkened Stairway" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Location"/>
@@ -649,7 +649,7 @@
     <property name="Quest Points" value="2"/>
     <property name="Text" value="Forced: After Darkened Stairway is explored, discard the top card of the encounter deck. If the discarded card is a location, add it to the staging area."/>
   </card>
-  <card id="3c53610e-0126-424f-a4cc-9e7710ebcffe" name="Ancient Guardroom">
+  <card id="3c53610e-0126-424f-a4cc-9e7710ebcffe" name="Ancient Guardroom" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Location"/>
@@ -658,21 +658,21 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="While Ancient Guardroom is the active location, each enemy in play gets –1 Û.&#10;&#10;Travel: Discard the top card of the encounter deck to travel here. Each player raises his threat by X, where X is the discarded card's $."/>
   </card>
-  <card id="b0b64e9f-0a9f-42f1-9ad0-0e54db93dc47" name="They Are Coming!">
+  <card id="b0b64e9f-0a9f-42f1-9ad0-0e54db93dc47" name="They Are Coming!" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 2."/>
     <property name="Text" value="When Revealed: Shuffle the encounter discard pile into the encounter deck and discard cards from the top of the encounter deck until X enemies are discarded. X is the number of players in the game. Add each enemy discarded this way to the staging area."/>
   </card>
-  <card id="b69bdceb-a155-4aa6-b7e8-b0265f5d0928" name="We Cannot Get Out">
+  <card id="b69bdceb-a155-4aa6-b7e8-b0265f5d0928" name="We Cannot Get Out" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player assigns X damage among characters he controls. X is the number of exhausted characters he controls."/>
     <property name="Shadow" value="Shadow: Assign X damage among characters you control. X is the number of enemies engaged with you."/>
   </card>
-  <card id="8527856a-e0eb-4799-9985-e73f1ee5281a" name="Deep Fissure">
+  <card id="8527856a-e0eb-4799-9985-e73f1ee5281a" name="Deep Fissure" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Treachery"/>
@@ -680,7 +680,7 @@
     <property name="Keywords" value="Peril."/>
     <property name="Text" value="When Revealed: Remove a character you control from the quest and discard the top card of the encounter deck. If that character's printed Ò is less than the discarded card's $, discard that character."/>
   </card>
-  <card id="4f47ef56-46c8-4a6b-85dd-656eb71c5828" name="Fool of a Took!">
+  <card id="4f47ef56-46c8-4a6b-85dd-656eb71c5828" name="Fool of a Took!" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Treachery"/>
@@ -701,7 +701,7 @@
       <property name="Text" value="Resolution: If Fallen into Evil is attached to a hero, add that hero to the list of Fallen Heroes in the Campaign Log.&#10;&#10;The first player chooses either Followed by Night or Ill Fate to be added to the Campaign Pool. The chosen burden card has been earned by the players.&#10;&#10;Each player chooses 1 hero he controls (other than the Ring-bearer or Aragorn) to be taken captive. Record the name of each &quot;captive&quot; in the Notes section of the Campaign Log."/>
     </alternate>
   </card>
-  <card id="d32ba7ec-fa7d-4a1a-b157-da4186e62ea6" name="The Great River">
+  <card id="d32ba7ec-fa7d-4a1a-b157-da4186e62ea6" name="The Great River" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Quest"/>
@@ -718,7 +718,7 @@
       <property name="Text" value="Enemies get +2 Ú and cannot be engaged. Skip the encounter phase.&#10;&#10;The players cannot advance while The Argonath is in play."/>
     </alternate>
   </card>
-  <card id="500d3f5b-2de3-4770-bb2a-7db2b104bbf2" name="The Company Divided">
+  <card id="500d3f5b-2de3-4770-bb2a-7db2b104bbf2" name="The Company Divided" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Quest"/>
@@ -734,7 +734,7 @@
       <property name="Text" value="Forced: At the end of the refresh phase, shuffle the Seat of Seeing and Frodo's Choice into the encounter discard pile. Then, place the encounter discard pile on the bottom of the encounter deck. Starting with the first player, each player creates his own staging area and advances to a different stage 3A of his choice. In player order, each player moves 1 encounter card from this staging area to his. When there are no encounter cards left at this stage, discard it."/>
     </alternate>
   </card>
-  <card id="00008179-c6a7-46d0-be2f-b4b3b748afc2" name="Searching the Woods">
+  <card id="00008179-c6a7-46d0-be2f-b4b3b748afc2" name="Searching the Woods" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Quest"/>
@@ -750,7 +750,7 @@
       <property name="Text" value="If Frodo's Choice is not in play, any time players would place progress on this quest, discard an equal number of cards from the encounter deck instead.&#10;&#10;Forced: After Frodo's Choice is revealed at this stage, advance to stage 4A.&#10;&#10;Response: After you quest successfully, discard a non-unique location in any staging area."/>
     </alternate>
   </card>
-  <card id="f4e81861-8cf6-41e7-b347-af7879fa8b06" name="Guard the Hobbits">
+  <card id="f4e81861-8cf6-41e7-b347-af7879fa8b06" name="Guard the Hobbits" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Quest"/>
@@ -766,7 +766,7 @@
       <property name="Text" value="If Frodo's Choice is not in play, any time players would place progress on this quest, discard an equal number of cards from the encounter deck instead.&#10;&#10;Forced: After Frodo's Choice is revealed at this stage, advance to stage 4A.&#10;&#10;Response: After you quest successfully, choose a player. Ready each of that player's heroes."/>
     </alternate>
   </card>
-  <card id="7dbe33ca-5c8f-411a-ae21-d4b8ceb46f00" name="The Seat of Amon Hen">
+  <card id="7dbe33ca-5c8f-411a-ae21-d4b8ceb46f00" name="The Seat of Amon Hen" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Quest"/>
@@ -782,7 +782,7 @@
       <property name="Text" value="If Frodo's Choice is not in play, any time players would place progress on this quest, discard an equal number of cards from the encounter deck instead.&#10;&#10;Forced: After Frodo's Choice is revealed at this stage, advance to stage 4A.&#10;&#10;Response: After you quest successfully, choose a player. That player draws 2 cards and lowers his threat by 2."/>
     </alternate>
   </card>
-  <card id="8f133b99-75d7-43b8-acec-3e298724134a" name="Orc Hunting">
+  <card id="8f133b99-75d7-43b8-acec-3e298724134a" name="Orc Hunting" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Quest"/>
@@ -798,7 +798,7 @@
       <property name="Text" value="If Frodo's Choice is not in play, any time players would place progress on this quest, discard an equal number of cards from the encounter deck instead.&#10;&#10;Forced: After Frodo's Choice is revealed at this stage, advance to stage 4A.&#10;&#10;Response: After you quest successfully, discard an enemy engaged with a player."/>
     </alternate>
   </card>
-  <card id="c10ac747-573f-46c7-a228-8b6d1cd8875a" name="The Ring-bearer Sets Out">
+  <card id="c10ac747-573f-46c7-a228-8b6d1cd8875a" name="The Ring-bearer Sets Out" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Quest"/>
@@ -814,7 +814,7 @@
       <property name="Text" value="During the quest phase, reveal 1 additional encounter card for each player in the game.&#10;Response: After an enemy is revealed at this stage, raise your threat by X to engage that enemy. X is that enemy's $. Each player (at any stage) may trigger this ability once per round.&#10;&#10;When this stage is defeated, the players win the game."/>
     </alternate>
   </card>
-  <card id="f1d2d99e-27e6-44d3-ad3d-ef727fa9ddc2" name="Frodo's Choice">
+  <card id="f1d2d99e-27e6-44d3-ad3d-ef727fa9ddc2" name="Frodo's Choice" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Objective"/>
@@ -822,7 +822,7 @@
     <property name="Keywords" value="If Frodo's Choice is discarded, reveal it instead."/>
     <property name="Text" value="When Revealed: Take control of the first player token and the Ring-bearer (and each card attached to it). Attach to the Ring-bearer. For the rest of the game, you cannot lose control of the first player token."/>
   </card>
-  <card id="9ccd6851-ec1e-4d47-9e8d-486365c261e2" name="Uruk-hai Captain">
+  <card id="9ccd6851-ec1e-4d47-9e8d-486365c261e2" name="Uruk-hai Captain" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Enemy"/>
@@ -836,7 +836,7 @@
     <property name="Text" value="Allies with fewer printed hit points than Uruk-hai Captain cannot defend against Uruk-hai Captain."/>
     <property name="Shadow" value="Shadow: Attacking enemy makes an additional attack after this one."/>
   </card>
-  <card id="c91a6d23-7dea-4efd-9f2b-326b74f9a935" name="Uruk-hai Archer">
+  <card id="c91a6d23-7dea-4efd-9f2b-326b74f9a935" name="Uruk-hai Archer" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Enemy"/>
@@ -849,7 +849,7 @@
     <property name="Health" value="4"/>
     <property name="Text" value="X is the number of players at this stage.&#10;&#10;When Revealed: Discard an ally you control."/>
   </card>
-  <card id="9bba91a8-d375-4935-9956-9cb4cc4716c5" name="Uruk-hai Tracker">
+  <card id="9bba91a8-d375-4935-9956-9cb4cc4716c5" name="Uruk-hai Tracker" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Enemy"/>
@@ -863,7 +863,7 @@
     <property name="Text" value="Uruk-hai Tracker gets +2 Û against characters with 2 or fewer printed hit points."/>
     <property name="Shadow" value="Shadow: Discard a non-objective attachment you control."/>
   </card>
-  <card id="a11ea1e0-372e-4932-86e4-f84737e842e9" name="Uruk-hai Hunter">
+  <card id="a11ea1e0-372e-4932-86e4-f84737e842e9" name="Uruk-hai Hunter" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Enemy"/>
@@ -876,7 +876,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="When Revealed: Either choose a player to reveal an encounter card, or Uruk-hai Hunter makes an immediate attack against you."/>
   </card>
-  <card id="72276508-67e0-4133-8b9f-41fb8d44ffa9" name="Parth Galen">
+  <card id="72276508-67e0-4133-8b9f-41fb8d44ffa9" name="Parth Galen" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Unique" value="‰"/>
@@ -888,7 +888,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Travel: Search the encounter deck and discard pile for an enemy and add it to the staging area to travel here. Shuffle the encounter deck.&#10;While Parth Galen is in play, the players cannot win the game."/>
   </card>
-  <card id="8948aa81-f7fb-4979-9add-555598df529a" name="Seat of Seeing">
+  <card id="8948aa81-f7fb-4979-9add-555598df529a" name="Seat of Seeing" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Unique" value="‰"/>
@@ -900,7 +900,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Response: When Seat of Seeing is explored, choose a burden card in play, in the encounter deck, or in the discard pile, and remove it from the game. Shuffle the encounter deck. (If you are playing campaign mode, remove that card from the Campaign Pool.)"/>
   </card>
-  <card id="13a4b435-fa14-42b8-975e-804d3b8b929d" name="The Argonath">
+  <card id="13a4b435-fa14-42b8-975e-804d3b8b929d" name="The Argonath" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Unique" value="‰"/>
@@ -912,7 +912,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="The players cannot travel here while Sarn Gebir is in play. While The Argonath is the active location, skip the combat phase."/>
   </card>
-  <card id="d8cfafbd-7976-4a87-bdb3-a12c87503cd3" name="Sarn Gebir">
+  <card id="d8cfafbd-7976-4a87-bdb3-a12c87503cd3" name="Sarn Gebir" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Unique" value="‰"/>
@@ -924,7 +924,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Forced: When Sarn Gebir is explored, deal 1 damage to each exhausted character."/>
   </card>
-  <card id="6d4c7a3b-e0e7-4267-8f53-6ba99054892c" name="River Anduin">
+  <card id="6d4c7a3b-e0e7-4267-8f53-6ba99054892c" name="River Anduin" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Location"/>
@@ -933,7 +933,7 @@
     <property name="Quest Points" value="5"/>
     <property name="Text" value="While River Anduin is in the staging area it gains: &quot;Forced: At the end of the travel phase, each player at this stage raises his threat by 1. Then, River Anduin moves to the staging area to the left, if able.&quot;"/>
   </card>
-  <card id="67c97a60-a53c-4624-83ec-2122a74ea730" name="Wooded Shoreline">
+  <card id="67c97a60-a53c-4624-83ec-2122a74ea730" name="Wooded Shoreline" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Location"/>
@@ -943,7 +943,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Text" value="Travel: Search the encounter deck and discard pile for an enemy and add it to the staging area to travel here. Shuffle the encounter deck."/>
   </card>
-  <card id="43db612f-6c3c-4a3c-a4ba-816a85f47d16" name="Slopes of Amon Hen">
+  <card id="43db612f-6c3c-4a3c-a4ba-816a85f47d16" name="Slopes of Amon Hen" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Location"/>
@@ -953,7 +953,7 @@
     <property name="Text" value="Travel: A player at this staging area must engage an enemy in any staging area to travel here."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if the defending character has fewer printed hit points than the attacking enemy)."/>
   </card>
-  <card id="aeba0e59-8dde-4422-bfb5-911ae8de42a1" name="Growing Threat">
+  <card id="aeba0e59-8dde-4422-bfb5-911ae8de42a1" name="Growing Threat" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Treachery"/>
@@ -961,28 +961,28 @@
     <property name="Text" value="When Revealed: Either move 1 enemy engaged with you to the first player's staging area, or Growing Threat gains doomed 2 and surge."/>
     <property name="Shadow" value="Shadow: After this attack, move attacking enemy to the first player's staging area."/>
   </card>
-  <card id="87539fa5-677d-4163-aff5-321841981cd4" name="Orcs of the White Hand">
+  <card id="87539fa5-677d-4163-aff5-321841981cd4" name="Orcs of the White Hand" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Remove all damage from each enemy at this stage. Each enemy at this stage gets +1 $, +1 Û, and +1 Ú until the end of the round."/>
     <property name="Shadow" value="Shadow: If the defending character has fewer printed hit points than the attacking enemy, this attack is considered undefended."/>
   </card>
-  <card id="da177cbd-31e7-42ea-b051-e61f28dbb749" name="Black Feathered Arrows">
+  <card id="da177cbd-31e7-42ea-b051-e61f28dbb749" name="Black Feathered Arrows" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Until the end of the round, add 1 to the archery total at this stage for each ally currently at this stage."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if the defending character has fewer printed hit points than the attacking enemy)."/>
   </card>
-  <card id="57fdb41b-3a17-477d-89e7-b3b139d58642" name="Fallen into Evil">
+  <card id="57fdb41b-3a17-477d-89e7-b3b139d58642" name="Fallen into Evil" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Corruption."/>
     <property name="Text" value="When Revealed: Attach to a hero and move it to the first player's staging area. (Counts as a Condition attachment with the text: &quot;Attached hero loses the hero card type and gains the enemy card type with $ equal to its Ò and engagement cost equal to its threat cost. If Fallen into Evil is discarded, return attached hero to its owner's control.&quot;"/>
   </card>
-  <card id="7068731b-3837-40f3-9e98-6c996af4dddc" name="Lust for the Ring">
+  <card id="7068731b-3837-40f3-9e98-6c996af4dddc" name="Lust for the Ring" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Ring Goes South"/>
     <property name="Type" value="Treachery"/>
@@ -991,7 +991,7 @@
     <property name="Keywords" value="Peril. Surge."/>
     <property name="Text" value="When Revealed: Attach to a non-☺ hero in play. Counts as a Condition attachment with the text: &quot;Forced: After The One Ring exhausts, raise each player's threat by 1 and reduce attached hero's Ò to 0 until the end of the round.&quot;"/>
   </card>
-  <card id="d2e3342e-f2eb-47fe-a653-2b1824b808dc" name="Shadow of Fear">
+  <card id="d2e3342e-f2eb-47fe-a653-2b1824b808dc" name="Shadow of Fear" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Treachery"/>
@@ -1000,7 +1000,7 @@
     <property name="Text" value="When Revealed: Treat the printed text box of each character in play as blank (except for Traits) until the end of the round."/>
     <property name="Shadow" value="Shadow: Defending character does not count its Ú."/>
   </card>
-  <card id="3b05acf1-2c72-4e6c-9f59-a2bacde4820b" name="Pursued by the Enemy">
+  <card id="3b05acf1-2c72-4e6c-9f59-a2bacde4820b" name="Pursued by the Enemy" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Treachery"/>
@@ -1009,7 +1009,7 @@
     <property name="Text" value="When Revealed: Each enemy engaged with a player, and not in the staging area, makes an immediate attack."/>
     <property name="Shadow" value="Shadow: Attacking enemy makes an additional attack after this one."/>
   </card>
-  <card id="0c4b67f7-6bd3-452b-8a7d-8b1e206dca0e" name="Overcome by Grief">
+  <card id="0c4b67f7-6bd3-452b-8a7d-8b1e206dca0e" name="Overcome by Grief" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Objective"/>
@@ -1018,7 +1018,7 @@
     <property name="Text" value="Setup: Add Overcome by Grief to the staging area.&#10;Forced: After a character is destroyed, if Overcome by Grief is unattached, attach to a hero. (Counts as a Condition attachment with the text: &quot;Forced: After a character you control is destroyed, exhaust attached hero. Until the end of the round, attached hero cannot ready.&quot;)"/>
     <property name="Setup" value="s"/>
   </card>
-  <card id="7056509d-298d-4a21-be0c-9780f30b149e" name="Grievous Wound">
+  <card id="7056509d-298d-4a21-be0c-9780f30b149e" name="Grievous Wound" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey in the Dark"/>
     <property name="Type" value="Objective"/>
@@ -1027,7 +1027,7 @@
     <property name="Text" value="Setup: Add Grievous Wound to the staging area.&#10;Forced: After a hero takes damage, if Grievous Wound is unattached, attach to that hero. (Counts as a Condition attachment with the text: &quot;Forced: After attached hero exhausts, deal 1 damage to it.&quot;)"/>
     <property name="Setup" value="s"/>
   </card>
-  <card id="9317bbd9-12e5-47e1-a038-360df6c837b1" name="Followed by Night">
+  <card id="9317bbd9-12e5-47e1-a038-360df6c837b1" name="Followed by Night" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Treachery"/>
@@ -1035,7 +1035,7 @@
     <property name="Keywords" value="Peril. Surge."/>
     <property name="Text" value="When Revealed: Put the topmost enemy of the encounter deck discard pile into play engaged with you."/>
   </card>
-  <card id="a09670b1-ccfe-449a-8743-e468c9d76782" name="Ill Fate">
+  <card id="a09670b1-ccfe-449a-8743-e468c9d76782" name="Ill Fate" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Breaking of the Fellowship"/>
     <property name="Type" value="Treachery"/>
@@ -1044,7 +1044,7 @@
     <property name="Keywords" value="Peril. Surge."/>
     <property name="Text" value="When Revealed: Attach to a hero you control. (Counts as a Condition Attachment with the text: &quot;Forced: After a character you control is destroyed, raise your threat by 2.&quot;)"/>
   </card>
-  <card id="ba2e4a33-edc6-4638-a3f5-b818b080aea8" name="The One Ring">
+  <card id="ba2e4a33-edc6-4638-a3f5-b818b080aea8" name="The One Ring" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>

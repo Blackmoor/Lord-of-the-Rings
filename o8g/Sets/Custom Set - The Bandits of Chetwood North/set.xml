@@ -12,7 +12,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
   </card>
-  <card id="6a72382b-384c-48a2-bd06-88975b871a91" name="Adella Aspensor">
+  <card id="6a72382b-384c-48a2-bd06-88975b871a91" name="Adella Aspensor" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Enemy"/>
@@ -24,7 +24,7 @@
     <property name="Health" value="5"/>
     <property name="Victory Points" value="5"/>
   </card>
-  <card id="4bf49a9c-504a-4237-a293-a780c3ff6585" name="Bandit Thug">
+  <card id="4bf49a9c-504a-4237-a293-a780c3ff6585" name="Bandit Thug" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Enemy"/>
@@ -35,7 +35,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
   </card>
-  <card id="5cb4f13a-2bfa-4eda-8072-2fee102a5570" name="Chestwood Lookout">
+  <card id="5cb4f13a-2bfa-4eda-8072-2fee102a5570" name="Chestwood Lookout" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Enemy"/>
@@ -46,7 +46,7 @@
     <property name="Defense" value="0"/>
     <property name="Health" value="3"/>
   </card>
-  <card id="dc7c65eb-fe1e-4810-95b1-10f7334fcb1c" name="Chetwood Tracker">
+  <card id="dc7c65eb-fe1e-4810-95b1-10f7334fcb1c" name="Chetwood Tracker" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Enemy"/>
@@ -57,7 +57,7 @@
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
   </card>
-  <card id="23d1dee5-1d13-4846-82e5-83d4039c9649" name="Sam Aspensor">
+  <card id="23d1dee5-1d13-4846-82e5-83d4039c9649" name="Sam Aspensor" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Enemy"/>
@@ -69,7 +69,7 @@
     <property name="Health" value="6"/>
     <property name="Victory Points" value="5"/>
   </card>
-  <card id="2c3eee61-f1dc-4a5d-843e-a4f87a04f66e" name="Bandit Hideout">
+  <card id="2c3eee61-f1dc-4a5d-843e-a4f87a04f66e" name="Bandit Hideout" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Location"/>
@@ -77,7 +77,7 @@
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="4"/>
   </card>
-  <card id="28a8f872-d99f-42bf-86a9-92ee2a3c656d" name="Chetwood Path">
+  <card id="28a8f872-d99f-42bf-86a9-92ee2a3c656d" name="Chetwood Path" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Location"/>
@@ -85,13 +85,13 @@
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="3"/>
   </card>
-  <card id="181196c2-08f8-4a35-8a85-baf4cc7eb464" name="Bree Land Treasure">
+  <card id="181196c2-08f8-4a35-8a85-baf4cc7eb464" name="Bree Land Treasure" size="EncounterCard">
     <property name="Quantity" value="8"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Item."/>
   </card>
-  <card id="080c8c11-0e46-424d-b866-570f902315bd" name="Chestwood Outskirts">
+  <card id="080c8c11-0e46-424d-b866-570f902315bd" name="Chestwood Outskirts" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Quest"/>
@@ -106,7 +106,7 @@
       <property name="Quest Points" value="4"/>
     </alternate>
   </card>
-  <card id="cc906386-f8ec-4fd2-9ca6-74be679bc98c" name="Searching for Stolen Treasure">
+  <card id="cc906386-f8ec-4fd2-9ca6-74be679bc98c" name="Searching for Stolen Treasure" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Quest"/>
@@ -120,7 +120,7 @@
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
-  <card id="7d77ed0c-4967-4a18-b639-79358939077a" name="Adella's Fight">
+  <card id="7d77ed0c-4967-4a18-b639-79358939077a" name="Adella's Fight" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Quest"/>
@@ -134,12 +134,12 @@
       <property name="Quest Points" value="14"/>
     </alternate>
   </card>
-  <card id="3b4c6041-12c2-44f9-8c41-6c3ccade2856" name="Ambuscade">
+  <card id="3b4c6041-12c2-44f9-8c41-6c3ccade2856" name="Ambuscade" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="9e082289-d5ec-4d13-98af-fa8880f02346" name="Tracked!">
+  <card id="9e082289-d5ec-4d13-98af-fa8880f02346" name="Tracked!" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Bandits of Chetwood North"/>
     <property name="Type" value="Treachery"/>

@@ -103,7 +103,7 @@
     <property name="Cost" value="1"/>
     <property name="Text" value="Attached hero gains a Î resource icon."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9012" name="Grimbeorn's Quest">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9012" name="Grimbeorn's Quest" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Type" value="Quest"/>
@@ -120,7 +120,7 @@
       <property name="Text" value="Forced: After placing the 7th progress token on Grimbeorn's Quest, The Carrock becomes the active location. Discard the previous active location from play."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9003" name="Against the Trolls">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9003" name="Against the Trolls" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Type" value="Quest"/>
@@ -135,7 +135,7 @@
       <property name="Text" value="When Revealed: Place the unique Troll cards previously set aside into the staging area.&#10;&#10;Players cannot defeat this stage if there are any Troll enemies in play."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9011" name="Grimbeorn the Old">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9011" name="Grimbeorn the Old" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Unique" value="‰"/>
@@ -147,7 +147,7 @@
     <property name="Health" value="10"/>
     <property name="Text" value="Grimbeorn the Old does not exhaust to defend against Troll enemies.&#10;&#10;If Grimbeorn the Old has 8 or more resource tokens on him, he joins the first player as an ally.&#10;&#10;Action: Spend 1 Ì resource to place that resource on Grimbeorn the Old."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9015" name="Louis">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9015" name="Louis" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Unique" value="‰"/>
@@ -160,7 +160,7 @@
     <property name="Health" value="10"/>
     <property name="Text" value="While Louis is engaged with a player, all Troll enemies gain, &quot;Forced: After this enemy attacks, the defending player must raise his threat by 3.&quot;&#10;&#10;Response: After defeating Louis, you may choose and discard 1 &quot;Sacked!&quot; card from play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9016" name="Morris">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9016" name="Morris" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Unique" value="‰"/>
@@ -173,7 +173,7 @@
     <property name="Health" value="10"/>
     <property name="Text" value="While Morris is engaged with a player, all Troll enemies get +1 Û.&#10;&#10;Response: After defeating Morris, you may choose and discard 1 &quot;Sacked!&quot; card from play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9026" name="Stuart">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9026" name="Stuart" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Unique" value="‰"/>
@@ -186,7 +186,7 @@
     <property name="Health" value="10"/>
     <property name="Text" value="While Stuart is engaged with a player, all Troll enemies get +1 Ú.&#10;&#10;Response: After defeating Stuart, you may choose and discard 1 &quot;Sacked!&quot; card from play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9022" name="Rupert">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9022" name="Rupert" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Unique" value="‰"/>
@@ -199,7 +199,7 @@
     <property name="Health" value="10"/>
     <property name="Text" value="Forced: After Rupert attacks, shuffle all copies of the &quot;Sacked!&quot; card from the discard pile back into the encounter deck.&#10;&#10;Response: After defeating Rupert, you may choose and discard 1 &quot;Sacked!&quot; card from play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9017" name="Muck Adder">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9017" name="Muck Adder" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Type" value="Enemy"/>
@@ -212,7 +212,7 @@
     <property name="Text" value="Forced: If Muck Adder damages a character, discard that character from play."/>
     <property name="Shadow" value="Shadow: Defending character gets -1 Ú for the duration of this attack."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9027" name="The Carrock">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9027" name="The Carrock" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Unique" value="‰"/>
@@ -223,7 +223,7 @@
     <property name="Quest Points" value="6"/>
     <property name="Text" value="Players cannot travel to The Carrock except through quest card effects.&#10;&#10;While The Carrock is the active location, Troll enemies get +1 Û and +1 Ú."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9020" name="River Langflood">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9020" name="River Langflood" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Type" value="Location"/>
@@ -232,7 +232,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="While it is in the staging area, River Langflood gets +1 $ for each Troll enemy in play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9005" name="Bee Pastures">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9005" name="Bee Pastures" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Type" value="Location"/>
@@ -241,7 +241,7 @@
     <property name="Quest Points" value="2"/>
     <property name="Text" value="Response: After you travel to Bee Pastures, search the encounter deck and discard pile for Grimbeorn the Old and add him to the staging area. Then, shuffle the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9019" name="Oak-wood Grove">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9019" name="Oak-wood Grove" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Type" value="Location"/>
@@ -250,20 +250,20 @@
     <property name="Quest Points" value="1"/>
     <property name="Text" value="While Oak-wood Grove is the active location, resource tokens from any sphere may be spent as Ì resource tokens."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9002" name="A Frightened Beast">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9002" name="A Frightened Beast" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player raises his threat by the total $ of all cards in the staging area. Any player may choose to discard from play 1 Creature ally card he controls to cancel this effect."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9023" name="Sacked!">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9023" name="Sacked!" size="EncounterCard">
     <property name="Quantity" value="5"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Attach to a hero with no &quot;Sacked!&quot; cards attached controlled by the first player. (Cannot be canceled.) Counts as a condition attachment with the text: &quot;Attached hero cannot attack, defend, commit to a quest, trigger its effect, or collect resources.&quot;"/>
     <property name="Shadow" value="Shadow: If attacking enemy is a Troll, resolve this card's &quot;when revealed&quot; effect."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801202c9021" name="Roasted Slowly">
+  <card id="51223bd0-ffd1-11df-a976-0801202c9021" name="Roasted Slowly" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Conflict at the Carrock"/>
     <property name="Type" value="Treachery"/>

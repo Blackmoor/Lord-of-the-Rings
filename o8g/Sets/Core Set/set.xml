@@ -721,7 +721,7 @@
     <property name="Health" value="4"/>
     <property name="Text" value="Response: After Gandalf enters play, (choose 1): draw 3 cards, deal 4 damage to 1 enemy in play, or reduce your threat by 5."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9074" name="King Spider">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9074" name="King Spider" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Spiders of Mirkwood"/>
     <property name="Type" value="Enemy"/>
@@ -734,7 +734,7 @@
     <property name="Text" value="When Revealed: Each player must choose and exhaust 1 character he controls."/>
     <property name="Shadow" value="Shadow: Defending player must choose and exhaust 1 character he controls. (2 characters instead if this attack is undefended.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9075" name="Hummerhorns">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9075" name="Hummerhorns" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Spiders of Mirkwood"/>
     <property name="Type" value="Enemy"/>
@@ -748,7 +748,7 @@
     <property name="Text" value="Forced: After Hummerhorns engages you, deal 5 damage to a single hero you control."/>
     <property name="Shadow" value="Shadow: Deal 1 damage to each character the defending player controls. (2 damage instead if this attack is undefended.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9076" name="Ungoliant's Spawn">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9076" name="Ungoliant's Spawn" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Spiders of Mirkwood"/>
     <property name="Type" value="Enemy"/>
@@ -761,7 +761,7 @@
     <property name="Text" value="When Revealed: Each character currently committed to a quest gets -1 Ò until the end of the phase."/>
     <property name="Shadow" value="Shadow: Raise defending player's threat by 4. (Raise defending player's threat by 8 instead if this attack is undefended.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9077" name="Great Forest Web">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9077" name="Great Forest Web" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Spiders of Mirkwood"/>
     <property name="Type" value="Location"/>
@@ -770,7 +770,7 @@
     <property name="Quest Points" value="2"/>
     <property name="Text" value="Travel: Each player must exhaust 1 hero he controls to travel here."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9078" name="Mountains of Mirkwood">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9078" name="Mountains of Mirkwood" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Spiders of Mirkwood"/>
     <property name="Type" value="Location"/>
@@ -779,19 +779,19 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="Travel: Reveal the top card of the encounter deck and add it to the staging area to travel here.&#10;&#10;Response: After Mountains of Mirkwood leaves play as an explored location, each player may search the top 5 cards of his deck for 1 card and add it to his hand. Shuffle the rest of the searched cards back into their owners' decks."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9079" name="Eyes of the Forest">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9079" name="Eyes of the Forest" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Spiders of Mirkwood"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player discards all event cards in his hand."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9080" name="Caught in a Web">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9080" name="Caught in a Web" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Spiders of Mirkwood"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The player with the highest threat level attaches this card to one of his heroes. (Counts as a Condition attachment with the text: &quot;Attached hero does not ready during the refresh phase unless you pay 2 resources from that hero's pool.&quot;)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9081" name="Wolf Rider">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9081" name="Wolf Rider" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Wilderlands"/>
     <property name="Type" value="Enemy"/>
@@ -804,7 +804,7 @@
     <property name="Health" value="2"/>
     <property name="Shadow" value="Shadow: Wolf Rider attacks the defending player. That player may declare 1 character as a defender. Deal Wolf Rider its own Shadow card. After combat, return Wolf Rider to the top of the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9082" name="Hill Troll">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9082" name="Hill Troll" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Wilderlands"/>
     <property name="Type" value="Enemy"/>
@@ -817,7 +817,7 @@
     <property name="Victory Points" value="4"/>
     <property name="Text" value="Excess combat damage dealt by Hill Troll (damage that is dealt beyond the remaining hit points of the character damaged by its attack) must be assigned as an increase to your threat."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9083" name="Goblin Sniper">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9083" name="Goblin Sniper" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Wilderlands"/>
     <property name="Type" value="Enemy"/>
@@ -829,7 +829,7 @@
     <property name="Health" value="2"/>
     <property name="Text" value="During the encounter phase, players cannot optionally engage Goblin Sniper if there are other enemies in the staging area.&#10;&#10;Forced: If Goblin Sniper is in the staging area at the end of the combat phase, each player deals 1 point of damage to 1 character he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9084" name="Marsh Adder">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9084" name="Marsh Adder" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Wilderlands"/>
     <property name="Type" value="Enemy"/>
@@ -842,7 +842,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="Forced: Each time Marsh Adder attacks you, raise your threat by 1."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9085" name="Wargs">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9085" name="Wargs" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Wilderlands"/>
     <property name="Type" value="Enemy"/>
@@ -855,14 +855,14 @@
     <property name="Text" value="Forced: If Wargs is dealt a shadow card with no effect, return Wargs to the staging area after it attacks."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+2 Û instead if this attack is undefended.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9086" name="Despair">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9086" name="Despair" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Wilderlands"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Remove 4 progress tokens from the current quest card. (If there are fewer than 4 progress tokens on the quest, remove all progress tokens from that quest.)"/>
     <property name="Shadow" value="Shadow: Defending character does not count its Ú."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9087" name="The Brown Lands">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9087" name="The Brown Lands" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Wilderlands"/>
     <property name="Type" value="Location"/>
@@ -871,7 +871,7 @@
     <property name="Quest Points" value="1"/>
     <property name="Text" value="Forced: After the players travel to The Brown Lands, place 1 progress token on it."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9088" name="The East Bight">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9088" name="The East Bight" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Wilderlands"/>
     <property name="Type" value="Location"/>
@@ -880,7 +880,7 @@
     <property name="Quest Points" value="6"/>
     <property name="Text" value="When faced with the option to travel, the players must travel to The East Bight if there is no active location."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9089" name="Dol Guldur Orcs">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9089" name="Dol Guldur Orcs" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Dol Guldur Orcs"/>
     <property name="Type" value="Enemy"/>
@@ -893,7 +893,7 @@
     <property name="Text" value="When Revealed: The first player chooses 1 character currently committed to a quest. Deal 2 damage to that character."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+3 Û instead if this attack is undefended.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9090" name="Chieftan Ufthak">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9090" name="Chieftan Ufthak" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Dol Guldur Orcs"/>
     <property name="Type" value="Enemy"/>
@@ -907,7 +907,7 @@
     <property name="Victory Points" value="4"/>
     <property name="Text" value="Forced: After Chieftain Ufthak attacks, place 1 resource token on him."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9091" name="Dol Guldur Beastmaster">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9091" name="Dol Guldur Beastmaster" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Dol Guldur Orcs"/>
     <property name="Type" value="Enemy"/>
@@ -919,20 +919,20 @@
     <property name="Health" value="5"/>
     <property name="Text" value="Forced: When Dol Guldur Beastmaster attacks, deal it 1 additional shadow card."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9092" name="Driven by Shadow">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9092" name="Driven by Shadow" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Dol Guldur Orcs"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each enemy and each location currently in the staging area gets +1 $ until the end of the phase. If there are no cards in the staging area, Driven by Shadow gains surge."/>
     <property name="Shadow" value="Shadow: Choose and discard 1 attachment from the defending character. (If this attack is undefended, discard all attachments you control.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9093" name="The Necromancer's Reach">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9093" name="The Necromancer's Reach" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Dol Guldur Orcs"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Deal 1 damage to each exhausted character."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9094" name="Necromancer's Pass">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9094" name="Necromancer's Pass" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Dol Guldur Orcs"/>
     <property name="Type" value="Location"/>
@@ -941,7 +941,7 @@
     <property name="Quest Points" value="2"/>
     <property name="Text" value="Travel: The first player must discard 2 cards from his hand at random to travel here."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9095" name="Enchanted Stream">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9095" name="Enchanted Stream" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Dol Guldur Orcs"/>
     <property name="Type" value="Location"/>
@@ -950,7 +950,7 @@
     <property name="Quest Points" value="2"/>
     <property name="Text" value="While Enchanted Stream is the active location, players cannot draw cards."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9096" name="Forest Spider">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9096" name="Forest Spider" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Passage Through Mirkwood"/>
     <property name="Type" value="Enemy"/>
@@ -963,7 +963,7 @@
     <property name="Text" value="Forced: After Forest Spider engages a player, it gets +1 Û until the end of the round."/>
     <property name="Shadow" value="Shadow: Defending player must choose and discard 1 attachment he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9097" name="East Bight Patrol">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9097" name="East Bight Patrol" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Passage Through Mirkwood"/>
     <property name="Type" value="Enemy"/>
@@ -975,7 +975,7 @@
     <property name="Health" value="2"/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (If this attack is undefended, also raise your threat by 3.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9098" name="Black Forest Bats">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9098" name="Black Forest Bats" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Passage Through Mirkwood"/>
     <property name="Type" value="Enemy"/>
@@ -987,7 +987,7 @@
     <property name="Health" value="2"/>
     <property name="Text" value="When Revealed: Each player must choose 1 character currently committed to a quest, and remove that character from the quest. (The chosen character does not ready.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9099" name="Old Forest Road">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9099" name="Old Forest Road" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Passage Through Mirkwood"/>
     <property name="Type" value="Location"/>
@@ -996,7 +996,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="Response: After you travel to Old Forest Road, the first player may choose and ready 1 character he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9100" name="Forest Gate">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9100" name="Forest Gate" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Passage Through Mirkwood"/>
     <property name="Type" value="Location"/>
@@ -1005,7 +1005,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Text" value="Response: After you travel to Forest Gate, the first player may draw 2 cards."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9101" name="Dungeon Jailor">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9101" name="Dungeon Jailor" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Enemy"/>
@@ -1018,7 +1018,7 @@
     <property name="Victory Points" value="5"/>
     <property name="Text" value="Forced: If Dungeon Jailor is in the staging area after the players have just quested unsuccessfully, shuffle 1 unclaimed objective card from the staging area back into the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9102" name="Nazgûl of Dol Guldur">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9102" name="Nazgûl of Dol Guldur" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Enemy"/>
@@ -1031,7 +1031,7 @@
     <property name="Health" value="9"/>
     <property name="Text" value="Forced: When the prisoner is &quot;rescued&quot;, move Nazgul of Dol Guldur into the staging area.&#10;&#10;Forced: After a shadow effect dealt to Nazgul of Dol Guldur resolves, the engaged player must choose and discard 1 character he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9103" name="Cavern Guardian">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9103" name="Cavern Guardian" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Enemy"/>
@@ -1044,21 +1044,21 @@
     <property name="Health" value="2"/>
     <property name="Shadow" value="Shadow: Choose and discard 1 attachment you control. Discarded  objective cards are returned to the staging area. (If this attack is  undefended, discard all attachments you control.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9104" name="Under the Shadow">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9104" name="Under the Shadow" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Until the end of the phase, raise the total $ in the  staging area by X, where X is the number of players in the game."/>
     <property name="Shadow" value="Shadow: Defending player raises his threat by the number of enemies  with which he is engaged."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9105" name="Iron Shackles">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9105" name="Iron Shackles" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Attach Iron Shackles to the top of the first player's deck. (Counts as a Condition attachment with the text: &quot;The next time a player would draw 1 or more cards from attached deck, discard Iron Shackles instead.&quot;)"/>
     <property name="Shadow" value="Shadow: Resolve the &quot;When Revealed&quot; effect of Iron Shackles."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9106" name="Endless Caverns">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9106" name="Endless Caverns" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Location"/>
@@ -1067,7 +1067,7 @@
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="3"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9107" name="Tower Gate">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9107" name="Tower Gate" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Location"/>
@@ -1076,7 +1076,7 @@
     <property name="Quest Points" value="1"/>
     <property name="Text" value="Forced: After travelling to Tower Gate, each player places the top card of his deck, face down in front of him, as if it just engaged him from the staging area. These cards are called &quot;Orc Guard&quot;, and act as enemies with: 1 hit point, 1 Û, and 1 Ú."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9108" name="Gandalf's Map">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9108" name="Gandalf's Map" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Objective"/>
@@ -1084,7 +1084,7 @@
     <property name="Keywords" value="Guarded. Restricted."/>
     <property name="Text" value="Action: Raise your threat by 2 to claim this objective when it is free of encounters. When claimed, attach Gandalf's Map to a hero you control. (Counts as an attachment. If detached, return Gandalf's Map to the staging area.) &#10;&#10;Attached hero cannot attack or defend."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9109" name="Dungeon Torch">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9109" name="Dungeon Torch" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Objective"/>
@@ -1092,7 +1092,7 @@
     <property name="Keywords" value="Guarded. Restricted."/>
     <property name="Text" value="Action: Raise your threat by 2 to claim this objective when it is free of encounters. When claimed, attach Dungeon Torch to a hero you control. (Counts as an attachment. If detached, return Dungeon Torch to the staging area.)&#10;&#10;Forced: At the end of each round, raise attached hero's controller's threat by 2."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9110" name="Shadow Key">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9110" name="Shadow Key" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Objective"/>
@@ -1100,7 +1100,7 @@
     <property name="Keywords" value="Guarded. Restricted."/>
     <property name="Text" value="Action: Raise your threat by 2 to claim this objective when it is free of encounters. When claimed, attach Shadow Key to a hero you control. (Counts as an attachment. If detached, return Shadow Key to the staging area.)&#10;&#10;Forced: At the end of each round, attached hero suffers 1 damage."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9111" name="Misty Mountain Goblins">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9111" name="Misty Mountain Goblins" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Journey Down the Anduin"/>
     <property name="Type" value="Enemy"/>
@@ -1113,14 +1113,14 @@
     <property name="Text" value="Forced: After Misty Mountain Goblins attacks, remove 1 progress token from the current quest."/>
     <property name="Shadow" value="Shadow: Remove 1 progress token from the current quest. (3 progress tokens instead if this attack is undefended.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9112" name="Massing at Night">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9112" name="Massing at Night" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey Down the Anduin"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Reveal X additional cards from the encounter deck. X is the number of players in the game."/>
     <property name="Shadow" value="Shadow: Deal X shadow cards to this attacker. X is the number of players in the game."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9113" name="Banks of the Anduin">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9113" name="Banks of the Anduin" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Journey Down the Anduin"/>
     <property name="Type" value="Location"/>
@@ -1129,7 +1129,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="Forced: If Banks of the Anduin leaves play, return it to the top of the encounter deck instead of placing it in the discard pile."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9114" name="Gladden Fields">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9114" name="Gladden Fields" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Journey Down the Anduin"/>
     <property name="Type" value="Location"/>
@@ -1139,7 +1139,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="Forced: While Gladden Fields is the active location, each player must raise his threat by an additional point during the refresh phase."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9115" name="Eastern Crows">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9115" name="Eastern Crows" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Sauron's Reach"/>
     <property name="Type" value="Enemy"/>
@@ -1153,26 +1153,26 @@
     <property name="Text" value="Forced: After Eastern Crows is defeated, shuffle it back into the encounter deck."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+2 Û instead if defending player's threat is 35 or higher.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9116" name="Evil Storm">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9116" name="Evil Storm" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Sauron's Reach"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Deal 1 damage to each character controlled by each player with a threat of 35 or higher."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9117" name="Pursued by Shadow">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9117" name="Pursued by Shadow" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Sauron's Reach"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player raises his threat by 1 for each character he controls that is not currently committed to a quest."/>
     <property name="Shadow" value="Shadow: Defending player chooses and returns 1 exhausted ally he controls to its owner's hand. If he controls no exhausted allies, raise his threat by 3."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9118" name="Treacherous Fog">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9118" name="Treacherous Fog" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Sauron's Reach"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each location in the staging area gets +1 $ until the end of the phase. Then, each player with a threat of 35 or higher chooses and discards 1 card from his hand."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9119" name="Flies and Spiders">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9119" name="Flies and Spiders" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Passage Through Mirkwood"/>
     <property name="Type" value="Quest"/>
@@ -1188,7 +1188,7 @@
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9121" name="A Fork in the Road">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9121" name="A Fork in the Road" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Passage Through Mirkwood"/>
     <property name="Type" value="Quest"/>
@@ -1203,7 +1203,7 @@
       <property name="Text" value="Forced: When you defeat this stage, proceed to one of the 2 &quot;A Chosen Path&quot; stages, at random."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9123" name="A Chosen Path">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9123" name="A Chosen Path" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Passage Through Mirkwood"/>
     <property name="Type" value="Quest"/>
@@ -1218,7 +1218,7 @@
       <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for 1 Spider card of his choice, and add it to the staging area.&#10;&#10;The players must find and defeat Ungoliant's Spawn to win this game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9125" name="A Chosen Path">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9125" name="A Chosen Path" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Passage Through Mirkwood"/>
     <property name="Type" value="Quest"/>
@@ -1233,7 +1233,7 @@
       <property name="Text" value="Players cannot defeat this stage while Ungoliant's Spawn is in play. If players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9127" name="The Necromancer's Tower">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9127" name="The Necromancer's Tower" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Quest"/>
@@ -1250,7 +1250,7 @@
       <property name="Text" value="When Revealed: Randomly select 1 hero card (among all the heroes controlled by the players) and turn it facedown. That hero is now considered a &quot;prisoner&quot;, cannot be used, cannot be damaged, and does not collect resources, until it is &quot;rescued&quot; (as instructed by card effects) later in this quest.&#10;&#10;The players, as a group, cannot play more than 1 ally card each round.&#10;&#10;Players cannot advance to the next stage of this quest unless they have at least 1 objective card."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9129" name="Through the Caverns">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9129" name="Through the Caverns" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Quest"/>
@@ -1265,7 +1265,7 @@
       <property name="Text" value="Response: After placing any number of progress tokens on this card, flip the &quot;prisoner&quot; hero card face-up, and place 1 damage token on it. This hero has been &quot;rescued&quot;, and may now be used by its controller.&#10;&#10;The players, as a group, cannot play more than 1 ally card each round.&#10;&#10;Players cannot advance to the next stage of this quest unless they have rescued the prisoner and have all 3 &quot;Escape from Dol Guldur&quot; objective cards."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9131" name="Out of the Dungeons">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9131" name="Out of the Dungeons" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Escape from Dol Guldur"/>
     <property name="Type" value="Quest"/>
@@ -1280,7 +1280,7 @@
       <property name="Text" value="Forced: At the beginning of each quest phase, each player places the top card of his deck, face down in front of him, as if it just engaged him from the staging area. These cards are called &quot;Orc Guard&quot;, and act as enemies with: 1 hit point, 1 Û, and 1 Ú.&#10;&#10;Players cannot defeat this stage while Nazgul of Dol Guldur is in play. If this stage is defeated and Nazgul of Dol Guldur is not in play, the players have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9133" name="To the River...">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9133" name="To the River..." size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey Down the Anduin"/>
     <property name="Type" value="Quest"/>
@@ -1296,7 +1296,7 @@
       <property name="Text" value="When Revealed: Search the encounter deck for 1 Hill Troll (if one is not already in play), and place it in the staging area. Shuffle the encounter deck.&#10;&#10;Players cannot defeat this stage while any Hill Troll cards are in play."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9135" name="Anduin Passage">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9135" name="Anduin Passage" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey Down the Anduin"/>
     <property name="Type" value="Quest"/>
@@ -1311,7 +1311,7 @@
       <property name="Text" value="Reveal 1 additional card from the encounter deck each quest phase. Do not make engagement checks during the encounter phase. (Each player may still optionally engage 1 enemy each encounter phase.)"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801200c9137" name="Ambush on the Shore">
+  <card id="51223bd0-ffd1-11df-a976-0801200c9137" name="Ambush on the Shore" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Journey Down the Anduin"/>
     <property name="Type" value="Quest"/>

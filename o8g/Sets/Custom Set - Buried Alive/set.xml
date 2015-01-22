@@ -14,7 +14,7 @@
     <property name="Health" value="5"/>
     <property name="Text" value="Action: Remove 1 resource token from Nor to give him a resource icon of your choice until the end of the phase."/>
   </card>
-  <card id="e0fc8401-09b4-4856-a029-a8c9d7752437" name="Longbeard Cavern">
+  <card id="e0fc8401-09b4-4856-a029-a8c9d7752437" name="Longbeard Cavern" size="EncounterCard">
     <property name="Encounter Set" value="Buried Alive"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Mountain, Cave."/>
@@ -23,14 +23,14 @@
     <property name="Victory Points" value="2"/>
     <property name="Text" value="While Longbeard Cavern is the active location Dwarf allies cost 1 less resource to play.&#10;&#10;While Longbeard Cavern is in play Nor gains 'Action: Exhaust Nor to add 2 resource tokens to his resource pool (Limit once per round)'"/>
   </card>
-  <card id="85c0fdb3-618f-45cb-953c-c3f18fec2ebb" name="Treacherous Slope">
+  <card id="85c0fdb3-618f-45cb-953c-c3f18fec2ebb" name="Treacherous Slope" size="EncounterCard">
     <property name="Encounter Set" value="Buried Alive"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Mountain, Hazard"/>
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Action: If there are more than X enemies in play, exhaust a Hero to claim Treacherous Slope. X equals twice the number of players. Attach Treacherous Slope to that Hero.&#10;&#10;Action: If claimed, place Treacherous Slope in the victory display to trigger an avalanche. Each player may reduce thier threat by 2 for each enemy engaged with them then discard all enemies from play."/>
   </card>
-  <card id="61377eb5-4d26-4769-a6f0-21e352ea26aa" name="The Mountain Pass">
+  <card id="61377eb5-4d26-4769-a6f0-21e352ea26aa" name="The Mountain Pass" size="QuestCard">
     <property name="Encounter Set" value="Buried Alive"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
@@ -46,7 +46,7 @@
       <property name="Text" value="When Revealed: Reveal 1 encounter card and add it to the staging area."/>
     </alternate>
   </card>
-  <card id="09848c47-f593-4daa-9b1d-aa27240e5f77" name="The Diversion">
+  <card id="09848c47-f593-4daa-9b1d-aa27240e5f77" name="The Diversion" size="QuestCard">
     <property name="Encounter Set" value="Buried Alive"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
@@ -62,7 +62,7 @@
       <property name="Text" value="When Revealed: Put Treacherous Slope into the staging area.&#10;&#10;You cannot complete this stage of the quest until the Treacherous Slope is in your victory display."/>
     </alternate>
   </card>
-  <card id="f3cfdaa0-7ffb-4129-9460-f0a18979ecf8" name="The Rescue">
+  <card id="f3cfdaa0-7ffb-4129-9460-f0a18979ecf8" name="The Rescue" size="QuestCard">
     <property name="Encounter Set" value="Buried Alive"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>

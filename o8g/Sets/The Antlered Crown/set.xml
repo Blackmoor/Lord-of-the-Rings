@@ -95,7 +95,7 @@
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
   </card>
-  <card id="4bc78852-59b2-4126-86e1-96a1ee918a05" name="Battle for Dunland">
+  <card id="4bc78852-59b2-4126-86e1-96a1ee918a05" name="Battle for Dunland" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Quest"/>
@@ -110,7 +110,7 @@
       <property name="Quest Points" value="10"/>
     </alternate>
   </card>
-  <card id="9b75695b-8431-40ea-8041-afaaa34dc3f4" name="The Raven Clan">
+  <card id="9b75695b-8431-40ea-8041-afaaa34dc3f4" name="The Raven Clan" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Quest"/>
@@ -124,7 +124,7 @@
       <property name="Quest Points" value="15"/>
     </alternate>
   </card>
-  <card id="c9c2b094-c895-4714-bb2e-c6558c82a153" name="The Last Stage">
+  <card id="c9c2b094-c895-4714-bb2e-c6558c82a153" name="The Last Stage" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Quest"/>
@@ -138,7 +138,7 @@
       <property name="Quest Points" value="–"/>
     </alternate>
   </card>
-  <card id="a56cab99-d482-4aa3-b5e4-b1e5b857515f" name="Chief Turch">
+  <card id="a56cab99-d482-4aa3-b5e4-b1e5b857515f" name="Chief Turch" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Unique" value="‰"/>
@@ -150,7 +150,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
   </card>
-  <card id="eaaececf-9322-43b5-a190-bdfadd7a695e" name="Raven Chief">
+  <card id="eaaececf-9322-43b5-a190-bdfadd7a695e" name="Raven Chief" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Unique" value="‰"/>
@@ -164,7 +164,7 @@
     <property name="Health" value="9"/>
     <property name="Victory Points" value="3"/>
   </card>
-  <card id="1208f735-6984-4c4d-ab8c-429664e4e060" name="Raven Chief's Camp">
+  <card id="1208f735-6984-4c4d-ab8c-429664e4e060" name="Raven Chief's Camp" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Unique" value="‰"/>
@@ -175,7 +175,7 @@
     <property name="Quest Points" value="9"/>
     <property name="Victory Points" value="3"/>
   </card>
-  <card id="4ebd8ec5-79fe-4305-9c33-e06d37b1c8d5" name="Raven Warrior">
+  <card id="4ebd8ec5-79fe-4305-9c33-e06d37b1c8d5" name="Raven Warrior" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Enemy"/>
@@ -186,7 +186,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
   </card>
-  <card id="7271da0e-570b-461c-b632-b6f82ab2c146" name="Raven Skirmisher">
+  <card id="7271da0e-570b-461c-b632-b6f82ab2c146" name="Raven Skirmisher" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Enemy"/>
@@ -197,7 +197,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="2"/>
   </card>
-  <card id="5842e027-3789-4253-a382-27527ec4fe8a" name="Raven War-camp">
+  <card id="5842e027-3789-4253-a382-27527ec4fe8a" name="Raven War-camp" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Location"/>
@@ -205,7 +205,7 @@
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="4"/>
   </card>
-  <card id="2935fd55-6945-4c20-8586-c435ceec52f3" name="Raven Village">
+  <card id="2935fd55-6945-4c20-8586-c435ceec52f3" name="Raven Village" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Location"/>
@@ -213,7 +213,7 @@
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="3"/>
   </card>
-  <card id="13b4d81e-1bd7-4a56-a418-b60e58767c12" name="Dunland Battlefield">
+  <card id="13b4d81e-1bd7-4a56-a418-b60e58767c12" name="Dunland Battlefield" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Location"/>
@@ -221,7 +221,7 @@
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="5"/>
   </card>
-  <card id="54a26608-eebd-4bd6-855a-ceccb4507bab" name="Raven Country">
+  <card id="54a26608-eebd-4bd6-855a-ceccb4507bab" name="Raven Country" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Location"/>
@@ -229,18 +229,18 @@
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="6"/>
   </card>
-  <card id="e1479aa5-7a6d-426a-930b-64ae24143733" name="Raising the Cry">
+  <card id="e1479aa5-7a6d-426a-930b-64ae24143733" name="Raising the Cry" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="857da3db-7159-4dfa-a925-8547fb6df455" name="Fierce Folk">
+  <card id="857da3db-7159-4dfa-a925-8547fb6df455" name="Fierce Folk" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 3."/>
   </card>
-  <card id="1edaecb1-72e8-49db-98fd-6fc377815c4b" name="Driven Back">
+  <card id="1edaecb1-72e8-49db-98fd-6fc377815c4b" name="Driven Back" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Treachery"/>

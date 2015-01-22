@@ -127,7 +127,7 @@
     <property name="Cost" value="0"/>
     <property name="Text" value="Limit 1 Boots from Erebor per character.&#10;&#10;Attached character gets +1 hit point."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9054" name="Patrol Leader">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9054" name="Patrol Leader" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Into the Pit"/>
     <property name="Type" value="Enemy"/>
@@ -140,14 +140,14 @@
     <property name="Text" value="Forced: Before Patrol Leader is dealt damage, discard the top card of the encounter deck. If the discarded card is an enemy, cancel that damage."/>
     <property name="Shadow" value="Shadow: Cancel all damage dealt to this enemy."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9073" name="Signs of Conflict">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9073" name="Signs of Conflict" size="EncounterCard">
     <property name="Quantity" value="5"/>
     <property name="Encounter Set" value="Into the Pit"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 2. Surge."/>
     <property name="Shadow" value="Shadow: Defending player raises his threat by 2."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9027" name="East-gate">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9027" name="East-gate" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into the Pit"/>
     <property name="Unique" value="‰"/>
@@ -159,7 +159,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Players cannot optionally engage enemies and no engagement checks are made.&#10;&#10;Forced: After East-gate leaves play as an explored location, add First Hall to the staging area."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9032" name="First Hall">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9032" name="First Hall" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into the Pit"/>
     <property name="Unique" value="‰"/>
@@ -170,7 +170,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Travel: Each player must raise his threat by 3 to travel here.&#10;&#10;Forced: After First Hall leaves play as an explored location, add Bridge of Khazad-dum to the staging area."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9014" name="Bridge of Khazad-dûm">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9014" name="Bridge of Khazad-dûm" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into the Pit"/>
     <property name="Unique" value="‰"/>
@@ -181,7 +181,7 @@
     <property name="Victory Points" value="2"/>
     <property name="Text" value="While Bridge of Khazad-dûm is the active location, players cannot play cards."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9074" name="Stairs of Náin">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9074" name="Stairs of Náin" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Into the Pit"/>
     <property name="Type" value="Location"/>
@@ -191,7 +191,7 @@
     <property name="Text" value="Travel: The first player must exhaust 1 character he controls to travel here."/>
     <property name="Shadow" value="Shadow: Defending player must choose and exhaust 1 character he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9018" name="Cave-troll">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9018" name="Cave-troll" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Seventh Level"/>
     <property name="Type" value="Enemy"/>
@@ -204,7 +204,7 @@
     <property name="Victory Points" value="2"/>
     <property name="Text" value="For each excess point of combat damage dealt by Cave-troll (damage that is dealt beyond the remaining hit points of the character damaged by its attack) you must damage another character you control."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9053" name="Orc Horn Blower">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9053" name="Orc Horn Blower" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Seventh Level"/>
     <property name="Type" value="Enemy"/>
@@ -217,13 +217,13 @@
     <property name="Health" value="3"/>
     <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck and add it to the staging area."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9043" name="Hidden Threat">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9043" name="Hidden Threat" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Seventh Level"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must raise his threat by 1 for each enemy in the staging area. Then, the last player discards an attachment he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9084" name="Upper Hall">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9084" name="Upper Hall" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Seventh Level"/>
     <property name="Type" value="Location"/>
@@ -232,7 +232,7 @@
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="4"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9011" name="Book of Mazarbul">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9011" name="Book of Mazarbul" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Seventh Level"/>
     <property name="Unique" value="‰"/>
@@ -241,7 +241,7 @@
     <property name="Keywords" value="Restricted."/>
     <property name="Text" value="Action: Exhaust a hero to claim this objective. Then, attach Book of Mazarbul to that hero. (If detached, return Book of Mazarbul to the staging area.)&#10;&#10;Attached hero cannot attack and does not exhaust to commit to a quest."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9080" name="The Nameless Fear">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9080" name="The Nameless Fear" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Unique" value="‰"/>
@@ -255,27 +255,27 @@
     <property name="Health" value="27"/>
     <property name="Text" value="The Nameless Fear cannot engage or be engaged.&#10;&#10;X is the number of victory points in the victory display."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9051" name="New Devilry">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9051" name="New Devilry" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: If the players are not on stage 1, shuffle the current quest card into the quest deck, then reveal a new quest card. Otherwise, New Devilry gains surge."/>
     <property name="Shadow" value="Shadow: If this attack is undefended, raise your threat by The Nameless Fear's $."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9072" name="Shadow of Fear">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9072" name="Shadow of Fear" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player attaches Shadow of Fear to one of his heroes. (Counts as a Condition attachment with the text: &quot;Limit 1 per hero. Attached hero cannot exhaust or ready and its text box is treated as if it were blank. Action: Pay 3 resources from attached hero's pool to discard this card.&quot;)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9001" name="A Foe Beyond">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9001" name="A Foe Beyond" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The last player deals damage equal to The Nameless Fear's attack to a hero he controls. This effect cannot be canceled."/>
     <property name="Shadow" value="Shadow: Deal damage equal to The Nameless Fear's Û to the defending character."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9006" name="Abandoned Tools">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9006" name="Abandoned Tools" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Type" value="Objective"/>
@@ -283,7 +283,7 @@
     <property name="Keywords" value="Guarded. Restricted."/>
     <property name="Text" value="Action: Exhaust a hero to claim this objective if it has no encounters attached. Then, attach Abandoned Tools to that hero. (If detached, return Abandoned Tools to the staging area.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9020" name="Chieftain of the Pit">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9020" name="Chieftain of the Pit" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Plundering Goblins"/>
     <property name="Type" value="Enemy"/>
@@ -296,7 +296,7 @@
     <property name="Text" value="When Revealed: Chieftain of the Pit gets +3 Û until the end of the round."/>
     <property name="Shadow" value="Shadow: attacking enemy attacks again after this attack. Deal it another shadow card for the next attack."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9039" name="Goblin Spearman">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9039" name="Goblin Spearman" size="EncounterCard">
     <property name="Quantity" value="5"/>
     <property name="Encounter Set" value="Plundering Goblins"/>
     <property name="Type" value="Enemy"/>
@@ -309,7 +309,7 @@
     <property name="Text" value="Goblin Spearman gets +2 Û if its attack is undefended."/>
     <property name="Shadow" value="Shadow: Add Goblin Spearman to the staging area."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9034" name="Goblin Archer">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9034" name="Goblin Archer" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Plundering Goblins"/>
     <property name="Type" value="Enemy"/>
@@ -322,14 +322,14 @@
     <property name="Health" value="1"/>
     <property name="Text" value="Characters with ranged are eligible to attack Goblin Archer while it is in the staging area.&#10;&#10;Forced: After an enemy is revealed from the encounter deck, the first player must deal 1 damage to 1 character he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9082" name="Undisturbed Bones">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9082" name="Undisturbed Bones" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Plundering Goblins"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must deal X damage to 1 ally he controls. X is the number of allies he controls."/>
     <property name="Shadow" value="Shadow: If the defending character is an ally, discard it from play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9055" name="Plundered Armoury">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9055" name="Plundered Armoury" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Plundering Goblins"/>
     <property name="Type" value="Location"/>
@@ -338,7 +338,7 @@
     <property name="Quest Points" value="2"/>
     <property name="Text" value="While Plundered Armoury is in the staging area, enemies get +1 Û.&#10;&#10;Response: After Plundered Armoury leaves play as an explored location, each player may attach a Weapon or Armour attachment from his hand to 1 character he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9035" name="Goblin Follower">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9035" name="Goblin Follower" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Twists and Turns"/>
     <property name="Type" value="Enemy"/>
@@ -351,7 +351,7 @@
     <property name="Text" value="When Revealed: Goblin Follower engages the last player."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+2 Û instead if attacking the last player.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9013" name="Branching Paths">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9013" name="Branching Paths" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Twists and Turns"/>
     <property name="Type" value="Location"/>
@@ -360,7 +360,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="While Branching Paths is in the staging area, each Dark location gets +1 $.&#10;&#10;Forced: After Branching Paths leaves play as an explored location, look at the top 3 cards of the encounter deck. Players must choose 1 of those to reveal and add to the staging area, moving the other 2 to the bottom of the deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9046" name="Lightless Passage">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9046" name="Lightless Passage" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Twists and Turns"/>
     <property name="Type" value="Location"/>
@@ -370,7 +370,7 @@
     <property name="Text" value="Travel: Players must exhaust a Cave Torch to travel here."/>
     <property name="Shadow" value="Shadow: Cancel all combat damage dealt to attacking enemy."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9089" name="Zigil Mineshaft">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9089" name="Zigil Mineshaft" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Twists and Turns"/>
     <property name="Type" value="Location"/>
@@ -379,21 +379,21 @@
     <property name="Quest Points" value="5"/>
     <property name="Text" value="Action: Raise each player's threat by 1 to place 1 progress token on Zigil Mineshaft."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9047" name="Many Roads">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9047" name="Many Roads" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Twists and Turns"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
     <property name="Text" value="When Revealed: Shuffle all locations in the encounter discard pile back into the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9015" name="Burning Low">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9015" name="Burning Low" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Twists and Turns"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each enemy and location currently in the staging area gets +1 $ until the end of the phase. (+3 $ instead if it is a Dark location.) Players may exhaust a Cave Torch to cancel this effect."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +2 Û."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9017" name="Cave Torch">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9017" name="Cave Torch" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Twists and Turns"/>
     <property name="Type" value="Objective"/>
@@ -401,7 +401,7 @@
     <property name="Keywords" value="Attach to a hero. Restricted."/>
     <property name="Text" value="Action: Exhaust Cave Torch to place up to 3 progress tokens on a Dark location.&#10;&#10;Forced: After Cave Torch exhausts, discard the top card of the encounter deck. If that card is an enemy, add it to the staging area."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9042" name="Great Cave-troll">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9042" name="Great Cave-troll" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Deeps of Moria"/>
     <property name="Type" value="Enemy"/>
@@ -415,7 +415,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="No attachments can be played on Great Cave-troll."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9052" name="Orc Drummer">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9052" name="Orc Drummer" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Deeps of Moria"/>
     <property name="Type" value="Enemy"/>
@@ -427,7 +427,7 @@
     <property name="Health" value="1"/>
     <property name="Text" value="While Orc Drummer is in the staging area, each enemy gets +X $. X is the number of players in the game."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9075" name="Stray Goblin">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9075" name="Stray Goblin" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Deeps of Moria"/>
     <property name="Type" value="Enemy"/>
@@ -440,14 +440,14 @@
     <property name="Text" value="X is the number of players in the game."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +X Û. X is the number of players in the game."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9019" name="Chance Encounter">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9019" name="Chance Encounter" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Deeps of Moria"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Put the top enemy in the encounter discard pile into play, engaged with the first player. If this effect put no enemies into play, Chance Encounter gains surge."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+3 Û instead if engaged with the first player.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9048" name="Massing in the Deep">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9048" name="Massing in the Deep" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Deeps of Moria"/>
     <property name="Type" value="Treachery"/>
@@ -455,7 +455,7 @@
     <property name="Text" value="When Revealed: Reveal X additional cards from the encounter deck and add them to the staging area. X is the number of players in the game."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +X Û. X is the number of players in the game."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9079" name="The Mountains' Roots">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9079" name="The Mountains' Roots" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Deeps of Moria"/>
     <property name="Type" value="Location"/>
@@ -465,28 +465,28 @@
     <property name="Text" value="X is the number of players in the game."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +X Û. X is the number of players in the game."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9016" name="Cave In">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9016" name="Cave In" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Hazards of the Pit"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Hazard."/>
     <property name="Text" value="When Revealed: Remove all progress tokens from the current quest card and active location. If Cave In removed no progress tokens, it gains surge."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9021" name="Crumbling Ruin">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9021" name="Crumbling Ruin" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Hazards of the Pit"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Hazard."/>
     <property name="Text" value="When Revealed: Each player must exhaust a character and discard the top card of his deck, if able. If the printed cost of the discarded card is equal to or higher than the remaining hit points of the exhausted character, discard the exhausted character."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9022" name="Dark and Dreadful">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9022" name="Dark and Dreadful" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Hazards of the Pit"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Deal 1 damage to each exhausted character. (2 damage instead if the active location is a Dark location.)"/>
     <property name="Shadow" value="Shadow: Deal 1 damage to the defending character. (Attacking enemy gets +2 Û instead if this attack is undefended.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9076" name="Sudden Pitfall">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9076" name="Sudden Pitfall" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Hazards of the Pit"/>
     <property name="Type" value="Treachery"/>
@@ -494,7 +494,7 @@
     <property name="Text" value="When Revealed: The first player must discard 1 questing character he controls, if able. This effect cannot be canceled."/>
     <property name="Shadow" value="Shadow: Discard the defending character from play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9023" name="Dreadful Gap">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9023" name="Dreadful Gap" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Hazards of the Pit"/>
     <property name="Type" value="Location"/>
@@ -504,7 +504,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="When Revealed: Immediately travel to Dreadful Gap. If another location is currently active, return it to the staging area.&#10;&#10;X is the number of characters in play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9033" name="Fouled Well">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9033" name="Fouled Well" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Hazards of the Pit"/>
     <property name="Type" value="Location"/>
@@ -513,7 +513,7 @@
     <property name="Quest Points" value="5"/>
     <property name="Text" value="When Revealed: Each player may choose and discard 1 card at random from his hand. If all players did not discard 1 card, Fouled Well gains surge."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9010" name="Black Uruks">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9010" name="Black Uruks" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Misty Mountains"/>
     <property name="Type" value="Enemy"/>
@@ -526,7 +526,7 @@
     <property name="Text" value="When Revealed: The first player must choose and discard an attachment from a questing character, if able."/>
     <property name="Shadow" value="Shadow: If this attack is undefended, deal 2 additional shadow cards to attacking enemy."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9049" name="Mountain Warg">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9049" name="Mountain Warg" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Misty Mountains"/>
     <property name="Type" value="Enemy"/>
@@ -539,14 +539,14 @@
     <property name="Text" value="If Mountain Warg is dealt a shadow card with no effect, return Mountain Warg to the staging area after it attacks."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+2 Û instead if a Mountain is the active location.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9009" name="Bitter Wind">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9009" name="Bitter Wind" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Misty Mountains"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player must discard 3 resources from each hero he controls."/>
     <property name="Shadow" value="Shadow: Defending player must discard 2 resources from each hero he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9045" name="Knees of the Mountain">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9045" name="Knees of the Mountain" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Misty Mountains"/>
     <property name="Type" value="Location"/>
@@ -555,7 +555,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="While Knees of the Mountain is in the staging area, it gains: &quot;Forced: After an enemy engages a player, it gets +1 Û until the end of the round.&quot;"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9081" name="Turbulent Waters">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9081" name="Turbulent Waters" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Misty Mountains"/>
     <property name="Type" value="Location"/>
@@ -564,7 +564,7 @@
     <property name="Quest Points" value="2"/>
     <property name="Text" value="While Turbulent Waters is the active location, players cannot optionally engage enemies."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9086" name="Warg Lair">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9086" name="Warg Lair" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Misty Mountains"/>
     <property name="Type" value="Location"/>
@@ -573,7 +573,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="When Revealed: Search the encounter deck and discard pile for 1 copy of Mountain Warg and add it to the staging area, if able. Shuffle the encounter deck.&#10;&#10;Response: After Warg Lair leaves play as an explored location, each player draws 1 card."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9038" name="Goblin Scout">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9038" name="Goblin Scout" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Goblins of the Deep"/>
     <property name="Type" value="Enemy"/>
@@ -585,7 +585,7 @@
     <property name="Health" value="2"/>
     <property name="Text" value="Each player with a threat of 25 or higher cannot optionally engage Goblin Scout."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9040" name="Goblin Swordsman">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9040" name="Goblin Swordsman" size="EncounterCard">
     <property name="Quantity" value="5"/>
     <property name="Encounter Set" value="Goblins of the Deep"/>
     <property name="Type" value="Enemy"/>
@@ -598,13 +598,13 @@
     <property name="Text" value="Goblin Swordsman gets +2 Û if its attack is undefended."/>
     <property name="Shadow" value="Shadow: Add Goblin Swordsman to the staging area."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9087" name="Watchful Eyes">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9087" name="Watchful Eyes" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Goblins of the Deep"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player attaches Watchful Eyes to one of his heroes. (Counts as a Condition attachment with the text: &quot;Limit 1 per hero. Forced: If attached hero is exhausted at the end of the combat phase, reveal 1 card from the encounter deck and add it to the staging area.&quot;)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9041" name="Goblin Tunnels">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9041" name="Goblin Tunnels" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Goblins of the Deep"/>
     <property name="Type" value="Location"/>
@@ -614,7 +614,7 @@
     <property name="Text" value="While Goblin Tunnels is in the staging area, it gains: &quot;Forced: After a Goblin is revealed from the encounter deck, remove a progress token from the current quest card.&quot;"/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+3 Û instead if attacking enemy is a Goblin.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9036" name="Goblin Patrol">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9036" name="Goblin Patrol" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into the Pit"/>
     <property name="Type" value="Quest"/>
@@ -629,7 +629,7 @@
       <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for 1 enemy of his choice, and add it to the staging area. One choice must be Patrol Leader, if able.&#10;&#10;Forced: After an enemy is revealed from the encounter deck, discard it instead of adding it to the staging area.&#10;&#10;If there are no enemies in play, immediately advance to the next stage of the scenario. (Players can also advance by placing 11 progress tokens on Goblin Patrol.)"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9056" name="Search for an Exit">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9056" name="Search for an Exit" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Type" value="Quest"/>
@@ -646,7 +646,7 @@
       <property name="Text" value="When Revealed: Reveal 1 encounter card per player, and add it to the staging area.&#10;&#10;Players may bypass this quest card at the end of the combat phase."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9028" name="Entering the Mines">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9028" name="Entering the Mines" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into the Pit"/>
     <property name="Type" value="Quest"/>
@@ -663,7 +663,7 @@
       <property name="Text" value="When Revealed: Reveal 1 encounter card per player, and add it to the staging area.&#10;&#10;Players cannot advance to the next stage of the scenario unless Bridge of Khazad-dum is in their victory display."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9070" name="Search for the Chamber">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9070" name="Search for the Chamber" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Seventh Level"/>
     <property name="Type" value="Quest"/>
@@ -680,7 +680,7 @@
       <property name="Text" value="When Revealed: Reveal 1 encounter card per player, and add it to the staging area."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9077" name="The Fate of Balin">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9077" name="The Fate of Balin" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Seventh Level"/>
     <property name="Type" value="Quest"/>
@@ -695,7 +695,7 @@
       <property name="Text" value="When Revealed: Remove Book of Mazarbul from the game.&#10;&#10;Forced: At the end of the staging step, reveal the top X cards of the encounter deck, adding all enemies to the staging area. Discard the other revealed cards without resolving them. X is the number of players.&#10;&#10;If the players defeat this stage, they win the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9004" name="A Way Up">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9004" name="A Way Up" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into the Pit"/>
     <property name="Type" value="Quest"/>
@@ -710,7 +710,7 @@
       <property name="Text" value="Heroes do not collect resources during the resource phase.&#10;&#10;If the players defeat this stage, they win the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9058" name="Search for an Exit">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9058" name="Search for an Exit" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Type" value="Quest"/>
@@ -726,7 +726,7 @@
       <property name="Text" value="When Revealed: The first player chooses 1 of the following:&#10;• Each player discards 1 card from the top of the encounter deck. If the card is a treachery card, the discarding player is eliminated from the game.&#10;• Reveals the next quest card, putting Blocked by Shadow on the bottom of the quest deck.&#10;&#10;Players may bypass this quest card at the end of the combat phase. If the players defeat this stage, they escape and win the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9060" name="Search for an Exit">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9060" name="Search for an Exit" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Type" value="Quest"/>
@@ -742,7 +742,7 @@
       <property name="Text" value="Abandoned Tools gains: &quot;Refresh Action: Exhaust attached hero to put a progress token on Escape from Darkness.&quot;&#10;&#10;Players may bypass this quest card at the end of the combat phase.&#10;&#10;Progress tokens cannot be placed on Escape from Darkness except by Abandoned Tools. If the players defeat this stage, they escape and win the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9002" name="A Presence in the Dark">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9002" name="A Presence in the Dark" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Type" value="Quest"/>
@@ -760,7 +760,7 @@
       <property name="Text" value="When Revealed: Reveal 1 encounter card per player, and add it to the staging area. Then, add A Presence in the Dark to your victory display."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9068" name="Search for an Exit">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9068" name="Search for an Exit" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Type" value="Quest"/>
@@ -777,7 +777,7 @@
       <property name="Text" value="When Revealed: Each player chooses 1 questing character he controls. Each questing character not chosen does not count its Ò until the end of the turn.&#10;&#10;Forced: After placing the 1st progress token on Narrow Paths, search the encounter deck and discard pile for Abandoned Tools and add it to the staging area, if able.&#10;&#10;Players may bypass this quest card at the end of the combat phase."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9066" name="Search for an Exit">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9066" name="Search for an Exit" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Type" value="Quest"/>
@@ -794,7 +794,7 @@
       <property name="Text" value="Forced: If Heading Down is in the player's victory display at the end of any quest phase, shuffle Heading Down back into the quest deck.&#10;&#10;Players may bypass this quest card at the end of the combat phase."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9062" name="Search for an Exit">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9062" name="Search for an Exit" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Type" value="Quest"/>
@@ -811,7 +811,7 @@
       <property name="Text" value="When Revealed: Shuffle all copies of A Foe Beyond from the encounter discard pile back into the encounter deck. Reveal the top 2 cards of the quest deck. Choose 1 to become the active quest (flipped to side 2B) and put the other on the bottom of the quest deck. Then, add Hasty Council to your victory display."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801207c9064" name="Search for an Exit">
+  <card id="51223bd0-ffd1-11df-a976-0801207c9064" name="Search for an Exit" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria"/>
     <property name="Type" value="Quest"/>

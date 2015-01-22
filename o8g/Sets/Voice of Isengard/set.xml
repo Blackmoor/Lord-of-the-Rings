@@ -159,7 +159,7 @@
     <property name="Cost" value="0"/>
     <property name="Text" value="Action: Search your deck for a card with the Doomed keyword and add it to your hand. Shuffle your deck."/>
   </card>
-  <card id="5542dd91-98bd-4a72-bd19-f706f3440ab8" name="Gríma">
+  <card id="5542dd91-98bd-4a72-bd19-f706f3440ab8" name="Gríma" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Unique" value="‰"/>
@@ -172,7 +172,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="If free of encounters, the first player gains control of Grima.&#10;&#10;Action: Exhaust Grima to draw a card.&#10;&#10;If Grima leaves play, the players lose the game."/>
   </card>
-  <card id="3f8e889e-db35-4044-ac19-43fd146bffd1" name="The Islet">
+  <card id="3f8e889e-db35-4044-ac19-43fd146bffd1" name="The Islet" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Unique" value="‰"/>
@@ -184,7 +184,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="While The Islet is the active location, each Dunland enemy in play gets +1 $"/>
   </card>
-  <card id="db1ee7dd-d43c-40a0-9e89-89a5b233af70" name="Fords of Isen">
+  <card id="db1ee7dd-d43c-40a0-9e89-89a5b233af70" name="Fords of Isen" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Type" value="Location"/>
@@ -193,7 +193,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Text" value="While Fords of Isen is in the staging area, players cannot gain resources from card effects.&#10;&#10;Forced: After Fords of Isen becomes the active location, each player with fewer than 5 cards in his hand draws cards until he has 5 in his hand"/>
   </card>
-  <card id="2c7e2c6c-ecaa-48dc-a19e-4477d4fc693d" name="The King's Road">
+  <card id="2c7e2c6c-ecaa-48dc-a19e-4477d4fc693d" name="The King's Road" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Type" value="Location"/>
@@ -202,7 +202,7 @@
     <property name="Quest Points" value="2"/>
     <property name="Text" value="While any player has 3 or more cards in hand, The King's Road gets +3 quest points.&#10;&#10;While any player has 5 or more cards in hand, the King's Road gains: 'When faced with the option to travel, the players must travel to The King's Road, if able.'"/>
   </card>
-  <card id="200ec48a-dd14-41c4-994b-2f5b753f47de" name="Gap of Rohan">
+  <card id="200ec48a-dd14-41c4-994b-2f5b753f47de" name="Gap of Rohan" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Type" value="Location"/>
@@ -213,26 +213,26 @@
     <property name="Text" value="While Gap of Rohan is in the staging area, Dunland enemies get +1 Û"/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û.  If this attack destroys a character, remove 1 time counter from the current quest."/>
   </card>
-  <card id="0ae9f4f9-eec9-404f-ae93-7a54287d1bc2" name="Pillaging and Burning">
+  <card id="0ae9f4f9-eec9-404f-ae93-7a54287d1bc2" name="Pillaging and Burning" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player draws a card. Each player raises his threat by 1 for each card in his hand."/>
     <property name="Shadow" value="Shadow: Defending player discards an attachment he controls (each attachment he controls instead if this attack is undefended."/>
   </card>
-  <card id="10e7e890-727f-49ae-bd5d-d769812d9dce" name="Down From The Hills">
+  <card id="10e7e890-727f-49ae-bd5d-d769812d9dce" name="Down From The Hills" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must choose: Either remove 1 time counter from the current quest, or search the encounter deck and discard pile for a Dunland enemy, reveal it, and add it to the staging area. Shuffle the encounter deck. If any player has 5 or more cards in hand, this effect cannot be canceled."/>
   </card>
-  <card id="4362ef23-0ade-4eea-974b-2959803f8528" name="Ill Tidings">
+  <card id="4362ef23-0ade-4eea-974b-2959803f8528" name="Ill Tidings" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player draws this card into his hand.  Ill tidings cannot leave that player's hand. Then, if the first player has 5 or more cards in his hand, Ill Tidings gains surge."/>
   </card>
-  <card id="6b8ca34a-1f6f-4eed-841c-a5d0db80619a" name="Mugash">
+  <card id="6b8ca34a-1f6f-4eed-841c-a5d0db80619a" name="Mugash" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Unique" value="‰"/>
@@ -246,7 +246,7 @@
     <property name="Health" value="8"/>
     <property name="Text" value="Forced: After Mugash is defeated, the first player attaches him to a hero he controls and exhausts that hero.  (Counts as a Captive attachment with the text: 'Attached hero cannot ready. If attached hero leaves play, the players lose the game.')"/>
   </card>
-  <card id="7d55e738-cc23-4e78-9a88-2a25fa4f3ca4" name="Mugash's Guard">
+  <card id="7d55e738-cc23-4e78-9a88-2a25fa4f3ca4" name="Mugash's Guard" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Type" value="Enemy"/>
@@ -259,7 +259,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="While a player controls a hero with Mugash attached, Mugash's Guard engages that player.&#10;&#10;Forced: After Mugash's Guard destroys a character, if Mugash is attached to a hero, return Mugash to the staging area."/>
   </card>
-  <card id="cd883a3f-65b8-473e-97f7-b8ac12f91194" name="Methedras Orc">
+  <card id="cd883a3f-65b8-473e-97f7-b8ac12f91194" name="Methedras Orc" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Type" value="Enemy"/>
@@ -272,7 +272,7 @@
     <property name="Text" value="Forced: When Methedras Orc attacks, the defending player shuffles 1 random card from his hand into his out-of-play deck."/>
     <property name="Shadow" value="Shadow: If this attack destroys a character, remove 1 time counter from the current quest."/>
   </card>
-  <card id="05a0e539-e140-4dfc-a151-21cd8aaef094" name="Methedras">
+  <card id="05a0e539-e140-4dfc-a151-21cd8aaef094" name="Methedras" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Type" value="Location"/>
@@ -281,7 +281,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="While Methedras is the active location, each location in the staging area gets +1 $.&#10;&#10;Forced: When Methedras leaves play as an explored location, each player Searches 3."/>
   </card>
-  <card id="de212258-f124-4cda-baab-4f696c2b5766" name="Orc Cave">
+  <card id="de212258-f124-4cda-baab-4f696c2b5766" name="Orc Cave" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Type" value="Location"/>
@@ -290,7 +290,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Text" value="Forced: After Orc Cave leaves play as an explored location, the first player Searches 5.&#10;&#10;Travel: Discard the top X cards of the encounter deck to travel here.  X is the number of players in the game. Add each Orc enemy discarded this way to the staging area."/>
   </card>
-  <card id="8dad9a85-eae9-4a39-a823-1c58d8c0f86b" name="Mugash's Lair">
+  <card id="8dad9a85-eae9-4a39-a823-1c58d8c0f86b" name="Mugash's Lair" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Type" value="Location"/>
@@ -300,13 +300,13 @@
     <property name="Text" value="Forced: At the beginning of the encounter phase, reveal the top card of each player's out-of-play deck.  Add each revealed enemy to the staging area and discard the rest."/>
     <property name="Shadow" value="Shadow: Defending player discards an attachment he controls."/>
   </card>
-  <card id="87c80644-57bb-4c66-8df6-c60cadc32d32" name="Orc Territory">
+  <card id="87c80644-57bb-4c66-8df6-c60cadc32d32" name="Orc Territory" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player searches the encounter deck and discard pile for a location and adds it to the staging area.  If the total $ in the staging area is less than the total Ò of all characters committed to the quest, each Orc enemy engaged with a player makes an immediate attack."/>
   </card>
-  <card id="16b71211-85c1-4ad4-8879-831bc7b50ac4" name="Mugash">
+  <card id="16b71211-85c1-4ad4-8879-831bc7b50ac4" name="Mugash" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Unique" value="‰"/>
@@ -315,7 +315,7 @@
     <property name="Keywords" value="Guarded."/>
     <property name="Text" value="Action: Exhaust a hero to claim this objective when it is free of encounters. Attach Mugash to that hero.&#10;&#10;Forced: After attached hero takes damage, return Mugash to the top of the encounter deck."/>
   </card>
-  <card id="20c5f7b7-cfc4-44e1-aaf5-0010ceb9a1b9" name="Edge of Fangorn">
+  <card id="20c5f7b7-cfc4-44e1-aaf5-0010ceb9a1b9" name="Edge of Fangorn" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Unique" value="‰"/>
@@ -327,7 +327,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Travel: Search the encounter deck and discard pile for a Huorn enemy and add it to the staging area to travel here (2 Huorn enemies instead if there are 3 or more players in the game)."/>
   </card>
-  <card id="eccef05c-0f43-4cfa-91c6-e9eaf0eff7c9" name="Dark-Hearted Huorn">
+  <card id="eccef05c-0f43-4cfa-91c6-e9eaf0eff7c9" name="Dark-Hearted Huorn" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Type" value="Enemy"/>
@@ -340,7 +340,7 @@
     <property name="Health" value="5"/>
     <property name="Text" value="Forced:  At the beginning of each resource phase, the engaged player must raise his threat by 2."/>
   </card>
-  <card id="25ae9bce-b4c0-4ff8-aeb3-d0b57d3914d2" name="Angry Huorn">
+  <card id="25ae9bce-b4c0-4ff8-aeb3-d0b57d3914d2" name="Angry Huorn" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Type" value="Enemy"/>
@@ -353,7 +353,7 @@
     <property name="Health" value="8"/>
     <property name="Text" value="Forced:  At the beginning of each resource phase, Angry Huorn attacks the engaged player."/>
   </card>
-  <card id="cd628acc-acdf-48c5-a9cc-136eb9bc3095" name="Deadly Huorn">
+  <card id="cd628acc-acdf-48c5-a9cc-136eb9bc3095" name="Deadly Huorn" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Type" value="Enemy"/>
@@ -366,7 +366,7 @@
     <property name="Health" value="6"/>
     <property name="Text" value="Forced:  At the beginning of each resource phase, the engaged player must deal 3 damage to a character he controls."/>
   </card>
-  <card id="c3907d39-6fd7-4b33-8fe2-215fd9f90be2" name="Heart of Fangorn">
+  <card id="c3907d39-6fd7-4b33-8fe2-215fd9f90be2" name="Heart of Fangorn" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Type" value="Location"/>
@@ -376,13 +376,13 @@
     <property name="Text" value="While Heart of Fangorn is in the staging area, each player cannot refresh more than 5 characters during the refresh phase"/>
     <property name="Shadow" value="Shadow: Attacking enemy makes an additional attack after this one."/>
   </card>
-  <card id="3bc03452-6c37-45e2-9241-e626ea51f382" name="The Forest's Malice">
+  <card id="3bc03452-6c37-45e2-9241-e626ea51f382" name="The Forest's Malice" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each Huorn enemy engaged with a player makes an immediate attack.  If no attack was made as a result of this effect, each player must search the encounter deck and discard pile for a Huorn enemy and put it into play engaged with him.  This effect cannot be canceled."/>
   </card>
-  <card id="ded946a7-99f0-42bf-92f6-a2c46ca64d98" name="Orc Skirmisher">
+  <card id="ded946a7-99f0-42bf-92f6-a2c46ca64d98" name="Orc Skirmisher" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Misty Mountain Orcs"/>
     <property name="Type" value="Enemy"/>
@@ -395,7 +395,7 @@
     <property name="Text" value="Forced: After Orc Skirmisher engages a player, that player must either deal 3 damage to a character he controls, or remove 1 time counter form the current quest."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û"/>
   </card>
-  <card id="a835576b-6a6c-4407-8f40-0151b70f5902" name="Orc Hunter">
+  <card id="a835576b-6a6c-4407-8f40-0151b70f5902" name="Orc Hunter" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Misty Mountain Orcs"/>
     <property name="Type" value="Enemy"/>
@@ -408,7 +408,7 @@
     <property name="Text" value="When Revealed:  Either reveal an additional encounter card, or remove 1 time counter from the current quest."/>
     <property name="Shadow" value="Shadow: Attacking enemy makes and additional attack after this one."/>
   </card>
-  <card id="119cfabc-2cbf-4ffd-a25e-00ec140b8f26" name="Orc Hound">
+  <card id="119cfabc-2cbf-4ffd-a25e-00ec140b8f26" name="Orc Hound" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Misty Mountain Orcs"/>
     <property name="Type" value="Enemy"/>
@@ -421,13 +421,13 @@
     <property name="Health" value="2"/>
     <property name="Text" value="Forced:  After Orc Hound engages a player, that player must exhaust a character he controls."/>
   </card>
-  <card id="bc041e0b-dd7f-4b82-8eb0-d155b1b08398" name="Orc Hunting Party">
+  <card id="bc041e0b-dd7f-4b82-8eb0-d155b1b08398" name="Orc Hunting Party" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Misty Mountain Orcs"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Deal each Orc enemy in play a shadow card.  Each Orc enemy gets -15 engagement cost until the end of the round.  If there are no Orc enemies in the staging area, Orc Hunting Party gains surge."/>
   </card>
-  <card id="d80a5ca5-20d8-4c4b-814c-0c91bba40d43" name="Dunland Prowler">
+  <card id="d80a5ca5-20d8-4c4b-814c-0c91bba40d43" name="Dunland Prowler" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Dunland Raiders"/>
     <property name="Type" value="Enemy"/>
@@ -439,7 +439,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="While any player has 3 or more cards in hand, Dunland Prowler gains surge.&#10;&#10;While any player has 5 or more cards in hand, Dunland Prowler gets +1 $"/>
   </card>
-  <card id="8ab3701c-7814-403c-be93-21cdff4283ed" name="Dunlending Bandit">
+  <card id="8ab3701c-7814-403c-be93-21cdff4283ed" name="Dunlending Bandit" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Dunland Raiders"/>
     <property name="Type" value="Enemy"/>
@@ -452,7 +452,7 @@
     <property name="Text" value="While engaged with a player, Dunlending Bandit gets +1 Û for each card in that player's hand"/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if the defending player has at least 3 cards in his hand)."/>
   </card>
-  <card id="7b491dcc-668a-431f-b0a1-ec2bf34840a7" name="Dunland Raider">
+  <card id="7b491dcc-668a-431f-b0a1-ec2bf34840a7" name="Dunland Raider" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Dunland Raiders"/>
     <property name="Type" value="Enemy"/>
@@ -465,14 +465,14 @@
     <property name="Text" value="Forced: After Dunland Raider engages a player, that player must deal X damage divided among characters he controls where X equals the number of cards in his hand."/>
     <property name="Shadow" value="Shadow: Discard an attachment you control"/>
   </card>
-  <card id="a0d5be90-8618-4fe4-a917-d8d969c11264" name="Old Hatreds">
+  <card id="a0d5be90-8618-4fe4-a917-d8d969c11264" name="Old Hatreds" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Dunland Raiders"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
     <property name="Text" value="When Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: 'Forced: After a player draws any number of cards, raise his threat by 1.')"/>
   </card>
-  <card id="c749f16f-1b34-48ce-ba8e-45f36b8b8229" name="Dunland Tribesman">
+  <card id="c749f16f-1b34-48ce-ba8e-45f36b8b8229" name="Dunland Tribesman" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Dunland Warriors"/>
     <property name="Type" value="Enemy"/>
@@ -485,7 +485,7 @@
     <property name="Text" value="When Revealed: Each player draws a card.&#10;&#10;Forced: After a player draws any number of cards, Dunland Tribesman gets +1 $ until the end of the round."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û"/>
   </card>
-  <card id="ceb5ede8-0acc-40b6-ac43-b9f1ff006d9e" name="Dunland Chieftain">
+  <card id="ceb5ede8-0acc-40b6-ac43-b9f1ff006d9e" name="Dunland Chieftain" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Dunland Warriors"/>
     <property name="Type" value="Enemy"/>
@@ -497,7 +497,7 @@
     <property name="Health" value="6"/>
     <property name="Text" value="Forced: After Dunland Cheieftain engages a player, discard X cards from the top of the encounter deck where X is the number of cards in the engaged player's hand.  Put the topmost Dunland enemy discarded this way into play engaged with that player"/>
   </card>
-  <card id="def7d5a8-3af5-428d-ac94-485c33388ff9" name="Dunland Berserker">
+  <card id="def7d5a8-3af5-428d-ac94-485c33388ff9" name="Dunland Berserker" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Dunland Warriors"/>
     <property name="Type" value="Enemy"/>
@@ -510,14 +510,14 @@
     <property name="Text" value="Forced: After the engaged player draws any number of cards, Dunland Berserker makes an attack."/>
     <property name="Shadow" value="Shadow: Attacking enemy makes an additional attack after this one."/>
   </card>
-  <card id="ef975c81-544a-4f1b-a3c4-d0bc42ef636c" name="Wild Men of Dunland">
+  <card id="ef975c81-544a-4f1b-a3c4-d0bc42ef636c" name="Wild Men of Dunland" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Dunland Warriors"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
     <property name="Text" value="When Revealed: Attach to the current quest.(Counts as a Condition attachment with the text: 'Forced: After a player draws any number of cards, that player deals 1 damage to a character he controls.'"/>
   </card>
-  <card id="c319315a-e506-45a2-8ec0-c98e4bd9bad5" name="Ancient Forest">
+  <card id="c319315a-e506-45a2-8ec0-c98e4bd9bad5" name="Ancient Forest" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Ancient Forest"/>
     <property name="Type" value="Location"/>
@@ -527,7 +527,7 @@
     <property name="Text" value="While Ancient Forest is in the staging area, each Forest location in the staging area gets +1 $ and +3 quest points.  This ability does not stack with other copies of Ancient Forest."/>
     <property name="Shadow" value="Shadow: Defending player exhausts a character he controls."/>
   </card>
-  <card id="be6cf29d-bb8b-494a-9635-85ee9322a690" name="Tangled Woods">
+  <card id="be6cf29d-bb8b-494a-9635-85ee9322a690" name="Tangled Woods" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Ancient Forest"/>
     <property name="Type" value="Location"/>
@@ -536,14 +536,14 @@
     <property name="Quest Points" value="4"/>
     <property name="Text" value="While Tangled Woods is in the staging area, each Forest location in play gains: 'Travel: Exhaust a hero to travel here'.  This ability does not stack with other copies of Tangled Woods."/>
   </card>
-  <card id="6fe8d036-9b7a-4ca4-bab4-272d2a6a8949" name="Turned Around">
+  <card id="6fe8d036-9b7a-4ca4-bab4-272d2a6a8949" name="Turned Around" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Ancient Forest"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Either remove 1 time counter from a card in play, or return the active location to the staging area."/>
     <property name="Shadow" value="Shadow: If this attack is undefended, return the active location to the staging area."/>
   </card>
-  <card id="7c463bf7-9a1a-4d8a-879b-f966f19d0695" name="Prowling Wolf">
+  <card id="7c463bf7-9a1a-4d8a-879b-f966f19d0695" name="Prowling Wolf" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Broken Lands"/>
     <property name="Type" value="Enemy"/>
@@ -556,7 +556,7 @@
     <property name="Text" value="While engaged with a player, Prowling Wolf gets +1 Û for each location in the staging area"/>
     <property name="Shadow" value="Shadow: Defending player exhausts a character he controls."/>
   </card>
-  <card id="838eebac-81db-4f00-aaba-024d70a1582d" name="Broken Lands">
+  <card id="838eebac-81db-4f00-aaba-024d70a1582d" name="Broken Lands" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Broken Lands"/>
     <property name="Type" value="Location"/>
@@ -566,34 +566,34 @@
     <property name="Text" value="While Broken Lands is in the staging area, progress cannot be placed on locations in the staging area."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each location in the staging area."/>
   </card>
-  <card id="8f3395ff-bccf-4620-beec-581c585682f2" name="Take Cover!">
+  <card id="8f3395ff-bccf-4620-beec-581c585682f2" name="Take Cover!" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Broken Lands"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
     <property name="Text" value="When Revealed: Either deal 1 damage to each exhausted character or remove 1 time counter from the current quest."/>
   </card>
-  <card id="5f18c4ca-fcda-46d2-874b-3a1a73ef7c53" name="Low on Provisions">
+  <card id="5f18c4ca-fcda-46d2-874b-3a1a73ef7c53" name="Low on Provisions" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Weary Travellers"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed:  Each player must assign X damage among characters he controls where X is the number of characters that player controls."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û(+2 Û instead if the defending character is undamaged.)"/>
   </card>
-  <card id="7fc629f3-3115-47df-b997-4a5026d97d2b" name="Off Track">
+  <card id="7fc629f3-3115-47df-b997-4a5026d97d2b" name="Off Track" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Weary Travellers"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
     <property name="Text" value="When Revealed: Attach to a location in play. (Counts as a Condition attachment with the text: &quot;Limit 1 per location. Attached location gets +2 quest points and gains: 'Forced: Remove and additional time counter from the current quest at the end of each refresh phase, if able.'&quot;"/>
   </card>
-  <card id="3a8869dc-077e-4b8c-b3d5-474e4f9c14ba" name="In Need of Rest">
+  <card id="3a8869dc-077e-4b8c-b3d5-474e4f9c14ba" name="In Need of Rest" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Weary Travellers"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Remove a hero from the quest and attach In Need of Rest to that hero. (Counts as a Condition attachment with the text: 'Limit 1 per hero.  Forced:  After a time counter is removed from the current quest, attached hero takes 1 damage.')"/>
   </card>
-  <card id="74f297ed-3cb6-4c2d-83d8-c27b447a9250" name="Fight at the Fords">
+  <card id="74f297ed-3cb6-4c2d-83d8-c27b447a9250" name="Fight at the Fords" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Type" value="Quest"/>
@@ -610,7 +610,7 @@
       <property name="Text" value="Time 5. Forced: After the last time counter is removed from this stage, discard Grima from play.&#10;&#10;The players cannot advance unless the first player controls Grima."/>
     </alternate>
   </card>
-  <card id="93ece501-fae4-46e8-9720-316383b86688" name="Dunlending Attack">
+  <card id="93ece501-fae4-46e8-9720-316383b86688" name="Dunlending Attack" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Type" value="Quest"/>
@@ -625,7 +625,7 @@
       <property name="Text" value="When Revealed: Each player searches the encounter deck and discard pile for 1 different Dunland enemy and adds it to the staging area. Shuffle the Encounter Deck.&#10;&#10;Time 2. Forced: After the last time counter is removed from this stage, each player assigns X damage among characters he controls where X is the number of cards in his hand. Place 2 time counters on this stage."/>
     </alternate>
   </card>
-  <card id="0cdc4034-738d-487d-9a8c-8ef364772076" name="Hold the Fords">
+  <card id="0cdc4034-738d-487d-9a8c-8ef364772076" name="Hold the Fords" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Fords of Isen"/>
     <property name="Type" value="Quest"/>
@@ -641,7 +641,7 @@
       <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, discard the top X cards of the encounter deck.  X is the number of card's in the first player's hand.  Add each enemy discarded this way to the staging area.  Put 3 time counters on this stage.&#10;&#10;While there is at least 1 enemy in play, the players cannot defeat this stage.  If the players defeat this stage, they win the game."/>
     </alternate>
   </card>
-  <card id="0e0b125c-ffed-4473-9a64-7d709b16cca5" name="Orders from Orthanc">
+  <card id="0e0b125c-ffed-4473-9a64-7d709b16cca5" name="Orders from Orthanc" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Type" value="Quest"/>
@@ -658,7 +658,7 @@
       <property name="Text" value="When Revealed: Each player searches the encounter deck for a Mountain location and adds it to the staging area. Shuffle the encounter deck. Then, advance to Stage 2"/>
     </alternate>
   </card>
-  <card id="8472068c-fdd7-4197-8046-b9da12c29135" name="Searching for Mugash">
+  <card id="8472068c-fdd7-4197-8046-b9da12c29135" name="Searching for Mugash" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Type" value="Quest"/>
@@ -673,7 +673,7 @@
       <property name="Text" value="Time 2. Forced: After the last time counter is removed from this stage, shuffle the discard pile into the encounter deck and reveal 2 encounter cards per player. Place 2 time counters on this stage.&#10;&#10;Response: After questing successfully, cancel all progress that would be placed on this stage. Then, place 1 time counter on this stage. Or, if Mugash is in play, advance to stage 3."/>
     </alternate>
   </card>
-  <card id="c71fa40c-524e-43ec-b058-7ea239fdfd1d" name="The Wizard's Prize">
+  <card id="c71fa40c-524e-43ec-b058-7ea239fdfd1d" name="The Wizard's Prize" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Type" value="Quest"/>
@@ -688,7 +688,7 @@
       <property name="Text" value="Time 3.  Forced: After the last time counter is removed from this stage, return Mugash to the staging area and reveal X encounter cards.  X is the number of players in the game minus 1.  Place 3 time counters on this stage.&#10;&#10;Progress cannot be placed on this stage unless Mugash is attached to a hero.&#10;&#10;If the players defeat this stage, they win the game."/>
     </alternate>
   </card>
-  <card id="99bdb330-27f2-4534-a355-0bb9f1682a8d" name="Into the Woods">
+  <card id="99bdb330-27f2-4534-a355-0bb9f1682a8d" name="Into the Woods" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Type" value="Quest"/>
@@ -705,7 +705,7 @@
       <property name="Text" value="Time 4. Forced: After the last time counter is removed from this stage, shuffle Mugash into the encounter deck and advance to stage 3.&#10;&#10;The players cannot advance to stage 2 unless Mugash is attached to a hero."/>
     </alternate>
   </card>
-  <card id="c7e3bde9-8348-41d6-8272-aa733f60a108" name="Escape from Fangorn">
+  <card id="c7e3bde9-8348-41d6-8272-aa733f60a108" name="Escape from Fangorn" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Type" value="Quest"/>
@@ -721,7 +721,7 @@
       <property name="Text" value="Time 4. Forced: After the last time counter is removed from this stage, shuffle Mugash into the encounter deck and advance to stage 3A.&#10;&#10;The players cannot defeat this stage unless Mugash is attached to a hero.&#10;&#10;If the players defeat this stage, they win the game."/>
     </alternate>
   </card>
-  <card id="d8c6d8df-9856-4fad-ba85-a96d17b67cfd" name="The Angry Forest">
+  <card id="d8c6d8df-9856-4fad-ba85-a96d17b67cfd" name="The Angry Forest" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Fangorn"/>
     <property name="Type" value="Quest"/>

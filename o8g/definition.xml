@@ -4,7 +4,7 @@
 		name="Lord of the Rings - The Card Game"
 		id="a21af4e8-be4b-4cda-a6b6-534f9717391f" 
 		octgnVersion="3.1.12.79"
-		version="2.4.20.1"
+		version="2.4.21.0"
 		markersize="16"
 		tags="LotR LCG cooperative"
 		description="A cooperative card game that puts 1-4 players in control of the most powerful characters and artifacts of Middle-earth.&#10;&#10;Players will select heroes, gather allies, acquire artifacts, and coordinate their efforts to face Middle-earth’s most dangerous fiends. By cooperating to overcome the obstacles drawn from the encounter deck, you will complete the quest before you and claim victory!"
@@ -53,6 +53,8 @@
 	<property name="Quantity" type="String" hidden="False" ignoreText="False" />
     <property name="Victory Points" type="String" hidden="False" ignoreText="False" />
 	<property name="Setup" type="String" hidden="False" ignoreText="False" />
+	<size name="QuestCard" width="63" height="45" back="cards/card.jpg" front="cards/card.jpg" cornerRadius="3"/>
+	<size name="EncounterCard" width="63" height="88" back="cards/encounter.jpg" front="cards/encounter.jpg" cornerRadius="4"/>
   </card>
   <table name="Table" visibility="undefined" ordered="False" width="1150" height="536" board="background/tabletop.png" boardPosition="-575,-268,1150,536" background="background/background.jpg" backgroundStyle="uniformToFill">
     <groupaction menu="Done" default="False" shortcut="Ctrl+Right" execute="playerDone" />

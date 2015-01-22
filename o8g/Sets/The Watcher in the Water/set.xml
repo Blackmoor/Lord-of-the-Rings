@@ -98,7 +98,7 @@
     <property name="Cost" value="4"/>
     <property name="Text" value="Attach to a hero you control.&#10;&#10;Attached hero collects 1 additional resource during the resource phase each round."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9023" name="To the West-door">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9023" name="To the West-door" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Type" value="Quest"/>
@@ -115,7 +115,7 @@
       <property name="Text" value="When Revealed: Reveal cards from the encounter deck and add them to the staging area until there is at least X $ in the staging area. X is twice the number of players in the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9019" name="The Seething Lake">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9019" name="The Seething Lake" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Type" value="Quest"/>
@@ -130,7 +130,7 @@
       <property name="Text" value="When Revealed: Add The Watcher to the staging area. Doors of Durin becomes the active location, moving any previous active location to the staging area. Shuffle all Tentacle cards in the encounter discard pile back into the encounter deck.&#10;&#10;If the players have at least 3 victory points and defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9004" name="Doors of Durin">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9004" name="Doors of Durin" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Unique" value="‰"/>
@@ -141,7 +141,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="Progress tokens that would be placed on Doors of Durin are instead placed on the current quest card.&#10;&#10;Action: Each player may discard any number of cards from his hand. Then, discard the top card of the encounter deck. If the first letter of the encounter card's title matches that of one of the discarded player cards, add Doors of Durin to your victory display. (Limit once per round.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9016" name="Stair Falls">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9016" name="Stair Falls" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Unique" value="‰"/>
@@ -152,7 +152,7 @@
     <property name="Text" value="Travel: The first player must exhaust 2 characters to travel here."/>
     <property name="Shadow" value="Shadow: Remove 1 progress token from the current quest."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9011" name="Perilous Swamp">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9011" name="Perilous Swamp" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Type" value="Location"/>
@@ -162,7 +162,7 @@
     <property name="Text" value="No more than 1 progress token can be placed on Perilous Swamp each round."/>
     <property name="Shadow" value="Shadow: Remove 1 progress token from the current quest."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9010" name="Makeshift Passage">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9010" name="Makeshift Passage" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Type" value="Location"/>
@@ -171,7 +171,7 @@
     <property name="Quest Points" value="5"/>
     <property name="Text" value="Forced: After you travel to Makeshift Passage, place 2 progress tokens on the current quest card, bypassing any active location."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9015" name="Stagnant Creek">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9015" name="Stagnant Creek" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Type" value="Location"/>
@@ -180,20 +180,20 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="When Revealed: Discard the top card of the encounter deck. If the discarded card is a Tentacle enemy, add that card to the staging area and raise each player's threat by 5."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9008" name="Ill Purpose">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9008" name="Ill Purpose" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: All enemies in the staging area engage the player with the highest threat. Then, each player raises his threat by the total $ of all cards in the staging area."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+3 Û instead if it is a Tentacle.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9003" name="Disturbed Waters">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9003" name="Disturbed Waters" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 5."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9021" name="The Watcher">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9021" name="The Watcher" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Unique" value="‰"/>
@@ -208,7 +208,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="While there is another Tentacle enemy in play, The Watcher cannot be optionally engaged.&#10;&#10;If The Watcher is in the staging area at the end of the combat phase, each player must deal 3 damage to 1 character he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9006" name="Grasping Tentacle">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9006" name="Grasping Tentacle" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Type" value="Enemy"/>
@@ -220,7 +220,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="Forced: When Grasping Tentacle is attacked, discard the top card of the encounter deck. If that card has a shadow effect or is a Tentacle enemy, attach this card to an attacking character as a Tentacle attachment with the text: &quot;Attached character's Û and Ú are reduced to 0.&quot;"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9017" name="Striking Tentacle">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9017" name="Striking Tentacle" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Type" value="Enemy"/>
@@ -232,7 +232,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="Forced: When Striking Tentacle attacks, discard the top card of the encounter deck. If that card has a shadow effect or is a Tentacle enemy, this attack is considered undefended."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9022" name="Thrashing Tentacle">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9022" name="Thrashing Tentacle" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Type" value="Enemy"/>
@@ -244,7 +244,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="Forced: When Thrashing Tentacle is attacked, discard the top card of the encounter deck. If that card has a shadow effect or is a Tentacle enemy, deal the damage from the attack to 1 character an attacking player controls (ignoring defense)."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801210c9026" name="Wrapped!">
+  <card id="51223bd0-ffd1-11df-a976-0801210c9026" name="Wrapped!" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Watcher in the Water"/>
     <property name="Type" value="Treachery"/>

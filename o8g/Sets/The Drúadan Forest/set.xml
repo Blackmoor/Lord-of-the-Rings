@@ -100,7 +100,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="If each hero you control belongs to the same sphere of influence, you may assign damage from undefended enemy attacks to White Tower Watchman instead of a hero you control."/>
   </card>
-  <card id="71079813-3afe-41b7-8746-92dcc1f91084" name="The Pursuit">
+  <card id="71079813-3afe-41b7-8746-92dcc1f91084" name="The Pursuit" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Quest"/>
@@ -117,7 +117,7 @@
       <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player and add it to the staging area."/>
     </alternate>
   </card>
-  <card id="346fda89-94df-410a-8027-41eacbf27238" name="An Untimely End">
+  <card id="346fda89-94df-410a-8027-41eacbf27238" name="An Untimely End" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Quest"/>
@@ -132,7 +132,7 @@
       <property name="Text" value="Archery damage must be assigned to allies, if able."/>
     </alternate>
   </card>
-  <card id="19b732b9-a26a-4535-a438-7dd83cd4ecf2" name="Drû-buri-Drû">
+  <card id="19b732b9-a26a-4535-a438-7dd83cd4ecf2" name="Drû-buri-Drû" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Unique" value="‰"/>
@@ -145,7 +145,7 @@
     <property name="Health" value="6"/>
     <property name="Text" value="Allies cannot defend against Drû-buri-Drû.&#10;&#10;While Drû-buri-Drû is in the victory display, characters get +1 Ò and +1 Ú.&#10;&#10;Unless Drû-buri-Drû is in the victory display, the players cannot win."/>
   </card>
-  <card id="f6578eb7-1b94-458b-aba1-82b406507a4d" name="The Passage Out">
+  <card id="f6578eb7-1b94-458b-aba1-82b406507a4d" name="The Passage Out" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Quest"/>
@@ -161,7 +161,7 @@
       <property name="Text" value="Characters use their Ò instead of Û when attacking enemies. If an enemy would be damaged this way, place progress tokens on it instead of damage tokens. When an enemy has progress equal to its hit points, add it to the victory display and place those progress tokens on the quest.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="e2c02f11-fdfb-402b-89de-1729d1364e4c" name="Drúadan Drummer">
+  <card id="e2c02f11-fdfb-402b-89de-1729d1364e4c" name="Drúadan Drummer" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Enemy"/>
@@ -174,7 +174,7 @@
     <property name="Text" value="Each Wose enemy in the staging area gets +2 $."/>
     <property name="Shadow" value="Shadow: Each Wose enemy engaged with the defending player gets +1 Û."/>
   </card>
-  <card id="607c3e44-5add-4c80-bb3b-55b016b6cd0e" name="Drúadan Elite">
+  <card id="607c3e44-5add-4c80-bb3b-55b016b6cd0e" name="Drúadan Elite" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Enemy"/>
@@ -187,7 +187,7 @@
     <property name="Health" value="4"/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks unless any player pays 1 resource."/>
   </card>
-  <card id="809ff5de-8273-4491-adfb-3a27d4b316f3" name="Drúadan Hunter">
+  <card id="809ff5de-8273-4491-adfb-3a27d4b316f3" name="Drúadan Hunter" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Enemy"/>
@@ -200,7 +200,7 @@
     <property name="Health" value="3"/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +2 Û."/>
   </card>
-  <card id="85045e14-3abc-4d58-824f-249b1fb3643d" name="Drúadan Thief">
+  <card id="85045e14-3abc-4d58-824f-249b1fb3643d" name="Drúadan Thief" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Enemy"/>
@@ -213,7 +213,7 @@
     <property name="Health" value="2"/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks unless any player pays 1 resource."/>
   </card>
-  <card id="0ebedc5b-fd8b-46b8-a2a1-1a6f739e8819" name="Ancestral Clearing">
+  <card id="0ebedc5b-fd8b-46b8-a2a1-1a6f739e8819" name="Ancestral Clearing" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Location"/>
@@ -222,7 +222,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="The cost to play each player card is increased by 1.&#10;&#10;Travel: Exhaust a hero to travel here."/>
   </card>
-  <card id="41c3779a-a28a-44db-8b9b-bc5e81d1111a" name="Garden of Poisons">
+  <card id="41c3779a-a28a-44db-8b9b-bc5e81d1111a" name="Garden of Poisons" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Location"/>
@@ -231,7 +231,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="Heroes cannot gain resources from card effects.&#10;&#10;Travel: Each player must pay 1 resource to travel here."/>
   </card>
-  <card id="801078c6-56a9-45f2-b5a4-7e38cb5bc507" name="Glade of Cleansing">
+  <card id="801078c6-56a9-45f2-b5a4-7e38cb5bc507" name="Glade of Cleansing" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Location"/>
@@ -240,14 +240,14 @@
     <property name="Quest Points" value="5"/>
     <property name="Text" value="Each Wose enemy gains Archery 1.&#10;&#10;X is equal to the total archery value of the highest archery Wose enemy in play."/>
   </card>
-  <card id="24e431be-cde9-4f93-943a-de5e5ca9108b" name="Men in the Dark">
+  <card id="24e431be-cde9-4f93-943a-de5e5ca9108b" name="Men in the Dark" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each hero must pay 1 resource or take 1 damage. If no hero takes damage from this effect, Men in the Dark gains surge."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each hero the defending player controls with no resources."/>
   </card>
-  <card id="7cbf23fd-28c4-494c-97aa-b7fed050ad8b" name="Stars in Sky">
+  <card id="7cbf23fd-28c4-494c-97aa-b7fed050ad8b" name="Stars in Sky" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Drúadan Forest"/>
     <property name="Type" value="Treachery"/>
@@ -255,7 +255,7 @@
     <property name="Text" value="When Revealed: Each questing hero must pay 1 resource or it is removed from the quest."/>
     <property name="Shadow" value="Shadow: Discard all resources from the defending character's resource pool."/>
   </card>
-  <card id="9dda3cf1-e5bd-4cab-8c3b-b29db1220249" name="Leaves on Tree">
+  <card id="9dda3cf1-e5bd-4cab-8c3b-b29db1220249" name="Leaves on Tree" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Drúadan Forest."/>
     <property name="Type" value="Treachery"/>

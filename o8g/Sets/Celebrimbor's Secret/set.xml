@@ -101,7 +101,7 @@
     <property name="Keywords" value="Attach to Galadriel. She gains a Î resource icon."/>
     <property name="Cost" value="1"/>
   </card>
-  <card id="9e9e76b7-ef3c-4c7c-baf2-061dc0d2ccd0" name="The Ruins of Ost-in-Edhil">
+  <card id="9e9e76b7-ef3c-4c7c-baf2-061dc0d2ccd0" name="The Ruins of Ost-in-Edhil" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Type" value="Quest"/>
@@ -116,7 +116,7 @@
       <property name="Quest Points" value="14"/>
     </alternate>
   </card>
-  <card id="f3d71c42-c368-45c1-9228-b58cf9c54ff5" name="The Enemy's Servant">
+  <card id="f3d71c42-c368-45c1-9228-b58cf9c54ff5" name="The Enemy's Servant" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Type" value="Quest"/>
@@ -130,7 +130,7 @@
       <property name="Quest Points" value="12"/>
     </alternate>
   </card>
-  <card id="fb36c038-bbb8-454f-a4a6-1f8d8fcbd112" name="Bellach">
+  <card id="fb36c038-bbb8-454f-a4a6-1f8d8fcbd112" name="Bellach" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Unique" value="‰"/>
@@ -144,12 +144,12 @@
     <property name="Health" value="7"/>
     <property name="Victory Points" value="5"/>
   </card>
-  <card id="1589883f-87ae-4f4d-a92b-e5e23c25c8e0" name="The Orcs' Search">
+  <card id="1589883f-87ae-4f4d-a92b-e5e23c25c8e0" name="The Orcs' Search" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Type" value="Objective"/>
   </card>
-  <card id="738b3bad-7a2b-47ad-a34f-503028f4f4c1" name="The Secret Chamber">
+  <card id="738b3bad-7a2b-47ad-a34f-503028f4f4c1" name="The Secret Chamber" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Unique" value="‰"/>
@@ -160,14 +160,14 @@
     <property name="Quest Points" value="6"/>
     <property name="Victory Points" value="3"/>
   </card>
-  <card id="c5d1793e-a4e2-4a40-97e9-e5e6f8b1cdfb" name="Celebrimbor's Mould">
+  <card id="c5d1793e-a4e2-4a40-97e9-e5e6f8b1cdfb" name="Celebrimbor's Mould" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Artifact. Item."/>
   </card>
-  <card id="dbdb65b4-924c-4d74-adcc-14b6d8e1e2f8" name="Bellach's Scout">
+  <card id="dbdb65b4-924c-4d74-adcc-14b6d8e1e2f8" name="Bellach's Scout" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Type" value="Enemy"/>
@@ -178,7 +178,7 @@
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
   </card>
-  <card id="82141d38-fb53-472c-a5e8-6a495447c9ad" name="Prowling Orc">
+  <card id="82141d38-fb53-472c-a5e8-6a495447c9ad" name="Prowling Orc" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Type" value="Enemy"/>
@@ -189,7 +189,7 @@
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
   </card>
-  <card id="529bb9e4-36c3-45bd-bac0-1ce5de6a581d" name="Ruined Plaza">
+  <card id="529bb9e4-36c3-45bd-bac0-1ce5de6a581d" name="Ruined Plaza" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Type" value="Location"/>
@@ -197,7 +197,7 @@
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="2"/>
   </card>
-  <card id="246b941e-f8a7-46ba-966d-d0515111ab46" name="Collapsed Tower">
+  <card id="246b941e-f8a7-46ba-966d-d0515111ab46" name="Collapsed Tower" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Type" value="Location"/>
@@ -206,7 +206,7 @@
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="4"/>
   </card>
-  <card id="39773513-ff69-4918-9323-6f04b7109b2f" name="Ancient Foundation">
+  <card id="39773513-ff69-4918-9323-6f04b7109b2f" name="Ancient Foundation" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Type" value="Location"/>
@@ -214,7 +214,7 @@
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="4"/>
   </card>
-  <card id="6f7cdfa5-f61f-44b1-8b6c-2b3f477f7557" name="City Remains">
+  <card id="6f7cdfa5-f61f-44b1-8b6c-2b3f477f7557" name="City Remains" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Type" value="Location"/>
@@ -222,17 +222,17 @@
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="3"/>
   </card>
-  <card id="566898f1-9e85-4463-b220-6924d5106447" name="Discovered!">
+  <card id="566898f1-9e85-4463-b220-6924d5106447" name="Discovered!" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="abd56f0e-0238-432b-84b2-7c715d96477b" name="Desecrated Ruins">
+  <card id="abd56f0e-0238-432b-84b2-7c715d96477b" name="Desecrated Ruins" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Type" value="Treachery"/>
   </card>
-  <card id="ddac1c59-4e5d-4a90-9666-0753133d4de9" name="Spies from Mordor">
+  <card id="ddac1c59-4e5d-4a90-9666-0753133d4de9" name="Spies from Mordor" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Celembrimbor's Secret"/>
     <property name="Type" value="Treachery"/>

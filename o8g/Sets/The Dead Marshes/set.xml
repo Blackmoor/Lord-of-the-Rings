@@ -107,7 +107,7 @@
     <property name="Cost" value="1"/>
     <property name="Text" value="Attached hero gains a Ï resource icon."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801205c9011" name="Into the Marshes">
+  <card id="51223bd0-ffd1-11df-a976-0801205c9011" name="Into the Marshes" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Dead Marshes"/>
     <property name="Type" value="Quest"/>
@@ -123,7 +123,7 @@
       <property name="Quest Points" value="12"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801205c9017" name="The Capture">
+  <card id="51223bd0-ffd1-11df-a976-0801205c9017" name="The Capture" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Dead Marshes"/>
     <property name="Type" value="Quest"/>
@@ -138,7 +138,7 @@
       <property name="Text" value="Forced: After this stage is defeated, the first player chooses a player. That player must pass an Escape test, dealing 1 card from the encounter deck for each resource token on Gollum, to capture him. If Gollum is not captured at this time, reset the quest deck to stage 1B.&#10;&#10;If this final Escape test is passed, the players have captured Gollum and won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801205c9009" name="Gollum">
+  <card id="51223bd0-ffd1-11df-a976-0801205c9009" name="Gollum" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Dead Marshes"/>
     <property name="Unique" value="‰"/>
@@ -146,35 +146,35 @@
     <property name="Traits" value="Gollum."/>
     <property name="Text" value="If Gollum ever has 8 or more resource tokens on him, shuffle him back into the encounter deck.&#10;&#10;Forced: At the end of the quest phase, the party must make an escape test, dealing 1 card per player from the encounter deck. If this test is failed, place 2 resource tokens on Gollum."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801205c9001" name="A Wisp of Pale Sheen">
+  <card id="51223bd0-ffd1-11df-a976-0801205c9001" name="A Wisp of Pale Sheen" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Dead Marshes"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Escape."/>
     <property name="Text" value="When Revealed: Place 2 resource tokens on Gollum. Any player may exhaust a Î hero to reduce this effect to 1 resource token.&#10;&#10;Escape: 4"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801205c9013" name="Nightfall">
+  <card id="51223bd0-ffd1-11df-a976-0801205c9013" name="Nightfall" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Dead Marshes"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Escape."/>
     <property name="Text" value="When Revealed: The first player makes an escape test, dealing 2 cards from the encounter deck. If this test is failed, place 1 resource token on Gollum and raise each player's threat by 2.&#10;&#10;Escape: 2"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801205c9021" name="Through the Mist">
+  <card id="51223bd0-ffd1-11df-a976-0801205c9021" name="Through the Mist" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Dead Marshes"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Escape."/>
     <property name="Text" value="When Revealed: The first player makes an escape test counting Û instead of Ò, dealing 2 cards from the encounter deck. If this test is failed, place 1 resource token on Gollum and raise each player's threat by 1.&#10;&#10;Escape: 3"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801205c9020" name="The Lights of the Dead">
+  <card id="51223bd0-ffd1-11df-a976-0801205c9020" name="The Lights of the Dead" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Dead Marshes"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Escape."/>
     <property name="Text" value="When Revealed: Each player must make an escape test, dealing 2 cards from the encounter deck for each test. Each player that fails this test places 1 resource token on Gollum, and raises his threat by 1.&#10;&#10;Escape: 5"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801205c9008" name="Giant Marsh Worm">
+  <card id="51223bd0-ffd1-11df-a976-0801205c9008" name="Giant Marsh Worm" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Dead Marshes"/>
     <property name="Type" value="Enemy"/>
@@ -186,7 +186,7 @@
     <property name="Health" value="6"/>
     <property name="Text" value="Forced: Remove 2 damage from Giant Marsh Worm at the end of each round.&#10;&#10;Escape: 2"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801205c9010" name="Impassable Bog">
+  <card id="51223bd0-ffd1-11df-a976-0801205c9010" name="Impassable Bog" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Dead Marshes"/>
     <property name="Type" value="Location"/>
@@ -196,7 +196,7 @@
     <property name="Victory Points" value="7"/>
     <property name="Text" value="When Revealed: Place 1 resource token on Gollum for each location card in the staging area.&#10;&#10;Escape: 2"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801205c9019" name="The Heart of the Marshes">
+  <card id="51223bd0-ffd1-11df-a976-0801205c9019" name="The Heart of the Marshes" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Dead Marshes"/>
     <property name="Type" value="Location"/>
@@ -205,7 +205,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Text" value="While The Heart of the Marshes is the active location, all cards dealt from the encounter deck for escape tests get +1 Escape. (Cards receive this bonus even if they do not have a printed escape value.)&#10;&#10;Escape: 1"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801205c9007" name="Fens and Mires">
+  <card id="51223bd0-ffd1-11df-a976-0801205c9007" name="Fens and Mires" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Dead Marshes"/>
     <property name="Type" value="Location"/>

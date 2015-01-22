@@ -14,7 +14,7 @@
       <property name="Text" value="You are playing Nightmare mode.&#10;&#10;Forced: After Cave Torch exhausts, place 1 damage token on this card. Then, if there are 5 or more damage tokens on this card, remove Cave Torch from the game. "/>
     </alternate>
   </card>
-  <card id="17039c31-d3fd-4730-8b74-8f08458071fe" name="Goblin Ambush">
+  <card id="17039c31-d3fd-4730-8b74-8f08458071fe" name="Goblin Ambush" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Quest"/>
@@ -30,7 +30,7 @@
       <property name="Text" value="X is 1 plus the number of players in the game.&#10;Forced: After an enemy is defeated, place 1 progress on this stage.&#10;Progress cannot be placed on Goblin Ambush except by the above effect."/>
     </alternate>
   </card>
-  <card id="5ce149ca-3cca-41ce-9756-bf137d910966" name="Patrol Sentry">
+  <card id="5ce149ca-3cca-41ce-9756-bf137d910966" name="Patrol Sentry" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Enemy"/>
@@ -43,7 +43,7 @@
     <property name="Text" value="Forced: After Cave Torch exhausts, Patrol Sentry makes an immediate attack against the engaged player, if able."/>
     <property name="Shadow" value="Add Patrol Sentry to the staging area."/>
   </card>
-  <card id="ec1a2268-5e9d-4875-8089-2692d22fa180" name="Goblin Lurker">
+  <card id="ec1a2268-5e9d-4875-8089-2692d22fa180" name="Goblin Lurker" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Enemy"/>
@@ -56,7 +56,7 @@
     <property name="Text" value="Cannot be optionally engaged.&#10;If the active location is a Dark location, Goblin Lurker gets +3 Û and -40 engagement cost."/>
     <property name="Shadow" value="Attacking enemy gets +1 Û (+3 Û instead if the active location is a Dark location."/>
   </card>
-  <card id="2d85efc7-b619-4376-a7ac-be797b874fba" name="Shadow Dweller">
+  <card id="2d85efc7-b619-4376-a7ac-be797b874fba" name="Shadow Dweller" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Enemy"/>
@@ -70,7 +70,7 @@
     <property name="Text" value="Shadow Dweller does not make engagement checks while Cave Torch is in play."/>
     <property name="Shadow" value="Shuffle Shadow Dweller back into the encounter deck."/>
   </card>
-  <card id="0f939a7b-8a2e-4358-b3b1-e50b3eef7c0b" name="Twisting Shadows">
+  <card id="0f939a7b-8a2e-4358-b3b1-e50b3eef7c0b" name="Twisting Shadows" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Location"/>
@@ -80,7 +80,7 @@
     <property name="Text" value="X is the number of Dark locations in play.&#10;When Revealed: Remove all progress from each Dark location in play."/>
     <property name="Shadow" value="Attacking enemy gets +1 Û for each Dark location in play."/>
   </card>
-  <card id="573eebae-82fc-4e41-a3a8-343194c893bc" name="Narrow Fissure">
+  <card id="573eebae-82fc-4e41-a3a8-343194c893bc" name="Narrow Fissure" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Location"/>
@@ -90,7 +90,7 @@
     <property name="Quest Points" value="1"/>
     <property name="Text" value="Each Dark location in play gets +2 quest points.&#10;While Cave Torch is ready, progress cannot be placed on Narrow Fissure."/>
   </card>
-  <card id="e84369a8-89c8-4866-bd21-7c25ece2ca3f" name="Shadow-Fall">
+  <card id="e84369a8-89c8-4866-bd21-7c25ece2ca3f" name="Shadow-Fall" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Into the Pit - Nightmare"/>
     <property name="Type" value="Treachery"/>
@@ -112,7 +112,7 @@
       <property name="Text" value="You are playing Nightmare mode.&#10;&#10;Setup: Set Overseer Maurûl and Chamber of Records aside, out of play.&#10;Forced: When stage 2B is revealed, make Chamber of Records the active location (returning any currently active location to the staging area) and add Overseer Maurûl to the staging area. Then, shuffle all copies of Balin's Doom in the encounter discard pile back into the encounter deck."/>
     </alternate>
   </card>
-  <card id="6d1eb802-0cb1-427a-9aa3-4e0c3b403681" name="Overseer Marûl">
+  <card id="6d1eb802-0cb1-427a-9aa3-4e0c3b403681" name="Overseer Marûl" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Unique" value="‰"/>
@@ -126,7 +126,7 @@
     <property name="Victory Points" value="5"/>
     <property name="Text" value="Overseer Marûl gets +X $, +X Û and +X Ú, where X is the highest number of resources on a Goblin enemy in play.&#10;The players cannot win the game unless Overseer Marûl is in the victory display."/>
   </card>
-  <card id="78393d15-048e-40ff-95b8-4dec18a77a8b" name="Chamber of Records">
+  <card id="78393d15-048e-40ff-95b8-4dec18a77a8b" name="Chamber of Records" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Unique" value="‰"/>
@@ -137,7 +137,7 @@
     <property name="Victory Points" value="5"/>
     <property name="Text" value="Immune to player card effects.&#10;Each Goblin enemy with at least 1 resource on it is immune to player events.&#10;Forced: When a Goblin enemy engages a player, add 2 resources to that enemy."/>
   </card>
-  <card id="8657c425-d50d-4a14-b7c8-b528463376e6" name="Orc Taskmaster">
+  <card id="8657c425-d50d-4a14-b7c8-b528463376e6" name="Orc Taskmaster" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Type" value="Enemy"/>
@@ -149,7 +149,7 @@
     <property name="Health" value="6"/>
     <property name="Text" value="When Revealed: Add 1 resource to each Goblin enemy in play.&#10;Forced: When a Goblin enemy with at least 1 resource on it is dealt any amount of damage, remove 1 resource from that enemy and cancel all damage just dealt to it."/>
   </card>
-  <card id="750a1952-58d9-4ab7-aa3f-8cc5fd2ea040" name="Goblin Skirmisher">
+  <card id="750a1952-58d9-4ab7-aa3f-8cc5fd2ea040" name="Goblin Skirmisher" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Type" value="Enemy"/>
@@ -162,7 +162,7 @@
     <property name="Text" value="Each Goblin enemy gets +1 Û for each resource on it. This ability does not stack with other copies of Goblin Skirmisher."/>
     <property name="Shadow" value="Deal X damage to defending character. X is the number of resources on attacking enemy."/>
   </card>
-  <card id="e8b7ad31-b448-42ac-9f72-defcbe2303e9" name="Pit Goblin">
+  <card id="e8b7ad31-b448-42ac-9f72-defcbe2303e9" name="Pit Goblin" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Type" value="Enemy"/>
@@ -175,7 +175,7 @@
     <property name="Text" value="When Revealed: Add 2 resources to Pit Goblin."/>
     <property name="Shadow" value="If attacking enemy is a Goblin, add 1 resource to it."/>
   </card>
-  <card id="874c52e0-e186-49dd-bb4b-7289bf1ecc6f" name="Deep-Mines">
+  <card id="874c52e0-e186-49dd-bb4b-7289bf1ecc6f" name="Deep-Mines" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Type" value="Location"/>
@@ -185,7 +185,7 @@
     <property name="Text" value="Forced: When a Goblin enemy enters play, add 1 resource to that enemy if Deep-Mines is in the staging area."/>
     <property name="Shadow" value="Attacking enemy gets +1 Û]. Then if attacking enemy is a Goblin, deal it another shadow card."/>
   </card>
-  <card id="5277b186-0c76-4ec6-9615-20cdceb49241" name="Western Hall">
+  <card id="5277b186-0c76-4ec6-9615-20cdceb49241" name="Western Hall" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Type" value="Location"/>
@@ -194,7 +194,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Text" value="Each Goblin enemy gets +1 $ for each resource on it. This ability does not stack with other copies of Western Hall.&#10;Travel: Add 1 resource to each Goblin enemy in play."/>
   </card>
-  <card id="6c97c646-1952-4080-ae56-ab7caeafb28f" name="Balin's Doom">
+  <card id="6c97c646-1952-4080-ae56-ab7caeafb28f" name="Balin's Doom" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Type" value="Treachery"/>
@@ -202,7 +202,7 @@
     <property name="Text" value="When Revealed: Add 1 resource to each Goblin enemy in play."/>
     <property name="Shadow" value="If attacking enemy is a Goblin, add 1 resource to it."/>
   </card>
-  <card id="c6b1e2eb-9ce9-419c-a210-723f3891720d" name="Beats and Echoes">
+  <card id="c6b1e2eb-9ce9-419c-a210-723f3891720d" name="Beats and Echoes" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Seventh Level - Nightmare"/>
     <property name="Type" value="Treachery"/>
@@ -221,7 +221,7 @@
       <property name="Text" value="You are playing Nightmare mode.&#10;&#10;When a quest card is bypassed, shuffle it into the quest deck instead of placing it on the bottom.&#10;While the Escape from Darkness quest card is in play, the Refresh Action on Abandoned Tools can only be triggered once each round."/>
     </alternate>
   </card>
-  <card id="6c9419b0-e016-4ba8-b90a-575d4378984e" name="Search for an Exit">
+  <card id="6c9419b0-e016-4ba8-b90a-575d4378984e" name="Search for an Exit" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Quest"/>
@@ -237,7 +237,7 @@
       <property name="Text" value="Forced: At the end of the round, shuffle the discard pile into the encounter deck and discard the top 5 cards. Resolve the &quot;when revealed&quot; effects of each copy of A Foe Beyond discarded by this effect&#10;No more than 1 progress can be placed on this stage each round.&#10;If the players defeat this stage, they win the game.&#10;Players may bypass this quest card at the end of the combat phase."/>
     </alternate>
   </card>
-  <card id="5ed5e5a0-8924-424a-a49f-527fe91c6374" name="Search for an Exit">
+  <card id="5ed5e5a0-8924-424a-a49f-527fe91c6374" name="Search for an Exit" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Quest"/>
@@ -253,7 +253,7 @@
       <property name="Text" value="The Nameless Fear attacks each player in turn order during the combat phase (deal and discard a new shadow card for each attack). Characters are eligible to attack The Nameless Fear while it is in the staging area.&#10;Side B: The Nameless Fear attacks each player in turn order during the combat phase (deal and discard a new shadow card for each attack). Characters are eligible to attack The Nameless Fear while it is in the staging area.&#10;If The Nameless Fear has 10 or more damage on it, remove all damage from it and advance to the next stage. Players may bypass this quest card at the end of the combat phase."/>
     </alternate>
   </card>
-  <card id="45c91742-29a2-4409-a7e5-1f6234d73908" name="Search for an Exit">
+  <card id="45c91742-29a2-4409-a7e5-1f6234d73908" name="Search for an Exit" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Quest"/>
@@ -269,7 +269,7 @@
       <property name="Text" value="When Revealed: Deal 1 damage to each questing character.&#10;Players may bypass this quest card at the end of the combat phase."/>
     </alternate>
   </card>
-  <card id="877df84f-3f61-41e0-96ad-aab2aae56048" name="Swarming Goblins">
+  <card id="877df84f-3f61-41e0-96ad-aab2aae56048" name="Swarming Goblins" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Enemy"/>
@@ -282,7 +282,7 @@
     <property name="Health" value="6"/>
     <property name="Text" value="While you are engaged with Swarming Goblins, it gains: &quot;Forced: When a quest card is bypassed, search the encounter discard pile for a copy of Goblin Spearman and put it into play engaged with you.&quot;"/>
   </card>
-  <card id="0834d564-c1f1-4f16-8bc7-d7249d665d5c" name="Coal-Black Orc">
+  <card id="0834d564-c1f1-4f16-8bc7-d7249d665d5c" name="Coal-Black Orc" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Enemy"/>
@@ -295,7 +295,7 @@
     <property name="Text" value="X is the number of victory points in the victory display."/>
     <property name="Shadow" value="Attacking enemy gets +X Û. X is the number of points in the victory display."/>
   </card>
-  <card id="4c495965-946e-472f-841c-72f388a7ce65" name="Shadowed Corridor">
+  <card id="4c495965-946e-472f-841c-72f388a7ce65" name="Shadowed Corridor" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Location"/>
@@ -305,14 +305,14 @@
     <property name="Text" value="As an additional cost to bypass a quest card, each player must raise his threat by 2."/>
     <property name="Shadow" value="If the defending character is a hero, discard all resources in its resource pool. Deal attacking enemy another shadow card for each resource discarded in this way."/>
   </card>
-  <card id="f6f49c59-637f-4ca2-b51f-e00c4332d33b" name="Dismay and Fear">
+  <card id="f6f49c59-637f-4ca2-b51f-e00c4332d33b" name="Dismay and Fear" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Choose and remove characters from the quest until the total Ò of characters removed from the quest is equal to or higher than The Nameless Fear's $."/>
     <property name="Shadow" value="Discard each attachment you control with a cost less than The Nameless Fear's $."/>
   </card>
-  <card id="a78c13d9-8acb-42eb-82a0-a216de3ed87a" name="An Evil Fortune">
+  <card id="a78c13d9-8acb-42eb-82a0-a216de3ed87a" name="An Evil Fortune" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Flight from Moria - Nightmare"/>
     <property name="Type" value="Treachery"/>

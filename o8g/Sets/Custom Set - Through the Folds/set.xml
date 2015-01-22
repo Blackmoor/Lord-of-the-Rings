@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - Through the Folds" id="ca1427d1-0ea2-4b49-a3ad-b2db4a854806" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
  <cards>
-  <card id="3ee4b042-636c-4ef5-941c-38c064c99b7a" name="To Edoras">
+  <card id="3ee4b042-636c-4ef5-941c-38c064c99b7a" name="To Edoras" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Quest"/>
@@ -18,7 +18,7 @@
       <property name="Text" value="After the 5th progress token is placed here, add Bounty Hunter to the staging area.&#10;&#10;Unless Bounty Hunter is in the victory display, the players cannot defeat this stage."/>
     </alternate>
   </card>
-  <card id="2c84c2df-765f-427b-9735-1d9860837cdc" name="Course to Anorien">
+  <card id="2c84c2df-765f-427b-9735-1d9860837cdc" name="Course to Anorien" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Quest"/>
@@ -34,7 +34,7 @@
       <property name="Text" value="After the 5th progress token is placed here, add Junkorlg to the staging area.&#10;&#10;Unless Junkorlg is in the victory display, the players cannot defeat this stage."/>
     </alternate>
   </card>
-  <card id="72642b52-4335-4173-befd-ba55b92115d9" name="Reaching Minas Tirith">
+  <card id="72642b52-4335-4173-befd-ba55b92115d9" name="Reaching Minas Tirith" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Quest"/>
@@ -50,7 +50,7 @@
       <property name="Text" value="Reaching Minas Tirich gets +1 quest point for each attachment and ally in play.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="32d7746a-bebd-40d9-990c-f829e1ff9446" name="Bounty Hunter">
+  <card id="32d7746a-bebd-40d9-990c-f829e1ff9446" name="Bounty Hunter" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Unique" value="‰"/>
@@ -66,7 +66,7 @@
     <property name="Text" value="X is the number of attachments in play.&#10;&#10;Forced: At the beginning of the encounter phase, Bounty Hunter engages the player with least attachments under his control."/>
     <property name="Setup" value="t"/>
   </card>
-  <card id="7cfdd568-9db4-4f4b-bfde-9c4344213d21" name="Junkorlg">
+  <card id="7cfdd568-9db4-4f4b-bfde-9c4344213d21" name="Junkorlg" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Unique" value="‰"/>
@@ -82,7 +82,7 @@
     <property name="Text" value="X is the number of allies in play.&#10;&#10;Forced: After Junkorlg attacks, the defending player chooses and faces down an ally he controls, that ally becomes out of his control."/>
     <property name="Setup" value="t"/>
   </card>
-  <card id="b94b6b2b-41d5-4e4e-b464-8291dbc4041e" name="Ghulat">
+  <card id="b94b6b2b-41d5-4e4e-b464-8291dbc4041e" name="Ghulat" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Unique" value="‰"/>
@@ -97,7 +97,7 @@
     <property name="Text" value="X is the specified alert value.&#10;&#10;Response: Damage tokens on Ghulat count as a victory points when the players win the game."/>
     <property name="Setup" value="t"/>
   </card>
-  <card id="96b903cc-99f4-4a9e-9b2f-6c8419758ca0" name="Forest Assailant">
+  <card id="96b903cc-99f4-4a9e-9b2f-6c8419758ca0" name="Forest Assailant" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Enemy"/>
@@ -110,7 +110,7 @@
     <property name="Text" value="Treat all the attachment cards of the attacking or defending characters against the Forest Assailant as if their printed text box were blank."/>
     <property name="Shadow" value="Choose and discard an attachment from the defending character."/>
   </card>
-  <card id="997e2703-c258-4395-823d-8209881a0eea" name="Orc Taskmaster">
+  <card id="997e2703-c258-4395-823d-8209881a0eea" name="Orc Taskmaster" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Enemy"/>
@@ -123,7 +123,7 @@
     <property name="Health" value="7"/>
     <property name="Text" value="X is the specified alert value."/>
   </card>
-  <card id="2b80a558-e90b-40c5-aa91-8b0cb3694dac" name="Orc Troop">
+  <card id="2b80a558-e90b-40c5-aa91-8b0cb3694dac" name="Orc Troop" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Enemy"/>
@@ -136,7 +136,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="Alert 1.&#10;&#10;Forced: After Orc Troop is defeated, attach it to a hero controlled by the first player. While attached, counts as a Condition attachment."/>
   </card>
-  <card id="2698dbd5-b827-4b62-99af-8bfbafb3e024" name="Monitoring Time">
+  <card id="2698dbd5-b827-4b62-99af-8bfbafb3e024" name="Monitoring Time" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Enemy"/>
@@ -149,7 +149,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="X is the specified alert value.&#10;&#10;Forced: At the beginning of the encounter phase, Monitoring Time engages the player who triggers the Alert keyword."/>
   </card>
-  <card id="5cfce44b-e383-4ed5-978d-9727dca9c4c8" name="Edoras Hills">
+  <card id="5cfce44b-e383-4ed5-978d-9727dca9c4c8" name="Edoras Hills" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Location"/>
@@ -160,7 +160,7 @@
     <property name="Text" value="X is the number of attachments in play.&#10;&#10;Forced: No more than 5 progress tokens can be placed on the current quest card each round. After players advance to stage 2, remove Edoras Hills from the game."/>
     <property name="Setup" value="s"/>
   </card>
-  <card id="57b31054-219f-42fd-9e42-67835ab28725" name="The White Mountains">
+  <card id="57b31054-219f-42fd-9e42-67835ab28725" name="The White Mountains" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Location"/>
@@ -171,7 +171,7 @@
     <property name="Text" value="X is the number of allies in play.&#10;&#10;Forced: No more than 5 progress tokens can be placed on the current quest card each round. After players advance to stage 3, remove The White Mountains from the game."/>
     <property name="Setup" value="t"/>
   </card>
-  <card id="22f1a7c0-55a8-44b8-9d68-055fa12529d5" name="Mindolluin">
+  <card id="22f1a7c0-55a8-44b8-9d68-055fa12529d5" name="Mindolluin" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Location"/>
@@ -182,7 +182,7 @@
     <property name="Text" value="X is the specified alert value.&#10;&#10;Forced: After travelling to a Mountain location, each player may choose and ready a character he controls."/>
     <property name="Setup" value="t"/>
   </card>
-  <card id="dd64ebe2-4eef-4860-869b-f47f57d45e50" name="Sinister Caves">
+  <card id="dd64ebe2-4eef-4860-869b-f47f57d45e50" name="Sinister Caves" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Location"/>
@@ -192,7 +192,7 @@
     <property name="Text" value="Sinister Caves gets +1 quest point for each victory point."/>
     <property name="Shadow" value="The attacking enemy gets +1 Ú for each victory point."/>
   </card>
-  <card id="736171a2-e282-4ab0-8cb1-345cf285f8b7" name="Steep Streams">
+  <card id="736171a2-e282-4ab0-8cb1-345cf285f8b7" name="Steep Streams" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Location"/>
@@ -202,7 +202,7 @@
     <property name="Text" value="While Steep Streams is in the staging area enemies get -5 engagement cost."/>
     <property name="Shadow" value="Chose a non unique enemy in the stagng area and engage him, then return the attachking enemy to the staging area after it attacks."/>
   </card>
-  <card id="650fcd89-0b67-4665-ba4d-de6bb6bb89b0" name="High Peaks">
+  <card id="650fcd89-0b67-4665-ba4d-de6bb6bb89b0" name="High Peaks" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Location"/>
@@ -212,7 +212,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Shadow" value="The attacking enemy gets +1 Û for each Mountain location in the staging area."/>
   </card>
-  <card id="b03122a3-7975-44cc-8bec-07eb282b06b6" name="Endless Mountain Ranges">
+  <card id="b03122a3-7975-44cc-8bec-07eb282b06b6" name="Endless Mountain Ranges" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Location"/>
@@ -223,20 +223,20 @@
     <property name="Text" value="X is the number of the attachments from the player who controls most."/>
     <property name="Shadow" value="Attacking enemy makes an additional attack immediately after this one."/>
   </card>
-  <card id="b782c30d-596b-45ce-81b4-31cf2220dfd2" name="Discouraging Picture">
+  <card id="b782c30d-596b-45ce-81b4-31cf2220dfd2" name="Discouraging Picture" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player discards X cards from his hand. X is the number of allies under his control."/>
     <property name="Shadow" value="The defending player discards a random card from his hand."/>
   </card>
-  <card id="00cdbc2b-4609-4dc4-ae78-efd7fc586058" name="Bitter Coldness">
+  <card id="00cdbc2b-4609-4dc4-ae78-efd7fc586058" name="Bitter Coldness" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Deal 2 damage to each ally in play. Each player can pay X resources to choose X allies and reduce their damage to 0."/>
   </card>
-  <card id="55380b52-8a11-4578-9e29-bb1f061879a3" name="Sinister Presence">
+  <card id="55380b52-8a11-4578-9e29-bb1f061879a3" name="Sinister Presence" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Custom Set - Through the Folds"/>
     <property name="Type" value="Treachery"/>

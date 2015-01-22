@@ -102,7 +102,7 @@
     <property name="Cost" value="2"/>
     <property name="Text" value="Action: Exhaust Asfaloth to place 1 progress token on any location. (2 tokens instead if attached hero is Glorfindel.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9029" name="The Dripping Walls">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9029" name="The Dripping Walls" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Quest"/>
@@ -119,7 +119,7 @@
       <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9031" name="The Water's Edge">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9031" name="The Water's Edge" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Quest"/>
@@ -134,7 +134,7 @@
       <property name="Text" value="Forced: After a player commits characters to the quest, he must discard the top 2 cards of his deck."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9034" name="Washed Away!">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9034" name="Washed Away!" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Quest"/>
@@ -149,7 +149,7 @@
       <property name="Text" value="When Revealed: Discard all Item, Armor, Weapon, Light cards and all encounter deck cards from play. Shuffle all enemy and treachery cards in the encounter discard pile together with the Foundations of Stone encounter set. This deck becomes the new encounter deck. remove all other encounter deck cards from the game. Then, starting with the first player, each player draws a random stage 4 quest card. Remove all other stage 4 quest cards from the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9004" name="Below the Mines">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9004" name="Below the Mines" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Quest"/>
@@ -164,7 +164,7 @@
       <property name="Text" value="When Revealed: Create your own staging area. Reveal 2 cards from the encounter deck and add them to your staging area.&#10;&#10;Forced: After the 11th progress token is placed on Sheltered Rocks, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9006" name="Below the Mines">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9006" name="Below the Mines" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Quest"/>
@@ -179,7 +179,7 @@
       <property name="Text" value="When Revealed: Create your own staging area. Discard all resources from your heroes.&#10;&#10;Forced: After the 17th progress token is placed on The Endless Caves, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9008" name="Below the Mines">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9008" name="Below the Mines" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Quest"/>
@@ -194,7 +194,7 @@
       <property name="Text" value="When Revealed: Create your own staging area. Discard your hand. Reveal 2 cards from the encounter deck and add them to your staging area.&#10;&#10;Forced: After the 7th progress token is placed on The Shivering Bank, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9002" name="Below the Mines">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9002" name="Below the Mines" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Quest"/>
@@ -209,7 +209,7 @@
       <property name="Text" value="When Revealed: Create your own staging area. Reveal 4 cards from the encounter deck and add them to your staging area.&#10;&#10;Forced: After the 5th progress token is placed on Old One Lair, join another player at the beginning of the travel phase. If you cannot join another player, all players continue on to stage 5 together."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9026" name="Out of the Depths">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9026" name="Out of the Depths" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Quest"/>
@@ -224,7 +224,7 @@
       <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area.&#10;&#10;Each player cannot commit more allies to the quest than the number of heroes he is also committing to the quest.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9013" name="Durin's Axe">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9013" name="Durin's Axe" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Unique" value="‰"/>
@@ -233,7 +233,7 @@
     <property name="Keywords" value="Surge. Restricted."/>
     <property name="Text" value="Attached hero gets +3 Û. If attached hero is a Dwarf, it gets +1 Ò.&#10;&#10;Action: Exhaust a hero to claim this objective. Then, attach Durin's Axe to that hero as an attachment."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9014" name="Durin's Helm">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9014" name="Durin's Helm" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Unique" value="‰"/>
@@ -242,7 +242,7 @@
     <property name="Keywords" value="Surge."/>
     <property name="Text" value="Attached hero gets +1 Ú. If attached hero is a Dwarf, it gets +2 hit points.&#10;&#10;Action: Exhaust a hero to claim this objective. Then, attach Durin's Helm to that hero as an attachment."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9012" name="Drowned Treasury">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9012" name="Drowned Treasury" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Location"/>
@@ -251,7 +251,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="If Drowned Treasury is the active location at the end of the quest phase, each player must discard 1 character he controls.&#10;&#10;Response: After Drowned Treasury leaves play as an explored location, each player may draw 2 cards or claim 1 objective in play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9023" name="Mithril Lode">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9023" name="Mithril Lode" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Location"/>
@@ -261,7 +261,7 @@
     <property name="Quest Points" value="5"/>
     <property name="Text" value="While Mithril Lode is the active location, it gains: &quot;Refresh Action: Exhaust a character you control to place X progress tokens on the current quest card, bypassing any active location. X is the exhausted character's Ò. (Limit once per round.)&quot;"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9011" name="Deep Deep Dark">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9011" name="Deep Deep Dark" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Treachery"/>
@@ -269,14 +269,14 @@
     <property name="Text" value="When Revealed: Attach 1 card from the top of the first player's deck to each Nameless enemy in play, if able."/>
     <property name="Shadow" value="Shadow: If attacking enemy is Nameless, the defending player must discard his hand."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9022" name="Lost and Alone">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9022" name="Lost and Alone" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player chooses and shuffles a hero he controls into his deck. When he draws that hero, he puts it into play."/>
     <property name="Shadow" value="Shadow: If attacking enemy is Nameless, the defending player must discard his hand."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9025" name="Nameless Thing">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9025" name="Nameless Thing" size="EncounterCard">
     <property name="Quantity" value="5"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Enemy"/>
@@ -289,7 +289,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Forced: After Nameless Thing engages a player, attach the top 2 cards of that player's deck to it.&#10;&#10;X is the printed cost of all attached cards on this card. If there are no cards attached, X is 3."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9015" name="Elder Nameless Thing">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9015" name="Elder Nameless Thing" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Enemy"/>
@@ -302,7 +302,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="Forced: After Elder Nameless Thing engages a player, attach the top 3 cards of that player's deck to it.&#10;&#10;X is the printed cost of all attached cards on this card. If there are no cards attached, X is 4."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801212c9024" name="Moria Bats">
+  <card id="51223bd0-ffd1-11df-a976-0801212c9024" name="Moria Bats" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Foundations of Stone"/>
     <property name="Type" value="Enemy"/>

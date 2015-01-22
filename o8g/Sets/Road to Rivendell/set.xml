@@ -98,7 +98,7 @@
     <property name="Cost" value="0"/>
     <property name="Text" value="Response: After a Dwarf character leaves play, shuffle the encounter discard pile back into the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9001" name="Along the Misty Mountains">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9001" name="Along the Misty Mountains" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Quest"/>
@@ -114,7 +114,7 @@
       <property name="Quest Points" value="20"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9017" name="Orc Outpost">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9017" name="Orc Outpost" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Quest"/>
@@ -129,7 +129,7 @@
       <property name="Text" value="When Revealed: Search the encounter deck and discard pile for Goblin Gate and add it to the staging area, if able. Then, if there is no active location, Goblin Gate becomes the active location."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9003" name="Approaching Rivendell">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9003" name="Approaching Rivendell" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Quest"/>
@@ -144,7 +144,7 @@
       <property name="Text" value="When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area.&#10;&#10;Characters cannot be healed.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9005" name="Arwen Undómiel">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9005" name="Arwen Undómiel" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Unique" value="‰"/>
@@ -156,7 +156,7 @@
     <property name="Health" value="2"/>
     <property name="Text" value="The first player gains control of Arwen Undómiel, as an ally.&#10;&#10;Response: After Arwen Undómiel exhausts, choose a hero. Add 1 resource to that hero's resource pool.&#10;&#10;If Arwen Undómiel leaves play, the players are defeated."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9024" name="Ruined Road">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9024" name="Ruined Road" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Location"/>
@@ -166,7 +166,7 @@
     <property name="Text" value="Response: After you travel to Ruined Road, the first player places 2 progress tokens on it or readies 1 hero he controls."/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9012" name="Goblin Gate">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9012" name="Goblin Gate" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Location"/>
@@ -175,7 +175,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Text" value="While Goblin Gate is the active location, the first enemy revealed from the encounter deck each round gains ambush. If that enemy engages a player, it makes an immediate attack (deal and resolve a shadow card)."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9021" name="Pathless Country">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9021" name="Pathless Country" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Location"/>
@@ -185,7 +185,7 @@
     <property name="Text" value="Forced: After at least 1 progress token is placed on Pathless Country, remove 1 progress token from it."/>
     <property name="Shadow" value="Shadow: Deal 1 damage to each ally in play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9006" name="Barren Hills">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9006" name="Barren Hills" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Location"/>
@@ -195,28 +195,28 @@
     <property name="Text" value="While Barren Hills is the active location, ignore ambush."/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9025" name="Sleeping Sentry">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9025" name="Sleeping Sentry" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Deal 1 damage to each exhausted character. Then, exhaust all ready characters."/>
     <property name="Shadow" value="Shadow: Defending player must discard all exhausted characters he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9011" name="Followed by Night">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9011" name="Followed by Night" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player (choose 1): deals 1 damage to all allies in play and Followed by Night gains surge, or all enemies engaged with players make an immediate attack, if able."/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9016" name="Orc Ambush">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9016" name="Orc Ambush" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
     <property name="Text" value="When Revealed: All Orc enemies in the staging area engage the first player. If there are no Orc enemies in the staging area, return all Orc enemies in the encounter discard pile to the staging area, if able."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9013" name="Goblin Taskmaster">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9013" name="Goblin Taskmaster" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Enemy"/>
@@ -229,7 +229,7 @@
     <property name="Health" value="4"/>
     <property name="Text" value="Forced: After Goblin Taskmaster engages a player, that player deals 2 damage to 1 character he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9019" name="Orc Raiders">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9019" name="Orc Raiders" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Enemy"/>
@@ -242,7 +242,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="Forced: After Orc Raiders engages a player, that player discards 2 attachments he controls, if able."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9008" name="Crebain">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9008" name="Crebain" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Enemy"/>
@@ -256,7 +256,7 @@
     <property name="Text" value="While Crebain is in the staging area, encounter card effects cannot be canceled."/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801209c9028" name="Wild Bear">
+  <card id="51223bd0-ffd1-11df-a976-0801209c9028" name="Wild Bear" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Road to Rivendell"/>
     <property name="Type" value="Enemy"/>

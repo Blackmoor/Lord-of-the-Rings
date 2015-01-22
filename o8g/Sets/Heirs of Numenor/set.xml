@@ -185,7 +185,7 @@
     <property name="Health" value="1"/>
     <property name="Text" value="Response: After Envoy of Pelargir enters play, add 1 resource to a Gondor or Noble hero's resource pool."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9001" name="Alcaron's Scroll">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9001" name="Alcaron's Scroll" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Unique" value="‰"/>
@@ -193,7 +193,7 @@
     <property name="Traits" value="Scroll."/>
     <property name="Text" value="If unattached, return Alcaron's Scroll to the staging area and it gains: &quot;Action: Exhaust a hero to attach Alcaron's Scroll to that hero.&quot;&#10;&#10;Forced: When the hero with Alcaron's Scroll attached is damaged by an enemy attack, attach Alcaron's Scroll to that enemy."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9020" name="Harbor Thug">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9020" name="Harbor Thug" size="EncounterCard">
     <property name="Quantity" value="5"/>
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Type" value="Enemy"/>
@@ -206,7 +206,7 @@
     <property name="Text" value="Forced: When the player whose hero has Alcaron's Scroll attached raises his threat, Harbor Thug engages that player."/>
     <property name="Shadow" value="Shadow: Any damage dealt by this attack is dealt to the hero with Alcaron's Scroll attached, if able."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9082" name="The Leaping Fish">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9082" name="The Leaping Fish" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Unique" value="‰"/>
@@ -217,7 +217,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="If Alcaron's Scroll is attached to a hero, The Leaping Fish gains: &quot;Forced: At the beginning of the quest phase discard X cards from the top of the encounter deck where X is the number of players in the game. Add each enemy discarded by this effect to the staging area.&quot;"/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9069" name="Pelargir Docks">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9069" name="Pelargir Docks" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Type" value="Location"/>
@@ -226,7 +226,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="While Pelargir Docks is the active location, enemies get +1 Û and +1 Ú."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9019" name="Harbor Storehouse">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9019" name="Harbor Storehouse" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Type" value="Location"/>
@@ -236,14 +236,14 @@
     <property name="Text" value="Forced: Each time a location is discarded from the top of the encounter deck, raise each player's threat by 1."/>
     <property name="Shadow" value="Shadow: Deal attacking enemy an additional shadow card for each Thug enemy in play."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9012" name="Collateral Damage">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9012" name="Collateral Damage" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Discard 2 cards from the top of the encounter deck. Discard an additional 2 cards for each copy of Collateral Damage in the discard pile. Then, raise each player's threat by 2 for each location discarded by this effect."/>
     <property name="Shadow" value="Shadow: Any damage dealt by this attack is dealt to the hero with Alcaron's Scroll attached, if able."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9009" name="Celador">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9009" name="Celador" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Unique" value="‰"/>
@@ -255,7 +255,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="While Celador is in the staging area, he is committed to the current quest.&#10;&#10;Forced: After players quest unsuccessfully or a character leaves play, deal 1 damage to Celador.&#10;&#10;If Celador leaves play, remove him from the game."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9046" name="Ithilien Guardian">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9046" name="Ithilien Guardian" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Type" value="Objective"/>
@@ -267,7 +267,7 @@
     <property name="Text" value="While Ithilien Guardian is in the staging area, he is committed to the current quest.&#10;&#10;When Revealed: Add Ithilien Guardian to the staging area and Ithilien Guardian gains surge."/>
     <property name="Shadow" value="Shadow: Deal 2 damage to the attacking enemy."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9075" name="Southron Company">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9075" name="Southron Company" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Type" value="Enemy"/>
@@ -280,7 +280,7 @@
     <property name="Text" value="Southron Company gets +2 $ and +2 Û while the current quest card has the battle or siege keyword."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+2 Û instead if the current quest card has a keyword.)"/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9047" name="Ithilien Road">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9047" name="Ithilien Road" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Type" value="Location"/>
@@ -290,7 +290,7 @@
     <property name="Text" value="While Ithilien Road is the active location, the engagement cost of each enemy in the staging area is 0."/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9006" name="Blocking Wargs">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9006" name="Blocking Wargs" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Type" value="Treachery"/>
@@ -298,7 +298,7 @@
     <property name="Text" value="When Revealed: Deal 1 damage to each character committed to the quest."/>
     <property name="Shadow" value="Shadow: Deal 1 damage to the defending character."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9065" name="Orc Scramblers">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9065" name="Orc Scramblers" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Enemy"/>
@@ -312,7 +312,7 @@
     <property name="Text" value="When Revealed: Deal 1 damage to each Battleground location in play, if able."/>
     <property name="Shadow" value="Shadow: Deal 2 damage to The Citadel if it is in play. Otherwise, attacking enemy gets +2 Û."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9003" name="Battering Ram">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9003" name="Battering Ram" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Enemy"/>
@@ -326,7 +326,7 @@
     <property name="Text" value="When Revealed: If the active location is a Battleground, deal 3 damage to it."/>
     <property name="Shadow" value="Shadow: Deal 2 damage to The Approach if it is in play. Otherwise, attacking enemy gets +2 Û."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9074" name="Siege Raft">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9074" name="Siege Raft" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Enemy"/>
@@ -339,7 +339,7 @@
     <property name="Text" value="When Revealed: Deal 2 damage to the lowest $ Battleground location in play, if able."/>
     <property name="Shadow" value="Shadow: Deal 2 damage to The Banks if it is in play. Otherwise, attacking enemy gets +2 Û."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9081" name="The Citadel">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9081" name="The Citadel" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Location"/>
@@ -349,7 +349,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="If The Citadel has 11 or more damage, remove it from the game (do not collect its victory points).&#10;&#10;Response: After The Citadel leaves play as an explored location, remove stage 4 from the quest deck, if able."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9079" name="The Approach">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9079" name="The Approach" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Location"/>
@@ -359,7 +359,7 @@
     <property name="Victory Points" value="2"/>
     <property name="Text" value="If the Approach has 7 or more damage, remove it from the game (do not collect its victory points).&#10;&#10;Response: After The Approach leaves play as an explored location, remove stage 3 from the quest deck, if able."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9080" name="The Banks">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9080" name="The Banks" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Location"/>
@@ -369,14 +369,14 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="If The Banks has 3 or more damage, remove it from the game (do not collect its victory points).&#10;&#10;Response: After The Banks leaves play as an explored location, remove stage 2 from the quest deck, if able."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9063" name="Orc Assault">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9063" name="Orc Assault" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each character gets -2 Û and -2 Ú until the end of the round."/>
     <property name="Shadow" value="Shadow: Deal 2 damage to all Battleground locations in play."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9070" name="Pickpocket">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9070" name="Pickpocket" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Streets of Gondor"/>
     <property name="Type" value="Enemy"/>
@@ -389,7 +389,7 @@
     <property name="Text" value="Forced: When Pickpocket attacks, the defending player discards 1 resource from one of his heroes' resource pools and 1 card at random from his hand."/>
     <property name="Shadow" value="Shadow: Defending player discards 1 of his attachments. (Discard all of his attachments instead if undefended.)"/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9011" name="City Street">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9011" name="City Street" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Streets of Gondor"/>
     <property name="Type" value="Location"/>
@@ -400,7 +400,7 @@
     <property name="Text" value="While City Street is in the staging area, players cannot travel to a location that does not have the title City Street."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +2 Û."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9056" name="Market Square">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9056" name="Market Square" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Streets of Gondor"/>
     <property name="Type" value="Location"/>
@@ -411,20 +411,20 @@
     <property name="Text" value="Travel: Each player must spend 1 resource from one of his heroes' resource pools to travel here."/>
     <property name="Shadow" value="Shadow: Defending player discards all resources in his heroes' resource pools."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9054" name="Lost in the City">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9054" name="Lost in the City" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Streets of Gondor"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for 1 City location and add it to the staging area, if able. Shuffle the encounter deck. This effect cannot be canceled."/>
     <property name="Shadow" value="Shadow: Defending player discards his hand."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9051" name="Local Trouble">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9051" name="Local Trouble" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Streets of Gondor"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Attach this card to the hero with the highest threat cost without a copy of Local Trouble attached. (Counts as a Condition attachment with the text: &quot;When attached hero exhausts, readies, or triggers an ability, raise its controller's threat by 1.&quot;)"/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9088" name="Zealous Traitor">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9088" name="Zealous Traitor" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Brigands"/>
     <property name="Type" value="Enemy"/>
@@ -436,7 +436,7 @@
     <property name="Health" value="2"/>
     <property name="Text" value="Forced: When Zealous Traitor engages a player, that player must deal 1 damage to each ally he controls. (2 damage instead if Zealous Traitor was not optionally engaged.)"/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9052" name="Lossarnach Bandit">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9052" name="Lossarnach Bandit" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Brigands"/>
     <property name="Type" value="Enemy"/>
@@ -448,7 +448,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="Forced: When Lossarnach Bandit engages a player, that player discards 1 resource from each of his heroes' resource pools. (2 resources instead if Lossarnach Bandit was not optionally engaged.)"/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9085" name="Umbar Assassin">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9085" name="Umbar Assassin" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Brigands"/>
     <property name="Type" value="Enemy"/>
@@ -461,14 +461,14 @@
     <property name="Health" value="5"/>
     <property name="Text" value="Forced: When Umbar Assassin engages a player, that player must deal 3 damage to a hero he controls. (Discard that hero instead if Umbar Assassin was not optionally engaged.)"/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9055" name="Lurking in Shadows">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9055" name="Lurking in Shadows" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Brigands"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Return all Brigand enemies engaged with players to the staging area. If this effect returned no Brigand enemies to the staging area, Lurking in Shadows gains surge."/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after it attacks."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9068" name="Overgrown Trail">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9068" name="Overgrown Trail" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Brooding Forest"/>
     <property name="Type" value="Location"/>
@@ -478,7 +478,7 @@
     <property name="Text" value="Action: Exhaust a Ranger character to place 3 progress tokens on Overgrown Trail."/>
     <property name="Shadow" value="Shadow: Remove X progress tokens from the current quest, where X is the attacking enemy's $."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9073" name="Secluded Glade">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9073" name="Secluded Glade" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Brooding Forest"/>
     <property name="Type" value="Location"/>
@@ -488,13 +488,13 @@
     <property name="Text" value="Immune to player card effects."/>
     <property name="Shadow" value="Shadow: Remove X progress tokens from the current quest, where X is the attacking enemy's $."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9053" name="Lost Companion">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9053" name="Lost Companion" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Brooding Forest"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player removes 1 character he controls from the quest, if able. Then, if any player has no characters committed to the quest, remove all characters from the quest."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9058" name="Morgul Spider">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9058" name="Morgul Spider" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Creatures of the Forest"/>
     <property name="Type" value="Enemy"/>
@@ -506,7 +506,7 @@
     <property name="Health" value="5"/>
     <property name="Text" value="When Revealed: Until the end of the round, Morgul Spider gets +1 Û for each character not currently committed to a quest."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9017" name="Forest Bat">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9017" name="Forest Bat" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Creatures of the Forest"/>
     <property name="Type" value="Enemy"/>
@@ -519,14 +519,14 @@
     <property name="Text" value="When Revealed: The first player deals 2 damage to a questing hero and removes that hero from the quest."/>
     <property name="Shadow" value="Shadow: Defending player raises his threat by X where X is the attacking enemy's $."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9086" name="Watcher in the Wood">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9086" name="Watcher in the Wood" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Creatures of the Forest"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Raise each player's threat by the number of questing characters. (If the current quest has the battle or siege keyword, Watcher in the Wood gains surge.)"/>
     <property name="Shadow" value="Shadow: Each player raises his threat by the number of enemies engaged with him."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9076" name="Southron Mercenaries">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9076" name="Southron Mercenaries" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Southrons"/>
     <property name="Type" value="Enemy"/>
@@ -540,7 +540,7 @@
     <property name="Text" value="X is the number of players in the game."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+3 Û instead if it has the Harad trait.)"/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9018" name="Haradrim Elite">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9018" name="Haradrim Elite" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Southrons"/>
     <property name="Type" value="Enemy"/>
@@ -553,7 +553,7 @@
     <property name="Text" value="Forced: When Haradrim Elite enters play, it makes an immediate attack from the staging area against the first player."/>
     <property name="Shadow" value="Shadow: This enemy attacks again after this attack resolves. (Deal a new shadow card for that attack.)"/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9059" name="Mumak">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9059" name="Mumak" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Southrons"/>
     <property name="Type" value="Enemy"/>
@@ -565,14 +565,14 @@
     <property name="Health" value="12"/>
     <property name="Text" value="No attachments can be attached to Mumak.&#10;&#10;Mumak cannot take more than 3 damage each round."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9077" name="Southron Support">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9077" name="Southron Support" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Southrons"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 3."/>
     <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for 1 Harad enemy and add it to the staging area, if able. Shuffle the encounter deck."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9049" name="Lieutenant of Mordor">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9049" name="Lieutenant of Mordor" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Mordor Elite"/>
     <property name="Type" value="Enemy"/>
@@ -585,7 +585,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="Allies cannot defend against Lieutenant of Mordor.&#10;&#10;When Revealed: Resolve the &quot;when revealed&quot; effect on the topmost treachery card in the encounter discard pile, if able. This effect cannot be canceled."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9061" name="Orc Arbalesters">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9061" name="Orc Arbalesters" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Mordor Elite"/>
     <property name="Type" value="Enemy"/>
@@ -599,7 +599,7 @@
     <property name="Text" value="X is the number of different resource icons (Ì, Ï, Ê, or Î) on heroes in play."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +2 Û."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9066" name="Orc Vanguard">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9066" name="Orc Vanguard" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Mordor Elite"/>
     <property name="Type" value="Enemy"/>
@@ -612,7 +612,7 @@
     <property name="Text" value="While Orc Vanguard is in the staging area, resources cannot be spent from the resource pools of heroes who have a Ì, Ê, or Î resource icon."/>
     <property name="Shadow" value="Shadow: Deal the attacking enemy two additional shadow cards."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9067" name="Orc War Camp">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9067" name="Orc War Camp" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Mordor Elite"/>
     <property name="Type" value="Location"/>
@@ -622,20 +622,20 @@
     <property name="Text" value="If an Orc enemy is in play, progress tokens cannot be placed on Orc War Camp while it is in the staging area."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û for each shadow card dealt to it."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9083" name="The Master's Malice">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9083" name="The Master's Malice" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Mordor Elite"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player chooses 1 sphere of influence (Ì, Ï, Ê, or Î). Each character a player controls that does not belong to his chosen sphere takes 3 damage."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9084" name="The Power of Mordor">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9084" name="The Power of Mordor" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Mordor Elite"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 3."/>
     <property name="Text" value="When Revealed: Count the number of encounter cards in the staging area and shuffle them into the encounter deck. Then, reveal an equal number of cards from the encounter deck and add them to the staging area. This effect cannot be canceled."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9064" name="Orc Rabble">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9064" name="Orc Rabble" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Ravaging Orcs"/>
     <property name="Type" value="Enemy"/>
@@ -648,7 +648,7 @@
     <property name="Text" value="Forced: When Orc Rabble is dealt a shadow card, it gets +2 Û until the end of the phase."/>
     <property name="Shadow" value="Shadow: Deal the attacking enemy an additional shadow card for each player in the game."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9062" name="Orc Arsonist">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9062" name="Orc Arsonist" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Ravaging Orcs"/>
     <property name="Type" value="Enemy"/>
@@ -661,14 +661,14 @@
     <property name="Text" value="Forced: When Orc Arsonist engages a player, deal 1 shadow card to each enemy engaged with that player."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. Deal it another shadow card."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9072" name="Scourge of Mordor">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9072" name="Scourge of Mordor" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Ravaging Orcs"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player discards the top card of his deck. Until the end of the phase, raise the total $ in the staging area by X, where X is the total cost of all cards discarded by this effect."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. Deal it another shadow card."/>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9021" name="The Leaping Fish">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9021" name="The Leaping Fish" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Type" value="Quest"/>
@@ -685,7 +685,7 @@
       <property name="Text" value="When Revealed: Each player must search the encounter deck for a copy of Harbor Thug and add it to the staging area. Shuffle the encounter deck."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9023" name="Fighting in the Streets">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9023" name="Fighting in the Streets" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Type" value="Quest"/>
@@ -700,7 +700,7 @@
       <property name="Text" value="The players cannot advance to the next stage unless Alcaron's Scroll is attached to a hero.&#10;&#10;When Revealed: Attach Alcaron's Scroll to the highest engagement cost enemy in play, if able. Otherwise, add Alcaron's Scroll to the staging area."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9025" name="Escape to the Quays">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9025" name="Escape to the Quays" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Peril in Pelargir"/>
     <property name="Type" value="Quest"/>
@@ -716,7 +716,7 @@
       <property name="Text" value="Enemies cannot be optionally engaged.&#10;&#10;Forced: The first enemy revealed from the encounter deck each round makes an immediate attack against the player who controls Alcaron's Scroll from the staging area.&#10;&#10;The players cannot defeat this stage unless Alcaron's Scroll is attached to a hero. If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9027" name="Ambush in Ithilien">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9027" name="Ambush in Ithilien" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Type" value="Quest"/>
@@ -733,7 +733,7 @@
       <property name="Text" value="If the players complete this stage with Celador in the staging area, advance to stage 3A (bypassing stage 2)."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9029" name="Southron Counter-attack">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9029" name="Southron Counter-attack" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Type" value="Quest"/>
@@ -748,7 +748,7 @@
       <property name="Text" value="X is the number of players in the game.&#10;&#10;After this stage is completed, advance to stage 4A (bypassing stage 3)."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9031" name="The Hidden Way">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9031" name="The Hidden Way" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Type" value="Quest"/>
@@ -763,7 +763,7 @@
       <property name="Text" value="When Revealed: The first player takes control of all Ranger objectives in the staging area.&#10;&#10;Enemies do not make engagement checks and cannot be optionally engaged."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9033" name="Approaching Cair Andros">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9033" name="Approaching Cair Andros" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Into Ithilien"/>
     <property name="Type" value="Quest"/>
@@ -778,7 +778,7 @@
       <property name="Text" value="If any player's threat is 37 or higher, Approaching Cair Andros gains siege.&#10;&#10;Forced: At the end of each round, raise each player's threat by 2.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9035" name="The Defense">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9035" name="The Defense" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Quest"/>
@@ -795,7 +795,7 @@
       <property name="Text" value="Players must deal damage from undefended attacks to the lowest $ Battleground location in play. If there are no Battleground locations in play, immediately advance to the next stage."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9037" name="Reinforcing the Banks">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9037" name="Reinforcing the Banks" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Quest"/>
@@ -810,7 +810,7 @@
       <property name="Text" value="Reveal 1 additional card from the encounter deck and add it to the staging area during the staging step each round."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9039" name="Breakthrough at the Approach">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9039" name="Breakthrough at the Approach" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Quest"/>
@@ -825,7 +825,7 @@
       <property name="Text" value="Forced: After the players quest unsuccessfully, instead of raising threat, each player must choose and discard 1 character he controls."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9041" name="Breakthrough at the Citadel">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9041" name="Breakthrough at the Citadel" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Quest"/>
@@ -840,7 +840,7 @@
       <property name="Text" value="Breakthrough at the Citadel adds 5 $ to the staging area."/>
     </alternate>
   </card>
-  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9043" name="The Last Battle">
+  <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9043" name="The Last Battle" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros"/>
     <property name="Type" value="Quest"/>

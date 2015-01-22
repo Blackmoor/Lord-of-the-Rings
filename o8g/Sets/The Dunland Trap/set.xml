@@ -96,7 +96,7 @@
     <property name="Cost" value="X"/>
     <property name="Text" value="X is the number of players in the game.  &#10;  &#10; Action: Starting with the first player, each player chooses 1 different option: ready a hero he controls, add 1 resource to the resource pool of a hero he controls, draw 1 card, or shuffle 1 card from his discard pile into his deck."/>
   </card>
-  <card id="174507ac-5617-4e3c-998b-75eeceb9db33" name="The Road to Tharbad">
+  <card id="174507ac-5617-4e3c-998b-75eeceb9db33" name="The Road to Tharbad" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Type" value="Quest"/>
@@ -113,7 +113,7 @@
       <property name="Text" value="Time 2. Forced: After the last time counter is removed from this stage, each player discards his hand and draws 2 cards. Place 2 time counters on this stage."/>
     </alternate>
   </card>
-  <card id="2087cb2d-ce6f-4d3a-befc-01859ec82e6c" name="A Well Laid Trap">
+  <card id="2087cb2d-ce6f-4d3a-befc-01859ec82e6c" name="A Well Laid Trap" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Type" value="Quest"/>
@@ -129,7 +129,7 @@
       <property name="Text" value="When Revealed: Each player searches the encounter deck and discard pile for a Boar Clan enemy and puts it into play engaged with him. Shuffle the encounter deck. Each player shuffles his discard pile into his draw deck and draws 1 card. &#10;  &#10;Forced: At the end of the combat phase, advance to stage 3A."/>
     </alternate>
   </card>
-  <card id="c5215a42-f064-46cc-a9a2-75ef4d57fcd2" name="No Way Out">
+  <card id="c5215a42-f064-46cc-a9a2-75ef4d57fcd2" name="No Way Out" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Type" value="Quest"/>
@@ -145,7 +145,7 @@
       <property name="Text" value="Time X. X is 5 times the number of players in the game. &#10;  &#10;  If a hero is destroyed at this stage, the players lose the game.  &#10;  &#10;Forced: After the last time counter is removed from this stage, the players make engagement checks. Then, each engaged enemy makes an attack. If no heroes are destroyed by these attacks, the players win the game."/>
     </alternate>
   </card>
-  <card id="6b1a56ae-f173-4842-984c-d07b0545ad23" name="Chief Turch">
+  <card id="6b1a56ae-f173-4842-984c-d07b0545ad23" name="Chief Turch" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
@@ -158,7 +158,7 @@
     <property name="Health" value="5"/>
     <property name="Text" value="Cannot have attachments. &#10;  &#10; Cannot leave play. &#10;  &#10; Chief Turch engages the first player. &#10;  &#10;Forced: After an enemy engages a player, remove 1 time counter from the current quest."/>
   </card>
-  <card id="c34384a8-44de-4c55-8d49-ec68a69fc3f0" name="Munuv Dûv Ravine">
+  <card id="c34384a8-44de-4c55-8d49-ec68a69fc3f0" name="Munuv Dûv Ravine" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Unique" value="‰"/>
@@ -169,7 +169,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="Dunland enemies get +1 Û and +1 Ú."/>
   </card>
-  <card id="bc4f2e17-197c-4131-ad81-b892fe66ad88" name="Old South Road">
+  <card id="bc4f2e17-197c-4131-ad81-b892fe66ad88" name="Old South Road" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Unique" value="‰"/>
@@ -180,7 +180,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Forced: At the end of the refresh phase, remove 1 time counter from the current quest."/>
   </card>
-  <card id="0a0e6044-c5ab-43ed-832a-71516c7d035a" name="Boar Clan Stalker">
+  <card id="0a0e6044-c5ab-43ed-832a-71516c7d035a" name="Boar Clan Stalker" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Dunland. Boar Clan."/>
@@ -192,7 +192,7 @@
     <property name="Health" value="5"/>
     <property name="Text" value="Boar Clan Stalker gets +1 Û and +1 Ú for each resource token on it (limit +4). &#10;  &#10; Forced: After the engaged player draws any number of cards, put a resource token on Boar Clan Stalker."/>
   </card>
-  <card id="07690f5d-cc91-437e-bcdf-5010bc69d712" name="Boar Clan Warrior">
+  <card id="07690f5d-cc91-437e-bcdf-5010bc69d712" name="Boar Clan Warrior" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Dunland. Boar Clan."/>
@@ -205,7 +205,7 @@
     <property name="Text" value="Forced: After the engaged player draws any number of cards, deal Boar Clan Warrior a shadow card."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each shadow card on it."/>
   </card>
-  <card id="0e9fb174-59a2-4e7b-8eab-1f9185f75ea7" name="Hithaeglir Foothills">
+  <card id="0e9fb174-59a2-4e7b-8eab-1f9185f75ea7" name="Hithaeglir Foothills" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Type" value="Location"/>
@@ -215,7 +215,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Text" value="X is the number of resource tokens on this card.  &#10;  &#10; Forced: After a player draws any number of cards, place 1 resource token here."/>
   </card>
-  <card id="15602096-12af-47a0-9f9a-01778d2b0a7b" name="Hills of Dunland">
+  <card id="15602096-12af-47a0-9f9a-01778d2b0a7b" name="Hills of Dunland" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Type" value="Location"/>
@@ -224,7 +224,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="While Hills of Dunland is in the staging area, it gains: 'Forced: After a player draws any number of cards, discard the top card of the encounter deck. If the discarded card is a Dunland enemy, put it into play engaged with that player. This ability does not stack with other copies of Hills of Dunland. &#10;  &#10; Travel: Each player draws a card to travel here."/>
   </card>
-  <card id="7c92fba9-f79a-4004-886b-eb36698d1d34" name="Plains of Enedwaith">
+  <card id="7c92fba9-f79a-4004-886b-eb36698d1d34" name="Plains of Enedwaith" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Type" value="Location"/>
@@ -234,7 +234,7 @@
     <property name="Text" value="While Plains of Enedwaith is the active location, players do not draw a card during the resource phase."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+3 Û instead if undefended)."/>
   </card>
-  <card id="2ba77eca-870d-41d9-84cb-f0f33b6d9f15" name="Hithaeglir Stream">
+  <card id="2ba77eca-870d-41d9-84cb-f0f33b6d9f15" name="Hithaeglir Stream" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Type" value="Location"/>
@@ -245,14 +245,14 @@
     <property name="Text" value="While Hithaeglir Stream is the active location, players draw 2 cards during the resource phase instead of 1."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. Deal it an additional shadow card."/>
   </card>
-  <card id="32ac7351-b154-4e94-8348-ed31385fb3a4" name="Frenzied Attack">
+  <card id="32ac7351-b154-4e94-8348-ed31385fb3a4" name="Frenzied Attack" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player draws a card. Each player discards each ally from his hand. If no allies are discarded this way, Frenzied Attack gains surge."/>
     <property name="Shadow" value="Shadow: Until the end of the round, attacking enemy cannot take damage."/>
   </card>
-  <card id="90ba49e5-142b-4c40-8085-8087342d9b92" name="Dunlending Ambush">
+  <card id="90ba49e5-142b-4c40-8085-8087342d9b92" name="Dunlending Ambush" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Dunland Trap"/>
     <property name="Type" value="Treachery"/>

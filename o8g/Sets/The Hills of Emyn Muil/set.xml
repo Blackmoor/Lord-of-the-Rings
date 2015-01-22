@@ -101,7 +101,7 @@
     <property name="Cost" value="1"/>
     <property name="Text" value="Attached hero gains a Ê resource icon."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9019" name="The Hills of Emyn Muil">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9019" name="The Hills of Emyn Muil" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Type" value="Quest"/>
@@ -118,7 +118,7 @@
       <property name="Text" value="Forced: If there are no location cards in the staging area, the first treachery card revealed during the quest phase gains surge.&#10;&#10;Players cannot defeat this stage unless there are no Emyn Muil locations in play, and they have collected at least 20 victory points."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9001" name="Amon Hen">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9001" name="Amon Hen" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Unique" value="‰"/>
@@ -130,7 +130,7 @@
     <property name="Victory Points" value="5"/>
     <property name="Text" value="While Amon Hen is the active location, players cannot play events."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9002" name="Amon Lhaw">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9002" name="Amon Lhaw" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Unique" value="‰"/>
@@ -142,7 +142,7 @@
     <property name="Victory Points" value="5"/>
     <property name="Text" value="While Amon Lhaw is the active location, treat all attachments as if their printed text boxes were blank."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9017" name="The East Wall of Rohan">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9017" name="The East Wall of Rohan" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Type" value="Location"/>
@@ -152,7 +152,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="While The East Wall of Rohan is the active location, non-Rohan characters cost 2 additional matching resources to play."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9021" name="The North Stair">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9021" name="The North Stair" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Type" value="Location"/>
@@ -162,7 +162,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="Forced: After traveling to The North Stair, move the top card of the encounter discard pile to the staging area. Resolve any &quot;when revealed&quot; effects on that card."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9011" name="Rauros Falls">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9011" name="Rauros Falls" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Type" value="Location"/>
@@ -173,7 +173,7 @@
     <property name="Text" value="While Rauros Falls is the active location, all characters must commit to the current quest during the quest phase."/>
     <property name="Shadow" value="Shadow: After this attack resolves, return attacking enemy to the staging area."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9024" name="The Shores of Nen Hithoel">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9024" name="The Shores of Nen Hithoel" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Type" value="Location"/>
@@ -184,7 +184,7 @@
     <property name="Text" value="Travel: The first player must discard 1 event card from his hand to travel to this location."/>
     <property name="Shadow" value="Shadow: After this attack resolves, return attacking enemy to the staging area."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9022" name="The Outer Ridge">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9022" name="The Outer Ridge" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Type" value="Location"/>
@@ -195,7 +195,7 @@
     <property name="Text" value="While The Outer Ridge is the active location, each location in the staging area gets +1 $."/>
     <property name="Shadow" value="Shadow: After this attack resolves, return attacking enemy to the staging area."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9018" name="The Highlands">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9018" name="The Highlands" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Type" value="Location"/>
@@ -205,14 +205,14 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Travel: In order to travel to The Highlands, the players must reveal the top card of the encounter deck, and add it to the staging area."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9007" name="Impassable Chasm">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9007" name="Impassable Chasm" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Hazard."/>
     <property name="Text" value="When Revealed: If there is an active location, remove all progress tokens from that location and return it to the staging area. If no location is moved by this effect, this card gains surge."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9014" name="Rockslide">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9014" name="Rockslide" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Type" value="Treachery"/>
@@ -220,14 +220,14 @@
     <property name="Text" value="When Revealed: Deal 2 damage to each character committed to this quest."/>
     <property name="Shadow" value="Shadow: Remove defending character from combat. This attack is considered undefended."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9015" name="Slick Footing">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9015" name="Slick Footing" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Hazard."/>
     <property name="Text" value="When Revealed: Remove 1 progress token from each location in play. Then, discard the top card of each player's deck for each progress token removed by this effect."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801204c9010" name="Orc Horse Thieves">
+  <card id="51223bd0-ffd1-11df-a976-0801204c9010" name="Orc Horse Thieves" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Hills of Emyn Muil"/>
     <property name="Type" value="Enemy"/>

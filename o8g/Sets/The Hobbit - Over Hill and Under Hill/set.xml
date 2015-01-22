@@ -232,7 +232,7 @@
     <property name="Cost" value="0"/>
     <property name="Text" value="Attached character gets +2 Û.&#10;&#10;Response: After attached character destroys an Orc enemy, draw 1 card."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9013" name="An Unexpected Party">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9013" name="An Unexpected Party" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Quest"/>
@@ -248,7 +248,7 @@
       <property name="Quest Points" value="7"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9072" name="Roast Mutton">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9072" name="Roast Mutton" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Quest"/>
@@ -264,7 +264,7 @@
       <property name="Text" value="Forced: If there are no Troll enemies left in play, or if there are no cards left in the encounter deck, advance to the next stage.&#10;&#10;Any time players would place progress tokens on this quest, discard an equal number of cards from the encounter deck instead. (Progress is placed on the active location before triggering this effect.)"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9025" name="Dawn Take You All">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9025" name="Dawn Take You All" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Quest"/>
@@ -279,7 +279,7 @@
       <property name="Text" value="When Revealed: Remove all Troll enemies and Sack cards from the game. If Troll Cave is in the victory display, the players have discovered the treasure cards Sting, Glamdring, and Orcrist.&#10;&#10;The players have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9005" name="A Short Rest">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9005" name="A Short Rest" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Over the Misty Mountains Grim"/>
     <property name="Type" value="Quest"/>
@@ -296,7 +296,7 @@
       <property name="Text" value="When Revealed: Each player may search his deck for 1 treasure card and add it to his hand, then shuffle his deck. Advance to stage 2A."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9080" name="The Mountain Pass">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9080" name="The Mountain Pass" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Over the Misty Mountains Grim"/>
     <property name="Type" value="Quest"/>
@@ -311,7 +311,7 @@
       <property name="Text" value="When Revealed: Search the encounter deck for 1 copy of Stone-giant and add it to the staging area. Then, shuffle the encounter deck. Reveal 1 card per player from the encounter deck and add it to the staging area."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9028" name="Down, Down to Goblin Town">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9028" name="Down, Down to Goblin Town" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Great Goblin"/>
     <property name="Type" value="Quest"/>
@@ -327,7 +327,7 @@
       <property name="Text" value="Players cannot defeat this stage unless The Great Goblin is in the victory display.&#10;&#10;When Revealed: Reveal 3 encounter cards per player. Bilbo Baggins may spend X resources to reduce the total number of encounter cards revealed by X. (To a minimum of 1.)&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9066" name="Out of the Frying Pan">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9066" name="Out of the Frying Pan" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Quest"/>
@@ -344,7 +344,7 @@
       <property name="Text" value="Players cannot advance to stage 3A unless both 1B and 2B are complete.&#10;&#10;Forced: Reveal 1 additional encounter card per player during the staging step."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9069" name="Riddles in the Dark">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9069" name="Riddles in the Dark" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Quest"/>
@@ -360,7 +360,7 @@
       <property name="Text" value="Players cannot advance to stage 3A unless both 1B and 2B are complete.&#10;&#10;Progress tokens cannot be added to, or removed from, this quest except by answering riddles.&#10;&#10;Cards in the riddle area are immune to player card effects and cannot leave the riddle area except by quest effects."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9052" name="Into the Fire">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9052" name="Into the Fire" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Quest"/>
@@ -375,7 +375,7 @@
       <property name="Text" value="When Revealed: The first player gains control of Bilbo Baggins. Reveal 1 encounter card per player and add it to the staging area.&#10;&#10;Gollum engages the first player. Damage from undefended attacks made by Gollum must be placed on Bilbo Baggins.&#10;&#10;All riddle effects are ignored. Treachery cards gain surge.&#10;&#10;If the players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9092" name="William">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9092" name="William" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Unique" value="‰"/>
@@ -389,7 +389,7 @@
     <property name="Victory Points" value="5"/>
     <property name="Text" value="Troll enemies not engaged with a player cannot take damage.&#10;&#10;Forced: After William engages a player, sack 2.&#10;&#10;Forced: Return William to the staging area at the end of the combat phase. The engaged player may raise his threat by 1 to cancel this effect."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9016" name="Bert">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9016" name="Bert" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Unique" value="‰"/>
@@ -403,7 +403,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="Players cannot play attachment cards on Troll enemies.&#10;&#10;Forced: After Bert engages a player, sack 1.&#10;&#10;Forced: Return Bert to the staging area at the end of the combat phase. The engaged player may raise his threat by 1 to cancel this effect."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9085" name="Tom">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9085" name="Tom" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Unique" value="‰"/>
@@ -417,7 +417,7 @@
     <property name="Victory Points" value="4"/>
     <property name="Text" value="Troll enemies can only be attacked by one character at a time.&#10;&#10;Forced: After Tom engages a player, sack 1.&#10;&#10;Forced: Return Tom to the staging area at the end of the combat phase. The engaged player may raise his threat by 1 to cancel this effect."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9009" name="A Suspicious Crow">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9009" name="A Suspicious Crow" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Western Lands"/>
     <property name="Type" value="Enemy"/>
@@ -430,7 +430,7 @@
     <property name="Text" value="When Revealed: Reveal the top card of the encounter discard pile and add it to the staging area, if able."/>
     <property name="Shadow" value="Shadow: If this attack deals at least 1 damage, shuffle this card back into the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9086" name="Troll Camp">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9086" name="Troll Camp" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Location"/>
@@ -439,7 +439,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="While Troll Camp is in the staging area, Troll enemies get +1 $ for each player in the game.&#10;&#10;While Troll Camp is in play, Bilbo Baggins gains: &quot;Action: Exhaust Bilbo Baggins and spend 1 Í resource to remove 1 Sack card from a character. Bilbo Baggins may trigger this effect even with a Sack card attached to him.&quot;"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9087" name="Troll Cave">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9087" name="Troll Cave" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Location"/>
@@ -450,7 +450,7 @@
     <property name="Victory Points" value="2"/>
     <property name="Text" value="Players cannot travel to Troll Cave unless Bilbo Baggins has the Troll Key attached and the first player spends 5 Í resources. (2 Í resources instead if Bilbo Baggins has the Troll Purse attached.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9050" name="Hobbit-lands">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9050" name="Hobbit-lands" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Location"/>
@@ -460,7 +460,7 @@
     <property name="Text" value="Response: After placing 1 or more progress tokens on Hobbit-lands, the first player draws 1 card."/>
     <property name="Shadow" value="Shadow: Defending player must put the top card of the encounter deck discard pile on top of the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9030" name="Dreary Hills">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9030" name="Dreary Hills" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Western Lands"/>
     <property name="Type" value="Location"/>
@@ -469,7 +469,7 @@
     <property name="Quest Points" value="2"/>
     <property name="Text" value="Forced: After placing 1 or more progress tokens on Dreary Hills, each player must discard 1 card at random from his hand.&#10;&#10;Response: After Dreary Hills leaves play as an explored location, Bilbo Baggins gains 1 resource."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9058" name="Lone-Lands">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9058" name="Lone-Lands" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Western Lands"/>
     <property name="Type" value="Location"/>
@@ -478,7 +478,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="Forced: After placing 1 or more progress tokens on Lone-Lands, each player removes 1 resource from one of his hero's resource pools, if able.&#10;&#10;Response: After Lone-Lands leaves play as an explored location, Bilbo Baggins gains 1 resource."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9021" name="Cave Entrance">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9021" name="Cave Entrance" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Western Lands"/>
     <property name="Type" value="Location"/>
@@ -487,7 +487,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="While Cave Entrance is in the staging area, it gains: &quot;Forced: At the end of the round, place the top X cards of the encounter discard pile on the bottom of the encounter deck. X is the number of players in the game.&quot;"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9089" name="Troll Purse">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9089" name="Troll Purse" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Unique" value="‰"/>
@@ -495,7 +495,7 @@
     <property name="Traits" value="Item."/>
     <property name="Text" value="If Troll Purse is discarded, add it to the staging area.&#10;If Troll Purse is unattached and in the staging area, attach it to a Troll enemy, if able.&#10;&#10;Response: After attached Troll enemy is destroyed, the first player may spend 1 Í resource to claim this objective and attach it to Bilbo Baggins."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9088" name="Troll Key">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9088" name="Troll Key" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Unique" value="‰"/>
@@ -503,7 +503,7 @@
     <property name="Traits" value="Item."/>
     <property name="Text" value="If Troll Key is discarded, add it to the staging area.&#10;If Troll Key is unattached and in the staging area, attach it to a Troll enemy, if able.&#10;&#10;Response: After attached Troll enemy takes damage as the result of an attack, the first player may exhaust Bilbo Baggins to claim this objective and attach it to him."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9007" name="A Smelly Sack">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9007" name="A Smelly Sack" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Objective"/>
@@ -511,7 +511,7 @@
     <property name="Traits" value="Sack."/>
     <property name="Text" value="When Sacked: Attach to the ally (excluding Gandalf) with the highest printed cost without a Sack attached.&#10;&#10;Attached character cannot ready, attack, defend, commit to quests, or trigger effects. If this Sack card is removed, shuffle it into the sack deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9008" name="A Strong Sack">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9008" name="A Strong Sack" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Objective"/>
@@ -519,7 +519,7 @@
     <property name="Traits" value="Sack."/>
     <property name="Text" value="When Sacked: Attach to the character (excluding Gandalf) with the highest printed Û without a Sack attached.&#10;&#10;Attached character cannot ready, attack, defend, commit to quests, or trigger effects. If this Sack card is removed, shuffle it into the sack deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9010" name="A Tough Sack">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9010" name="A Tough Sack" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Objective"/>
@@ -527,7 +527,7 @@
     <property name="Traits" value="Sack."/>
     <property name="Text" value="When Sacked: Attach to the character (excluding Gandalf) with the highest printed Ú without a Sack attached.&#10;&#10;Attached character cannot ready, attack, defend, commit to quests, or trigger effects. If this Sack card is removed, shuffle it into the sack deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9003" name="A Large Sack">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9003" name="A Large Sack" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Objective"/>
@@ -535,7 +535,7 @@
     <property name="Traits" value="Sack."/>
     <property name="Text" value="When Sacked: Attach to the character (excluding Gandalf) with the highest printed hit points without a Sack attached.&#10;&#10;Attached character cannot ready, attack, defend, commit to quests, or trigger effects. If this Sack card is removed, shuffle it into the sack deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9001" name="A Deep Sack">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9001" name="A Deep Sack" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Objective"/>
@@ -543,7 +543,7 @@
     <property name="Traits" value="Sack."/>
     <property name="Text" value="When Sacked: Attach to the character (excluding Gandalf) with the highest printed Ò without a Sack attached.&#10;&#10;Attached character cannot ready, attack, defend, commit to quests, or trigger effects. If this Sack card is removed, shuffle it into the sack deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9002" name="A Foul Sack">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9002" name="A Foul Sack" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Objective"/>
@@ -551,7 +551,7 @@
     <property name="Traits" value="Sack."/>
     <property name="Text" value="When Sacked: Attach to the character (excluding Gandalf) with the most attachments without a Sack attached.&#10;&#10;Attached character cannot ready, attack, defend, commit to quests, or trigger effects. If this Sack card is removed, shuffle it into the sack deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9012" name="A Worn Sack">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9012" name="A Worn Sack" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Objective"/>
@@ -559,14 +559,14 @@
     <property name="Traits" value="Sack."/>
     <property name="Text" value="When Sacked: Attach to hero with the most resources without a Sack attached.&#10;&#10;Attached character cannot ready, attack, defend, commit to quests, or trigger effects. If this Sack card is removed, shuffle it into the sack deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9059" name="Lots or None at All">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9059" name="Lots or None at All" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: If there is a Troll enemy in the staging area, Sack 1. If there are no Troll enemies in the staging area, this card gains Doomed 2."/>
     <property name="Shadow" value="Shadow: If the attacking enemy is a Troll, Sack 1. (The first player may spend 1 Í resource to cancel this effect.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9004" name="A Nice Pickle">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9004" name="A Nice Pickle" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Treachery"/>
@@ -574,21 +574,21 @@
     <property name="Text" value="When Revealed: Place the top X cards of the encounter discard pile on the bottom of the encounter deck. X is equal to twice the number of players in the game."/>
     <property name="Shadow" value="Shadow: Shuffle this card into the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9071" name="Roast 'Em or Boil 'Em?">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9071" name="Roast 'Em or Boil 'Em?" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Deal 1 damage to each ally. (2 damage instead if there is a Troll enemy in the staging area.)"/>
     <property name="Shadow" value="Shadow: Search the encounter deck for Troll Camp and add it to the staging area. Then, shuffle the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9051" name="Hungry Troll">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9051" name="Hungry Troll" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="We Must Away, Ere Break of Day"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player chooses a Troll enemy in the staging area and engages that enemy. If there are no Troll enemies in the staging area, this card gains Surge."/>
     <property name="Shadow" value="Shadow: Deal 4 damage to each character with a Sack card attached. (The first player may spend 2 Í resources to cancel this effect.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9061" name="No Campfire">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9061" name="No Campfire" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Western Lands"/>
     <property name="Type" value="Treachery"/>
@@ -596,21 +596,21 @@
     <property name="Text" value="When Revealed: Each player must choose one: increase his threat by 4, or reveal an additional encounter card from the encounter deck and add it to the staging area."/>
     <property name="Shadow" value="Shadow: The defending player raises his threat by 2."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9093" name="Wind-whipped Rain">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9093" name="Wind-whipped Rain" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Western Lands"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Discard all non-treasure, non-objective attachments in play."/>
     <property name="Shadow" value="Shadow: The defending character gets -1 Ú."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9060" name="More Like a Grocer">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9060" name="More Like a Grocer" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Western Lands"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Discard all Í resources."/>
     <property name="Shadow" value="Shadow: Resolve this card's &quot;When Revealed&quot; effect."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9038" name="Goblin Axeman">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9038" name="Goblin Axeman" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Misty Mountain Goblins"/>
     <property name="Type" value="Enemy"/>
@@ -623,7 +623,7 @@
     <property name="Text" value="Goblin Axeman gets +1 Û for each Cave location in play."/>
     <property name="Shadow" value="Shadow: Defending character gets -1 Ú."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9041" name="Goblin Miners">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9041" name="Goblin Miners" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Misty Mountain Goblins"/>
     <property name="Type" value="Enemy"/>
@@ -636,7 +636,7 @@
     <property name="Text" value="Goblin Miners gets +1 Ú for each Cave location in play."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9042" name="Goblin Runners">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9042" name="Goblin Runners" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Misty Mountain Goblins"/>
     <property name="Type" value="Enemy"/>
@@ -649,7 +649,7 @@
     <property name="Health" value="2"/>
     <property name="Shadow" value="Shadow: attacking enemy makes an additional attack immediately after this one. (Deal a new shadow card for that attack.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9040" name="Goblin Driver">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9040" name="Goblin Driver" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Misty Mountain Goblins"/>
     <property name="Type" value="Enemy"/>
@@ -662,7 +662,7 @@
     <property name="Text" value="When Revealed: The first player exhausts 1 character he controls."/>
     <property name="Shadow" value="Shadow: Defending player exhausts 1 character he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9039" name="Goblin Bent-Swords">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9039" name="Goblin Bent-Swords" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Great Goblin"/>
     <property name="Type" value="Enemy"/>
@@ -675,7 +675,7 @@
     <property name="Text" value="If The Great Goblin is in the victory display, this card gains surge."/>
     <property name="Shadow" value="Shadow: attacking enemy gets +1 Û. (+2 Û instead if The Great Goblin is in the victory display.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9078" name="The Great Goblin">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9078" name="The Great Goblin" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Great Goblin"/>
     <property name="Unique" value="‰"/>
@@ -689,7 +689,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="Forced: After The Great Goblin attacks, discard X cards from the encounter deck where X is the number of players in the game. Add each Goblin enemy discarded by this effect to the staging area."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9076" name="Stone-Giant">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9076" name="Stone-Giant" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Over the Misty Mountains Grim"/>
     <property name="Type" value="Enemy"/>
@@ -701,7 +701,7 @@
     <property name="Health" value="9"/>
     <property name="Text" value="While at least one Stone-Giant is in the staging area, the Galloping Boulders card gains surge.&#10;&#10;Forced: After Stone-Giant engages a player, that player chooses and discards 1 ally he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9077" name="The Goblins' Caves">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9077" name="The Goblins' Caves" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Misty Mountain Goblins"/>
     <property name="Type" value="Location"/>
@@ -711,7 +711,7 @@
     <property name="Text" value="While The Goblins' Caves is the active location, Goblin enemies get +1 $."/>
     <property name="Shadow" value="Shadow: Defending player raises his threat by X. X is the number of Goblin enemies engaged with him."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9034" name="Front Porch">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9034" name="Front Porch" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Great Goblin"/>
     <property name="Type" value="Location"/>
@@ -720,7 +720,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Text" value="While Front Porch is the active location, players cannot attack Goblin enemies.&#10;&#10;Action: The first player may spend 2 Í resources to treat Front Porch's printed text box as if it were blank until the end of the round."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9045" name="Great Cavern Room">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9045" name="Great Cavern Room" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Great Goblin"/>
     <property name="Type" value="Location"/>
@@ -729,7 +729,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="While Great Cavern Room is the active location, it gains: &quot;Forced: After a player engages a Goblin enemy, he must deal 1 damage to a character he controls.&quot;&#10;&#10;Forced: When faced with the option to travel, if The Great Goblin is in the victory display the players must travel to Great Cavern Room if able."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9068" name="Overhanging Rock">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9068" name="Overhanging Rock" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Over the Misty Mountains Grim"/>
     <property name="Type" value="Location"/>
@@ -738,7 +738,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="While Overhanging Rock is the active location, it gains: &quot;Action: Spend 1 Í resource to look at the top 2 cards of your deck. Add 1 of those to your hand and discard the other.&quot;"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9079" name="The High Pass">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9079" name="The High Pass" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Over the Misty Mountains Grim"/>
     <property name="Unique" value="‰"/>
@@ -748,34 +748,34 @@
     <property name="Quest Points" value="5"/>
     <property name="Text" value="X is the number of players in the game.&#10;&#10;Forced: At the end of the round, remove X progress tokens from the current quest."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9047" name="Grip, grab! Pinch, nab!">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9047" name="Grip, grab! Pinch, nab!" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Misty Mountain Goblins"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Starting with the first player, each player must choose 1 Goblin enemy from the discard pile and add it to the staging area."/>
     <property name="Shadow" value="Shadow: Defending player deals damage among characters he controls equal to the number of Goblin enemies engaged with him."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9022" name="Chaos in the Cavern">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9022" name="Chaos in the Cavern" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Great Goblin"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: All engaged enemies return to the staging area. Then, each Goblin enemy gets +1 $ until the end of the phase."/>
     <property name="Shadow" value="Shadow: attacking enemy is returned to the staging area after its attack resolves."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9035" name="Galloping Boulders">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9035" name="Galloping Boulders" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Over the Misty Mountains Grim"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player chooses a questing character. That character takes 3 damage and is removed from the quest."/>
     <property name="Shadow" value="Shadow: Put this card on top of the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9048" name="Guffawing of Giants">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9048" name="Guffawing of Giants" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Over the Misty Mountains Grim"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player chooses 1 Stone-giant in the staging area. At the end of the quest phase, that Stone-giant engages the player with the highest threat. If there are no Stone-giant cards in the staging area, search the encounter deck for 1 Stone-giant and add it to the staging area."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9044" name="Gollum">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9044" name="Gollum" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Unique" value="‰"/>
@@ -788,7 +788,7 @@
     <property name="Health" value="5"/>
     <property name="Text" value="Forced: After the first player answers a riddle and fails to find at least 1 match, Gollum attacks Bilbo Baggins. (Do not deal a shadow card for this attack.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9046" name="Great Gray Wolf">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9046" name="Great Gray Wolf" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Enemy"/>
@@ -800,7 +800,7 @@
     <property name="Health" value="5"/>
     <property name="Text" value="Forced: If Great Gray Wolf is dealt a shadow card with a riddle, return all Creature enemies to the staging area at the end of the combat phase.&#10;&#10;Riddle: The first player names a card type, sphere and cost, shuffles his deck, then discards the top 3 cards. For each of those cards that matches all three items, place 1 progress token on stage 2."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9091" name="Wild Wargs">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9091" name="Wild Wargs" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Enemy"/>
@@ -812,7 +812,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="Forced: If Wild Wargs is dealt a shadow card with a riddle, it gets +2 Û.&#10;&#10;Riddle: The first player names a card type, shuffles his deck, and discards the top 2 cards. For each of those cards that matches, place 1 progress token on stage 2."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9082" name="The Wargs' Glade">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9082" name="The Wargs' Glade" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Location"/>
@@ -821,7 +821,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Text" value="Forced: After a character takes damage from an attack made by a Creature enemy, remove 1 progress from the current quest.&#10;&#10;Riddle: The first player names a sphere, shuffles his deck, and discards the top card. For each of those cards that matches, place 1 progress token on stage 2."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9056" name="Lake in the Cavern">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9056" name="Lake in the Cavern" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Unique" value="‰"/>
@@ -832,7 +832,7 @@
     <property name="Quest Points" value="0"/>
     <property name="Text" value="Players cannot travel here.&#10;&#10;Immune to player card effects.&#10;&#10;Forced: After players advance to stage 3, remove Lake in the Cavern from the game."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9018" name="Bilbo's Magic Ring">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9018" name="Bilbo's Magic Ring" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Unique" value="‰"/>
@@ -841,31 +841,31 @@
     <property name="Keywords" value="Attach to Bilbo Baggins."/>
     <property name="Text" value="Action: When answering a riddle, spend 1 Í resource to discard an additional player card from the top of your deck.&#10;&#10;Action: Exhaust Bilbo's Magic Ring and raise each player's threat by 2 to add 1 Í resource to Bilbo Baggins' resource pool."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9023" name="Come down little bird">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9023" name="Come down little bird" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Starting with the first player, each player must search the encounter deck and encounter discard pile for 1 Creature enemy and put it into play engaged with him. Then, shuffle the encounter deck.&#10;&#10;Riddle: The first player names a card type and cost, shuffles his deck, then discards the top 3 cards. For each of those cards that matches both items, place 1 progress token on stage 2."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9054" name="It Likes Riddles?">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9054" name="It Likes Riddles?" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player must choose to answer the riddle on this card. If he finds at least 1 match, discard cards from the encounter deck until another card with a riddle is discarded. Then, answer that riddle.&#10;&#10;Riddle: The first player names a cost, shuffles his deck, then discards the top 2 cards. For each of those cards that matches, place 1 progress token on stage 2."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9049" name="Hiding in the Trees">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9049" name="Hiding in the Trees" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Characters get -1 Ò and cannot attack until the end of the round.&#10;&#10;Riddle: The first player names a card type and sphere, shuffles his deck, then discards the top 3 cards. For each of those cards that matches both items, place 1 progress token on stage 2."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9090" name="What's In My Pocket?">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9090" name="What's In My Pocket?" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player must choose to answer the riddle on this card. This effect cannot be canceled.&#10;&#10;Riddle: The first player names a sphere and cost, shuffles his deck, then discards the top 2 cards. For each of those cards that matches both items, place 1 progress token on stage 2."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-1801204c9063" name="Not fair! Not fair!">
+  <card id="51223bd0-ffd1-11df-a976-1801204c9063" name="Not fair! Not fair!" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Dungeons Deep and Caverns Dim"/>
     <property name="Type" value="Treachery"/>

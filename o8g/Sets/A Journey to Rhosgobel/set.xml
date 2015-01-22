@@ -105,7 +105,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="Radagast collects 1 resource each resource phase. These resources can be used to pay for Creature cards played from your hand.&#10;&#10;Action: Spend X resources from Radagast's pool to heal X wounds on any 1 Creature."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9020" name="The Wounded Eagle">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9020" name="The Wounded Eagle" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Type" value="Quest"/>
@@ -121,7 +121,7 @@
       <property name="Quest Points" value="8"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9022" name="Radagast's Request">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9022" name="Radagast's Request" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Type" value="Quest"/>
@@ -136,7 +136,7 @@
       <property name="Text" value="Response: After the quest phase begins, the first player may place X damage tokens on Wilyador to look at the top 3 cards of the encounter deck. Reveal and add 1 of these cards to the staging area, and discard the other 2. X is the number of players in the game.&#10;&#10;Forced: After a card effect heals Wilyador, remove that card from the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9024" name="Return to Rhosgobel">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9024" name="Return to Rhosgobel" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Type" value="Quest"/>
@@ -151,7 +151,7 @@
       <property name="Text" value="When Revealed: Heal 5 wounds from Wilyador for each Athelas objective card the players control.&#10;&#10;If Wilyador is completely healed when this effect resolves, Wilyador survives and the players have won the game. Otherwise, the players have lost the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9012" name="Athelas">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9012" name="Athelas" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Type" value="Objective"/>
@@ -159,7 +159,7 @@
     <property name="Keywords" value="Guarded."/>
     <property name="Text" value="Action: Exhaust a hero to claim this objective if it has no encounters attached. Then, attach Athelas to that hero."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9019" name="Wilyador">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9019" name="Wilyador" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Unique" value="‰"/>
@@ -172,7 +172,7 @@
     <property name="Health" value="20"/>
     <property name="Text" value="Forced: At the end of each round, Wilyador suffers 2 damage.&#10;Wilyador cannot be healed of more than 5 wounds by a single effect. If Wilyador leaves play, the players have lost the game."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9017" name="Rhosgobel">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9017" name="Rhosgobel" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Unique" value="‰"/>
@@ -184,7 +184,7 @@
     <property name="Victory Points" value="4"/>
     <property name="Text" value="While Rhosgobel is in the staging area, Wilyador cannot be healed.&#10;&#10;Travel: Players must complete stage one of this quest before they can travel to Rhosgobel."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9015" name="Forest Grove">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9015" name="Forest Grove" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Type" value="Location"/>
@@ -193,28 +193,28 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="Response: After the players explore Forest Grove, search the encounter deck and discard pile for 1 Athelas objective, and add it to the staging area. Then, shuffle the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9014" name="Exhaustion">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9014" name="Exhaustion" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Deal 2 damage to each exhausted character."/>
     <property name="Shadow" value="Shadow: Deal 1 damage to each exhausted character."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9018" name="Swarming Insects">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9018" name="Swarming Insects" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Deal 1 damage to each character without any attachments."/>
     <property name="Shadow" value="Shadow: If a character (including Wilyador) has more damage than each other character, deal 3 additional damage to that character."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9011" name="Festering Wounds">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9011" name="Festering Wounds" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Deal 2 damage to each wounded character."/>
     <property name="Shadow" value="Shadow: Deal 1 damage to each wounded character. (2 damage instead if this attack is undefended.)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9016" name="Mirkwood Flock">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9016" name="Mirkwood Flock" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Type" value="Enemy"/>
@@ -227,7 +227,7 @@
     <property name="Text" value="Only Eagle characters or characters with ranged can attack or defend against Mirkwood Flock."/>
     <property name="Shadow" value="Shadow: If this attack is undefended, the damage must be placed on Wilyador."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801203c9013" name="Black Forest Bats">
+  <card id="51223bd0-ffd1-11df-a976-0801203c9013" name="Black Forest Bats" size="EncounterCard">
     <property name="Quantity" value="5"/>
     <property name="Encounter Set" value="A Journey to Rhosgobel"/>
     <property name="Type" value="Enemy"/>

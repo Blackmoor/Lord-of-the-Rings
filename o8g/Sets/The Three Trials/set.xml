@@ -100,7 +100,7 @@
     <property name="Keywords" value="Attach to a hero. Limit 1 per hero."/>
     <property name="Text" value="The first event card you play each round that matches the attached hero’s printed sphere gains secrecy 1."/>
   </card>
-  <card id="460a1e18-8a57-44a5-bd06-f0c1b13c86b5" name="The Trials Begin">
+  <card id="460a1e18-8a57-44a5-bd06-f0c1b13c86b5" name="The Trials Begin" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Quest"/>
@@ -117,7 +117,7 @@
       <property name="Text" value="When Revealed: The players advance to a stage 2A quest of their choice."/>
     </alternate>
   </card>
-  <card id="8e6fe06e-36a6-491d-ae17-6580ddfd8014" name="The Trial of Strength">
+  <card id="8e6fe06e-36a6-491d-ae17-6580ddfd8014" name="The Trial of Strength" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Quest"/>
@@ -133,7 +133,7 @@
       <property name="Text" value="Each Guardian enemy engages the first player. Barrow locations cannot be the active location and are immune to player card effects.&#10;&#10;When the players control the current trial’s Key objective, add all Barrow locations in play to the victory display and immediately advance to a stage 2A of the players’ choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."/>
     </alternate>
   </card>
-  <card id="be43a52a-370a-4481-bc84-8e004ecbfdca" name="The Trial of Perseverance">
+  <card id="be43a52a-370a-4481-bc84-8e004ecbfdca" name="The Trial of Perseverance" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Quest"/>
@@ -149,7 +149,7 @@
       <property name="Text" value="Each Guardian enemy engages the first player. Guardian enemies cannot be damaged or leave play except by quest effect.&#10;&#10;When the players control the current trial’s Key objective, add all Guardian enemies in play to the victory display and immediately advance to a stage 2A of the players’ choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."/>
     </alternate>
   </card>
-  <card id="8a0c8aef-d820-495f-b8f6-f2148f0786ba" name="The Trial of Intuition">
+  <card id="8a0c8aef-d820-495f-b8f6-f2148f0786ba" name="The Trial of Intuition" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Quest"/>
@@ -165,7 +165,7 @@
       <property name="Text" value="Each Guardian enemy engages the first player. Any time players would place progress on this quest, discard an equal number of cards from the encounter deck instead. (Progress is placed on the active location before triggering this effect.)&#10;&#10;When the players control the current trial’s Key objective, add all Guardian enemies and Barrow locations in play to the victory display and immediately advance to a stage 2A of the players’ choice. If all stage 2 quests have been&#10;defeated, advance to stage 3A, instead."/>
     </alternate>
   </card>
-  <card id="47f627da-150c-41b2-9442-390d8d2a897a" name="The Antlered Crown">
+  <card id="47f627da-150c-41b2-9442-390d8d2a897a" name="The Antlered Crown" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Quest"/>
@@ -181,7 +181,7 @@
       <property name="Text" value="Each Guardian enemy engages the player who controls the Key objective with a Trait shared by that enemy.&#10;&#10;Players cannot defeat this stage unless Hallowed Circle is in the victory display. If the players defeat this stage, they win the game."/>
     </alternate>
   </card>
-  <card id="3d1a7e6f-382a-49cb-9873-e6e5e86d12d2" name="Boar's Guardian">
+  <card id="3d1a7e6f-382a-49cb-9873-e6e5e86d12d2" name="Boar's Guardian" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Unique" value="‰"/>
@@ -196,7 +196,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="Time 2. Forced: After the last time counter is removed from Boar’s Guardian, the engaged player must discard an ally he controls. Place 2&#10;time counters on Boar’s Guardian."/>
   </card>
-  <card id="8bd2808a-55d4-41f7-946a-2726a3583eaf" name="Wolf's Guardian">
+  <card id="8bd2808a-55d4-41f7-946a-2726a3583eaf" name="Wolf's Guardian" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Unique" value="‰"/>
@@ -211,7 +211,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="Time 3. Forced: After the last time counter is removed from Wolf’s Guardian, it makes an immediate attack against the engaged player. Place&#10;3 time counters on Wolf’s Guardian."/>
   </card>
-  <card id="9a29c251-6119-47b2-8e10-ba4d33c0747e" name="Raven's Guardian">
+  <card id="9a29c251-6119-47b2-8e10-ba4d33c0747e" name="Raven's Guardian" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Unique" value="‰"/>
@@ -226,7 +226,7 @@
     <property name="Victory Points" value="3"/>
     <property name="Text" value="Time 4. Forced: After the last time counter is removed from Raven’s Guardian, deal 1 damage to each character controlled by the engaged player. Place 4 time counters on Raven’s Guardian."/>
   </card>
-  <card id="e2a70b1d-2d38-48bd-a591-cd2844fe50fd" name="Key of the Boar">
+  <card id="e2a70b1d-2d38-48bd-a591-cd2844fe50fd" name="Key of the Boar" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Unique" value="‰"/>
@@ -235,7 +235,7 @@
     <property name="Text" value="If unattached, the first player must claim Key of the Boar and attach it to a hero he controls.&#10;&#10;If Key of the Boar is discarded, add it to the staging area."/>
     <property name="Shadow" value="Shadow: Shuffle Key of the Boar back into the encounter deck."/>
   </card>
-  <card id="9b135a59-15f9-4e3b-be8e-76b7f5841658" name="Key of the Wolf">
+  <card id="9b135a59-15f9-4e3b-be8e-76b7f5841658" name="Key of the Wolf" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Unique" value="‰"/>
@@ -244,7 +244,7 @@
     <property name="Text" value="If unattached, the first player must claim Key of the Wolf and attach it to a hero he controls.&#10;&#10;If Key of the Wolf is discarded, add it to the staging area."/>
     <property name="Shadow" value="Shadow: Shuffle Key of the Wolf back into the encounter deck."/>
   </card>
-  <card id="877a0217-9708-4139-b305-14c1b83c1d14" name="Key of the Raven">
+  <card id="877a0217-9708-4139-b305-14c1b83c1d14" name="Key of the Raven" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Unique" value="‰"/>
@@ -253,7 +253,7 @@
     <property name="Text" value="If unattached, the first player must claim Key of the Raven and attach it to a hero he controls.&#10;&#10;If Key of the Raven is discarded, add it to the staging area."/>
     <property name="Shadow" value="Shadow: Shuffle Key of the Raven back into the encounter deck."/>
   </card>
-  <card id="b64d2e55-f304-4356-a491-7ee80e149c5c" name="Hill Barrow">
+  <card id="b64d2e55-f304-4356-a491-7ee80e149c5c" name="Hill Barrow" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Location"/>
@@ -263,7 +263,7 @@
     <property name="Victory Points" value="2"/>
     <property name="Text" value="Forced: When a Guardian enemy attacks, deal it 1 additional shadow card."/>
   </card>
-  <card id="a7907eca-8205-40a3-95ba-f30e31aaad82" name="Cave Barrow">
+  <card id="a7907eca-8205-40a3-95ba-f30e31aaad82" name="Cave Barrow" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Location"/>
@@ -273,7 +273,7 @@
     <property name="Victory Points" value="2"/>
     <property name="Text" value="The players, as a group, cannot have more than 5 allies in play. (If there are more than 5 allies in play, discard allies until only 5 remain.)"/>
   </card>
-  <card id="35ed8128-584c-43cc-ae7c-a4430e78940c" name="Stone Barrow">
+  <card id="35ed8128-584c-43cc-ae7c-a4430e78940c" name="Stone Barrow" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Location"/>
@@ -283,7 +283,7 @@
     <property name="Victory Points" value="2"/>
     <property name="Text" value="Forced: After a Guardian enemy attacks, raise each player’s threat by X, where X is that enemy’s $."/>
   </card>
-  <card id="314e7260-ca85-4842-af5f-913ecbaa13d4" name="Hallowed Circle">
+  <card id="314e7260-ca85-4842-af5f-913ecbaa13d4" name="Hallowed Circle" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Unique" value="‰"/>
@@ -295,7 +295,7 @@
     <property name="Victory Points" value="5"/>
     <property name="Text" value="Travel: The players must exhaust 3 Key objectives.&#10;&#10;Forced: After the players travel here, each engaged Guardian enemy makes an immediate attack."/>
   </card>
-  <card id="86fe0f99-d978-40be-8f39-136bec2a3d58" name="Spirit of the Wild">
+  <card id="86fe0f99-d978-40be-8f39-136bec2a3d58" name="Spirit of the Wild" size="EncounterCard">
     <property name="Quantity" value="5"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Enemy"/>
@@ -309,7 +309,7 @@
     <property name="Text" value="Spirit of the Wild gets +1 $ and +1 Û for each Key objective the players control."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each Key objective the players control."/>
   </card>
-  <card id="94befa92-9e5f-4838-b1e1-0b54d698bcb3" name="Cursed Forest">
+  <card id="94befa92-9e5f-4838-b1e1-0b54d698bcb3" name="Cursed Forest" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Location"/>
@@ -319,7 +319,7 @@
     <property name="Text" value="Travel: Search the encounter deck and discard pile for a Spirit enemy and add it to the staging area."/>
     <property name="Shadow" value="Shadow: If this attack destroys a character, remove a time counter from an enemy, if able."/>
   </card>
-  <card id="a264930c-e083-484a-bbe8-9b615942e83a" name="Grim Foothills">
+  <card id="a264930c-e083-484a-bbe8-9b615942e83a" name="Grim Foothills" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Location"/>
@@ -329,21 +329,21 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="While Grim Foothills is in the staging area, progress must be placed on Grim Foothills before it can be placed on the active location."/>
   </card>
-  <card id="7991d705-7e2d-4303-abbc-f9999b2d2502" name="Curse of the Wild Men">
+  <card id="7991d705-7e2d-4303-abbc-f9999b2d2502" name="Curse of the Wild Men" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Deal 1 damage to each non-unique character in play. If the players control 3 Key objectives, Curse of the Wild Men gains surge."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each Key objective the players control."/>
   </card>
-  <card id="228a03b8-ec05-4562-90f5-0c7d969490b0" name="The Guardian's Fury">
+  <card id="228a03b8-ec05-4562-90f5-0c7d969490b0" name="The Guardian's Fury" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each Guardian enemy makes an immediate attack. If there are no Guardian enemies in play, return a random Guardian enemy from the victory display, and add it to the staging area."/>
     <property name="Shadow" value="Shadow: If attacking enemy is a Guardian, it makes an additional attack after this one."/>
   </card>
-  <card id="f24f8d3e-3193-4111-9fea-ecdbbafd921a" name="Wild Tenacity">
+  <card id="f24f8d3e-3193-4111-9fea-ecdbbafd921a" name="Wild Tenacity" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Three Trials"/>
     <property name="Type" value="Treachery"/>

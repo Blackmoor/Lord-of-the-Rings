@@ -99,7 +99,7 @@
     <property name="Cost" value="0"/>
     <property name="Text" value="Response: After Hidden Cache is discarded from your deck, add 2 resources to the resource pool of a hero you control.&#10;&#10;Action: Action: Spend 1 resource to draw 1 card."/>
   </card>
-  <card id="30a319ff-6092-4d5f-9b94-2a9b4f44f9c1" name="The Rearguard">
+  <card id="30a319ff-6092-4d5f-9b94-2a9b4f44f9c1" name="The Rearguard" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Type" value="Quest"/>
@@ -116,7 +116,7 @@
       <property name="Text" value="Murzag cannot leave play unless destroyed. If Murzag is defeated, advance to the next stage."/>
     </alternate>
   </card>
-  <card id="49aa4e88-3774-43f7-ab8d-05268ed3fb7e" name="The Betrayal">
+  <card id="49aa4e88-3774-43f7-ab8d-05268ed3fb7e" name="The Betrayal" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Type" value="Quest"/>
@@ -132,7 +132,7 @@
       <property name="Text" value="Lord Alcaron cannot leave play unless destroyed. If Lord Alcaron is defeated, advance to the next stage."/>
     </alternate>
   </card>
-  <card id="8b4dd0c5-3847-46f6-a69b-a4c7ee2b21c8" name="The Morgul Rider">
+  <card id="8b4dd0c5-3847-46f6-a69b-a4c7ee2b21c8" name="The Morgul Rider" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Type" value="Quest"/>
@@ -148,14 +148,14 @@
       <property name="Text" value="When Revealed: Reveal 1 card per player from the encounter deck and add it to the staging area.&#10;&#10;Nazgûl of Minas Morgul cannot leave play unless destroyed.&#10;&#10;If Nazgûl of Minas Morgul is defeated, the players have won the game."/>
     </alternate>
   </card>
-  <card id="a6dd52d0-375a-41ea-ae77-b0fd9bcb6629" name="To the Tower">
+  <card id="a6dd52d0-375a-41ea-ae77-b0fd9bcb6629" name="To the Tower" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Captured."/>
     <property name="Text" value="To the Tower cannot leave the staging area.&#10;&#10;Remove Faramir from the game.&#10;&#10;If 10 or more progress tokens are on To the Tower, the players have lost the game."/>
   </card>
-  <card id="aca1ee7f-ad29-4218-8dd5-f7f7a8e617fe" name="Morgul Bodyguard">
+  <card id="aca1ee7f-ad29-4218-8dd5-f7f7a8e617fe" name="Morgul Bodyguard" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Type" value="Enemy"/>
@@ -168,7 +168,7 @@
     <property name="Text" value="Any damage that would be dealt to a Captain is dealt to 1 Morgul Bodyguard instead."/>
     <property name="Shadow" value="Shadow: Attacking enemy engages the next player and makes an immediate attack, if able."/>
   </card>
-  <card id="c12057ee-64d0-419a-adb8-17632e3182b0" name="Morgul Sorcerer">
+  <card id="c12057ee-64d0-419a-adb8-17632e3182b0" name="Morgul Sorcerer" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Type" value="Enemy"/>
@@ -181,7 +181,7 @@
     <property name="Text" value="Forced: After any number of progress tokens are placed on To the Tower, deal Morgul Sorcerer a shadow card."/>
     <property name="Shadow" value="Shadow: Defending player must place 1 progress token on To the Tower or treat this attack as undefended."/>
   </card>
-  <card id="6987d363-bcba-4f34-97b1-d26f080c843e" name="Morgul Tracker">
+  <card id="6987d363-bcba-4f34-97b1-d26f080c843e" name="Morgul Tracker" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Type" value="Enemy"/>
@@ -195,7 +195,7 @@
     <property name="Text" value="Forced: When Morgul Tracker is optionally engaged, place 1 progress token on To the Tower."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If undefended, place 1 progress token on To the Tower as well."/>
   </card>
-  <card id="a305f78f-0d26-4a56-9d5b-7fb0210e6bd4" name="Murzag">
+  <card id="a305f78f-0d26-4a56-9d5b-7fb0210e6bd4" name="Murzag" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Unique" value="‰"/>
@@ -208,7 +208,7 @@
     <property name="Health" value="7"/>
     <property name="Text" value="Forced: After Murzag attacks, reveal the top card of the encounter deck. If that card is an enemy, put it into play engaged with the defending player."/>
   </card>
-  <card id="499195c5-389f-4a56-b67e-b6e5b8f2fb91" name="Lord Alcaron">
+  <card id="499195c5-389f-4a56-b67e-b6e5b8f2fb91" name="Lord Alcaron" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Unique" value="‰"/>
@@ -221,7 +221,7 @@
     <property name="Health" value="5"/>
     <property name="Text" value="Forced: When Lord Alcaron attacks, place 1 progress token on To the Tower.&#10;&#10;Forced: When Lord Alcaron is dealt a shadow card with no shadow effect, he makes an additional attack after this one (deal and resolve another shadow card)."/>
   </card>
-  <card id="3ef4f724-8f91-42d3-9ba2-5d731283c069" name="Nazgûl of Minas Morgul">
+  <card id="3ef4f724-8f91-42d3-9ba2-5d731283c069" name="Nazgûl of Minas Morgul" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Unique" value="‰"/>
@@ -234,7 +234,7 @@
     <property name="Health" value="5"/>
     <property name="Text" value="Nazgûl of Minas Morgul cannot have attachments.&#10;&#10;Reduce any amount of damage dealt to Nazgûl of Minas Morgul to 1."/>
   </card>
-  <card id="3e0e63ba-d11b-4c8a-aab6-047f19013ca7" name="Morgul Road">
+  <card id="3e0e63ba-d11b-4c8a-aab6-047f19013ca7" name="Morgul Road" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Type" value="Location"/>
@@ -244,7 +244,7 @@
     <property name="Text" value="Response: After Morgul Road leaves play as an explored location, the first player may remove 1 progress token from To the Tower or deal 1 damage to an enemy in play."/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack."/>
   </card>
-  <card id="e176b4d7-2fae-4025-8a71-5c3bc843e2e1" name="Morgul Vale">
+  <card id="e176b4d7-2fae-4025-8a71-5c3bc843e2e1" name="Morgul Vale" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Type" value="Location"/>
@@ -254,7 +254,7 @@
     <property name="Text" value="Forced: At the end of the round, each player returns 1 enemy engaged with him to the staging area."/>
     <property name="Shadow" value="Shadow: If this attack destroys a character, place 1 progress token on To the Tower."/>
   </card>
-  <card id="95f2f7ac-5d85-43e5-930d-d866b00bef26" name="The White Bridge">
+  <card id="95f2f7ac-5d85-43e5-930d-d866b00bef26" name="The White Bridge" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Unique" value="‰"/>
@@ -264,13 +264,13 @@
     <property name="Quest Points" value="X"/>
     <property name="Text" value="X is the number of progress tokens on To the Tower."/>
   </card>
-  <card id="418e1e02-52fe-4aef-b543-3875837dd38a" name="Impenetrable Fog">
+  <card id="418e1e02-52fe-4aef-b543-3875837dd38a" name="Impenetrable Fog" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player places 3 progress tokens on To the Tower or reveals X additional cards from the encounter deck and adds them to the staging area. X is the number of players in the game."/>
   </card>
-  <card id="46c7bfd7-96b7-4fe4-a110-3464ba6c0023" name="Sleepless Malice">
+  <card id="46c7bfd7-96b7-4fe4-a110-3464ba6c0023" name="Sleepless Malice" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Type" value="Treachery"/>
@@ -278,7 +278,7 @@
     <property name="Text" value="When Revealed: Each player must discard 3 random cards from his hand or place 1 progress token on To the Tower."/>
     <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack."/>
   </card>
-  <card id="08af0240-fb38-4a33-a1f0-af07fd496b42" name="Terror Drives Them">
+  <card id="08af0240-fb38-4a33-a1f0-af07fd496b42" name="Terror Drives Them" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Type" value="Treachery"/>
@@ -286,7 +286,7 @@
     <property name="Text" value="When Revealed: Place 1 progress token on To the Tower."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each progress token on To the Tower."/>
   </card>
-  <card id="8ac2d3ea-7e6d-4e9e-9cc5-70b65b24b835" name="The Dead City Looms">
+  <card id="8ac2d3ea-7e6d-4e9e-9cc5-70b65b24b835" name="The Dead City Looms" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Morgul Vale"/>
     <property name="Type" value="Treachery"/>

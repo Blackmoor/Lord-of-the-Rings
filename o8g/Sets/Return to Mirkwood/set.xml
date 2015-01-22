@@ -96,7 +96,7 @@
     <property name="Cost" value="2"/>
     <property name="Text" value="Action: Move the top card of the encounter discard pile to the top of the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9021" name="Through the Forest">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9021" name="Through the Forest" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Quest"/>
@@ -112,7 +112,7 @@
       <property name="Quest Points" value="12"/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9010" name="Escape Attempt">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9010" name="Escape Attempt" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Quest"/>
@@ -127,7 +127,7 @@
       <property name="Text" value="The player guarding Gollum cannot commit characters to this quest (unless he is the only player remaining in the game).&#10;&#10;If the players quest unsuccessfully, Gollum escapes and the players have lost the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9023" name="To the Elvin King's Halls">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9023" name="To the Elvin King's Halls" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Quest"/>
@@ -142,7 +142,7 @@
       <property name="Text" value="The player guarding Gollum cannot play cards from his hand."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9001" name="Ambush">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9001" name="Ambush" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Quest"/>
@@ -157,7 +157,7 @@
       <property name="Text" value="Forced: At the beginning of the combat phase, all enemies in play engage the player guarding Gollum.&#10;&#10;Players cannot defeat this stage if there are any enemies in play. If players defeat this stage, they have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9012" name="Gollum">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9012" name="Gollum" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Unique" value="‰"/>
@@ -169,7 +169,7 @@
     <property name="Health" value="5"/>
     <property name="Text" value="Damage from undefended attacks against you must be dealt to Gollum. If Gollum is destroyed, or if the player guarding Gollum is eliminated, the players have lost the game.&#10;&#10;Forced: At the end of each round, raise the threat of the player guarding Gollum by 3. Then, that player may choose a new player to guard Gollum."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9020" name="The Spider's Ring">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9020" name="The Spider's Ring" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Location"/>
@@ -179,7 +179,7 @@
     <property name="Text" value="While The Spider's Ring is the active location, the player guarding Gollum cannot change."/>
     <property name="Shadow" value="Shadow: If this attack is undefended, return any current active location to the staging area. The Spider's Ring becomes the active location."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9007" name="Dry Watercourse">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9007" name="Dry Watercourse" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Location"/>
@@ -188,7 +188,7 @@
     <property name="Quest Points" value="2"/>
     <property name="Text" value="While Dry Watercourse is the active location, all treachery card effects that target the player guarding Gollum also target each other player."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9028" name="Woodman's Glade">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9028" name="Woodman's Glade" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Location"/>
@@ -197,7 +197,7 @@
     <property name="Quest Points" value="2"/>
     <property name="Text" value="Travel: The player guarding Gollum must exhaust a hero he controls to travel to Woodman's Glade.&#10;&#10;Response: After exploring Woodman's Glade, reduce the threat of each player not guarding Gollum by 2."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9027" name="Wood Elf Path">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9027" name="Wood Elf Path" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Location"/>
@@ -206,7 +206,7 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="Response: After the players travel to Wood Elf Path, the player guarding Gollum may choose a new player to guard him."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9013" name="Gollum's Anguish">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9013" name="Gollum's Anguish" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Treachery"/>
@@ -214,7 +214,7 @@
     <property name="Text" value="When Revealed: Raise the threat of the player guarding Gollum by 8. That player must choose a new player to guard Gollum, if able."/>
     <property name="Shadow" value="Shadow: Raise the threat of the player guarding Gollum by 4."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9014" name="Gollum's Bite">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9014" name="Gollum's Bite" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Treachery"/>
@@ -222,7 +222,7 @@
     <property name="Text" value="When Revealed: Deal 4 damage to a hero controlled by the player guarding Gollum. That player must choose a new player to guard Gollum, if able."/>
     <property name="Shadow" value="Shadow: Deal 2 damage to a hero controlled by the player guarding Gollum."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9025" name="Wasted Provisions">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9025" name="Wasted Provisions" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Treachery"/>
@@ -230,7 +230,7 @@
     <property name="Text" value="When Revealed: Discard the top 10 cards from the deck of the player guarding Gollum. That player must choose a new player to guard Gollum, if able."/>
     <property name="Shadow" value="Shadow: Discard the top 5 cards from the deck of the player guarding Gollum."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9015" name="Mirkwood Bats">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9015" name="Mirkwood Bats" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Enemy"/>
@@ -243,7 +243,7 @@
     <property name="Health" value="1"/>
     <property name="Text" value="Forced: After Mirkwood Bats engages a player, deal 1 damage to each character controlled by the player guarding Gollum."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801206c9004" name="Attercop, Attercop">
+  <card id="51223bd0-ffd1-11df-a976-0801206c9004" name="Attercop, Attercop" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Return to Mirkwood"/>
     <property name="Type" value="Enemy"/>

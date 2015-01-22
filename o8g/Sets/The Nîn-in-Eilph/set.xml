@@ -102,7 +102,7 @@
     <property name="Cost" value="1"/>
     <property name="Text" value="The first player gains control of attached ally&#10;&#10;Damage from undefended attacks against you may be assigned to attached ally."/>
   </card>
-  <card id="874a98ba-9b90-49b3-9cd4-c06464696b5b" name="Fleeing from Tharbad">
+  <card id="874a98ba-9b90-49b3-9cd4-c06464696b5b" name="Fleeing from Tharbad" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Quest"/>
@@ -119,7 +119,7 @@
       <property name="Text" value="When Revealed: Advance to a random stage 2A."/>
     </alternate>
   </card>
-  <card id="51124d05-205c-49e6-ad19-aa67185c8bdc" name="Through the Marsh">
+  <card id="51124d05-205c-49e6-ad19-aa67185c8bdc" name="Through the Marsh" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Quest"/>
@@ -135,7 +135,7 @@
       <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck. &#10;&#10;Player card effects cannot be used to gain resources or draw cards. &#10;&#10;Forced: When the players defeat this stage, advance to a random stage 3A."/>
     </alternate>
   </card>
-  <card id="9945fdee-b56e-488d-a5bf-33d5a82afdad" name="Through the Marsh">
+  <card id="9945fdee-b56e-488d-a5bf-33d5a82afdad" name="Through the Marsh" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Quest"/>
@@ -151,7 +151,7 @@
       <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck.&#10;&#10;In order to commit characters to the quest, a player must first discard a card at random from his hand.&#10;&#10;Forced: When the players defeat this stage, advance to a random stage 3A."/>
     </alternate>
   </card>
-  <card id="3dfaab4d-04b1-49a6-bd17-63c184784985" name="Through the Marsh">
+  <card id="3dfaab4d-04b1-49a6-bd17-63c184784985" name="Through the Marsh" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Quest"/>
@@ -167,7 +167,7 @@
       <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck. &#10;&#10;Each player cannot play more than 1 card each round.&#10;&#10;Forced: When the players defeat this stage, advance to a random stage 3A."/>
     </alternate>
   </card>
-  <card id="f9e9bc93-8044-474c-8f80-d3787edbca5f" name="Lost in the Swanfleet">
+  <card id="f9e9bc93-8044-474c-8f80-d3787edbca5f" name="Lost in the Swanfleet" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Quest"/>
@@ -183,7 +183,7 @@
       <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck. &#10;&#10;Each location in play gets +1 $."/>
     </alternate>
   </card>
-  <card id="bb58f446-da73-47e3-98e8-70f69ee77d34" name="Lost in the Swanfleet">
+  <card id="bb58f446-da73-47e3-98e8-70f69ee77d34" name="Lost in the Swanfleet" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Quest"/>
@@ -199,7 +199,7 @@
       <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck.&#10;&#10;Each player cannot ready more than 5 characters during the refresh phase."/>
     </alternate>
   </card>
-  <card id="c760eeaf-d923-4d98-af5c-eb7cb2d2f4d9" name="Lost in the Swanfleet">
+  <card id="c760eeaf-d923-4d98-af5c-eb7cb2d2f4d9" name="Lost in the Swanfleet" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Quest"/>
@@ -215,7 +215,7 @@
       <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck.&#10;&#10;Each enemy in the staging area gets –20 engagement cost."/>
     </alternate>
   </card>
-  <card id="b49b5be7-5bfc-4e65-bced-862a409e097d" name="Out of the Swamp">
+  <card id="b49b5be7-5bfc-4e65-bced-862a409e097d" name="Out of the Swamp" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Quest"/>
@@ -231,7 +231,7 @@
       <property name="Text" value="Time 2. Forced: After the last time counter is removed from this stage, Ancient Marsh-dweller makes an attack against each player in order. Place 2 time counters on this stage. &#10;&#10;When Ancient Marsh-dweller is defeated, the players win the game."/>
     </alternate>
   </card>
-  <card id="d5134ddf-8c78-4e68-a603-7df5d48f5016" name="Nalir">
+  <card id="d5134ddf-8c78-4e68-a603-7df5d48f5016" name="Nalir" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Unique" value="‰"/>
@@ -244,7 +244,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="Forced: At the beginning of the refresh phase, raise your threat by 1 for each player in the game.&#10;&#10;If Nalir leaves play, the players lose the game."/>
   </card>
-  <card id="b34e79d4-7806-4fd9-b12d-bb291e44f354" name="Ancient Marsh-dweller">
+  <card id="b34e79d4-7806-4fd9-b12d-bb291e44f354" name="Ancient Marsh-dweller" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Unique" value="‰"/>
@@ -259,7 +259,7 @@
     <property name="Victory Points" value="5"/>
     <property name="Text" value="Ancient Marsh-dweller gets +1 $ and +1 Û for each resource token on it.&#10;&#10;Forced: After any number of time counters are removed from the current quest, place a resource token here."/>
   </card>
-  <card id="356f37d9-34c9-4fae-864d-c34dff7eaaa4" name="Giant Swamp Adder">
+  <card id="356f37d9-34c9-4fae-864d-c34dff7eaaa4" name="Giant Swamp Adder" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Enemy"/>
@@ -272,7 +272,7 @@
     <property name="Health" value="6"/>
     <property name="Text" value="Forced: After any number of time counters are removed from the current quest, Giant Swamp Adder attacks the engaged player."/>
   </card>
-  <card id="8ef56cb3-b483-4b38-b208-6c16e16bdb6d" name="Neekerbreekers">
+  <card id="8ef56cb3-b483-4b38-b208-6c16e16bdb6d" name="Neekerbreekers" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Enemy"/>
@@ -285,7 +285,7 @@
     <property name="Text" value="Forced: After any number of time counters are removed from the current quest, the engaged player must deal 2 damage to an ally he controls."/>
     <property name="Shadow" value="Shadow: Deal 1 damage to the defending character."/>
   </card>
-  <card id="3d19de02-b3a9-4612-a90a-30b37bd1e9b1" name="Fen of Reeds">
+  <card id="3d19de02-b3a9-4612-a90a-30b37bd1e9b1" name="Fen of Reeds" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Location"/>
@@ -295,7 +295,7 @@
     <property name="Text" value="While Fen of Reeds is in the staging area, it gains: “Forced: After the players advance to a quest stage, each player must exhaust a character he controls.”"/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each time counter on the quest."/>
   </card>
-  <card id="f542bca1-68d1-4975-aea9-3ff3e7801be5" name="Finger of Glanduin">
+  <card id="f542bca1-68d1-4975-aea9-3ff3e7801be5" name="Finger of Glanduin" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Location"/>
@@ -305,7 +305,7 @@
     <property name="Text" value="While Finger of Glanduin is in the staging area, it gains: “Forced: At the end of each round, remove 1 progress from each location in play.”"/>
     <property name="Shadow" value="Shadow: If this attack destroys a character, remove all progress from the current quest."/>
   </card>
-  <card id="1156ac5f-09cf-418b-9486-030b397a5514" name="Hidden Eyot">
+  <card id="1156ac5f-09cf-418b-9486-030b397a5514" name="Hidden Eyot" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Location"/>
@@ -314,7 +314,7 @@
     <property name="Quest Points" value="4"/>
     <property name="Text" value="Response: After Hidden Eyot leaves play as an explored location, place 2 time counters on the current quest.&#10;&#10;Travel: Each player must exhaust a character he controls to travel here."/>
   </card>
-  <card id="1e96a8e3-ad11-48d5-8554-7cb1a90937a7" name="Sinking Bog">
+  <card id="1e96a8e3-ad11-48d5-8554-7cb1a90937a7" name="Sinking Bog" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Location"/>
@@ -324,7 +324,7 @@
     <property name="Text" value="While Sinking Bog is in the staging area, each character gets –1 Ò, –1 Û, and –1 Ú for each Item attached to it. This ability does not stack with other copies of Sinking Bog."/>
     <property name="Shadow" value="Shadow: Defending character gets –1 Ú for each attachment attached to it."/>
   </card>
-  <card id="a0f5082c-acc7-4884-a3d4-a7eed0f053e6" name="Shifting Marshland">
+  <card id="a0f5082c-acc7-4884-a3d4-a7eed0f053e6" name="Shifting Marshland" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Treachery"/>
@@ -332,7 +332,7 @@
     <property name="Text" value="When Revealed: Remove 1 time counter from the current quest."/>
     <property name="Shadow" value="Shadow: Attacking enemy makes an additional attack after this one."/>
   </card>
-  <card id="944aaafa-17e2-4352-9a04-384673089ee6" name="Remnants of Elder Days">
+  <card id="944aaafa-17e2-4352-9a04-384673089ee6" name="Remnants of Elder Days" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Treachery"/>

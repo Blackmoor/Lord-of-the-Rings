@@ -103,7 +103,7 @@
     <property name="Cost" value="2"/>
     <property name="Text" value="Combat Action: Enemies engaged with you do not attack this round. You cannot declare attacks this round."/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93001" name="Savagery of the Orcs">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93001" name="Savagery of the Orcs" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Quest"/>
@@ -120,7 +120,7 @@
       <property name="Text" value="When progress would be placed on Savagery of the Orcs, move an equal number of villager tokens from this quest onto Rescued Villagers instead.&#10;&#10;If there are no villager tokens on Savagery of the Orcs, advance to the next stage."/>
     </alternate>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93002" name="Protect the Villagers">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93002" name="Protect the Villagers" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Quest"/>
@@ -136,19 +136,19 @@
       <property name="Text" value="If an attack goes undefended, discard X villager tokens from Rescued Villagers instead of damaging a hero. X is the amount of damage that would have been dealt.&#10;&#10;When the players defeat this stage, end the game. Compare the number of tokens on Rescued Villagers to the number of tokens on Dead Villagers."/>
     </alternate>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93068" name="Rescued Villagers">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93068" name="Rescued Villagers" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Objective"/>
     <property name="Text" value="If a location leaves play as an explored location, move any villager tokens from that location to Rescued Villagers.&#10;&#10;At the end of the game, if there are more villager tokens here than damage tokens on Dead Vilagers, the players have won."/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93069" name="Dead Villagers">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93069" name="Dead Villagers" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Objective"/>
     <property name="Text" value="If a villager token is discarded from a location, objective or quest stage, place a damage token on Dead Villagers.&#10;&#10;At the end of the game, if there are more damage tokens here than villager tokens on Rescued Villagers, the players have lost."/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93070" name="Lord Alcaron">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93070" name="Lord Alcaron" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Unique" value="‰"/>
@@ -161,7 +161,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="Response: After a villager token is discarded, exhaust Lord Alcaron to place that villager token on a location instead.&#10;&#10;If Lord Alcaron leaves play, the players have lost the game."/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93071" name="Ghulat">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93071" name="Ghulat" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Unique" value="‰"/>
@@ -176,7 +176,7 @@
     <property name="Victory Points" value="2"/>
     <property name="Text" value="Forced: When Ghulat attacks, place 1 damage token on Dead Villagers.&#10;&#10;While Ghulat is in play, the game cannot end."/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93072" name="Marauding Orc">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93072" name="Marauding Orc" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Enemy"/>
@@ -189,7 +189,7 @@
     <property name="Text" value="Forced: After Marauding Orc attacks and destroys a character, place 1 damage token on Dead Villagers."/>
     <property name="Shadow" value="Shadow: If this attack destroys a character, discard 1 villager token from Rescued Villagers."/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93073" name="Orc Ravager">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93073" name="Orc Ravager" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Enemy"/>
@@ -202,7 +202,7 @@
     <property name="Text" value="When Revealed: Discard 1 villager token from the active location. If no villager token is discarded by this effect, Orc Ravager gains surge."/>
     <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. (+2 Û instead if undefended.)"/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93074" name="Craven Eagle">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93074" name="Craven Eagle" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Enemy"/>
@@ -214,7 +214,7 @@
     <property name="Health" value="3"/>
     <property name="Text" value="When Revealed: Discard the character with the fewest remaining hit points. That character's controller may discard 3 cards at random from his hand to prevent this effect."/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93075" name="Burning Farmhouse">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93075" name="Burning Farmhouse" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Location"/>
@@ -225,7 +225,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Forced: At the end of the round, discard 1 villager token from Burning Farmhouse."/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93076" name="Gondorian Hamlet">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93076" name="Gondorian Hamlet" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Location"/>
@@ -236,7 +236,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="While Gondorian Hamlet is in the staging area it gains: &quot;Forced: After a treachery card is revealed from the encounter deck, discard 1 villager token from Gondorian Hamlet.&quot;"/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93077" name="Secluded Farmhouse">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93077" name="Secluded Farmhouse" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Location"/>
@@ -247,7 +247,7 @@
     <property name="Victory Points" value="1"/>
     <property name="Text" value="Travel: Reveal the top card of the encounter deck and add it to the staging area to travel here."/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93078" name="Burnt Homestead">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93078" name="Burnt Homestead" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Treachery"/>
@@ -255,7 +255,7 @@
     <property name="Text" value="When Revealed: Raise each player's threat by the number of damage tokens on Dead Villagers."/>
     <property name="Shadow" value="Shadow: Defending player raises his threat by 1 for each damage token on Dead Villagers."/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93079" name="Trapped Inside">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93079" name="Trapped Inside" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Treachery"/>
@@ -263,7 +263,7 @@
     <property name="Text" value="When Revealed: Discard 1 villager token from the active location for each player in the game. If no villager tokens were removed by this effect, Trapped Inside gains surge."/>
     <property name="Shadow" value="Shadow: If this attack destroys a character, discard 1 villager token from Rescued Villagers."/>
   </card>
-  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93080" name="Panicked!">
+  <card id="fd89bdbf-7475-4f3e-96fc-8f5315a93080" name="Panicked!" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Encounter at Amon Dîn"/>
     <property name="Type" value="Treachery"/>

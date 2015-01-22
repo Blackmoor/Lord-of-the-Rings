@@ -91,7 +91,7 @@
     <property name="Cost" value="2"/>
     <property name="Text" value="Action: Exhaust Elrond and Vilya to reveal the top card of your deck. You can immediately play or put into play the revealed card for no cost, if able. Otherwise, move the revealed card to the bottom of your deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9017" name="Nearing the Gate">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9017" name="Nearing the Gate" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Quest"/>
@@ -108,7 +108,7 @@
       <property name="Text" value="When Revealed: Reduce each player's threat to 0. Reveal X cards from the encounter deck, where X is one less than the number of players in the game, and add them to the staging area."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9025" name="The Rear Guard">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9025" name="The Rear Guard" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Quest"/>
@@ -123,7 +123,7 @@
       <property name="Text" value="Forced: If at least 1 hero committed to the quest this round, place 4 progress tokens on The Rear Guard (bypassing any active location) at the end of the quest phase.&#10;&#10;If Durin's Bane has 0 hit points, advance to the next stage of the scenario immediately."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9011" name="Last Lord of Moria">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9011" name="Last Lord of Moria" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Quest"/>
@@ -138,7 +138,7 @@
       <property name="Text" value="When Revealed: Durin's Bane makes an immediate attack on the first player. Add Dark Pit to the staging area.&#10;&#10;Players cannot win the game while Durin's Bane is in play. If Durin's Bane leaves play by the effect on Dark Pit, the players have won the game."/>
     </alternate>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9002" name="Dark Pit">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9002" name="Dark Pit" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Location"/>
@@ -147,7 +147,7 @@
     <property name="Quest Points" value="11"/>
     <property name="Text" value="While Dark Pit is the active location it gains: &quot;Refresh Action: Exhaust X characters (maximum 3) you control to discard the top X cards of your deck. If all discarded cards have a higher combined printed cost than the remaining hit points of Durin's Bane, discard Durin's Bane from play.&quot;"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9024" name="Second Hall">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9024" name="Second Hall" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Unique" value="‰"/>
@@ -157,7 +157,7 @@
     <property name="Quest Points" value="2"/>
     <property name="Text" value="While Second Hall is the active location, it gains: &quot;Forced: After a character leaves play, reveal 1 card from the encounter deck and add it to the staging area.&quot;"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9023" name="Second Deep">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9023" name="Second Deep" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Location"/>
@@ -166,49 +166,49 @@
     <property name="Quest Points" value="3"/>
     <property name="Text" value="While Durin's Bane has no damage on it, progress tokens cannot be placed on Second Deep."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9006" name="Fires in the Deep">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9006" name="Fires in the Deep" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must discard 1 ally he controls, if able. If Fires in the Deep discarded no allies, it gains surge."/>
     <property name="Shadow" value="Shadow: The defending player discards 1 ally he controls, if able."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9001" name="Counter-Spell">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9001" name="Counter-Spell" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Shadow."/>
     <property name="Text" value="When Revealed: Attach Counter-spell to Durin's Bane. (Counts as a Condition attachment with the text: &quot;Forced: When a player plays an event, discard the top card of the encounter deck. If that card is a treachery card, cancel the effects of the event, discard the event player's hand, and discard Counter-spell from play.&quot;)"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9009" name="Inner Flame">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9009" name="Inner Flame" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Durin's Bane gets +3 Û until the end of the round. The first player may remove 1 questing hero he controls from the quest to cancel this effect."/>
     <property name="Shadow" value="Shadow: If attacking enemy is Durin's Bane, it gets +3 Û."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9010" name="Inner Shadow">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9010" name="Inner Shadow" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
     <property name="Text" value="When Revealed: Heal 5 damage from Durin's Bane, if able. The first player may remove 1 questing hero he controls from the quest to cancel this effect."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9029" name="Whip Lash">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9029" name="Whip Lash" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must discard 1 attachment he controls, if able."/>
     <property name="Shadow" value="Shadow: If attacking enemy is Durin's Bane, the defending player discards all attachments he controls."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9013" name="Leaping Flame">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9013" name="Leaping Flame" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Durin's Bane makes an immediate attack against the first player (deal and resolve a shadow card)."/>
     <property name="Shadow" value="Shadow: If attacking enemy is Durin's Bane, it gets +3 Û."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9003" name="Durin's Bane">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9003" name="Durin's Bane" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Unique" value="‰"/>
@@ -222,7 +222,7 @@
     <property name="Health" value="27"/>
     <property name="Text" value="Players cannot play attachments on Durin's Bane.&#10;&#10;Durin's Bane cannot leave the staging area, is considered to be engaged with each player whose threat is 1 or greater, and attacks each of those players in turn during the combat phase (deal and discard a new shadow card each attack)."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9021" name="Ranging Goblin">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9021" name="Ranging Goblin" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Type" value="Enemy"/>
@@ -234,7 +234,7 @@
     <property name="Health" value="2"/>
     <property name="Text" value="When Revealed: Each player must deal 1 damage to a hero he controls.&#10;&#10;Forced: After a character leaves play, shuffle Ranging Goblin and the top card in the encounter discard pile back into the encounter deck."/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9005" name="Fiery Sword">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9005" name="Fiery Sword" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Unique" value="‰"/>
@@ -242,7 +242,7 @@
     <property name="Traits" value="Weapon. Flame."/>
     <property name="Text" value="When Revealed: Attach Fiery Sword to Durin's Bane as a Weapon attachment with the text: &quot;Attached enemy gets +3 Û.&quot;"/>
   </card>
-  <card id="51223bd0-ffd1-11df-a976-0801213c9014" name="Many Thonged Whip">
+  <card id="51223bd0-ffd1-11df-a976-0801213c9014" name="Many Thonged Whip" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Shadow and Flame"/>
     <property name="Unique" value="‰"/>
