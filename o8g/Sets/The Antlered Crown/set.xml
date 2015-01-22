@@ -176,7 +176,7 @@
     <property name="Victory Points" value="3"/>
   </card>
   <card id="4ebd8ec5-79fe-4305-9c33-e06d37b1c8d5" name="Raven Warrior">
-    <property name="Quantity" value="3"/>
+    <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Dunland. Raven Clan."/>
@@ -206,7 +206,7 @@
     <property name="Quest Points" value="4"/>
   </card>
   <card id="2935fd55-6945-4c20-8586-c435ceec52f3" name="Raven Village">
-    <property name="Quantity" value="4"/>
+    <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Dunland."/>

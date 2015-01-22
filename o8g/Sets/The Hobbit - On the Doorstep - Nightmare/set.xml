@@ -6,11 +6,13 @@
     <property name="Encounter Set" value="Flies and Spiders - Nightmare"/>
     <property name="Type" value="Nightmare"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Setup" value="-----"/>
     <alternate name="Flies and Spiders" type="B">
       <property name="Encounter Set" value="Flies and Spiders - Nightmare"/>
       <property name="Type" value="Nightmare"/>
       <property name="Engagement Cost" value="B"/>
+      <property name="Text" value="You are playing Nightmare Mode.&#10;&#10;Setup: Each player gives 1 poison to a hero he controls."/>
     </alternate>
   </card>
   <card id="c101383e-807d-44b7-992d-a8299c4402a0" name="Attercop">
@@ -24,6 +26,7 @@
     <property name="Attack" value="6"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="6"/>
+    <property name="Text" value="Attercop gets -1 engagement cost for each poison in play.&#10;Poisoned characters cannot be declared as attackers or defenders against Attercop."/>
   </card>
   <card id="8607dbe8-720a-436f-a946-af666e5db568" name="Venomous Spider">
     <property name="Quantity" value="5"/>
@@ -36,6 +39,8 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Forced: After a character is declared as a defender against Venomous Spider, give it 1 poison."/>
+    <property name="Shadow" value="Shadow: Give 2 poison to the defending character."/>
   </card>
   <card id="ebf0f1f6-8627-4d7d-986e-fd7ae9a2de55" name="Dark Colony">
     <property name="Quantity" value="2"/>
@@ -45,6 +50,7 @@
     <property name="Keywords" value="While Dark Colony is the active location, poisoned characters cannot ready."/>
     <property name="Threat" value="4"/>
     <property name="Quest Points" value="4"/>
+    <property name="Text" value="Travel: A player at this stage must give 1 poison to a hero he controls to travel here."/>
   </card>
   <card id="aac8023b-431b-4cfa-8f6e-659a4e8dd04e" name="Mirkwood Path">
     <property name="Quantity" value="2"/>
@@ -54,6 +60,8 @@
     <property name="Keywords" value="X is the number of poison in play."/>
     <property name="Threat" value="X"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="Forced: When this location is explored, make 1 hero unconscious."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each poisoned character you control."/>
   </card>
   <card id="92d3dcbb-8ce7-40fa-9df1-44617ebf08b4" name="Patch of Midnight">
     <property name="Quantity" value="3"/>
@@ -62,28 +70,35 @@
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="5"/>
+    <property name="Text" value="While Patch of Midnight is the active location, treat the text box of each poisoned character as if it were blank (except for Traits)."/>
+    <property name="Shadow" value="Shadow: Raise your threat by 1 for each poisoned character you control."/>
   </card>
   <card id="0f9b520c-f5c8-4704-a887-feb72fe7cba5" name="A Horrible Battle">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Flies and Spiders - Nightmare"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each player must either give 1 poison to each hero he controls, or reveal an encounter card."/>
+    <property name="Shadow" value="Shadow: Attacking enemy makes an additional attack against the defending player after this one."/>
   </card>
   <card id="8471389d-5424-41f9-8ed8-e7f29e9e78f4" name="Spider Bite">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Flies and Spiders - Nightmare"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: Attach to a hero that is not unconscious. (Counts as a Condition attachment with the text: &quot;Limit 1 per hero. Forced: At the end of the refresh phase, give attached hero 1 poison. When attached hero becomes unconscious, discard Spider Bite.&quot;)"/>
   </card>
   <card id="efe062c5-dcdc-47fb-a66a-5c31f4ed5f7c" name="The Lonely Mountain">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Lonely Mountain - Nightmare"/>
     <property name="Type" value="Nightmare"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Setup" value="sstt"/>
     <alternate name="The Lonely Mountain" type="B">
       <property name="Encounter Set" value="The Lonely Mountain - Nightmare"/>
       <property name="Type" value="Nightmare"/>
       <property name="Engagement Cost" value="B"/>
+      <property name="Text" value="You are playing Nightmare Mode.&#10;&#10;While there is at least 1 card stacked underneath The Lonely Mountain, the players cannot advance to stage 3.&#10;Smaug the Magnificent cannot take damage unless A Bare Patch is attached to him."/>
     </alternate>
   </card>
   <card id="424d4f29-d7c6-465f-9742-adb51177affc" name="Erebor Bats">
@@ -96,6 +111,7 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Forced: When Erebor Bats attacks, the defending player discards 1 random card from his hand.&#10;&#10;Burgle: The first player shuffles his deck and reveals the top card. He may discard 2 cards from his hand that match the revealed card's cost and type."/>
   </card>
   <card id="8da00775-fb2b-4abe-bde9-39ecce643d5d" name="Secret Tunnel">
     <property name="Quantity" value="3"/>
@@ -104,6 +120,7 @@
     <property name="Traits" value="Underground."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="6"/>
+    <property name="Text" value="Forced: After a player fails a burgle attempt, each player raises his threat by 2.&#10;&#10;Travel: Exhaust Bilbo Baggins and spend 1 Í resource to travel here."/>
   </card>
   <card id="f2484786-8e29-4d43-866e-31c4adae3b1f" name="Southern Spur">
     <property name="Quantity" value="3"/>
@@ -112,6 +129,8 @@
     <property name="Traits" value="Mountain."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="5"/>
+    <property name="Text" value="Forced: At the end of the planning phase, each player who played at least 1 ally this phase must raise his threat by 1."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +2 Û. If this attack destroys a character, raise each player's threat by 3."/>
   </card>
   <card id="2e77da31-a3ef-4bea-9af8-3f663c608a62" name="The Front Gate">
     <property name="Quantity" value="2"/>
@@ -120,29 +139,34 @@
     <property name="Traits" value="Mountain."/>
     <property name="Threat" value="5"/>
     <property name="Quest Points" value="2"/>
+    <property name="Text" value="Forced: When The Front Gate is explored, each Dragon enemy in play makes an attack against the first player. (Deal and resolve a shadow card for this attack.)&#10;Burgle: The first player shuffles his deck and reveals the top card. He may discard 3 cards from his hand that match the revealed card's cost."/>
   </card>
   <card id="fa005ccd-cf35-4d49-8259-23f3c8035954" name="The Dragon's Ire">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Lonely Mountain - Nightmare"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 1."/>
+    <property name="Text" value="When Revealed: Each Dragon enemy in play makes an immediate attack against each player in turn order. Do not deal shadow cards for these attacks. For each character that is destroyed by one of these attacks, place 1 progress on each Dragon enemy in play."/>
   </card>
   <card id="ece25a80-d4c6-4032-90eb-ca485da5373d" name="Lust for Treasure">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Lonely Mountain - Nightmare"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 1."/>
+    <property name="Text" value="When Revealed: Each player raises his threat by 1 for each attachment attached to a character he controls.&#10;&#10;Burgle: The first player shuffles his deck and reveals the top card. He may discard 1 card from his hand that matches the revealed card's sphere, type, and cost."/>
   </card>
   <card id="46ac76d7-4215-4840-a029-c4aceb051b94" name="The Battle of Five Armies">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Battle of Five Armies - Nightmare"/>
     <property name="Type" value="Nightmare"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <property name="Setup" value="s"/>
     <alternate name="The Battle of Five Armies" type="B">
       <property name="Encounter Set" value="The Battle of Five Armies - Nightmare"/>
       <property name="Type" value="Nightmare"/>
       <property name="Engagement Cost" value="B"/>
+      <property name="Text" value="You are playing Nightmare Mode.&#10;&#10;While the players are at stage 5B, this card gains: &quot;Forced: When the players are instruced to remove any amount of progress from a quest stage, place 1 progress here instead.&quot;&#10;&#10;If there are X progress tokens here, the players lose the game. X depends on the number of players in the game:&#10;1 player: X equals 5&#10;2 players: X equals 7&#10;3 players: X equals 9&#10;4 players: X equals 11"/>
     </alternate>
   </card>
   <card id="d4309384-8472-4385-8122-163d6c4c8396" name="Great Warg">
@@ -155,6 +179,8 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Forced: After Great Warg attacks and destroys a character, remove all progress from the current quest."/>
+    <property name="Shadow" value="Shadow: Defending player discards 1 attachment he controls."/>
   </card>
   <card id="b028411b-ab1d-4a54-a9d0-38cb70489f98" name="Frenzied Warg-Rider">
     <property name="Quantity" value="4"/>
@@ -166,6 +192,8 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
+    <property name="Text" value="Forced: When Frenzied Warg-Rider attacks, remove 1 progress from each quest stage."/>
+    <property name="Shadow" value="Shadow: Deal 1 damage to the defending character (2 damage instead if the current quest has no progress on it)."/>
   </card>
   <card id="40956aef-c093-489d-b74a-24502705c6bb" name="Gundabad Elite">
     <property name="Quantity" value="4"/>
@@ -178,6 +206,7 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Forced: At the end of the round, if Gundabad Elite is in the staging area, either remove 2 progress from the current quest, or Gundabad Elite makes an attack against the first player."/>
   </card>
   <card id="29baa3ae-f954-49c1-b127-f364887f80a7" name="Embattled Valley">
     <property name="Quantity" value="2"/>
@@ -186,6 +215,7 @@
     <property name="Traits" value="Valley."/>
     <property name="Threat" value="5"/>
     <property name="Quest Points" value="5"/>
+    <property name="Text" value="Forced: At the end of the round, each player assigns X damage among heroes he controls. X is the number of quest stages with no progress on them.&#10;Travel: The players (as a group) exhaust X characters. X is the number of quest stages with no progress on them."/>
   </card>
   <card id="487955be-4805-427c-984b-23bb88e697a6" name="Eastern Ridge">
     <property name="Quantity" value="3"/>
@@ -194,11 +224,15 @@
     <property name="Traits" value="Mountain."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="6"/>
+    <property name="Text" value="Forced: At the end of the round, raise each player's threat by 1 for each quest stage with no progress on it."/>
+    <property name="Shadow" value="Shadow: Until the end of the phase, attacking enemy gets +1 Ú for each quest stage with no progress on it."/>
   </card>
   <card id="1b770413-a3b1-41ae-b843-b3b9e78b2906" name="Dread Has Come!">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Battle of Five Armies - Nightmare"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Bolg makes an attack against each player in turn order. If at least 1 character is destroyed by one of these attacks, the players cannot place progress on the current quest this round."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +2 Û."/>
   </card>
  </cards>
 </set>

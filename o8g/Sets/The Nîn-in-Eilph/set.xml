@@ -12,18 +12,21 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
+    <property name="Text" value="Response: After you engage an enemy, add 1 resource to Mablung's resource pool. (Limit once per phase.)"/>
   </card>
   <card id="b86c3959-86af-4ce4-927f-769b873e4774" name="Follow Me!">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Take control of the first player token and draw 1 card. "/>
   </card>
   <card id="e1ff74ae-0c48-4f6c-86c8-9ac7339eb554" name="Tighten Our Belts">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Cost" value="0"/>
+    <property name="Text" value="Refresh Action: Choose a player. Each hero that player controls that did not spend any resources this round gains 1 resource. Only 1 copy of Tighten Our Belts can be played by the players each round."/>
   </card>
   <card id="39775f69-5cf4-4133-9cf4-45a1522aa9ea" name="Galadhon Archer">
     <property name="Quantity" value="3"/>
@@ -36,6 +39,7 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="1"/>
+    <property name="Text" value="Response: After Galadhon Archer enters play, deal 1 damage to an enemy not engaged with you."/>
   </card>
   <card id="12d436ac-15e6-47c5-8288-357c918071a7" name="Bow of the Galadhrim">
     <property name="Quantity" value="3"/>
@@ -44,6 +48,7 @@
     <property name="Traits" value="Item. Weapon."/>
     <property name="Keywords" value="Attach to a Silvan character with the ranged keyword.  Restricted."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Attached character gets +1 Û. (+2 Û instead if attacking an enemy not engaged with you.)"/>
   </card>
   <card id="c541b65a-d6d4-4b2c-8925-96c31d52aa1c" name="Celduin Traveler">
     <property name="Quantity" value="3"/>
@@ -56,12 +61,14 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
+    <property name="Text" value="Response: After Celduin Traveler enters play, look at the top card of the encounter deck. If it is a location, you may discard it."/>
   </card>
   <card id="26a52bdc-f8e4-40a3-8047-8d696b842cdf" name="Island Amid Perils">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Cost" value="0"/>
+    <property name="Text" value="Action: Return a Silvan ally you control to your hand to reduce your threat by X where X is the printed cost of the ally returned to your hand."/>
   </card>
   <card id="c75056aa-907b-40b8-a54a-18ea07b33dc3" name="Mirkwood Pioneer">
     <property name="Quantity" value="3"/>
@@ -73,6 +80,7 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="2"/>
+    <property name="Text" value="You may give Mirkwood Pioneer doomed 1 when you play it from your hand. If you do, it gains: &quot;Response: After you play Mirkwood Pioneer, choose a card in the staging area. Until the end of the round, the chosen card does not contribute its $."/>
   </card>
   <card id="17cb8a9a-6369-4ea9-a614-02908bd7b77f" name="Wingfoot">
     <property name="Quantity" value="3"/>
@@ -82,6 +90,7 @@
     <property name="Traits" value="Title."/>
     <property name="Keywords" value="Attach to a Ranger hero."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After attached hero commits to a quest, name enemy, location, or treachery. If a card of the named type is revealed during this quest phase, ready attached hero."/>
   </card>
   <card id="a1f5a577-30bf-44ed-b60b-e733b5f26d55" name="Defender of the West">
     <property name="Quantity" value="3"/>
@@ -91,6 +100,7 @@
     <property name="Traits" value="Title."/>
     <property name="Keywords" value="Attach to a non-objective unique ally in play."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="The first player gains control of attached ally&#10;&#10;Damage from undefended attacks against you may be assigned to attached ally."/>
   </card>
   <card id="874a98ba-9b90-49b3-9cd4-c06464696b5b" name="Fleeing from Tharbad">
     <property name="Quantity" value="1"/>
@@ -98,6 +108,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="Setup: The first player takes control of Nalir. Set the Ancient Marsh-dweller aside, out of play. Each player searches the encounter deck for a different location and adds it to the staging area. Shuffle the encounter deck."/>
     <property name="Setup" value="tt"/>
     <alternate name="Fleeing from Tharbad" type="B">
       <property name="Encounter Set" value="The Nîn-in-Eilph"/>
@@ -105,6 +116,7 @@
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="0"/>
+      <property name="Text" value="When Revealed: Advance to a random stage 2A."/>
     </alternate>
   </card>
   <card id="51124d05-205c-49e6-ad19-aa67185c8bdc" name="Through the Marsh">
@@ -113,12 +125,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Raise each player's threat by 1."/>
     <alternate name="No End in Sight" type="B">
       <property name="Encounter Set" value="The Nîn-in-Eilph"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="13"/>
+      <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck. &#10;&#10;Player card effects cannot be used to gain resources or draw cards. &#10;&#10;Forced: When the players defeat this stage, advance to a random stage 3A."/>
     </alternate>
   </card>
   <card id="9945fdee-b56e-488d-a5bf-33d5a82afdad" name="Through the Marsh">
@@ -127,12 +141,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Raise each player's threat by 1."/>
     <alternate name="A Weary Passage" type="B">
       <property name="Encounter Set" value="The Nîn-in-Eilph"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="13"/>
+      <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck.&#10;&#10;In order to commit characters to the quest, a player must first discard a card at random from his hand.&#10;&#10;Forced: When the players defeat this stage, advance to a random stage 3A."/>
     </alternate>
   </card>
   <card id="3dfaab4d-04b1-49a6-bd17-63c184784985" name="Through the Marsh">
@@ -141,12 +157,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Raise each player's threat by 1."/>
     <alternate name="A Forgotten Land" type="B">
       <property name="Encounter Set" value="The Nîn-in-Eilph"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="13"/>
+      <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck. &#10;&#10;Each player cannot play more than 1 card each round.&#10;&#10;Forced: When the players defeat this stage, advance to a random stage 3A."/>
     </alternate>
   </card>
   <card id="f9e9bc93-8044-474c-8f80-d3787edbca5f" name="Lost in the Swanfleet">
@@ -155,12 +173,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Raise each player's threat by 1. Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage from it."/>
     <alternate name="Impassable Marshland" type="B">
       <property name="Encounter Set" value="The Nîn-in-Eilph"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="16"/>
+      <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck. &#10;&#10;Each location in play gets +1 $."/>
     </alternate>
   </card>
   <card id="bb58f446-da73-47e3-98e8-70f69ee77d34" name="Lost in the Swanfleet">
@@ -169,12 +189,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Raise each player's threat by 1. Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage from it."/>
     <alternate name="A Treacherous Swamp" type="B">
       <property name="Encounter Set" value="The Nîn-in-Eilph"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="16"/>
+      <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck.&#10;&#10;Each player cannot ready more than 5 characters during the refresh phase."/>
     </alternate>
   </card>
   <card id="c760eeaf-d923-4d98-af5c-eb7cb2d2f4d9" name="Lost in the Swanfleet">
@@ -183,12 +205,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Raise each player's threat by 1. Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage from it."/>
     <alternate name="Creatures of a Forgotten Age" type="B">
       <property name="Encounter Set" value="The Nîn-in-Eilph"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="16"/>
+      <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck.&#10;&#10;Each enemy in the staging area gets –20 engagement cost."/>
     </alternate>
   </card>
   <card id="b49b5be7-5bfc-4e65-bced-862a409e097d" name="Out of the Swamp">
@@ -197,12 +221,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="4"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage from it. Then, Ancient Marsh-dweller makes an attack against each player in player order."/>
     <alternate name="Out of the Swamp" type="B">
       <property name="Encounter Set" value="The Nîn-in-Eilph"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="4"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="–"/>
+      <property name="Text" value="Time 2. Forced: After the last time counter is removed from this stage, Ancient Marsh-dweller makes an attack against each player in order. Place 2 time counters on this stage. &#10;&#10;When Ancient Marsh-dweller is defeated, the players win the game."/>
     </alternate>
   </card>
   <card id="d5134ddf-8c78-4e68-a603-7df5d48f5016" name="Nalir">
@@ -216,6 +242,7 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Forced: At the beginning of the refresh phase, raise your threat by 1 for each player in the game.&#10;&#10;If Nalir leaves play, the players lose the game."/>
   </card>
   <card id="b34e79d4-7806-4fd9-b12d-bb291e44f354" name="Ancient Marsh-dweller">
     <property name="Quantity" value="1"/>
@@ -230,6 +257,7 @@
     <property name="Defense" value="4"/>
     <property name="Health" value="9"/>
     <property name="Victory Points" value="5"/>
+    <property name="Text" value="Ancient Marsh-dweller gets +1 $ and +1 Û for each resource token on it.&#10;&#10;Forced: After any number of time counters are removed from the current quest, place a resource token here."/>
   </card>
   <card id="356f37d9-34c9-4fae-864d-c34dff7eaaa4" name="Giant Swamp Adder">
     <property name="Quantity" value="4"/>
@@ -242,6 +270,7 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="6"/>
+    <property name="Text" value="Forced: After any number of time counters are removed from the current quest, Giant Swamp Adder attacks the engaged player."/>
   </card>
   <card id="8ef56cb3-b483-4b38-b208-6c16e16bdb6d" name="Neekerbreekers">
     <property name="Quantity" value="3"/>
@@ -253,6 +282,8 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="6"/>
+    <property name="Text" value="Forced: After any number of time counters are removed from the current quest, the engaged player must deal 2 damage to an ally he controls."/>
+    <property name="Shadow" value="Shadow: Deal 1 damage to the defending character."/>
   </card>
   <card id="3d19de02-b3a9-4612-a90a-30b37bd1e9b1" name="Fen of Reeds">
     <property name="Quantity" value="3"/>
@@ -261,6 +292,8 @@
     <property name="Traits" value="Marsh."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="While Fen of Reeds is in the staging area, it gains: “Forced: After the players advance to a quest stage, each player must exhaust a character he controls.”"/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each time counter on the quest."/>
   </card>
   <card id="f542bca1-68d1-4975-aea9-3ff3e7801be5" name="Finger of Glanduin">
     <property name="Quantity" value="3"/>
@@ -269,6 +302,8 @@
     <property name="Traits" value="River. Marsh."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="While Finger of Glanduin is in the staging area, it gains: “Forced: At the end of each round, remove 1 progress from each location in play.”"/>
+    <property name="Shadow" value="Shadow: If this attack destroys a character, remove all progress from the current quest."/>
   </card>
   <card id="1156ac5f-09cf-418b-9486-030b397a5514" name="Hidden Eyot">
     <property name="Quantity" value="2"/>
@@ -277,6 +312,7 @@
     <property name="Traits" value="Marsh."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="4"/>
+    <property name="Text" value="Response: After Hidden Eyot leaves play as an explored location, place 2 time counters on the current quest.&#10;&#10;Travel: Each player must exhaust a character he controls to travel here."/>
   </card>
   <card id="1e96a8e3-ad11-48d5-8554-7cb1a90937a7" name="Sinking Bog">
     <property name="Quantity" value="3"/>
@@ -285,17 +321,22 @@
     <property name="Traits" value="Marsh."/>
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="5"/>
+    <property name="Text" value="While Sinking Bog is in the staging area, each character gets –1 Ò, –1 Û, and –1 Ú for each Item attached to it. This ability does not stack with other copies of Sinking Bog."/>
+    <property name="Shadow" value="Shadow: Defending character gets –1 Ú for each attachment attached to it."/>
   </card>
   <card id="a0f5082c-acc7-4884-a3d4-a7eed0f053e6" name="Shifting Marshland">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: Remove 1 time counter from the current quest."/>
+    <property name="Shadow" value="Shadow: Attacking enemy makes an additional attack after this one."/>
   </card>
   <card id="944aaafa-17e2-4352-9a04-384673089ee6" name="Remnants of Elder Days">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Nîn-in-Eilph"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for a Creature enemy and put it into play engaged with him. Shuffle the encounter deck. Cannot be canceled."/>
   </card>
  </cards>
 </set>
