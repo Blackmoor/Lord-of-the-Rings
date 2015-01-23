@@ -232,7 +232,7 @@
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player draws this card into his hand.  Ill tidings cannot leave that player's hand. Then, if the first player has 5 or more cards in his hand, Ill Tidings gains surge."/>
   </card>
-  <card id="6b8ca34a-1f6f-4eed-841c-a5d0db80619a" name="Mugash" size="EncounterCard">
+  <card id="6b8ca34a-1f6f-4eed-841c-a5d0db80619a" name="Mugash">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Unique" value="‰"/>
@@ -246,7 +246,7 @@
     <property name="Health" value="8"/>
     <property name="Text" value="Forced: After Mugash is defeated, the first player attaches him to a hero he controls and exhausts that hero.  (Counts as a Captive attachment with the text: 'Attached hero cannot ready. If attached hero leaves play, the players lose the game.')"/>
   </card>
-  <card id="7d55e738-cc23-4e78-9a88-2a25fa4f3ca4" name="Mugash's Guard" size="EncounterCard">
+  <card id="7d55e738-cc23-4e78-9a88-2a25fa4f3ca4" name="Mugash's Guard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="To Catch an Orc"/>
     <property name="Type" value="Enemy"/>
