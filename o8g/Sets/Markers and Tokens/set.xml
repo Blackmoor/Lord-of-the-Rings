@@ -29,7 +29,7 @@
       <property name="Threat" value="" />
       <property name="Victory Points" value="" />
     </card>
-    <card id="72e54fdf-17b1-4358-b696-6c195e9696d1" name="Automation Help">
+    <card id="72e54fdf-17b1-4358-b696-6c195e9696d1" name="Automation Help" size="QuestCard">
       <property name="Type" value="Internal" />
       <property name="Sphere" value="" />
       <property name="Unique" value="" />
