@@ -250,6 +250,7 @@
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
+      <property name="Victory Points" value="1"/>
       <property name="Text" value="The Nameless Fear attacks each player in turn order during the combat phase (deal and discard a new shadow card for each attack). Characters are eligible to attack The Nameless Fear while it is in the staging area.&#10;Side B: The Nameless Fear attacks each player in turn order during the combat phase (deal and discard a new shadow card for each attack). Characters are eligible to attack The Nameless Fear while it is in the staging area.&#10;If The Nameless Fear has 10 or more damage on it, remove all damage from it and advance to the next stage. Players may bypass this quest card at the end of the combat phase."/>
     </alternate>
   </card>
@@ -266,6 +267,7 @@
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="1"/>
+      <property name="Victory Points" value="1"/>
       <property name="Text" value="When Revealed: Deal 1 damage to each questing character.&#10;Players may bypass this quest card at the end of the combat phase."/>
     </alternate>
   </card>
