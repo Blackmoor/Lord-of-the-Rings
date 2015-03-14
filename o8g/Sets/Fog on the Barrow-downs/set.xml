@@ -7,12 +7,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="Setup: Set each copy of Great Barrow, Standing Stones, and Hollow Circle aside, out of play. Shuffle the encounter deck."/>
     <alternate name="The House of Tom Bombadil" type="B">
       <property name="Encounter Set" value="Fog on the Barrow-downs"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="1"/>
+      <property name="Text" value="Skip the quest phase.&#10;&#10;Forced: At the end of the round, place 1 progress on this stage."/>
     </alternate>
   </card>
   <card id="ed3c4835-2741-406c-b43e-0ad72f6b2496" name="Across the Downs" size="QuestCard">
@@ -21,12 +23,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Add Hollow Circle to the staging area. Each player reveals 1 encounter card."/>
     <alternate name="Across the Downs" type="B">
       <property name="Encounter Set" value="Fog on the Barrow-downs"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="14"/>
+      <property name="Text" value="Forced: At the end of the refresh phase, raise each player's threat by 1.&#10;&#10;The players cannot defeat this stage unless Hollow Circle is in the victory display."/>
     </alternate>
   </card>
   <card id="b477d0be-d70a-4eb4-8c35-89c17199cab3" name="Lost in the Fog" size="QuestCard">
@@ -35,12 +39,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: The first player adds Standing Stones to the staging area. Each other player reveals 1 encounter card. Shuffle the encounter discard pile and each copy of Great Barrow into the encounter deck."/>
     <alternate name="Lost in the Fog" type="B">
       <property name="Encounter Set" value="Fog on the Barrow-downs"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="16"/>
+      <property name="Text" value="Progress cannot be placed here while Great Barrow is in play.&#10;&#10;Forced: After a player is eliminated (at any stage), raise the threat of each player at this stage by 10.&#10;&#10;The players cannot defeat this stage unless each player in the game is at this stage and Standing Stones is in the victory display. If the players defeat this stage, they win the game."/>
     </alternate>
   </card>
   <card id="262d615b-5b5d-4f16-975e-335d34e6c733" name="Trapped Inside a Barrow" size="QuestCard">
@@ -49,12 +55,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="4"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed:End your quest phase (do not resolve the quest). Discard cards from the encounter deck until a Wight enemy is discarded. Add the discarded Wight enemy to the staging area. Discard all but X allies you control where X is the number of enemies engaged with you."/>
     <alternate name="Inside the Barrow" type="B">
       <property name="Encounter Set" value="Fog on the Barrow-downs"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="4"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="9"/>
+      <property name="Text" value="Forced: When a location is revealed at this stage, cancel its effects and discard it. Then, raise your threat by that card's $ (including modifiers).&#10;&#10;Forced: After this stage is defeated, advance to stage 3B at the beginning of the travel phase (combining staging areas) and place 1 progress on a Great Barrow at that stage."/>
     </alternate>
   </card>
   <card id="c616d30d-9242-401b-b386-4fe0660dc97b" name="Hollow Circle" size="EncounterCard">
@@ -67,6 +75,7 @@
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="3"/>
     <property name="Victory Points" value="3"/>
+    <property name="Text" value="Travel: Each player searches the encounter deck and discard pile for a Wight enemy and puts it into play engaged with him. Shuffle the encounter deck."/>
   </card>
   <card id="fa85988c-4530-414e-95a6-066002e0ef7a" name="Standing Stones" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -78,6 +87,7 @@
     <property name="Threat" value="4"/>
     <property name="Quest Points" value="4"/>
     <property name="Victory Points" value="3"/>
+    <property name="Text" value="Travel: The first player searches the encounter deck, discard pile, and victory display for a Great Barrow and adds it to the staging area. Shuffle the encounter deck."/>
   </card>
   <card id="da95d039-0f3f-452b-9ff5-60c03432facc" name="Great Barrow" size="EncounterCard">
     <property name="Quantity" value="5"/>
@@ -88,6 +98,7 @@
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="1"/>
     <property name="Victory Points" value="5"/>
+    <property name="Text" value="Forced: After Great Barrow enters the staging area, remove each character you control from the quest and create your own staging area. Then, advance to a separate stage 4A by yourself."/>
   </card>
   <card id="24a841df-854e-444b-9b2f-0214f0e26002" name="Ancient Barrow" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -97,6 +108,7 @@
     <property name="Keywords" value="X is 1 plus the number of facedown cards under this location."/>
     <property name="Threat" value="X"/>
     <property name="Quest Points" value="4"/>
+    <property name="Text" value="Forced: After Ancient Barrow enters play, each player places an ally he controls facedown under this location. When Ancient Barrow leaves play as an explored location, return each ally under this location to its owner's hand."/>
   </card>
   <card id="aa632825-0b60-4dc7-9733-8aa554631d6e" name="Stone Ring" size="EncounterCard">
     <property name="Quantity" value="4"/>
@@ -105,6 +117,7 @@
     <property name="Traits" value="Ruins. Downs."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="While Stone Ring is in the staging area, each Wight enemy engaged with a player gets +1 Û and +1 Ú and applies the first sentence of its game text to each player at this stage as if it were engaged with him."/>
   </card>
   <card id="d7d1581c-74a4-4c6f-acf9-e2d598ccb276" name="North Downs" size="EncounterCard">
     <property name="Quantity" value="4"/>
@@ -113,6 +126,8 @@
     <property name="Traits" value="Downs."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="5"/>
+    <property name="Text" value="While North Downs is in the staging area, characters use their Ò instead of Ú when defending against Wight enemies."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +2 Û. If this attack destroys a character, raise each player's threat by 2."/>
   </card>
   <card id="1b9e02cc-d46e-4816-bdbd-9daa05590173" name="Barrow-wight" size="EncounterCard">
     <property name="Quantity" value="4"/>
@@ -124,6 +139,7 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="6"/>
+    <property name="Text" value="While Barrow-wight is engaged with a player, that player's threat cannot be reduced.&#10;&#10;Forced: After Barrow-wight attacks and destroys a character, that character's controller raises his threat by 2."/>
   </card>
   <card id="516b75d8-9abe-423e-9ef1-a92f1c87c86f" name="Cold-wight" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -135,6 +151,7 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="While Cold-wight is engaged with a player, that player cannot draw cards from card effects.&#10;&#10;Forced: After Cold-wight attacks and destroys a character, that character's controller discards a random card from his hand."/>
   </card>
   <card id="29562ee1-56d9-4a46-ba4b-1af24f85deb6" name="Dark-wight" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -146,28 +163,36 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="7"/>
+    <property name="Text" value="While Dark-wight is engaged with a player, that player's heroes cannot gain resources from card effects.&#10;&#10;Forced: After Dark-wight attacks and destroys a character, that character's controller discards all resources from each hero he controls."/>
   </card>
   <card id="a727d1ec-2bbf-452b-9e7d-92fffc39acd2" name="I'm Waiting for You!" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Fog on the Barrow-downs"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each Wight enemy engaged with a player makes an immediate attack. If no attacks were made this way, I'm Waiting for You! Gains surge."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+3 Û instead if the defending character is an ally)."/>
   </card>
   <card id="9a5fb929-296c-41ef-a0df-1d670d1c356d" name="Long Groping Arm" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Fog on the Barrow-downs"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Peril."/>
+    <property name="Text" value="When Revealed: Until the end of the phase, each Wight enemy engaged with you contributes its $ to the total $ in the staging area. If no enemies are engaged with you, search the encounter deck and discard pile for a Wight enemy and put it into play engaged with you. Shuffle the encounter deck."/>
   </card>
   <card id="9dae9a06-1a90-4a9f-be69-b6451e4a1883" name="Chill Fog" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Fog on the Barrow-downs"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Discard all resources in play. Each player raises his threat by 1 for each resource he discarded this way. If no resources were discarded this way, Chill Fog gains surge."/>
+    <property name="Shadow" value="Shadow: Raise your threat by 1 for each damage dealt by this attack."/>
   </card>
   <card id="f18b362f-1669-4743-8802-daf58e638198" name="Frozen by Fear" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Fog on the Barrow-downs"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge. Doomed 1."/>
+    <property name="Text" value="When Revealed: Until the end of the round, players cannot trigger Action or Response effects."/>
+    <property name="Shadow" value="Shadow: Until the end of the round, attacking enemy cannot take damage."/>
   </card>
   <card id="7fe0f143-9d3b-461a-b6bd-bc86e1491311" name="Dreadful Song" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -175,6 +200,7 @@
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Enchantment."/>
     <property name="Keywords" value="Peril."/>
+    <property name="Text" value="When Revealed: Attach to a questing character you control. Counts as a Condition attachment with the text: &quot;Limit 1 per hero. Attached hero's Ò is reduced to 0. Forced: At the end of the round, raise your threat by 1 for each Wight enemy engaged with you.&quot;"/>
   </card>
   <card id="21b27ec8-a778-4bac-8228-aa013043b8ed" name="Tom Bombadil" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -185,15 +211,18 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="6"/>
+    <property name="Text" value="When Revealed: Choose a player. That player gains control of Tom Bombadil, ready and committed to the quest. At the end of the round, discard Tom Bombadil. Then, shuffle the encounter discard pile into the encounter deck. This effect cannot be canceled."/>
   </card>
   <card id="d34c9025-6380-4294-be3f-01c992922830" name="Fog on the Barrow-downs">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Fog on the Barrow-downs"/>
     <property name="Type" value="Campaign"/>
     <property name="Traits" value="The Lord of the Rings Part 1.2"/>
+    <property name="Text" value="You are playing Campaign Mode.&#10;&#10;While any player is at stage 4B, the first player cannot los control of the first player token."/>
     <alternate name="Fog on the Barrow-downs" type="B">
       <property name="Encounter Set" value="Fog on the Barrow-downs"/>
       <property name="Type" value="Campaign"/>
+      <property name="Text" value="Resolution: The players have earned the Ho! Tom Bombadil! boon card."/>
     </alternate>
   </card>
   <card id="381821e5-7bf6-44cd-91d7-e5a5e9ff8066" name="Ho! Tom Bombadil!">
@@ -204,6 +233,7 @@
     <property name="Traits" value="Song."/>
     <property name="Keywords" value="Setup: The first player adds this card to his hand."/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="Response: Add this card to the victory display and remove it from the campaign pool to cancel the &quot;when revealed&quot; effects of an encounter card just revealed from the encounter deck."/>
   </card>
  </cards>
 </set>

@@ -13,6 +13,7 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="4"/>
+    <property name="Text" value="While Erkenbrand is defending, he gains: &quot;Response: Deal 1 damage to Erkenbrand to cancel a shadow effect just triggered.&quot;"/>
   </card>
   <card id="f64befcc-d4de-47a4-8517-5f2617984270" name="Warden of Helm's Deep">
     <property name="Quantity" value="3"/>
@@ -34,6 +35,7 @@
     <property name="Traits" value="Song."/>
     <property name="Keywords" value="Attach to a hero with sentinel."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After attached hero defends against an attack and takes no damage while defending that attack, exhaust Day's Rising to add 1 resource to the attached hero's resource pool."/>
   </card>
   <card id="29b76593-0ef3-410b-aa85-1c282d4b1582" name="Captain of Gondor">
     <property name="Quantity" value="3"/>
@@ -43,6 +45,7 @@
     <property name="Traits" value="Title."/>
     <property name="Keywords" value="Attach to a Warrior hero."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After you optionally engage an enemy, exhaust Capatain of Gondor to give attached hero +1 Û and +1 Ú until the end of the round."/>
   </card>
   <card id="665b16ad-accf-45c9-8725-f3f5d0818310" name="Booming Ent">
     <property name="Quantity" value="3"/>
@@ -55,12 +58,14 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Booming Ent gets +1 Û for each damaged Ent character you control."/>
   </card>
   <card id="6461b502-cb47-4528-b18a-db45988f1692" name="Ride Them Down">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Cost" value="2"/>
+    <property name="Text" value="Quest Action: Choose a non-unique enemy in the staging area. Until the end of the phase, progress would be placed on the quest for questing successfully is instead assigned as damage to the chosen enemy. (Progress must still be placed on any active location first.)"/>
   </card>
   <card id="7c7912dc-4d55-4c40-98a0-befbbff24c90" name="Shadows Give Way">
     <property name="Quantity" value="3"/>
@@ -68,12 +73,14 @@
     <property name="Sphere" value="Spirit"/>
     <property name="Keywords" value="You must use resources from 3 different heroes' pools to pay for this card."/>
     <property name="Cost" value="3"/>
+    <property name="Text" value="Action: Discard each shadow card from each enemy in play."/>
   </card>
   <card id="31406925-1626-4c17-b3ee-2e2700a99c14" name="Don't be Hasty!">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Cost" value="0"/>
+    <property name="Text" value="Response: When an encounter card is revealed but before resolving any of that card's keywords or &quot;when revealed&quot; effects, choose a character committed to the quest. Ready that character and remove it from the quest."/>
   </card>
   <card id="79cb32f4-053c-47e1-983d-59d64b493a76" name="Waters of Nimrodel">
     <property name="Quantity" value="3"/>
@@ -81,6 +88,7 @@
     <property name="Sphere" value="Lore"/>
     <property name="Keywords" value="Doomed 3."/>
     <property name="Cost" value="3"/>
+    <property name="Text" value="Action: Heal all damage on each character in play."/>
   </card>
   <card id="c266126d-cf2d-4a61-aac7-28bac2d1ea0d" name="Treebeard">
     <property name="Quantity" value="3"/>
@@ -94,6 +102,7 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Action: Pay 2 resources from Treebeard's pool to ready an Ent character."/>
   </card>
   <card id="4bc78852-59b2-4126-86e1-96a1ee918a05" name="Battle for Dunland" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -101,6 +110,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="Setup: The first player takes control of Chief Turch. Set Raven Chief and Raven Chief’s Camp aside, out of play. Reveal 1 copy of Dunland Battlefield and make it the active location. Reveal 1 copy of Raven War-camp and add it to the staging area. Create the Raven deck (see insert) and set it next to the quest deck. Each player chooses 1 different enemy from the Raven deck and adds it to the staging area. Shuffle the encounter deck and Raven deck."/>
     <property name="Setup" value="tttls"/>
     <alternate name="Battle for Dunland" type="B">
       <property name="Encounter Set" value="The Antlered Crown"/>
@@ -108,6 +118,7 @@
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
+      <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, remove 1 time counter from each location in play. Place 3 time counters on this stage."/>
     </alternate>
   </card>
   <card id="9b75695b-8431-40ea-8041-afaaa34dc3f4" name="The Raven Clan" size="QuestCard">
@@ -116,12 +127,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Shuffle the Raven deck discard pile into the Raven deck. Then, starting with the first player, each player takes the top card of the Raven deck and adds it to the staging area."/>
     <alternate name="The Raven Clan" type="B">
       <property name="Encounter Set" value="The Antlered Crown"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
+      <property name="Text" value="Time 3. Forced: After the last time counter is removed from this stage, reveal the top card of the Raven deck and add it to the staging area. Place 3 time counters on this stage.&#10;&#10;Each location in the staging area gets +2 quest points."/>
     </alternate>
   </card>
   <card id="c9c2b094-c895-4714-bb2e-c6558c82a153" name="The Last Stage" size="QuestCard">
@@ -130,12 +143,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Add Raven Chief and Raven Chief’s Camp to the staging area. Take the top X cards from the Raven deck and add them to the staging area. X is the number of players minus 1."/>
     <alternate name="The Last Stage" type="B">
       <property name="Encounter Set" value="The Antlered Crown"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="–"/>
+      <property name="Text" value="Time 2. Forced: After the last time counter is removed from this stage, each engaged enemy makes an attack. Place 2 time counters on this stage.&#10;&#10;At the end of the round, if Raven Chief is in the victory display, the players win the game."/>
     </alternate>
   </card>
   <card id="a56cab99-d482-4aa3-b5e4-b1e5b857515f" name="Chief Turch" size="EncounterCard">
@@ -149,6 +164,7 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="If Chief Turch leaves play, the players lose the game."/>
   </card>
   <card id="eaaececf-9322-43b5-a190-bdfadd7a695e" name="Raven Chief" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -163,6 +179,7 @@
     <property name="Defense" value="5"/>
     <property name="Health" value="9"/>
     <property name="Victory Points" value="3"/>
+    <property name="Text" value="Forced: When Raven Chief attacks, remove 1 time counter from the active location, if able."/>
   </card>
   <card id="1208f735-6984-4c4d-ab8c-429664e4e060" name="Raven Chief's Camp" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -174,6 +191,7 @@
     <property name="Threat" value="4"/>
     <property name="Quest Points" value="9"/>
     <property name="Victory Points" value="3"/>
+    <property name="Text" value="Time 3. Forced: After the last time counter is removed from this location, exhaust each damaged character. Place 3 time counters on this location."/>
   </card>
   <card id="4ebd8ec5-79fe-4305-9c33-e06d37b1c8d5" name="Raven Warrior" size="EncounterCard">
     <property name="Quantity" value="4"/>
@@ -185,6 +203,8 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Forced: After Raven Warrior engages a player, remove X time counters from locations in play. X is the number of cards in the engaged player’s hand."/>
+    <property name="Shadow" value="Shadow: Defending player discards an attachment he controls."/>
   </card>
   <card id="7271da0e-570b-461c-b632-b6f82ab2c146" name="Raven Skirmisher" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -196,6 +216,8 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="2"/>
+    <property name="Text" value="When Revealed: Either remove 1 time counter from the active location, or reveal an additional encounter card."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +X Û, where X is the Time X value on the active location."/>
   </card>
   <card id="5842e027-3789-4253-a382-27527ec4fe8a" name="Raven War-camp" size="EncounterCard">
     <property name="Quantity" value="4"/>
@@ -204,6 +226,7 @@
     <property name="Traits" value="Dunland."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="4"/>
+    <property name="Text" value="Time 3. Forced: After the last time counter is removed from this location, starting with the first player, each player draws the top card of the Raven deck and puts it into play engaged with him."/>
   </card>
   <card id="2935fd55-6945-4c20-8586-c435ceec52f3" name="Raven Village" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -212,6 +235,8 @@
     <property name="Traits" value="Dunland."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="Time 2. Forced: After the last time counter is removed from this location, reveal the top card of the Raven deck and add it to the staging area."/>
+    <property name="Shadow" value="Shadow: Deal attacking enemy 2 additional shadow cards from the Raven deck."/>
   </card>
   <card id="13b4d81e-1bd7-4a56-a418-b60e58767c12" name="Dunland Battlefield" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -220,6 +245,8 @@
     <property name="Traits" value="Dunland."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="5"/>
+    <property name="Text" value="Time 3. Forced: After the last time counter is removed from this location, each player assigns X damage among characters he controls, where X is the number of cards in his hand."/>
+    <property name="Shadow" value="Shadow: Deal 1 damage to the defending character."/>
   </card>
   <card id="54a26608-eebd-4bd6-855a-ceccb4507bab" name="Raven Country" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -228,22 +255,28 @@
     <property name="Traits" value="Dunland."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="6"/>
+    <property name="Text" value="Time 4. Forced: After the last time counter is removed from this location, each player raises his threat by the number of cards in his hand."/>
+    <property name="Shadow" value="Shadow: Defending player assigns X damage among characters he controls. X is the Time X value on the active location."/>
   </card>
   <card id="e1479aa5-7a6d-426a-930b-64ae24143733" name="Raising the Cry" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Remove 1 time counter from each location in play. Place X time counters on each location in play with no time counters on it. X is the “Time X” value on that location. If there are no locations in the staging area, Raising the Cry gains surge."/>
   </card>
   <card id="857da3db-7159-4dfa-a925-8547fb6df455" name="Fierce Folk" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 3."/>
+    <property name="Text" value="When Revealed: Each player draws 3 cards. Until the end of the round, players cannot play events."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If this attack destroys a character, remove 1 time counter from the active location."/>
   </card>
   <card id="1edaecb1-72e8-49db-98fd-6fc377815c4b" name="Driven Back" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Antlered Crown"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Remove all progress from each location in the staging area. Increase the total $ in the staging area by 1 for each progress removed this way. If no progress was removed by this effect, Driven Back gains surge."/>
   </card>
  </cards>
 </set>
