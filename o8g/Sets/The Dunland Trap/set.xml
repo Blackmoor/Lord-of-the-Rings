@@ -64,7 +64,7 @@
   </card>
   <card id="657e60d4-788e-4064-a8c3-e62584320872" name="The Fall of Gil-Galad">
     <property name="Quantity" value="3"/>
-    <property name="Type" value="Event"/>
+    <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Cost" value="1"/>
     <property name="Text" value="Limit 1 per deck. Attach to a hero.  &#10;  &#10; Response: When attached hero is destroyed, add The Fall of Gil-galad to the victory display to reduce your threat by X, where X is the attached hero’s threat cost."/>
