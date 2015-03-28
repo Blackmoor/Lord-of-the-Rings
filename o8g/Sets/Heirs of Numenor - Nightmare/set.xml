@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Heirs of Numenor - Nightmare" id="4bb66f68-a4b5-4226-8d64-de74bf2ac793" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+ <cards>
+  <card id="486a95af-e3af-4513-ae9a-d705d8557db6" name="Peril in Pelargir">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Peril in Pelargir - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <alternate name="Peril in Pelargir" type="B">
+      <property name="Encounter Set" value="Peril in Pelargir - Nightmare"/>
+      <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Text" value="You are playing Nightmare mode. &#10;&#10;Forced: At the end of the combat phase, if Alcaron's Scroll is in the staging area, attach it to the enemeny in play with the highest Ú.&#10;&#10;Forced: At the beginning of the refresh phase, if Alcaron's Scroll is attached to an enemy, place 1 progress on that enemy.&#10;&#10;If at any point there are 3 or more progress tokens on an enemy, that enemy has escaped with the scroll, and the players lose the game."/>
+    </alternate>
+  </card>
+  <card id="298c3181-5f6f-487c-adbd-741bb202b8e0" name="Cunning Informant" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Peril in Pelargir - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Brigand"/>
+    <property name="Engagement Cost" value="21"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="While Alcaron's Scroll is attached to a hero, Cunning Informat gets +3 Û.&#10;During the encounter phase, if Alcaron's Scroll is attached to a hero, that hero's controller is considered to have +10 threat for the purpose of engagement checks."/>
+  </card>
+  <card id="92576b76-6b3a-4bee-84dc-82f927e1caa1" name="Harbor Brute" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Peril in Pelargir - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Brigand. Thug."/>
+    <property name="Engagement Cost" value="38"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="When Revealed: If Alcaron's Scroll is attached to an enemy, detach it from that enemy and attach it to Harbor Brute.  Move all progress tokens from that enemy to Harbor Brute."/>
+  </card>
+  <card id="6f300089-29ce-42e7-9bd4-2dda667cdd4a" name="Pelargir Ringleader" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Peril in Pelargir - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Brigand."/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Forced: When Pelargir Ringleader engages a player, return the topmost Brigand enemy in the encounter discard pile to play, engaged with that player."/>
+    <property name="Shadow" value="Shadow: Attaching enemy gets +2 Û"/>
+  </card>
+  <card id="54e3ccfe-4e9b-4593-a3ef-e045b1a0c4a9" name="Dockside Street" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Peril in Pelargir - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="City."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="6"/>
+    <property name="Text" value="While Dockside Street is in the staging area, enemies in the staging area cannot be damaged or optionally engaged.&#10;Travel: Exhaust the hero with Alcaron's Scroll attached to travel here."/>
+  </card>
+  <card id="fbff9077-b7c2-4670-92ea-8ebaed5fc477" name="Pelargir Alley" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Peril in Pelargir - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="City."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="5"/>
+    <property name="Text" value="While Alcaron's Scroll is not attached to a hero, Pelargir Alley gets +3 $."/>
+    <property name="Shadow" value="Shadow: If the defending player controls a hero with Alcaron's Scroll attached, attach Alcaron's Scroll to the attacking enemy."/>
+  </card>
+  <card id="dc5c51d1-7528-46b4-b438-aae0cb744e29" name="Bedlam In The Streets" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Peril in Pelargir - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each player must either remove a hero he controls from the quest or engage an enemy in the staging area. Each enemy engaged by this effect makes an immediate attack."/>
+    <property name="Shadow" value="Shadow: Attaching enemy gets +2 Û"/>
+  </card>
+  <card id="377d8e17-1c0d-4871-86a5-a69b9dee40d2" name="The Thieves' Ploy" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Peril in Pelargir - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: If Alcaron's Scroll is attached to a hero, choose an enemy engaged with that hero's controller, if able.  Attach Alcaron's Scroll to that enemy, then add 1 progress to that enemy."/>
+  </card>
+  <card id="647578d4-8c8d-44d7-8ef5-9c5d962369f0" name="They're Getting Away!" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Peril in Pelargir - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: If Alcaron's Scroll is attached to an enemy, choose one: either add 1 progress token to that enemy, or each card in the staging area gets +2 $ until the end of the phase."/>
+  </card>
+  <card id="2491fe6d-38e2-4767-8e09-0174deb85ff8" name="Into Ithilien">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Into Ithilien - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <alternate name="Into Ithilien" type="B">
+      <property name="Encounter Set" value="Into Ithilien - Nightmare"/>
+      <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Text" value="You are playing Nightmare mode.&#10;&#10;Setup: Set both copies of Mumak Elite aside, out of play.&#10;Forced: When quest stage 2A or 4A are revealed, add 1 of the previously set aside copies of Mumak Elite to the staging area."/>
+    </alternate>
+  </card>
+  <card id="048b6a57-f577-4dbe-a090-6eca1f266767" name="Mumak Elite" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Into Ithilien - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Harad. Creature."/>
+    <property name="Keywords" value="Cannot have attachments. Arechery X."/>
+    <property name="Engagement Cost" value="38"/>
+    <property name="Threat" value="5"/>
+    <property name="Attack" value="7"/>
+    <property name="Defense" value="5"/>
+    <property name="Health" value="12"/>
+    <property name="Text" value="X is the number of players in the game.&#10;Mumak Elite cannot take more than 3 damage each round."/>
+  </card>
+  <card id="066ed12c-00f8-4a8c-bb38-0acd926ccf51" name="Haradrim Marksman" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Into Ithilien - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Harad."/>
+    <property name="Engagement Cost" value="36"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="While the current quest has battle, Haradrim Marksman gets +2 $ and gains archery 2.&#10;While the current quest has siege, Haradrim Marksman gets +2 Û and allies cannot be declared as defenders against its attacks."/>
+  </card>
+  <card id="a58dc702-4b9f-41ee-be83-136eda08906d" name="Haradrim Captain" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Into Ithilien - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Harad."/>
+    <property name="Engagement Cost" value="44"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="6"/>
+    <property name="Text" value="Each Harad enemy in the staging area gains archery 1.&#10;Each engaged Harad enemy gets +1 Ú."/>
+    <property name="Shadow" value="Shadow: Attaching enemy gets +1 Û (+3 Û in stead if it has the Harad trait)."/>
+  </card>
+  <card id="9c5bec2f-cd2d-4d22-b8d3-b5dfb4e3345b" name="Ithilien Overlook" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Into Ithilien - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Keywords" value="Archery 2."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Text" value="When assigning archery damage to a character, you must continue assigning archery damage to that character until that character is destroyed or there is no more archery damage to assign."/>
+  </card>
+  <card id="b0e4169e-0dd1-4abc-a021-e6b16ebc0bd2" name="Dense Thickets" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Into Ithilien - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="6"/>
+    <property name="Text" value="While Dense Thickets is in the staging area, each Forest location in play gets +1 $."/>
+    <property name="Shadow" value="Shadow: Excess damage dealt by this attack(damage that is dealt beyond the remaining hit points of the character damaged by this attack) must be assigned to a Ranger objective in play."/>
+  </card>
+  <card id="73611bf0-cc37-418a-88bc-ed01624ab33d" name="Cormallen Fields" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Into Ithilien - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Plains. Riverland."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="5"/>
+    <property name="Text" value="While the current quest has battle, Cormallen Fields gets +2 $.&#10;While the current quest has siege, when faced with the option to travel, the players must travel to Cormallen Fields, if able."/>
+  </card>
+  <card id="50dda27b-1bf7-43d4-a6e2-eced8d60515a" name="Obsidien Arrows" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Into Ithilien - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: The current quest gains archery 2 until the end of the round.  Then, assign all archery damage to characters in play as if it were the beginning of the combat phase."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +X Û.  X is that enemy's archery value."/>
+  </card>
+  <card id="b8caa465-cf1c-4be2-a32a-cab116ff0886" name="Savage Fray" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Into Ithilien - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Doomed 2."/>
+    <property name="Text" value="When Revealed:  If the current quest has a keyword, until the end of the round, switch that keyword to battle or siege, or siege to battle, if able.  If the current quest does not have a keyword, Savage Fray gains surge."/>
+  </card>
+  <card id="846e56e8-ac94-41e0-b29a-aacf7ca8d39e" name="The Siege of Cair Andros">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Siege of Cair Andros - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
+    <property name="Text" value="You are playing Nightmare mode.&#10;Until the end of the game, player cards in the victory display do not contribure their victory points."/>
+  </card>
+  <card id="3bd3e9f2-6411-4ea3-9ff4-1ea1d51e202d" name="Southron Mounted Archer" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Siege of Cair Andros - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Harad."/>
+    <property name="Keywords" value="Archery 5."/>
+    <property name="Engagement Cost" value="45"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Damage from each round's archery total may be assigned to Battleground locations, as well as characters"/>
+  </card>
+  <card id="2c7390c5-06a8-451e-9895-88fb705e18e8" name="Orc Saboteur" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Siege of Cair Andros - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc."/>
+    <property name="Engagement Cost" value="21"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="Damage dealt by Orc Saboteur's attacks must be assigned to a Battleground location in play, if able."/>
+    <property name="Shadow" value="Shadow: If this attack destroys a character, deal 2 damage to a Battleground location in play."/>
+  </card>
+  <card id="04eb1904-64a4-4b89-ae71-38ee175aa093" name="Orc Ravager" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Siege of Cair Andros - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Forced: When Orc Ravager is dealt a shadow card, it gets +2 Ú until the end of the phase."/>
+    <property name="Shadow" value="Shadow: Exhaust a character you control. Deal attacking enemy another shadow card."/>
+  </card>
+  <card id="c9e280a4-06b8-48bb-918d-da247e15157c" name="Besieged Courtyard" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Siege of Cair Andros - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Cair Andros. Battleground."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="5"/>
+    <property name="Text" value="If Beseiged Courtyard has 5 or more damage, discard it and exhaust each ready character."/>
+    <property name="Shadow" value="Shadow: Choose one: either attacking enemy makes an additional attack after this one, or deal 10 damage to a Battleground location."/>
+  </card>
+  <card id="3a17475b-3238-4577-9fd5-83b67e2d0aa7" name="Walls of Cair Andros" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Siege of Cair Andros - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Cair Andros. Battleground."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Text" value="If Walls of Cair Andros has 4 or more damage, discard it and each player must assign 4 damage among characters he controls."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +X Û.  X is the amount of damage on the active location."/>
+  </card>
+  <card id="f16bf495-bb88-4c5e-9a3f-5ba2d8bb916a" name="Anduin Wharf" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Siege of Cair Andros - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Cair Andros. Battleground. Riverland."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="6"/>
+    <property name="Text" value="If Anduin Wharf has 6 or more damage, discard it and reveal 2 cards from the top of the encounter deck.&#10;While Anduin Wharf is the active location, allies cost 1 additional matching resource to play from hand."/>
+  </card>
+  <card id="49d6a591-67b0-4d65-a384-ae0662b09814" name="Ruin and Wroth" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Siege of Cair Andros - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Doomed 2."/>
+    <property name="Text" value="When Revealed: Deal 2 shadow cards to each enemy in play. Deal 2 damage to each battleground location in play."/>
+    <property name="Shadow" value="Shadow: Discard an attachment you control."/>
+  </card>
+ </cards>
+</set>
