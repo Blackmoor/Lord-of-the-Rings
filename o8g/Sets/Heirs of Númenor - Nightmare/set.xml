@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Heirs of Numenor - Nightmare" id="4bb66f68-a4b5-4226-8d64-de74bf2ac793" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Heirs of Númenor - Nightmare" id="4bb66f68-a4b5-4226-8d64-de74bf2ac793" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
  <cards>
   <card id="486a95af-e3af-4513-ae9a-d705d8557db6" name="Peril in Pelargir">
     <property name="Quantity" value="1"/>
@@ -104,7 +104,7 @@
       <property name="Text" value="You are playing Nightmare mode.&#10;&#10;Setup: Set both copies of Mumak Elite aside, out of play.&#10;Forced: When quest stage 2A or 4A are revealed, add 1 of the previously set aside copies of Mumak Elite to the staging area."/>
     </alternate>
   </card>
-  <card id="048b6a57-f577-4dbe-a090-6eca1f266767" name="Mumak Elite" size="EncounterCard">
+  <card id="048b6a57-f577-4dbe-a090-6eca1f266767" name="Mûmak Elite" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Into Ithilien - Nightmare"/>
     <property name="Type" value="Enemy"/>
@@ -158,7 +158,7 @@
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="1"/>
-    <property name="Quest Points" value="6"/>
+    <property name="Quest Points" value="8"/>
     <property name="Text" value="While Dense Thickets is in the staging area, each Forest location in play gets +1 $."/>
     <property name="Shadow" value="Shadow: Excess damage dealt by this attack(damage that is dealt beyond the remaining hit points of the character damaged by this attack) must be assigned to a Ranger objective in play."/>
   </card>
@@ -189,7 +189,14 @@
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Siege of Cair Andros - Nightmare"/>
     <property name="Type" value="Nightmare"/>
-    <property name="Text" value="You are playing Nightmare mode.&#10;Until the end of the game, player cards in the victory display do not contribure their victory points."/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <alternate name="The Siege of Cair Andros" type="B">
+      <property name="Encounter Set" value="The Siege of Cair Andros - Nightmare"/>
+      <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Text" value="You are playing Nightmare mode.&#10;Until the end of the game, player cards in the victory display do not contribure their victory points."/>
+    </alternate>
   </card>
   <card id="3bd3e9f2-6411-4ea3-9ff4-1ea1d51e202d" name="Southron Mounted Archer" size="EncounterCard">
     <property name="Quantity" value="3"/>

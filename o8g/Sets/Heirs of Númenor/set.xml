@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Heirs of Numenor" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Heirs of Númenor" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9000" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="3.0.0">
  <cards>
   <card id="4823aae3-46ef-4a75-89f9-cbd3aa1b9005" name="Beregond">
     <property name="Quantity" value="1"/>

@@ -200,6 +200,7 @@
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
     <alternate name="Encounter at Amon Dîn" type="B">
       <property name="Encounter Set" value="Encounter at Amon Dîn - Nightmare"/>
+      <property name="Type" value="Nightmare"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Text" value="You are playing Nightmare mode.&#10;Ghulat cannot take damage unless there are at least 15 progress tokens on Protect the Villagers.&#10;Setup: Place 1 villager token on Rescued Villagers.&#10;Forced: At the beginning of the quest phase, either discard 1 villager token from Rescued Villagers, or reveal an encounter card."/>
     </alternate>
@@ -280,6 +281,285 @@
     <property name="Traits" value="Panic."/>
     <property name="Keywords" value="Surge. Doomed 1."/>
     <property name="Text" value="When Revealed: Attach to Rescued Villagers. (Counts as a Condition attachment with the text: &quot;Forced: At the end of the round, discard 1 villager token from Rescued Villagers.&quot;)"/>
+  </card>
+  <card id="5e0ecd2d-d63e-4507-8707-641b974398ff" name="Assault on Osgiliath">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Assault on Osgiliath - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <alternate name="Assault on Osgiliath" type="B">
+      <property name="Encounter Set" value="Assault on Osgiliath - Nightmare"/>
+      <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Text" value="You are playing Nightmare mode. &#10;&#10;Setup: Add Palace Remains to the staging area. If there are more Osgiliath locations in the staging area than players in the game, this card gains: &quot;Response: At the beginning of the quest phase, choose 1 non-unique location. If the players quest successfully this phase, remaining progress made beyond the active location's quest points is placed on the chosen location"/>
+    </alternate>
+  </card>
+  <card id="c9604830-bb2f-4016-b914-7c41248513b5" name="Invading Orc" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Assault on Osgiliath - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Mordor."/>
+    <property name="Engagement Cost" value="20"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Forced: After Invading Orc attacks and destroys a character, that character's controller returns a location he controls to the staging area."/>
+    <property name="Shadow" value="Shadow: If this attack destroys a character, return a location you control to the staging area."/>
+  </card>
+  <card id="6b928a6d-c90b-4e94-931e-ba5f8f1ebaf4" name="Haradhrim Warrior" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Assault on Osgiliath - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Harad."/>
+    <property name="Keywords" value="Archery X. X is the number of locations controlled by the first player."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="X"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Forced: After Haradhrim Elite engages a player, it gets +X Û and +X Ú until the end of the round."/>
+    <property name="Shadow" value="Shadow: Deal 1 damage to defending character."/>
+  </card>
+  <card id="ac4da79d-d966-45bf-b1d3-c4d0a348dd7e" name="Palace Remains" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Assault on Osgiliath - Nightmare"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Osgiliath."/>
+    <property name="Threat" value="0"/>
+    <property name="Quest Points" value="5"/>
+    <property name="Text" value="Immune to player card effects. Palace Remains gets +1 $ for each resource token on it. &#10;&#10;The players cannot travel here unless there are at least 5 resource tokens on Palace Remains. &#10;While Palace Remains is in the staging area, it gains &quot;Forced: After a player takes control of a location, place 1 resource token here.&quot;"/>
+  </card>
+  <card id="d4b810a1-7d10-4610-9609-fb7f7568e5f5" name="Crumbled Battlements" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Assault on Osgiliath - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Osgiliath."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="2"/>
+    <property name="Text" value="Forced: When you take control of Crumbled Battlements, shuffle the encounter discard pile into the encounter deck and discard cards from the encounter deck until an enemy is discarded. Put the discarded enemy into play engaged with you."/>
+  </card>
+  <card id="2e502d3d-5cf5-47eb-9577-3c14d74995fa" name="Eastern Quarter" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Assault on Osgiliath - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Osgiliath."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Text" value="Forced: When you take control of Eastern Quarter, discard each event card in your hand. &#10;&#10;While a player controls Eastern Quarter it gains: &quot;Forced: After the 'when revealed' effect of a treachery is canceled, return Easter Quarter to the staging area.&quot;"/>
+  </card>
+  <card id="6d567c10-864f-48a8-8104-14882b2b254e" name="Western Quarter" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Assault on Osgiliath - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Osgiliath."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Text" value="Forced: When you take control of Western Quarter, discard the highest cost attachment you control. &#10;&#10;While a player controls Western Quarter it gains: &quot;Forced: After the 'when revealed' effect of a treachery is canceled, return Western Quarter to the staging area.&quot;"/>
+  </card>
+  <card id="15ccb88a-9a78-4aac-a1f2-839070a19016" name="Relentless Attack" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Assault on Osgiliath - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Doomed 1."/>
+    <property name="Text" value="When Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: &quot;Each enemy gets -X engagement cost. X is the number of locations controlled by players. Forced: At the beginning of the encounter phase, if there are fewer than X enemies in the staging area, reveal an encounter card.&quot;)"/>
+  </card>
+  <card id="ffc5f529-5d18-4870-970b-7503c176f56b" name="Overrun Defenses" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Assault on Osgiliath - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Add X to the total $ in the staging area this phase. X is the number of locations the players control. If X is less than 4, Overrun Defenses gains doomed 2."/>
+    <property name="Shadow" value="Shadow: Exhaust a character you control (2 characters instead of you control 4 or more locations)."/>
+  </card>
+  <card id="d74119d9-703c-4d5a-998b-4788230254c9" name="Pressed on All Sides" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Assault on Osgiliath - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: If the total $ of locations controlled by players is greater than the total $ in the staging area, raise each player's threat by 2 and immediately end the quest phase without resolving the quest."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each location you control."/>
+  </card>
+  <card id="118672b6-c6e2-43ec-ae3d-8657d8b659d5" name="The Blood of Gondor">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Blood of Gondor - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <alternate name="The Blood of Gondor" type="B">
+      <property name="Encounter Set" value="The Blood of Gondor - Nightmare"/>
+      <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Text" value="You are playing Nightmare mode. &#10;&#10;Setup: Each player takes 1 hidden card. The players cannot win the game unless The Crossroads and Black Númenórean are in the victory display."/>
+    </alternate>
+  </card>
+  <card id="13c23487-ad49-437b-be41-1c09dd5c30e4" name="Black Númenorean" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Blood of Gondor - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Mordor."/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="X"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="9"/>
+    <property name="Victory Points" value="3"/>
+    <property name="Text" value="X is the total number of hidden cards in the game. &#10;&#10;Forced: When Black Númenórean engages you, turn all hidden cards in your play area faceup. &#10;Forced: At the end of the round, each player must raise his threat by 1 for each hidden card in his play area."/>
+  </card>
+  <card id="ef8af2c9-e9c7-463a-8853-c9ccfc3eff69" name="Orc Trickster" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Blood of Gondor - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc."/>
+    <property name="Engagement Cost" value="20"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Forced: After Orc Trickster is turned faceup as a hidden card, it makes an immediate attack against the engaged player.&#10;&#10;Forced: When Orc Trickster would be damaged, a random player takes it facedown as a hidden card in his play area instead."/>
+  </card>
+  <card id="330cc524-6e48-4aa8-a201-d80e1b67570e" name="Uruk Marksman" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Blood of Gondor - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Uruk. Mordor."/>
+    <property name="Keywords" value="Archery 3."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Forced: After Uruk Marksman is turned faceup as a hidden card, deal 3 damage to a character controlled by the engaged player and return Uruk Marksman to the staging area."/>
+  </card>
+  <card id="d2e0ef58-b688-4cf7-9289-246b0af56ba8" name="Edge of Ithilien" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Blood of Gondor - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ithilien. Forest."/>
+    <property name="Keywords" value="Archery X.&#10;X is the highest number of hidden cards in any player's play area."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="6"/>
+    <property name="Shadow" value="Shadow: Turn 1 hidden card in your play area faceup. If it is a treachery card, attacking enemy makes an additional attack after this one."/>
+  </card>
+  <card id="866767a4-a4e9-4f61-b8eb-88f21e2fe6f2" name="Mountains of Shadow" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Blood of Gondor - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mountain."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Text" value="While Mountains of Shadow is the active location, it gains: &quot;Forced: After you turn 1 or more hidden cards faceup, take 1 hidden card.&quot;"/>
+    <property name="Shadow" value="Shadow: Either take 2 hidden cards, or this attack is considered undefended."/>
+  </card>
+  <card id="3459889b-48a2-4401-b511-6e11dabec437" name="Surrounded by Shadow" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Blood of Gondor - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Doomed 2."/>
+    <property name="Text" value="When Revealed: Each player must either take 1 hidden card for each questing hero he controls, or remove one hero he controls from the quest for each hidden card in his play area."/>
+  </card>
+  <card id="812dce54-8a84-4a44-94ee-5b2cd2bf1997" name="Sudden Onslaught" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Blood of Gondor - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each player turns each hidden card in his play area faceup. Each player then takes hidden cards equal to the number of hidden cards he just turned faceup."/>
+    <property name="Shadow" value="Shadow: Take 1 hidden card. Then, turn 1 hidden card in your play area faceup."/>
+  </card>
+  <card id="d6d15b55-0418-48a4-8571-9495c1e52232" name="The Morgul Vale">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Morgul Vale - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <alternate name="The Morgul Vale" type="B">
+      <property name="Encounter Set" value="The Morgul Vale - Nightmare"/>
+      <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Text" value="You are playing Nightmare mode. &#10;&#10;Setup: Place 1 progress on To the Tower."/>
+    </alternate>
+  </card>
+  <card id="f1112857-2210-4087-b262-5862aed26b68" name="Warrior of Nurn" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Morgul Vale - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Traitor."/>
+    <property name="Engagement Cost" value="18"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="Each Captain enemy gets +1 Ú. Forced: At the end of the round, heal all damage from each Captain enemy in play."/>
+    <property name="Shadow" value="Shadow: Heal all damage from each Captain enemy in play."/>
+  </card>
+  <card id="740357cb-f22e-4888-aed5-ccc67728b69d" name="Orc Captor" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Morgul Vale - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Mordor."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Forced: At the end of the round, if Orc Captor is in the staging area, place 1 progress token on To the Tower."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +3 Ú until the end of the combat phase."/>
+  </card>
+  <card id="b490fe8e-4367-424d-8a5c-bc7b8e1a56a7" name="Sentry of the White Bridge" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Morgul Vale - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Mordor."/>
+    <property name="Engagement Cost" value="37"/>
+    <property name="Threat" value="X"/>
+    <property name="Attack" value="X"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="X is the number of progress tokens on To the Tower."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If this attack destroys a character, place 1 progress on To the Tower."/>
+  </card>
+  <card id="43375421-21f6-4e77-855c-0d29d145c803" name="Banks of Morgulduin" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Morgul Vale - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="River."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Text" value="Forced: When Banks of Morgulduin is explored, deal it facedown as a shadow card to a Captain enemy."/>
+    <property name="Shadow" value="Shadow: If attacking enemy is a Captain, deal it 3 additional shadow cards for this attack."/>
+  </card>
+  <card id="85ee1e86-178d-40cf-81d3-c86f5a1f2678" name="Ephel Dúath" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Morgul Vale - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mountain."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="5"/>
+    <property name="Text" value="While Ephel Dúath is in the staging area, each Captain enemy gets +2 Û."/>
+    <property name="Shadow" value="Shadow: Defending player must either place 1 progress token on To the Tower or treat this attack as undefended."/>
+  </card>
+  <card id="a1e74757-c5c8-4b81-a01a-6406410f661d" name="White-flowered Fields" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Morgul Vale - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Valley."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Text" value="Forced: At the end of the round, each player must either exhaust a hero he controls or place 1 progress token on To the Tower."/>
+    <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack."/>
+  </card>
+  <card id="56fbff9f-2518-4ea3-918b-caf14a93738d" name="The Tower Beckons" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Morgul Vale - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Place 1 progress token on To the Tower. Until the end of the phase, The Towers Beckons adds X $ to the total $ in the staging area, where X is the number of progress tokens on To the Tower."/>
+    <property name="Shadow" value="Shadow: Place 1 progress token on To the Tower."/>
+  </card>
+  <card id="18150bb4-3157-429c-b958-af1210acd4b2" name="Noxious Fumes" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Morgul Vale - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Place 1 progress token on To the Tower. Each player must assign damage among characters he controls equal to the number of progress token on To the Tower."/>
+    <property name="Shadow" value="Shadow: If this attack destroys a character, place 1 progress on To the Tower."/>
   </card>
  </cards>
 </set>
