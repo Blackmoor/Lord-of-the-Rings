@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="486a95af-e3af-4513-ae9a-d705d8557db6">Peril in Pelargir</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9021">The Leaping Fish</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9023">Fighting in the Streets</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9025">Escape to the Quays</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="4" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9020">Harbor Thug</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9069">Pelargir Docks</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9011">City Street</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9051">Local Trouble</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9054">Lost in the City</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9056">Market Square</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9052">Lossarnach Bandit</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9055">Lurking in Shadows</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9085">Umbar Assassin</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9088">Zealous Traitor</card>
+    <card qty="3" id="298c3181-5f6f-487c-adbd-741bb202b8e0">Cunning Informant</card>
+    <card qty="2" id="92576b76-6b3a-4bee-84dc-82f927e1caa1">Harbor Brute</card>
+    <card qty="2" id="6f300089-29ce-42e7-9bd4-2dda667cdd4a">Pelargir Ringleader</card>
+    <card qty="3" id="54e3ccfe-4e9b-4593-a3ef-e045b1a0c4a9">Dockside Street</card>
+    <card qty="2" id="fbff9077-b7c2-4670-92ea-8ebaed5fc477">Pelargir Alley</card>
+    <card qty="3" id="dc5c51d1-7528-46b4-b438-aae0cb744e29">Bedlam In The Streets</card>
+    <card qty="2" id="377d8e17-1c0d-4871-86a5-a69b9dee40d2">The Thieves' Ploy</card>
+    <card qty="2" id="647578d4-8c8d-44d7-8ef5-9c5d962369f0">They're Getting Away!</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9082">The Leaping Fish</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9001">Alcaron's Scroll</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="5e0ecd2d-d63e-4507-8707-641b974398ff">Assault on Osgiliath</card>
+    <card qty="1" id="c46c37c3-b2e7-4e28-9466-e3a371417c8b">Retake the City</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="bfa3b9da-d0e3-4ad6-8d1d-f32975f69551">Uruk Lieutenant</card>
+    <card qty="2" id="264adf61-31e1-46db-a655-7fee1d4282ae">Southron Commander</card>
+    <card qty="1" id="5a3d198a-5c72-42ec-b5ae-f183194632cf">West Gate</card>
+    <card qty="1" id="fa9df618-126b-4ea9-95d7-22cd5dad6d2f">The King's Library</card>
+    <card qty="1" id="0c44ed2b-976a-4b17-b7e7-e64b20f74fd7">Ancient Harbor</card>
+    <card qty="1" id="e46a15c0-abbe-4a2e-8951-0e9950aa0288">The Old Bridge</card>
+    <card qty="2" id="fb301d7d-7936-49b6-a938-40ff0ca549cb">Ruined Square</card>
+    <card qty="2" id="ae5727cb-4d88-4a28-99be-84a565292b67">Ruined Tower</card>
+    <card qty="2" id="03b6d303-7722-4319-9623-e182b50c90b2">Pinned Down</card>
+    <card qty="2" id="1f1ad7bb-68ca-4b48-b7fa-516e5314e272">Counter-attack</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9049">Lieutenant of Mordor</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9061">Orc Arbalesters</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9066">Orc Vanguard</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9067">Orc War Camp</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9018">Haradrim Elite</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9059">Mumak</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9077">Southron Support</card>
+    <card qty="3" id="c9604830-bb2f-4016-b914-7c41248513b5">Invading Orc</card>
+    <card qty="3" id="6b928a6d-c90b-4e94-931e-ba5f8f1ebaf4">Haradhrim Warrior</card>
+    <card qty="2" id="d4b810a1-7d10-4610-9609-fb7f7568e5f5">Crumbled Battlements</card>
+    <card qty="2" id="2e502d3d-5cf5-47eb-9577-3c14d74995fa">Eastern Quarter</card>
+    <card qty="2" id="6d567c10-864f-48a8-8104-14882b2b254e">Western Quarter</card>
+    <card qty="2" id="15ccb88a-9a78-4aac-a1f2-839070a19016">Relentless Attack</card>
+    <card qty="2" id="ffc5f529-5d18-4870-970b-7503c176f56b">Overrun Defenses</card>
+    <card qty="2" id="d74119d9-703c-4d5a-998b-4788230254c9">Pressed on All Sides</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="ac4da79d-d966-45bf-b1d3-c4d0a348dd7e">Palace Remains</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

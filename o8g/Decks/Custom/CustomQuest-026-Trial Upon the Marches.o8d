@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="57591d74-95b5-42e1-8231-66fe860bf691">Preparing for Battle</card>
+    <card qty="1" id="8b531d92-b2cb-4eff-9e22-fcf140fa6fc5">Repel the Incursion</card>
+    <card qty="1" id="263eeb70-e78a-4e45-856e-95f9a800c2ac">Rescue the Settlement</card>
+    <card qty="1" id="a7676ac3-ad76-4bff-8c57-50272aad822e">Destroy the War Engine</card>
+    <card qty="1" id="7988db71-bc60-43eb-99df-3295e02ac0a7">A Final Proving</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="7191f5a0-be28-4b24-b868-7de286bf3540">Orc Marauders</card>
+    <card qty="2" id="fd3a5f59-515a-4ab7-a0f7-7501aa9c891d">Colossal Orc</card>
+    <card qty="4" id="39f3d729-2513-4066-8ad8-f81eae520db9">Orc Archer</card>
+    <card qty="3" id="838226a2-5193-4ff6-8e67-6161198c5c91">Orc Follower</card>
+    <card qty="3" id="27a85ec1-2a9c-4849-8b6d-94b1b44fdeef">Angband Assassin</card>
+    <card qty="3" id="6c3a03b4-45b6-4094-bc48-c91a2be30586">Orc Burner</card>
+    <card qty="2" id="e72a57ea-bb01-42ff-8f60-0ecdf531dd3a">Hidden Grove</card>
+    <card qty="3" id="6c4ca5ac-9a22-4614-961b-32fee1a1cb1f">March Outpost</card>
+    <card qty="2" id="ed4a097d-7c49-4f09-9c55-cfc01bb260d3">Raider Camp</card>
+    <card qty="2" id="e7ce1eb4-83e1-449b-ad0c-e5bd2884f7cd">Burning Abode</card>
+    <card qty="3" id="8c19bcf3-a78c-4e06-b029-d1244a1de1e7">March Road</card>
+    <card qty="2" id="2dd63669-10de-44bb-9590-ac3c5be1c36b">Crooked Blades</card>
+    <card qty="2" id="74d2bdf6-9697-48ee-ae1f-4e2b0940c826">Renewed Grief</card>
+    <card qty="2" id="cfed5e15-b700-4c57-84f5-37d628ef8a72">An Ill Fate</card>
+    <card qty="1" id="da4c4a97-188c-4d4f-9b3e-6c9aaeedcf5b">Mirth of Morgoth</card>
+    <card qty="2" id="82bc61f7-32b3-44e5-830e-2f3a4b4c87b0">Orcish Mischief</card>
+    <card qty="1" id="ee18d61a-a19a-4a56-802a-d37c8ffd2794">Orc Infiltration</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="36317973-61c1-4423-877d-2bfc9eedb181">Unscathed</card>
+    <card qty="1" id="ef65ad2f-ca77-45ea-9d98-36c8ab755b6e">Deeds of Daring</card>
+    <card qty="1" id="fdf2dd00-bc30-4c80-951d-e7f27cf7f742">Mighty in Arms</card>
+    <card qty="4" id="fc72a4c4-e698-4235-9b2c-33abb7220ed9">Orc Raiding Party</card>
+    <card qty="1" id="7bb926bf-3791-4d45-8adf-3e478dd81828">Azrat</card>
+    <card qty="1" id="8e65e05e-1b7e-4d86-b74b-d10ce2c2de47">Weapon of Morgoth</card>
+    <card qty="1" id="d5e0a2b3-da4b-43f6-b89e-8180ab1a0b09">Trial Upon the Marches rules</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

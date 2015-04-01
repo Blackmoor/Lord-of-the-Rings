@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="2491fe6d-38e2-4767-8e09-0174deb85ff8">Into Ithilien</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9027">Ambush in Ithilien</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9029">Southron Counter-attack</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9031">The Hidden Way</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9033">Approaching Cair Andros</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9006">Blocking Wargs</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9046">Ithilien Guardian</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9047">Ithilien Road</card>
+    <card qty="4" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9075">Southron Company</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9053">Lost Companion</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9068">Overgrown Trail</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9058">Morgul Spider</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9018">Haradrim Elite</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9059">Mumak</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9077">Southron Support</card>
+    <card qty="3" id="066ed12c-00f8-4a8c-bb38-0acd926ccf51">Haradrim Marksman</card>
+    <card qty="2" id="a58dc702-4b9f-41ee-be83-136eda08906d">Haradrim Captain</card>
+    <card qty="3" id="9c5bec2f-cd2d-4d22-b8d3-b5dfb4e3345b">Ithilien Overlook</card>
+    <card qty="3" id="b0e4169e-0dd1-4abc-a021-e6b16ebc0bd2">Dense Thickets</card>
+    <card qty="2" id="73611bf0-cc37-418a-88bc-ed01624ab33d">Cormallen Fields</card>
+    <card qty="2" id="50dda27b-1bf7-43d4-a6e2-eced8d60515a">Obsidien Arrows</card>
+    <card qty="2" id="b8caa465-cf1c-4be2-a32a-cab116ff0886">Savage Fray</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9009">Celador</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9047">Ithilien Road</card>
+    <card qty="2" id="048b6a57-f577-4dbe-a090-6eca1f266767">Mûmak Elite</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

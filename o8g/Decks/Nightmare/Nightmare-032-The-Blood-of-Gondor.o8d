@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="118672b6-c6e2-43ec-ae3d-8657d8b659d5">The Blood of Gondor</card>
+    <card qty="1" id="23768a0d-bf6c-4405-9b09-ea8fdbfded31">The Ambush</card>
+    <card qty="1" id="d2bf00ad-2e1e-4537-b662-f6f20f9a1cfe">Captured!</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="5a654416-4449-4d0c-add8-8b3ca04bb401">Southern Road</card>
+    <card qty="1" id="01b1d42b-11a4-4030-988d-064673169fec">Western Road</card>
+    <card qty="1" id="8eb1ca03-da9e-4e84-abf2-090804eeb1aa">Northern Road</card>
+    <card qty="1" id="9d58de28-c518-4888-8e91-a52bb5c3e663">Eastern Road</card>
+    <card qty="2" id="8affd994-f7f5-4341-8437-899f9a31b094">Lying in Wait</card>
+    <card qty="3" id="fa3a740d-36b7-4fa9-b5d5-6d70aa50f078">Mordor Looms</card>
+    <card qty="2" id="f4b35e95-7f32-490d-9591-ac9eb050bb7e">Conflict at the Crossroads</card>
+    <card qty="4" id="8f106a70-0102-41ad-8752-fb5667748850">Orc Ambusher</card>
+    <card qty="3" id="2d2e4f42-009d-4fde-ab42-3cd9351a4d0f">Brutal Uruk</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9062">Orc Arsonist</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9064">Orc Rabble</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9072">Scourge of Mordor</card>
+    <card qty="4" id="ef8af2c9-e9c7-463a-8853-c9ccfc3eff69">Orc Trickster</card>
+    <card qty="3" id="330cc524-6e48-4aa8-a201-d80e1b67570e">Uruk Marksman</card>
+    <card qty="3" id="d2e0ef58-b688-4cf7-9289-246b0af56ba8">Edge of Ithilien</card>
+    <card qty="3" id="866767a4-a4e9-4f61-b8eb-88f21e2fe6f2">Mountains of Shadow</card>
+    <card qty="3" id="3459889b-48a2-4401-b511-6e11dabec437">Surrounded by Shadow</card>
+    <card qty="2" id="812dce54-8a84-4a44-94ee-5b2cd2bf1997">Sudden Onslaught</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="9b2302dc-3084-447f-8104-a4569fd26e38">The Cross-roads</card>
+    <card qty="1" id="13c23487-ad49-437b-be41-1c09dd5c30e4">Black Númenorean</card>
+    <card qty="1" id="ab2ac791-b266-43b2-b6ee-0d412a1100bc">Faramir</card>
+    <card qty="1" id="fa4aaa97-c06d-42d5-b796-2f6200d9a404">Lord Alcaron</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

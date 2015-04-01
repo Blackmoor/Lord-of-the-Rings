@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="846e56e8-ac94-41e0-b29a-aacf7ca8d39e">The Siege of Cair Andros</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9035">The Defense</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9037">Reinforcing the Banks</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9039">Breakthrough at the Approach</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9041">Breakthrough at the Citadel</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9043">The Last Battle</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9003">Battering Ram</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9063">Orc Assault</card>
+    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9065">Orc Scramblers</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9074">Siege Raft</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9018">Haradrim Elite</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9059">Mumak</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9077">Southron Support</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9049">Lieutenant of Mordor</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9066">Orc Vanguard</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9067">Orc War Camp</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9083">The Master's Malice</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9062">Orc Arsonist</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9064">Orc Rabble</card>
+    <card qty="3" id="3bd3e9f2-6411-4ea3-9ff4-1ea1d51e202d">Southron Mounted Archer</card>
+    <card qty="3" id="2c7390c5-06a8-451e-9895-88fb705e18e8">Orc Saboteur</card>
+    <card qty="4" id="04eb1904-64a4-4b89-ae71-38ee175aa093">Orc Ravager</card>
+    <card qty="2" id="c9e280a4-06b8-48bb-918d-da247e15157c">Besieged Courtyard</card>
+    <card qty="2" id="3a17475b-3238-4577-9fd5-83b67e2d0aa7">Walls of Cair Andros</card>
+    <card qty="2" id="f16bf495-bb88-4c5e-9a3f-5ba2d8bb916a">Anduin Wharf</card>
+    <card qty="3" id="49d6a591-67b0-4d65-a384-ae0662b09814">Ruin and Wroth</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9079">The Approach</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9081">The Citadel</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9080">The Banks</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

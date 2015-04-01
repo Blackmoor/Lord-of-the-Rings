@@ -7,6 +7,7 @@
     <property name="Type" value="Nightmare"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <property name="Setup" value="tttttttttl"/>
     <alternate name="The Steward's Fear" type="B">
       <property name="Encounter Set" value="The Steward's Fear - Nightmare"/>
       <property name="Type" value="Nightmare"/>
@@ -103,6 +104,7 @@
     <property name="Type" value="Nightmare"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <property name="Setup" value="st"/>
     <alternate name="The Drúadan Forest" type="B">
       <property name="Encounter Set" value="The Drúadan Forest - Nightmare"/>
       <property name="Type" value="Nightmare"/>
@@ -198,6 +200,7 @@
     <property name="Type" value="Nightmare"/>
     <property name="Cost" value="A"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <property name="Setup" value="ttlss"/>
     <alternate name="Encounter at Amon Dîn" type="B">
       <property name="Encounter Set" value="Encounter at Amon Dîn - Nightmare"/>
       <property name="Type" value="Nightmare"/>
@@ -288,6 +291,7 @@
     <property name="Type" value="Nightmare"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <property name="Setup" value="s"/>
     <alternate name="Assault on Osgiliath" type="B">
       <property name="Encounter Set" value="Assault on Osgiliath - Nightmare"/>
       <property name="Type" value="Nightmare"/>
@@ -386,6 +390,7 @@
     <property name="Type" value="Nightmare"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <property name="Setup" value="sstt"/>
     <alternate name="The Blood of Gondor" type="B">
       <property name="Encounter Set" value="The Blood of Gondor - Nightmare"/>
       <property name="Type" value="Nightmare"/>
@@ -471,6 +476,7 @@
     <property name="Type" value="Nightmare"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <property name="Setup" value="tttsss"/>
     <alternate name="The Morgul Vale" type="B">
       <property name="Encounter Set" value="The Morgul Vale - Nightmare"/>
       <property name="Type" value="Nightmare"/>

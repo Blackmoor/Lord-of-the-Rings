@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="2387ac72-763b-47e0-b9f3-29a08dbeb200">The Drúadan Forest</card>
+    <card qty="1" id="71079813-3afe-41b7-8746-92dcc1f91084">The Pursuit</card>
+    <card qty="1" id="346fda89-94df-410a-8027-41eacbf27238">An Untimely End</card>
+    <card qty="1" id="f6578eb7-1b94-458b-aba1-82b406507a4d">The Passage Out</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="e2c02f11-fdfb-402b-89de-1729d1364e4c">Drúadan Drummer</card>
+    <card qty="2" id="607c3e44-5add-4c80-bb3b-55b016b6cd0e">Drúadan Elite</card>
+    <card qty="3" id="809ff5de-8273-4491-adfb-3a27d4b316f3">Drúadan Hunter</card>
+    <card qty="3" id="85045e14-3abc-4d58-824f-249b1fb3643d">Drúadan Thief</card>
+    <card qty="1" id="0ebedc5b-fd8b-46b8-a2a1-1a6f739e8819">Ancestral Clearing</card>
+    <card qty="2" id="41c3779a-a28a-44db-8b9b-bc5e81d1111a">Garden of Poisons</card>
+    <card qty="3" id="801078c6-56a9-45f2-b5a4-7e38cb5bc507">Glade of Cleansing</card>
+    <card qty="2" id="24e431be-cde9-4f93-943a-de5e5ca9108b">Men in the Dark</card>
+    <card qty="2" id="7cbf23fd-28c4-494c-97aa-b7fed050ad8b">Stars in Sky</card>
+    <card qty="2" id="9dda3cf1-e5bd-4cab-8c3b-b29db1220249">Leaves on Tree</card>
+    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9068">Overgrown Trail</card>
+    <card qty="3" id="f9a62ed6-f066-478d-9af0-0c39dea250dd">Drúadan Warrior</card>
+    <card qty="3" id="8c844d0e-74df-4def-a1e7-cb5d2e255908">Drúadan Stalker</card>
+    <card qty="3" id="17353135-52af-42a8-a6af-3b2e9148bf5f">Devil's Mirk</card>
+    <card qty="2" id="6c86b76e-003d-40aa-af57-bd0e6536a2f6">Eilenach</card>
+    <card qty="2" id="b509154c-7596-4a48-941e-0dfa7277d0cf">Stonewain Valley</card>
+    <card qty="2" id="63b5d3fe-227a-4781-b9ef-52dc6fb656d5">Drums of the Wild Men</card>
+    <card qty="3" id="27f961dd-c360-418e-9aac-6756d3a46dde">Poison-darts</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="41c3779a-a28a-44db-8b9b-bc5e81d1111a">Garden of Poisons</card>
+    <card qty="1" id="c2a753b8-dfb3-4bdf-a0b4-523323c52f43">Drû-buri-Drû</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>
