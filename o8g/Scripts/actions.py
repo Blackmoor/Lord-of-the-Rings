@@ -1397,6 +1397,11 @@ def playCard(card, x=0, y=0):
 	card.moveToTable(x, y)
 	card.select()
 
+def swapCard(card):
+	draw(me.deck)
+	card.moveTo(me.deck)
+	notify("{} returns {} to the top of the deck.".format(me, card))
+
 def sumVictory():
 	v = 0
 	for c in shared.piles['Victory Display']:
