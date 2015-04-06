@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="6e449166-50ab-4ec5-875f-3cc8adcbb64e">The Shades of Angmar</card>
+    <card qty="1" id="89f263b0-c4a5-43ea-b59d-6207f9f65954">A Fell Wraith</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="8e16a07f-d6c1-4040-b05c-bb2bc1ab92c8">Thaurdir's Damned</card>
+    <card qty="4" id="fe419fec-bc64-493c-aa23-fa3e62c57768">Baleful Shade</card>
+    <card qty="3" id="82ca7902-f8fa-4352-8f54-f5f6a8875c51">Broken Battlements</card>
+    <card qty="2" id="a5e60892-b524-43cf-a501-372a624e785e">Norbury Tombs</card>
+    <card qty="2" id="5a90429e-d5cf-442f-b8d8-af144b3ea861">Fornost Square</card>
+    <card qty="3" id="94ef148f-62f7-4659-8a49-9c42b9ed7cef">Haunted Keep</card>
+    <card qty="2" id="46affe37-a561-4c15-bc0e-7c36d78ba056">Deadmen's Gate</card>
+    <card qty="2" id="1c240b63-841f-4b76-9808-13c0ee0f986e">Unnatural Fog</card>
+    <card qty="1" id="e3d50fbb-2b94-481a-a1e5-7925ca8384ff">The Shadow World</card>
+    <card qty="2" id="aa6914e2-4b79-4a95-ab3e-386d6a924bee">Dead Lord</card>
+    <card qty="5" id="21fec323-3155-4b64-8506-fa87d44f01fc">Cursed Dead</card>
+    <card qty="2" id="123bc772-2c27-4f26-a7f2-a3c4928a9dc4">Restless Evil</card>
+    <card qty="1" id="7295a9fb-961f-42ad-b07d-33793e2f2274">Seal the Tomb</card>
+    <card qty="3" id="d664e3bd-3f0d-47d8-91bb-d61b27a13c22">Terror of the North</card>
+    <card qty="2" id="f8d69554-7cc1-4adc-b021-b6d3601e777d">Dark Sorcery</card>
+    <card qty="3" id="a6ea339d-aec3-4ec7-9374-c1442385c260">Heavy Curse</card>
+    <card qty="1" id="c3e07d8f-3af3-4f21-8951-d3300ca376fa">The Power of Angmar</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="f7f5ca4e-42db-48f9-b4a5-efe419f53fa3">Iârion</card>
+    <card qty="1" id="530e7365-0a5a-46e5-9720-5377dfa1a01b">Thaurdir</card>
+    <card qty="1" id="5a90429e-d5cf-442f-b8d8-af144b3ea861">Fornost Square</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

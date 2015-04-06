@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="be3ca12f-2550-48b4-9384-e71a1b401d4e">Stop the War Party</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="f9d0fb76-13bc-44f9-853f-8d2e417d0098">Chetwood Forest</card>
+    <card qty="2" id="528afc17-e78f-4b02-8080-e936955a77b9">Borders of Bree-land</card>
+    <card qty="2" id="c3c34a86-6089-4a3f-b1b6-f81d8cbc2caa">Outlying Homestead</card>
+    <card qty="2" id="cbbcf9d4-f9d8-448a-9454-3e36c493a31e">Surprising Speed</card>
+    <card qty="1" id="85eb724c-a258-4d94-83ba-5e9f21d82491">Orc Rearguard</card>
+    <card qty="1" id="9497ef98-8f38-4647-bf77-28d8007a911a">Rescue Iârion</card>
+    <card qty="3" id="9d5d2136-f1e7-40fd-9a0f-fbac3c87f8f6">Angmar Orc</card>
+    <card qty="2" id="b2fcd022-5409-4a2f-9775-390d2c3ce7d2">Angmar Marauder</card>
+    <card qty="1" id="cc13ea34-ab19-474e-afe5-29c8651126d0">Angmar Captain</card>
+    <card qty="1" id="e347f103-7444-4681-ae57-49c7b84dd3c0">Orc Ambush</card>
+    <card qty="3" id="25aec3b5-3221-411c-83a0-b3ceed2b5c06">Rugged Country</card>
+    <card qty="1" id="e2763cc3-019b-4397-b6f8-f647bf3fdf43">Shrouded Hills</card>
+    <card qty="1" id="fd2014e3-43df-4378-9c67-61f99353f87f">Pressing Needs</card>
+    <card qty="1" id="7d2b321b-d4e6-4dd4-a124-028c772592ee">Weight of Responsibility</card>
+    <card qty="1" id="efcd8672-26f1-4c32-b6ef-5a06f80e406a">Lost in the Wilderness</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="f7f5ca4e-42db-48f9-b4a5-efe419f53fa3">Iârion</card>
+    <card qty="1" id="e542f4f9-420f-40eb-8c95-d648f2589511">Orc War Party</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

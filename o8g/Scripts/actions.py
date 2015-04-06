@@ -971,8 +971,8 @@ def nextQuestStage(group=None, x=0, y=0):
 	if x == 0 and y == 0: #The keyboard shortcut was used
 		#Count quest cards already on table to work out where to put this one
 		n, count = questCount(table)
-		x = QuestStartX + 65*(count // 2 + n)
-		y = QuestStartY + 46*(count % 2)	
+		x = QuestStartX + 89*(count // 2 + n)
+		y = QuestStartY + 64*(count % 2)	
 			
 	card = group.top()
 	card.moveToTable(x, y)
@@ -985,14 +985,14 @@ def nextQuestStage(group=None, x=0, y=0):
 		#Reveal and place the real quest card
 		if len(group) > 0:
 			card = group[0]
-			card.moveToTable(x+65, y)
+			card.moveToTable(x+89, y)
 	
 	questSetup(card)
 	notify("{} advances quest to '{}'".format(me, card))
 
 def addToTable(card):
 	x = QuestStartX - 80
-	y = -133
+	y = -96
 	blocked = cardHere(x, y, False)
 	while blocked is not None:
 		x += 16
@@ -1223,7 +1223,7 @@ def flipcard(card, x = 0, y = 0):
 def makeActive(card, x=0, y=0):
 	mute()
 	if card.Type != "Location": return
-	card.moveToTable(257, -244)
+	card.moveToTable(252, -229)
 		
 def addResource(card, x = 0, y = 0):
     addToken(card, Resource)

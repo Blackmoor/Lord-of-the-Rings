@@ -38,7 +38,7 @@
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Tactics"/>
-    <property name="Keywords" value="Mount"/>
+    <property name="Traits" value="Mount."/>
     <property name="Cost" value="2"/>
     <property name="Text" value="Attach to a Ï or Rohan hero. Restricted.  &#10;  &#10; Attached hero gets +1 Û (+2 Û instead if attached hero is Éomer).  &#10;  &#10; Response: After attached hero attacks alone, exhaust Firefoot to choose a non-unique enemy engaged with you. Excess damage dealt by this attack is assigned to the chosen enemy"/>
   </card>
@@ -46,7 +46,7 @@
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
-    <property name="Keywords" value="Doomed X"/>
+    <property name="Keywords" value="Doomed X."/>
     <property name="Cost" value="0"/>
     <property name="Text" value="Response: Cancel X damage just dealt to a hero."/>
   </card>
@@ -74,7 +74,7 @@
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Gondor. Ranger."/>
-    <property name="Keywords" value="Secrecy 2"/>
+    <property name="Keywords" value="Secrecy 2."/>
     <property name="Cost" value="3"/>
     <property name="Willpower" value="1"/>
     <property name="Attack" value="2"/>
