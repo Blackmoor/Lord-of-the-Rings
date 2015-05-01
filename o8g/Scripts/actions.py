@@ -866,6 +866,8 @@ def readyForRefresh(group, x = 0, y = 0):
 		return
 	
 	doRestoreAll(group)
+	me.counters['Threat_Level'].value += 1
+	notify("{} increases threat to {}.".format(me, me.counters['Threat_Level'].value))
 	
 def doRestoreAll(group=table): 
 	mute()
