@@ -12,7 +12,6 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
-    <property name="Text" value="The first player gains control of Aragorn. If Aragorn leaves play, the players lose the game. &#10;&#10;Action: Spend 2 resources from Aragorn’s resource pool to ready a hero."/>
   </card>
   <card id="f3d88160-30f2-4b8b-9e83-c42e62851bbc" name="Théoden">
     <property name="Quantity" value="1"/>
@@ -26,7 +25,6 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
-    <property name="Text" value="Lower the cost of the first Rohan ally you play from your hand each round by 1 (to a minimum of 0)."/>
   </card>
   <card id="94f6738a-c946-4415-9b38-0ce3a443fa33" name="Treebeard">
     <property name="Quantity" value="1"/>
@@ -40,7 +38,6 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
-    <property name="Text" value="Action: Deal 1 damage on Treebeard to give him +1 Ò and +1 Û until the end of the phase. (Limit 5 times per phase.)"/>
   </card>
   <card id="6a9ff9c1-64d2-4ed5-a793-9e93e8d605b7" name="Gimli">
     <property name="Quantity" value="3"/>
@@ -54,7 +51,6 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="Response: After an enemy is revealed from the encounter deck, ready Gimli."/>
   </card>
   <card id="9825aa22-f197-4320-972d-e2487197d989" name="Legolas">
     <property name="Quantity" value="3"/>
@@ -68,7 +64,6 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="Response: After Legolas participates in an attack that destroys an enemy, draw 1 card."/>
   </card>
   <card id="f37fc371-5a6e-4a24-85a1-2afef11c6841" name="Quickbeam">
     <property name="Quantity" value="3"/>
@@ -82,7 +77,6 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="Response: After Quickbeam enters play, deal 1 damage to him to ready him."/>
   </card>
   <card id="adc3e6f6-da67-4cc1-9767-8e87dfc91b99" name="Háma">
     <property name="Quantity" value="3"/>
@@ -95,7 +89,6 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Combat Action: Ready Háma. He gets +3 Ú until the end of the phase. At the end of the phase, discard Háma. (Limit once per round.)"/>
   </card>
   <card id="6646bb07-0b44-4051-94a7-39c600b38481" name="Arod">
     <property name="Quantity" value="3"/>
@@ -105,7 +98,6 @@
     <property name="Traits" value="Mount."/>
     <property name="Keywords" value="Attach to a hero or Legolas"/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Response: After attached character participates in an attack that destroys an enemy, exhaust Arod to place 1 progress token on any location."/>
   </card>
   <card id="b86ba0f8-11f9-4694-b421-17b683bd4325" name="Ent Draught">
     <property name="Quantity" value="3"/>
@@ -114,7 +106,6 @@
     <property name="Traits" value="Item. Ent."/>
     <property name="Keywords" value="Play only if you control at least 1 Ent character."/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Attach to a character. Limit 1 per character. Attached character gets +2 hit points."/>
   </card>
   <card id="9fce5e18-37dc-45c2-8398-df8b5018cb54" name="Herugrim">
     <property name="Quantity" value="3"/>
@@ -124,7 +115,6 @@
     <property name="Traits" value="Item. Weapon."/>
     <property name="Keywords" value="Attach to a Rohan hero. Restricted."/>
     <property name="Cost" value="3"/>
-    <property name="Text" value="Reduce the cost to play Herugrim on Théoden by 1. Response: After attached hero is declared as an attacker, exhaust Herugrim to add attached hero's Ò to its Û for this attack."/>
   </card>
   <card id="a17465f5-e6f5-4699-b0d7-79355286a065" name="Entmoot">
     <property name="Quantity" value="3"/>
@@ -133,7 +123,6 @@
     <property name="Traits" value="Ent."/>
     <property name="Keywords" value="Play only if you control at least 1 Ent character."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Action: Search the top 5 cards of your deck for any number of Ent cards and add them to your hand. Shuffle the other cards back into your deck."/>
   </card>
   <card id="f63da56c-6598-4e01-b245-a9fe49f2251a" name="Helm! Helm!">
     <property name="Quantity" value="3"/>
@@ -141,7 +130,6 @@
     <property name="Sphere" value="Spirit"/>
     <property name="Keywords" value="Play only after the resolving enemy attacks step is complete."/>
     <property name="Cost" value="2"/>
-    <property name="Text" value="Combat Action: Exhaust and discard a Rohan ally you control to choose and discard a non-unique enemy engaged with you."/>
   </card>
   <card id="4101f975-3317-43f8-ba60-19785e01959c" name="The Three Hunters">
     <property name="Quantity" value="3"/>
@@ -149,7 +137,6 @@
     <property name="Sphere" value="Fellowship"/>
     <property name="Keywords" value="Play only if you control ☺ Aragorn."/>
     <property name="Cost" value="3"/>
-    <property name="Text" value="Quest Action: Choose 3 heroes committed to the quest. Ready those heroes. Until the end of the round, each of the chosen heroes gets +1 Ò, +1 Û, and +1 Ú."/>
   </card>
   <card id="9f61eee8-cff2-43ad-8f82-7c4efb5ed9b8" name="Shadowfax">
     <property name="Quantity" value="3"/>
@@ -159,7 +146,6 @@
     <property name="Traits" value="Mount. Mearas."/>
     <property name="Keywords" value="Attach to Gandalf."/>
     <property name="Cost" value="3"/>
-    <property name="Text" value="Gandalf gains ranged and sentinel. &#10;&#10;Action: Exhaust Shadowfax to ready Gandalf."/>
   </card>
   <card id="d490e091-b01c-4067-9c60-01f2b41ad6cf" name="Intimidation">
     <property name="Quantity" value="1"/>
@@ -168,7 +154,6 @@
     <property name="Traits" value="Skill."/>
     <property name="Keywords" value="Permanent."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Setup: Attach to a Warrior hero. &#10;&#10;Response: After attached hero is declared as the only attacker against a non-unique enemy, exhaust Intimidation to give that enemy –2 Ú for this attack."/>
     <property name="Setup" value="t"/>
   </card>
   <card id="36ed632c-33be-452c-97a5-17201a5cc381" name="Hands of a Healer">
@@ -178,7 +163,6 @@
     <property name="Traits" value="Skill."/>
     <property name="Keywords" value="Permanent."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Setup: Attach to a Healer hero.&#10;&#10;Action: Exhaust attached hero and Hands of a Healer to heal up to 3 damage from a hero."/>
     <property name="Setup" value="t"/>
   </card>
   <card id="528de9d6-9da4-4ac4-b265-773f70d68102" name="Forewarned">
@@ -188,7 +172,6 @@
     <property name="Traits" value="Skill."/>
     <property name="Keywords" value="Permanent."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Setup: Attach to a Ranger hero.&#10;&#10;Response: After attached hero is declared as a defender against a non-unique enemy, exhaust Forewarned to discard 1 shadow card from that enemy."/>
     <property name="Setup" value="t"/>
   </card>
   <card id="3892b2e4-358c-42af-b5be-2f54d252ea2a" name="Leader of Men">
@@ -198,7 +181,6 @@
     <property name="Traits" value="Skill."/>
     <property name="Keywords" value="Permanent."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Setup: Attach to a Noble hero. &#10;&#10;Response: After attached hero quests successfully, exhaust Leader of Men to add 1 resource to attached hero’s pool."/>
     <property name="Setup" value="t"/>
   </card>
   <card id="1665d088-793c-4350-82f3-e35fd307463d" name="Beyond All Hope">
@@ -208,7 +190,6 @@
     <property name="Traits" value="Favor."/>
     <property name="Keywords" value="Permanent."/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +1 Ò, +1 Û, +1 Ú and cannot have treachery card attachments."/>
     <property name="Setup" value="t"/>
   </card>
   <card id="58001a33-adef-4766-872d-334b2570e167" name="Palantír of Orthanc">
@@ -220,7 +201,6 @@
     <property name="Keywords" value="Attach to ☺ Aragorn."/>
     <property name="Cost" value="0"/>
     <property name="Victory Points" value="5"/>
-    <property name="Text" value="Quest Action: Exhaust Aragorn and Palantír of Orthanc to discard the top card of the encounter deck. If Aragorn’s Ò is greater than the discarded card’s $, you may add Palantír of Orthanc to the victory display and remove it from the campaign pool to choose a player. That player reveals 1 fewer encounter card this phase (to a minimum of 0)."/>
   </card>
   <card id="c7ada690-5aa3-4855-b2c1-35e30336edac" name="Poisoned Counsels">
     <property name="Quantity" value="4"/>
@@ -229,13 +209,11 @@
     <property name="Sphere" value="Burden"/>
     <property name="Traits" value="Corruption."/>
     <property name="Keywords" value="Poisoned Counsels functions like a player card."/>
-    <property name="Text" value="Forced: After you draw this card, discard all other cards in your hand."/>
   </card>
   <card id="1371a0af-e085-42e4-8cd7-a2007da158e1" name="To Isengard!" size="EncounterCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Uruk-hai"/>
     <property name="Type" value="Objective"/>
-    <property name="Text" value="Treat each Captive’s text box as blank. Captive heroes are in play but are not under any player’s control. If there are no Captives in play, the players lose the game.&#10;&#10;Forced: At the end of the refresh phase, increase the pursuit value by 1. Then, if the pursuit value is 30 or greater, the players lose the game."/>
   </card>
   <card id="c0fd82d5-1d87-4120-9b4b-37f81c1b2c9c" name="Uglúk" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -250,7 +228,6 @@
     <property name="Defense" value="1"/>
     <property name="Health" value="6"/>
     <property name="Victory Points" value="5"/>
-    <property name="Text" value="Allies cannot be declared as attackers or defenders against Uglúk."/>
   </card>
   <card id="0cb6d866-50dd-4eb0-a86a-8ed84bfeae0e" name="Grishnákh" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -264,7 +241,6 @@
     <property name="Defense" value="4"/>
     <property name="Health" value="5"/>
     <property name="Victory Points" value="3"/>
-    <property name="Text" value="Forced: After Grishnákh enters play, the first player attaches 1 of the Captives to him. If Grishnákh is defeated, place the attached Captive faceup underneath To Isengard! &#10;&#10;Forced: At the end of the quest phase, deal 1 damage to the attached Captive."/>
   </card>
   <card id="eff34048-3186-4613-b841-0cc29cfd357b" name="Uglúk's Uruk-hai" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -277,7 +253,6 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
-    <property name="Text" value="When Revealed: Either increase the pursuit value by 3, or reveal an additional encounter card."/>
   </card>
   <card id="eb3b5fc0-02a5-4e28-8744-c1e1b4553763" name="The Wold" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -286,7 +261,6 @@
     <property name="Traits" value="Plains. Hills."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="2"/>
-    <property name="Text" value="While The Wold is the active location, it gains: “Response: After The Wold is explored, each player draws 1 card.” &#10;&#10;Travel: Increase the pursuit value by 1."/>
   </card>
   <card id="8bfc0f18-87f6-410b-b3b1-8486ca3627c7" name="Eastemnet" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -295,7 +269,6 @@
     <property name="Traits" value="Plains."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="3"/>
-    <property name="Text" value="While Eastemnet is the active location, it gains: “Response: After Eastemnet is explored, add 1 resource to each hero’s resource pool.” &#10;&#10;Travel: Increase the pursuit value by 1."/>
   </card>
   <card id="0bd34136-ae3d-44aa-b48f-7190c14f4b3b" name="Plains of Rohan" size="EncounterCard">
     <property name="Quantity" value="4"/>
@@ -305,7 +278,6 @@
     <property name="Keywords" value="X is the number of locations in the staging area."/>
     <property name="Threat" value="X"/>
     <property name="Quest Points" value="4"/>
-    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If this attack destroys a character, increase the pursuit value by 1."/>
   </card>
   <card id="8042f7de-6fed-49cf-95be-450f0fae1601" name="Banks of Entwash" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -314,30 +286,23 @@
     <property name="Traits" value="Plains. River."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="5"/>
-    <property name="Text" value="Forced: After any amount of progress is placed on Banks of Entwash, increase the pursuit value by 1."/>
-    <property name="Shadow" value="Shadow: Either increase the pursuit value by 1, or this attack is considered undefended."/>
   </card>
   <card id="0f02460f-4ab8-4060-b520-0f82cbb8ce37" name="Rest by Night?" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Uruk-hai"/>
     <property name="Type" value="Treachery"/>
-    <property name="Text" value="When Revealed: Either immediately end the quest phase and increase the pursuit value by 3, or deal 1 damage to each character committed to the quest. This effect cannot be canceled."/>
   </card>
   <card id="4530258b-c362-4efe-a0c0-92a4f74c75b3" name="Strange Weariness" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Uruk-hai"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Enchantment."/>
-    <property name="Text" value="When Revealed: Each character committed to the quest gets –1 Ò until the end of the round."/>
-    <property name="Shadow" value="Shadow: Attacking enemy makes an additional attack against you after this one."/>
   </card>
   <card id="1fbeb20b-0018-4d18-ab53-66982543b04b" name="Unseen Barrier" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Uruk-hai"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Enchantment."/>
-    <property name="Text" value="When Revealed: The players cannot place more than 3 progress on the current quest this round. (This does not count progress placed on any active location.)"/>
-    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If this attack destroys a character, increase the pursuit value by 1."/>
   </card>
   <card id="c6204e5d-7020-4360-b2ad-7db4edcc7303" name="The Defense of Helm's Deep" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -346,7 +311,6 @@
     <property name="Traits" value="Siege."/>
     <property name="Keywords" value="Add 1 to the total $ in the staging area for each resource token here."/>
     <property name="Victory Points" value="8"/>
-    <property name="Text" value="Forced: At the end of the quest phase, place 1 resource token here. &#10;&#10;If there are 8 resource tokens here, add The Defense of Helm’s Deep to the victory display and advance to stage 5A."/>
   </card>
   <card id="abd919a4-de0d-4f7f-8cc1-787ab31980c9" name="Wild Hillman" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -358,8 +322,6 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="Forced: After Wild Hillman attacks, place 1 progress on the active location."/>
-    <property name="Shadow" value="Shadow: Place 1 progress on the active location. Attacking enemy gets +1 Û for each progress on the active location."/>
   </card>
   <card id="2223ef81-40c3-422d-a593-a861c3af39fc" name="Warrior of Dunland" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -372,7 +334,6 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="5"/>
-    <property name="Text" value="When Revealed: Warrior of Dunland makes an immediate attack against you. &#10;Forced: After Warrior of Dunland attacks and destroys a character, place 3 progress on the active location."/>
   </card>
   <card id="509f3e41-385c-4b84-ad28-7cc2eed8028c" name="Soldier of Isengard" size="EncounterCard">
     <property name="Quantity" value="4"/>
@@ -385,8 +346,6 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="4"/>
-    <property name="Text" value="Forced: After Soldier of Isengard attacks and destroys a character, place 1 progress on the current quest."/>
-    <property name="Shadow" value="Shadow: Exhaust a character you control."/>
   </card>
   <card id="b41e6b34-4d6a-47de-9b07-b039013efbc5" name="The Hornburg" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -395,7 +354,6 @@
     <property name="Traits" value="Helm's Deep."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="3"/>
-    <property name="Text" value="While The Hornburg is the active location, reduce the archery total by 1 for each player in the game.&#10;&#10;Forced: When The Hornburg is explored, assign X damage among characters in play. X is the number of enemies in play."/>
   </card>
   <card id="76506b8b-4bd1-478f-bc04-512f2b1fc13f" name="Deeping Wall" size="EncounterCard">
     <property name="Quantity" value="4"/>
@@ -405,7 +363,6 @@
     <property name="Keywords" value="While Deeping Wall is the active location, each hero gets +1 Ú."/>
     <property name="Threat" value="4"/>
     <property name="Quest Points" value="4"/>
-    <property name="Text" value="Forced: When Deeping Wall is explored, raise each player’s threat by 4."/>
   </card>
   <card id="990e60bb-a627-4758-8230-81b40a57a382" name="Deeping Culvert" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -415,7 +372,6 @@
     <property name="Keywords" value="X is 1 more than the number of allies controlled by the first player."/>
     <property name="Threat" value="X"/>
     <property name="Quest Points" value="2"/>
-    <property name="Text" value="Forced: When Deeping Culvert is explored, each player searches the encounter deck and discard pile for an enemy, reveals it, and adds it to the staging area. Shuffle the encounter deck."/>
   </card>
   <card id="96580016-f869-4375-8937-3fb14dc0e264" name="Postern Door" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -425,7 +381,6 @@
     <property name="Keywords" value="While Postern Door is the active location, each hero gets +1 Û."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="2"/>
-    <property name="Text" value="Forced: When Postern Door is explored, until the end of the round, players cannot declare attacks."/>
   </card>
   <card id="a0e456e0-5681-41fb-bf0c-06b42d4929de" name="Helm's Gate" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -434,35 +389,26 @@
     <property name="Traits" value="Helm's Deep."/>
     <property name="Threat" value="5"/>
     <property name="Quest Points" value="3"/>
-    <property name="Text" value="While Helm’s Gate is the active location, if any player is not engaged with an enemy, the first player reveals an encounter card at the end of each staging step. &#10;&#10;Forced: When Helm’s Gate is explored, each enemy gets –20 engagement cost and +2 Û until the end of the round."/>
   </card>
   <card id="516f4454-d448-4bc3-8af3-665a0d50256d" name="Scaling Ladders" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Helm's Deep"/>
     <property name="Type" value="Treachery"/>
-    <property name="Text" value="Surge.&#10;When Revealed: Attach to the active location. (Counts as a Siege attachment with the text: “Each enemy gets +1 $.”)"/>
-    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If this attack destroys a character, place 1 progress on the current quest."/>
   </card>
   <card id="20e1ee03-f6c4-4b63-a816-4c9660e51eb0" name="Devilry of Saruman" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Helm's Deep"/>
     <property name="Type" value="Treachery"/>
-    <property name="Text" value="When Revealed: Place 3 progress on the current quest (bypassing any active location). Until the end of the round, treat each character’s text box as it was blank (except for Traits)."/>
-    <property name="Shadow" value="Shadow: Attacking enemy gets +2 Û and gains Toughness 2 until the end of the round."/>
   </card>
   <card id="e496a120-ce3f-47f8-9087-d9c156744ac9" name="Reckless Hate" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Helm's Deep"/>
     <property name="Type" value="Treachery"/>
-    <property name="Text" value="Peril.&#10;When Revealed: The enemy in the staging area with the highest Û makes an immediate attack against you. If no attack is made this way, Reckless Hate gains surge."/>
-    <property name="Shadow" value="Shadow: Attacking enemy makes an additional attack against you after this one."/>
   </card>
   <card id="90fe2776-1001-4871-a5ae-679b91992e7e" name="Night Without End" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Helm's Deep"/>
     <property name="Type" value="Treachery"/>
-    <property name="Text" value="Peril. Doomed 2.&#10;When Revealed: Either remove 1 resource token from The Defense of Helm’s Deep, or reveal 2 additional encounter cards."/>
-    <property name="Shadow" value="Shadow: Return attacking enemy to the staging area after this attack."/>
   </card>
   <card id="bb38c7cf-8c76-4b87-b218-5516bc366470" name="Ent of Fangorn" size="EncounterCard">
     <property name="Quantity" value="4"/>
@@ -473,7 +419,6 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="4"/>
-    <property name="Text" value="While Ent of Fangorn is in the staging area, it gains: “Quest Action: Exhaust a hero you control to discard the top card of the encounter deck. If that hero’s Ò is greater than the discarded card’s $, place 1 resource here. Then, if there are 3 resources here, discard them to take control of Ent of Fangorn. Any player may trigger this effect.”"/>
   </card>
   <card id="e22fc95d-9729-40ea-b81c-1432a4a57e41" name="Saruman" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -487,7 +432,6 @@
     <property name="Attack" value="6"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="6"/>
-    <property name="Text" value="Forced: When Saruman is dealt a shadow card with the Wizardry keyword, the defending player resolves its effect as if he is the only player in the game."/>
   </card>
   <card id="7275de5f-3f2f-47e0-a90a-58fc45c3bdcf" name="Saruman's Staff" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -495,7 +439,6 @@
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Artifact. Item. Staff."/>
-    <property name="Text" value="Forced: After a player draws any number of cards, Saruman attacks that player. Deal and resolve 2 shadow cards for this attack. Then, remove 1 damage from Saruman. &#10;&#10;While Saruman has any hit points remaining, the players cannot win the game."/>
   </card>
   <card id="0fc7db5e-c389-4636-8c34-3d1dee3508ce" name="Gríma" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -508,8 +451,6 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="Doomed 2.&#10;Forced: After Grima attacks a player, that player shuffles Gríma back into the encounter deck and reveals an encounter card."/>
-    <property name="Shadow" value="Shadow: This attack is considered undefended."/>
   </card>
   <card id="44ca3879-246e-43c7-aa97-798be8dd193f" name="Lieutenant of Orthanc" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -521,7 +462,6 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
-    <property name="Text" value="Forced: After Lieutenant of Orthanc attacks and destroys a character, that character’s controller discards 1 random card from his hand."/>
   </card>
   <card id="0c6923ad-efbd-46b0-b5fc-93f90334ecf5" name="Isengard Orc" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -533,8 +473,6 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="Peril. Archery 1.&#10;When Revealed: Either discard 1 random card from your hand, or reveal an encounter card."/>
-    <property name="Shadow" value="Shadow: Until the end of the round, attacking enemy gets +2 Ú."/>
   </card>
   <card id="fc2ed0de-aba1-49ad-94b3-94024116eeeb" name="Wolf of Isengard" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -546,8 +484,6 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="4"/>
-    <property name="Text" value="Forced: When Wolf of Isengard is dealt a shadow card with the Wizardry keyword, either discard 1 card from your hand, or Wolf of Isengard makes an additional attack against you after this one."/>
-    <property name="Shadow" value="Shadow: Deal 1 damage to defending character."/>
   </card>
   <card id="9eb0298a-cb92-426d-87c6-37749aaae44b" name="Orthanc" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -558,7 +494,6 @@
     <property name="Keywords" value="Immune to player card effects."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="1"/>
-    <property name="Text" value="While Orthanc is in the staging area, it gains: “Forced: After the players quest successfully, the first player looks at the top 3 cards of the encounter deck, reveals 1, and discards the others.”"/>
   </card>
   <card id="27299002-f9b0-4f9d-a87b-012a6a6993ca" name="Gates of Isengard" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -569,7 +504,6 @@
     <property name="Keywords" value="Immune to player card effects."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="1"/>
-    <property name="Text" value="Forced: When Gates of Isengard is explored, each player searches the encounter deck and discard pile for an enemy and puts it into play engaged with him. Shuffle the encounter deck."/>
   </card>
   <card id="f810a9d2-b2c2-49fd-966a-7bf9f0827030" name="Ring-wall of Isengard" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -578,7 +512,6 @@
     <property name="Traits" value="Isengard."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="2"/>
-    <property name="Text" value="While Ring-wall of Isengard is in the staging area, it gains: “Forced: After any amount of damage is healed from a character, its owner discards 1 card from his hand.” &#10;&#10;Wizardry: Each player discards 1 random card from his hand."/>
   </card>
   <card id="ef990329-db00-441a-8c7d-8b464321f093" name="Underground Armoury" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -587,7 +520,6 @@
     <property name="Traits" value="Isengard."/>
     <property name="Threat" value="4"/>
     <property name="Quest Points" value="3"/>
-    <property name="Text" value="While Underground Armoury is in the staging area, it gains: “Forced: After an enemy engages a player, deal it a shadow card.” &#10;&#10;Wizardry: Each player exhausts a character he controls."/>
   </card>
   <card id="8ab1b53d-df75-487e-9351-60690fba1df5" name="Steaming Vent" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -596,7 +528,6 @@
     <property name="Traits" value="Isengard."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="4"/>
-    <property name="Text" value="While Steaming Vent is in the staging area, it gains: “Forced: After a player commits characters to the quest, he deals 1 damage to a questing character he controls.” &#10;&#10;Wizardry: Assign X damage among characters in play. X is 1 more than the number of players in the game."/>
   </card>
   <card id="d30fcccc-2f1a-43bb-8bc4-ce0fccdd4a0f" name="Plain of Isengard" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -606,7 +537,6 @@
     <property name="Keywords" value="X is the number of players in the game."/>
     <property name="Threat" value="X"/>
     <property name="Quest Points" value="3"/>
-    <property name="Text" value="While Plain of Isengard is in the staging area, archery damage must be assigned to allies, if able. &#10;&#10;Wizardry: Each player discards 1 ally he controls."/>
   </card>
   <card id="d1cc0af9-7ab3-449b-baa2-da0bfdf6c987" name="Open Pit" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -615,28 +545,21 @@
     <property name="Traits" value="Isengard."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="3"/>
-    <property name="Text" value="While Open Pit is in the staging area, it gains: “Forced: After a player draws any number of cards from a player card effect, he raises his threat by 2.”&#10;&#10;Wizardry: Each player raises his threat by 2."/>
   </card>
   <card id="59c6b564-b927-481f-b505-ca9b1fe4f524" name="Blast of Sorcery" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Road to Isengard"/>
     <property name="Type" value="Treachery"/>
-    <property name="Text" value="When Revealed: Assign X damage among characters committed to the quest. X is 1 more than the number of players in the game."/>
-    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if the defending player has 1 or fewer cards in his hand)."/>
   </card>
   <card id="dfd0e951-2ba4-45c5-bed9-24caf8ae868f" name="Poisoned Vapour" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Road to Isengard"/>
     <property name="Type" value="Treachery"/>
-    <property name="Text" value="Surge.&#10;When Revealed: Exhaust each damaged character. Until the end of the combat phase, treat each damaged character’s text box as if was blank."/>
-    <property name="Shadow" value="Shadow: Discard a non-objective attachment you control."/>
   </card>
   <card id="a44d6ee9-79a6-4e55-ab8a-a165c4dbb882" name="Machines of Isengard" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Road to Isengard"/>
     <property name="Type" value="Treachery"/>
-    <property name="Text" value="When Revealed: Trigger the Wizardry effect on the active location. If no Wizardry effect is triggered this way, Machines of Isengard gains surge."/>
-    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If this attack destroys a character, discard 1 random card from your hand."/>
   </card>
   <card id="fed61900-b526-41e6-b072-9c5eae29bc77" name="Isengard Uruk" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -649,7 +572,6 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="4"/>
-    <property name="Text" value="When Revealed: Either assign 3 damage among characters you control, or reveal an additional encounter card."/>
   </card>
   <card id="8345c4ad-4c5e-484d-bc6f-d1e4bc27805f" name="Uruk-hai Fighter" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -662,15 +584,12 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="Forced: After Uruk-hai Fighter attacks and destroys a character, return it to the staging area."/>
-    <property name="Shadow" value="Shadow: Discard a non-objective attachment you control."/>
   </card>
   <card id="f28dc579-14b5-4623-848a-0a9383162b4c" name="Fighting Uruk-hai" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Orcs of the White Hand"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Peril."/>
-    <property name="Text" value="When Revealed: Search the encounter deck and discard pile for an Uruk-hai enemy, reveal it, and put it into play engaged with you. Shuffle the encounter deck. Until the end of the round, each enemy engaged with you adds its $ to the total $ in the staging area."/>
   </card>
   <card id="c6adadf8-569a-4943-817b-44bf1418e07e" name="Snaga" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -683,14 +602,11 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="When Revealed: Discard 1 random card from your hand. Snaga gets +X $ until the end of the round, where X is the discarded card’s cost."/>
   </card>
   <card id="c5d9d3c6-9321-4909-918d-2b81d7aa296d" name="Saruman's Orders" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Snaga Orcs"/>
     <property name="Type" value="Treachery"/>
-    <property name="Text" value="When Revealed: Each player must choose: either return an enemy engaged with him to the staging area, or reveal an encounter card."/>
-    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If this attack destroys a character, return attacking enemy to the staging area."/>
   </card>
   <card id="ae2c5145-f34a-4367-bd41-1e5e7749fb68" name="Saruman's Voice" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -698,7 +614,6 @@
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Enchantment."/>
     <property name="Keywords" value="Peril. Doomed 2."/>
-    <property name="Text" value="When Revealed: Remove a hero from the quest and attach Saruman’s Voice to that hero. (Counts as a Condition attachment with the text: “Forced: When attached hero commits to the quest, is declared as an attacker or defender, or triggers its ability, its controller must discard 1 card from his hand.”)"/>
   </card>
   <card id="769838b7-51c6-4a7e-8f10-c39524b3a9c5" name="Follow the Orcs" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -706,7 +621,6 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="Setup: Make Eastemnet the active location. Add Uglúk and To Isengard! to the staging area. Each player chooses 1 non-☺ hero he controls to be a Captive and places it faceup underneath To Isengard! Set the pursuit value to 10."/>
     <property name="Setup" value="lss"/>
     <alternate name="Follow the Orcs" type="B">
       <property name="Encounter Set" value="The Uruk-hai"/>
@@ -714,7 +628,6 @@
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="X"/>
-      <property name="Text" value="X is the pursuit value.&#10;&#10;Uglúk cannot leave the staging area or take damage.&#10;&#10;Forced: At the end of the combat phase, increase the pursuit value by 1 for each enemy in the staging area."/>
     </alternate>
   </card>
   <card id="080f86b2-8cea-4134-8e79-de6312b51ed6" name="Rescue the Captives" size="QuestCard">
@@ -723,14 +636,12 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="When Revealed: Each player searches the encounter deck and discard pile for an Uruk-hai enemy, reveals it, and adds it to the staging area. Shuffle the encounter deck."/>
     <alternate name="Rescue the Captives" type="B">
       <property name="Encounter Set" value="The Uruk-hai"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="X"/>
-      <property name="Text" value="X is the pursuit value.&#10;&#10;Response: After an enemy is defeated, reduce the pursuit value by 1.&#10;&#10;The players cannot defeat this stage while Uglúk is in play. If the players defeat this stage, they have rescued each Captive hero and won the game."/>
     </alternate>
   </card>
   <card id="a54706fb-776c-4c00-b0ef-454b21673bcb" name="The Uruk-hai">
@@ -738,12 +649,10 @@
     <property name="Encounter Set" value="The Lord of the Rings Part 7"/>
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
-    <property name="Text" value="Setup: Remove Gildor Inglorion and Mr. Underhill&#10;from the Campaign Pool. Remove each burden&#10;with the following burden set icons from the&#10;encounter deck: (Shadow of the Past, Flight to the Ford, The Ring Goes South)"/>
     <property name="Setup" value="----"/>
     <alternate name="The Uruk-hai" type="B">
       <property name="Encounter Set" value="The Lord of the Rings Part 7"/>
       <property name="Type" value="Campaign"/>
-      <property name="Text" value="Resolution: If the pursuit value is 25 or lower, the players must choose: either each player earns one of the Skill boons (Intimidation, Hands of a Healer, Forewarned, or Leader of Men) and attaches it to a hero he controls, or one player earns the boon, Beyond All Hope, and chooses a hero from the list of fallen heroes. That player takes control of the chosen hero (removing it from the list of fallen heroes) and attaches Beyond all Hope to it. If a player controls more than 3 non-☺ heroes, he must remove heroes from the Campaign Log until he controls only 3 heroes. Changing heroes as a result of earning Beyond All Hope does not incur a +1 threat penalty. Add the earned cards to the Campaign Pool."/>
     </alternate>
   </card>
   <card id="9550172a-c624-40fd-b654-f2430ed93df1" name="The King of the Golden Hall" size="QuestCard">
@@ -752,7 +661,6 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="Setup: Set The Defense of Helm’s Deep and 1 copy of Deeping Wall aside, out of play. Each player sets 1 copy of Soldier of Isengard aside, out of play. Then, the players must choose: either each player shuffles 1 copy of Poisoned Counsels into his deck, or advance to stage 2A (bypassing stage 1B)."/>
     <property name="Setup" value="tttttttttt"/>
     <alternate name="The King of the Golden Hall" type="B">
       <property name="Encounter Set" value="Helm's Deep"/>
@@ -760,7 +668,6 @@
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="–"/>
-      <property name="Text" value="When Revealed: Each player chooses 1 ally in his hand that matches the sphere of a hero he controls and puts it into play under his control.&#10;&#10;Skip the quest phase and combat phase.&#10;&#10;Forced: At the end of the round, advance to stage 2A."/>
     </alternate>
   </card>
   <card id="8f5cdb72-aeae-49f7-bcc8-a2288b6bfb95" name="Assault on Helm's Deep" size="QuestCard">
@@ -769,14 +676,12 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="When Revealed: Add The Defense of Helm’s Deep and each set aside copy of Soldier of Isengard to the staging area. Make Deeping Wall the active location. Shuffle the encounter deck. Then, each player reveals 1 encounter card."/>
     <alternate name="Assault on Helm's Deep" type="B">
       <property name="Encounter Set" value="Helm's Deep"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
-      <property name="Text" value="Defense. &#10;Forced: At the end of the combat phase, if the number of enemies in the staging area is less than the number of players in the game, the first player reveals an encounter card.&#10;&#10;Forced: At the end of the round place 1 progress here for each enemy in the staging area (bypassing any active location)."/>
     </alternate>
   </card>
   <card id="7e20690f-d1bb-4ac3-b2bf-da55f1f95bcc" name="The Hosts of Isengard" size="QuestCard">
@@ -785,14 +690,12 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="When Revealed: Search the encounter deck, discard pile, and victory display for Helm’s Gate and add it to the staging area. Shuffle the encounter deck. Make Helm’s Gate the active location, returning any previous active location to the staging area."/>
     <alternate name="The Hosts of Isengard" type="B">
       <property name="Encounter Set" value="Helm's Deep"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
-      <property name="Text" value="Defense.&#10;&#10;Forced: After resolving the quest, if the encounter deck did not place at least 1 progress on this stage as the result of questing, the first player reveals 1 encounter card."/>
     </alternate>
   </card>
   <card id="abc54411-1805-4ef4-8c47-517ffe72312e" name="The Wall is Breached!" size="QuestCard">
@@ -801,14 +704,12 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="4"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="When Revealed: Shuffle the encounter discard pile into the encounter deck. Discard cards from the encounter deck until X enemies are discarded. X is the number of players. Add each enemy discarded this way to the staging area."/>
     <alternate name="The Wall is Breached!" type="B">
       <property name="Encounter Set" value="Helm's Deep"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="4"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="8"/>
-      <property name="Text" value="Defense. &#10;Forced: After a character is destroyed, place 1 progress on this stage (bypassing any active location). &#10;&#10;If this stage is defeated, the players lose the game."/>
     </alternate>
   </card>
   <card id="6950e7ae-27be-4def-954c-8dabe8dd612b" name="The King Rides Out" size="QuestCard">
@@ -817,14 +718,12 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="5"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="When Revealed: Shuffle the encounter discard pile into the encounter deck. Discard cards from the encounter deck until X enemies are discarded. X is the number of players. Add each enemy discarded this way to the staging area."/>
     <alternate name="The King Rides Out" type="B">
       <property name="Encounter Set" value="Helm's Deep"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="5"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="–"/>
-      <property name="Text" value="Skip the quest phase. Players cannot reduce their threat.&#10;&#10;If there are no enemies in play, the players win the game."/>
     </alternate>
   </card>
   <card id="cf5fad0e-e1c3-4340-a467-567ff0611c6f" name="Helm's Deep">
@@ -832,12 +731,10 @@
     <property name="Encounter Set" value="The Lord of the Rings Part 8"/>
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
-    <property name="Text" value="Setup: Each player may change hero cards without incurring the +1 threat penalty. Remove each burden with the following burden set icons from the encounter deck: (Shadow of the Past, Flight to the Ford, The Ring Goes South)"/>
     <property name="Setup" value="-----------"/>
     <alternate name="Helm's Deep" type="B">
       <property name="Encounter Set" value="The Lord of the Rings Part 8"/>
       <property name="Type" value="Campaign"/>
-      <property name="Text" value="Resolution: Each player with a copy of Poisoned Counsels in his hand, deck or discard pile has earned that burden. Add the earned cards to the campaign pool."/>
     </alternate>
   </card>
   <card id="7cae1eb0-8693-4eb8-b5f0-86a35a271410" name="Rouse the Ents" size="QuestCard">
@@ -846,7 +743,6 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="Setup: Set Gates of Isengard, Orthanc, Saruman, and Saruman’s Staff aside, out of play. Add each copy of Ent of Fangorn to the staging area. Shuffle the encounter deck."/>
     <property name="Setup" value="ttttssss"/>
     <alternate name="Rouse the Ents" type="B">
       <property name="Encounter Set" value="The Road to Isengard"/>
@@ -854,7 +750,6 @@
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="–"/>
-      <property name="Text" value="Players cannot draw cards or gain resources. Do not commit characters to the quest or reveal encounter cards during the quest phase. &#10;Forced: At the end of the round, place 1 resource here. Then, the players may advance to stage 2. If the players advance, the first player shuffles the encounter discard pile into the encounter deck and reveals 1 encounter card for each resource here. Then, remove each Ent objective in the staging area from the game."/>
     </alternate>
   </card>
   <card id="9cb47ff2-5dff-404f-8fed-6ec0b6478ded" name="Breaking Isengard" size="QuestCard">
@@ -863,14 +758,12 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="When Revealed: Make Gates of Isengard the active location. Add Saruman and Orthanc to the staging area."/>
     <alternate name="Breaking Isengard" type="B">
       <property name="Encounter Set" value="The Road to Isengard"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="–"/>
-      <property name="Text" value="The players cannot travel to Orthanc. &#10;&#10;Forced: After a non-unique location is explored, place 1 damage here. Then, if there are 5 damage tokens here, advance to stage 3A. &#10;&#10;Quest Action: Exhaust Ent of Fangorn to place 2 progress on a non-unique location."/>
     </alternate>
   </card>
   <card id="196d6c69-845a-494d-a49d-54d3dc6c1b4b" name="The Voice of Saruman" size="QuestCard">
@@ -879,14 +772,12 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="When Revealed: Each player draws 6 cards. Each player with more than 6 cards in his hand discards cards from his hand until he has only 6. Attach Saruman’s Staff to Saruman."/>
     <alternate name="The Voice of Saruman" type="B">
       <property name="Encounter Set" value="The Road to Isengard"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
-      <property name="Text" value="While Orthanc is the active location, Saruman is considered to be engaged with the first player. &#10;Forced: When Orthanc is explored, cancel any progress placed on the quest this phase and return Orthanc to the staging area.&#10;&#10;If a player has 0 cards in his hand, he is eliminated from the game. If the players defeat this stage, they win the game."/>
     </alternate>
   </card>
   <card id="cb2d88e5-d469-43c6-9d69-e0cf36e2862e" name="The Road to Isengard">
@@ -894,12 +785,10 @@
     <property name="Encounter Set" value="The Lord of the Rings Part 9"/>
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
-    <property name="Text" value="Setup: Shuffle Saruman’s Voice into the encounter deck. Remove each burden with these burden set icons from the encounter deck: (Shadow of the Past, Flight to the Ford, The Ring Goes South)"/>
     <property name="Setup" value="---------"/>
     <alternate name="The Road to Isengard" type="B">
       <property name="Encounter Set" value="The Lord of the Rings Part 9"/>
       <property name="Type" value="Campaign"/>
-      <property name="Text" value="Resolution: If any player has 3 or fewer cards in his hand, the players have earned the Saruman’s Voice burden card. If any player has 3 or more cards in his hand, the players have earned the Palantír of Orthanc boon card. Add the earned cards to the Campaign Pool."/>
     </alternate>
   </card>
  </cards>
