@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="a54706fb-776c-4c00-b0ef-454b21673bcb">The Uruk-hai</card>
+    <card qty="1" id="769838b7-51c6-4a7e-8f10-c39524b3a9c5">Follow the Orcs</card>
+    <card qty="1" id="080f86b2-8cea-4134-8e79-de6312b51ed6">Rescue the Captives</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="eff34048-3186-4613-b841-0cc29cfd357b">Uglúk's Uruk-hai</card>
+    <card qty="3" id="eb3b5fc0-02a5-4e28-8744-c1e1b4553763">The Wold</card>
+    <card qty="2" id="8bfc0f18-87f6-410b-b3b1-8486ca3627c7">Eastemnet</card>
+    <card qty="3" id="0bd34136-ae3d-44aa-b48f-7190c14f4b3b">Plains of Rohan</card>
+    <card qty="2" id="8042f7de-6fed-49cf-95be-450f0fae1601">Banks of Entwash</card>
+    <card qty="2" id="0f02460f-4ab8-4060-b520-0f82cbb8ce37">Rest by Night?</card>
+    <card qty="1" id="4530258b-c362-4efe-a0c0-92a4f74c75b3">Strange Weariness</card>
+    <card qty="2" id="1fbeb20b-0018-4d18-ab53-66982543b04b">Unseen Barrier</card>
+    <card qty="2" id="fed61900-b526-41e6-b072-9c5eae29bc77">Isengard Uruk</card>
+    <card qty="3" id="8345c4ad-4c5e-484d-bc6f-d1e4bc27805f">Uruk-hai Fighter</card>
+    <card qty="1" id="f28dc579-14b5-4623-848a-0a9383162b4c">Fighting Uruk-hai</card>
+    <card qty="2" id="c6adadf8-569a-4943-817b-44bf1418e07e">Snaga</card>
+    <card qty="1" id="c5d9d3c6-9321-4909-918d-2b81d7aa296d">Saruman's Orders</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="8bfc0f18-87f6-410b-b3b1-8486ca3627c7">Eastemnet</card>
+    <card qty="1" id="1371a0af-e085-42e4-8cd7-a2007da158e1">To Isengard!</card>
+    <card qty="1" id="c0fd82d5-1d87-4120-9b4b-37f81c1b2c9c">Uglúk</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

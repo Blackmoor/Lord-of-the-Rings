@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="cb2d88e5-d469-43c6-9d69-e0cf36e2862e">The Road to Isengard</card>
+    <card qty="1" id="7cae1eb0-8693-4eb8-b5f0-86a35a271410">Rouse the Ents</card>
+    <card qty="1" id="9cb47ff2-5dff-404f-8fed-6ec0b6478ded">Breaking Isengard</card>
+    <card qty="1" id="196d6c69-845a-494d-a49d-54d3dc6c1b4b">The Voice of Saruman</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="1" id="0fc7db5e-c389-4636-8c34-3d1dee3508ce">Gríma</card>
+    <card qty="2" id="44ca3879-246e-43c7-aa97-798be8dd193f">Lieutenant of Orthanc</card>
+    <card qty="2" id="0c6923ad-efbd-46b0-b5fc-93f90334ecf5">Isengard Orc</card>
+    <card qty="2" id="fc2ed0de-aba1-49ad-94b3-94024116eeeb">Wolf of Isengard</card>
+    <card qty="3" id="f810a9d2-b2c2-49fd-966a-7bf9f0827030">Ring-wall of Isengard</card>
+    <card qty="2" id="ef990329-db00-441a-8c7d-8b464321f093">Underground Armoury</card>
+    <card qty="3" id="8ab1b53d-df75-487e-9351-60690fba1df5">Steaming Vent</card>
+    <card qty="2" id="d30fcccc-2f1a-43bb-8bc4-ce0fccdd4a0f">Plain of Isengard</card>
+    <card qty="2" id="d1cc0af9-7ab3-449b-baa2-da0bfdf6c987">Open Pit</card>
+    <card qty="3" id="59c6b564-b927-481f-b505-ca9b1fe4f524">Blast of Sorcery</card>
+    <card qty="2" id="dfd0e951-2ba4-45c5-bed9-24caf8ae868f">Poisoned Vapour</card>
+    <card qty="3" id="a44d6ee9-79a6-4e55-ab8a-a165c4dbb882">Machines of Isengard</card>
+    <card qty="3" id="c6adadf8-569a-4943-817b-44bf1418e07e">Snaga</card>
+    <card qty="2" id="c5d9d3c6-9321-4909-918d-2b81d7aa296d">Saruman's Orders</card>
+    <card qty="1" id="ae2c5145-f34a-4367-bd41-1e5e7749fb68">Saruman's Voice</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="27299002-f9b0-4f9d-a87b-012a6a6993ca">Gates of Isengard</card>
+    <card qty="1" id="9eb0298a-cb92-426d-87c6-37749aaae44b">Orthanc</card>
+    <card qty="1" id="e22fc95d-9729-40ea-b81c-1432a4a57e41">Saruman</card>
+    <card qty="1" id="7275de5f-3f2f-47e0-a90a-58fc45c3bdcf">Saruman's Staff</card>
+    <card qty="4" id="bb38c7cf-8c76-4b87-b218-5516bc366470">Ent of Fangorn</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

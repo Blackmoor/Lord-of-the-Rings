@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="cf5fad0e-e1c3-4340-a467-567ff0611c6f">Helm's Deep</card>
+    <card qty="1" id="9550172a-c624-40fd-b654-f2430ed93df1">The King of the Golden Hall</card>
+    <card qty="1" id="8f5cdb72-aeae-49f7-bcc8-a2288b6bfb95">Assault on Helm's Deep</card>
+    <card qty="1" id="7e20690f-d1bb-4ac3-b2bf-da55f1f95bcc">The Hosts of Isengard</card>
+    <card qty="1" id="abc54411-1805-4ef4-8c47-517ffe72312e">The Wall is Breached!</card>
+    <card qty="1" id="6950e7ae-27be-4def-954c-8dabe8dd612b">The King Rides Out</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="abd919a4-de0d-4f7f-8cc1-787ab31980c9">Wild Hillman</card>
+    <card qty="2" id="2223ef81-40c3-422d-a593-a861c3af39fc">Warrior of Dunland</card>
+    <card qty="3" id="b41e6b34-4d6a-47de-9b07-b039013efbc5">The Hornburg</card>
+    <card qty="3" id="76506b8b-4bd1-478f-bc04-512f2b1fc13f">Deeping Wall</card>
+    <card qty="2" id="990e60bb-a627-4758-8230-81b40a57a382">Deeping Culvert</card>
+    <card qty="2" id="96580016-f869-4375-8937-3fb14dc0e264">Postern Door</card>
+    <card qty="2" id="a0e456e0-5681-41fb-bf0c-06b42d4929de">Helm's Gate</card>
+    <card qty="3" id="516f4454-d448-4bc3-8af3-665a0d50256d">Scaling Ladders</card>
+    <card qty="3" id="20e1ee03-f6c4-4b63-a816-4c9660e51eb0">Devilry of Saruman</card>
+    <card qty="2" id="e496a120-ce3f-47f8-9087-d9c156744ac9">Reckless Hate</card>
+    <card qty="2" id="90fe2776-1001-4871-a5ae-679b91992e7e">Night Without End</card>
+    <card qty="3" id="fed61900-b526-41e6-b072-9c5eae29bc77">Isengard Uruk</card>
+    <card qty="3" id="8345c4ad-4c5e-484d-bc6f-d1e4bc27805f">Uruk-hai Fighter</card>
+    <card qty="2" id="f28dc579-14b5-4623-848a-0a9383162b4c">Fighting Uruk-hai</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="c6204e5d-7020-4360-b2ad-7db4edcc7303">The Defense of Helm's Deep</card>
+    <card qty="1" id="76506b8b-4bd1-478f-bc04-512f2b1fc13f">Deeping Wall</card>
+    <card qty="4" id="509f3e41-385c-4b84-ad28-7cc2eed8028c">Soldier of Isengard</card>
+    <card qty="4" id="c7ada690-5aa3-4855-b2c1-35e30336edac">Poisoned Counsels</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

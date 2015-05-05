@@ -8,23 +8,26 @@
   </section>
   <section name="Encounter" shared="True">
     <card qty="4" id="aca1ee7f-ad29-4218-8dd5-f7f7a8e617fe">Morgul Bodyguard</card>
-    <card qty="2" id="c12057ee-64d0-419a-adb8-17632e3182b0">Morgul Sorcerer</card>
-    <card qty="3" id="6987d363-bcba-4f34-97b1-d26f080c843e">Morgul Tracker</card>
-    <card qty="3" id="3e0e63ba-d11b-4c8a-aab6-047f19013ca7">Morgul Road</card>
+    <card qty="1" id="6987d363-bcba-4f34-97b1-d26f080c843e">Morgul Tracker</card>
     <card qty="2" id="e176b4d7-2fae-4025-8a71-5c3bc843e2e1">Morgul Vale</card>
     <card qty="2" id="418e1e02-52fe-4aef-b543-3875837dd38a">Impenetrable Fog</card>
     <card qty="2" id="46c7bfd7-96b7-4fe4-a110-3464ba6c0023">Sleepless Malice</card>
     <card qty="3" id="08af0240-fb38-4a33-a1f0-af07fd496b42">Terror Drives Them</card>
     <card qty="2" id="8ac2d3ea-7e6d-4e9e-9cc5-70b65b24b835">The Dead City Looms</card>
-    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9017">Forest Bat</card>
     <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9058">Morgul Spider</card>
-    <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9086">Watcher in the Wood</card>
+    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9086">Watcher in the Wood</card>
     <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9049">Lieutenant of Mordor</card>
-    <card qty="3" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9061">Orc Arbalesters</card>
     <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9066">Orc Vanguard</card>
     <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9067">Orc War Camp</card>
     <card qty="2" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9083">The Master's Malice</card>
-    <card qty="1" id="4823aae3-46ef-4a75-89f9-cbd3aa1b9084">The Power of Mordor</card>
+    <card qty="3" id="f1112857-2210-4087-b262-5862aed26b68">Warrior of Nurn</card>
+    <card qty="3" id="740357cb-f22e-4888-aed5-ccc67728b69d">Orc Captor</card>
+    <card qty="2" id="b490fe8e-4367-424d-8a5c-bc7b8e1a56a7">Sentry of the White Bridge</card>
+    <card qty="2" id="43375421-21f6-4e77-855c-0d29d145c803">Banks of Morgulduin</card>
+    <card qty="3" id="85ee1e86-178d-40cf-81d3-c86f5a1f2678">Ephel Dúath</card>
+    <card qty="2" id="a1e74757-c5c8-4b81-a01a-6406410f661d">White-flowered Fields</card>
+    <card qty="2" id="56fbff9f-2518-4ea3-918b-caf14a93738d">The Tower Beckons</card>
+    <card qty="2" id="18150bb4-3157-429c-b958-af1210acd4b2">Noxious Fumes</card>
   </section>
   <section name="Setup" shared="True">
     <card qty="1" id="499195c5-389f-4a56-b67e-b6e5b8f2fb91">Lord Alcaron</card>
@@ -38,6 +41,7 @@
   <section name="Ally" shared="False" />
   <section name="Attachment" shared="False" />
   <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
   <section name="Special" shared="True" />
   <notes><![CDATA[]]></notes>
 </deck>

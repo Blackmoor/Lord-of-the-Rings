@@ -1323,7 +1323,12 @@ def dealShadow(who, x, y):
 	deck = encounterDeck()
 	if len(deck) == 0:
 		return
-	sc = deck.top()	
+	sc = deck.top()
+	#if sc.Type != "Side Quest":  #Hopefully just a temp "fix" for landscape shadow cards
+	#	sc.moveToTable(x, y, True)
+	#	sc.orientation = Rot90
+	#else:
+	#	sc.moveToTable(x, y+25, True)
 	sc.moveToTable(x, y, True)
 	sc.orientation = Rot90
 	sc.sendToBack()
