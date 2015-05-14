@@ -419,9 +419,9 @@ def deckLoaded(player, groups):
 			elif p == me.piles['Discard Pile']:
 				card.moveTo(me.deck)
 	update()
-	
-	if automate():			
-		playerSetup(table, 0, 0, isPlayer, isShared)
+	playerSetup(table, 0, 0, isPlayer, isShared)
+	#if automate():			<-----Turning off Automation by default for ScriptVersion updates, but still want playerSetup to run
+	#	playerSetup(table, 0, 0, isPlayer, isShared)
 		
 #Triggered event OnChangeCounter
 def counterChanged(player, counter, oldV): 
@@ -1285,6 +1285,12 @@ def addShadow(card, x=0, y=0):
 	
 	if not card.isFaceUp and card.orientation == Rot90: #This is a shadow card - reveal it
 		card.isFaceUp = True
+		if card.Type == "Side Quest":
+			indx = card.getIndex
+			card.orientation &= ~Rot90
+			shadx, shady = card.position
+			card.moveToTable(shadx, shady+25)
+			card.setIndex(indx)
 		notify("{} reveals shadow card '{}'".format(me, card))
 		return
 
