@@ -376,18 +376,11 @@ def unlockDeck():
 #Triggered event OnGameStart
 def startOfGame(): 
 	unlockDeck()
-	notify("starOfGame function.")
 	setActivePlayer(None)	
 	if me._id == 1:
 		setGlobalVariable("playersSetup", "")
 		setGlobalVariable("game", str(num(getGlobalVariable("game"))+1))
 		notify("Starting Game {}".format(getGlobalVariable("game")))
-
-	#---------------------------------------------------------------------------
-	# NEW
-	#---------------------------------------------------------------------------
-	setGlobalVariable("currentPlayers",str([]))
-
 
 #Triggered event OnLoadDeck
 def deckLoaded(player, groups): 
