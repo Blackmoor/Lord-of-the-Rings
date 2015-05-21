@@ -3,7 +3,7 @@
  <cards>
   <card id="ad5a9087-dd8a-4e29-8709-e56fb7d700ae" name="Abominable Goblin" size="EncounterCard">
     <property name="Quantity" value="5"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc. Wild."/>
     <property name="Engagement Cost" value="20"/>
@@ -16,7 +16,7 @@
   </card>
   <card id="8fde8538-a2dd-4928-8888-7f9d108161fc" name="Atrocious Beast" size="EncounterCard">
     <property name="Quantity" value="5"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature."/>
     <property name="Keywords" value="Surge. Immune to player card effects."/>
@@ -29,7 +29,7 @@
   </card>
   <card id="099a6c28-9aa0-460b-8c3f-ec3185d18e53" name="Dark Wolves" size="EncounterCard">
     <property name="Quantity" value="4"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature."/>
     <property name="Engagement Cost" value="30"/>
@@ -42,7 +42,7 @@
   </card>
   <card id="69c917fd-c522-46e6-b17f-e580aacab24d" name="Dol Guldur Explorers" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc. Goblin."/>
     <property name="Engagement Cost" value="32"/>
@@ -55,7 +55,7 @@
   </card>
   <card id="9e36d968-8aa5-49e0-b64c-e79a537d1128" name="Hunter" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc. Goblin."/>
     <property name="Engagement Cost" value="38"/>
@@ -68,7 +68,7 @@
   </card>
   <card id="90d52b91-a24a-48c1-b3ca-2dbead3d820c" name="Marauder of the Hills" size="EncounterCard">
     <property name="Quantity" value="5"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc. Wild."/>
     <property name="Keywords" value="Archery X. X is the number of allies in play."/>
@@ -82,7 +82,7 @@
   </card>
   <card id="843a1382-404c-45c8-a100-92030a022c24" name="Orc Patrol" size="EncounterCard">
     <property name="Quantity" value="4"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc. Wild."/>
     <property name="Engagement Cost" value="30"/>
@@ -95,7 +95,7 @@
   </card>
   <card id="bd664af6-6e62-48c2-9aea-6ba83bd9a126" name="Ranger Attacker" size="EncounterCard">
     <property name="Quantity" value="5"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc. Wild."/>
     <property name="Keywords" value="Archery X. X is the number of Orc enemies in the staging are."/>
@@ -109,7 +109,7 @@
   </card>
   <card id="5f395791-b627-4f97-913f-dbd102c75628" name="Rock Mercenaries" size="EncounterCard">
     <property name="Quantity" value="5"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc. Wild."/>
     <property name="Engagement Cost" value="30"/>
@@ -122,7 +122,7 @@
   </card>
   <card id="841814ab-f1ee-41ae-b9be-d97276cc887d" name="Seekers of Prey" size="EncounterCard">
     <property name="Quantity" value="5"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc. Wild."/>
     <property name="Keywords" value="Doomed 1."/>
@@ -136,7 +136,7 @@
   </card>
   <card id="23c686f9-ea0a-4815-a3ab-590651ece52a" name="Skilled Fighter" size="EncounterCard">
     <property name="Quantity" value="4"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc. Wild."/>
     <property name="Keywords" value="Skilled Fighter gets -1 Ú for each resource token on him."/>
@@ -150,7 +150,7 @@
   </card>
   <card id="ca872f54-3956-4dbb-b483-d7e94b2b2b79" name="Swift Riders" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc. Goblin."/>
     <property name="Keywords" value="Surge."/>
@@ -164,7 +164,7 @@
   </card>
   <card id="745607e2-c8ca-4759-971c-20130f331eba" name="Abrupt Undergrowth" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Dark Forest."/>
     <property name="Keywords" value="Hunt X. X is double of the number of players in the game."/>
@@ -174,7 +174,7 @@
   </card>
   <card id="eb508cc3-baac-421e-b3fe-33f3cd9e9418" name="Beorning Stream" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Dark Forest."/>
     <property name="Keywords" value="Hunt X. X is the number the first player decides."/>
@@ -184,7 +184,7 @@
   </card>
   <card id="8b91900e-42af-4922-a1f2-bb93af8733e4" name="Cache" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Dark Forest."/>
     <property name="Keywords" value="Hunt X. X is the number of players in the game."/>
@@ -194,7 +194,7 @@
   </card>
   <card id="b02106d2-1854-4437-9a71-ea5669dc6294" name="Carrock Road" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Dark Forest."/>
     <property name="Keywords" value="Hunt X. X is the number of players in the game."/>
@@ -204,7 +204,7 @@
   </card>
   <card id="760aaf5c-fd7a-4cf5-8067-2caa5d2fb46f" name="Dark Forest Peaks" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Mountain."/>
     <property name="Keywords" value="Hunt X. X is the number of players in the game."/>
@@ -214,7 +214,7 @@
   </card>
   <card id="18f56141-d648-42a4-b371-dd7169388bde" name="East Path" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Dark Forest."/>
     <property name="Keywords" value="Hunt X. X is the number of players in the game."/>
@@ -224,7 +224,7 @@
   </card>
   <card id="32cbe0d7-9ce0-413a-805e-501508c9a956" name="Inhospitable Places" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Dark Forest."/>
     <property name="Threat" value="3"/>
@@ -233,7 +233,7 @@
   </card>
   <card id="42363803-bef1-41d0-87a7-128361ff79ce" name="Mysterious Cave" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Cave."/>
     <property name="Threat" value="1"/>
@@ -242,7 +242,7 @@
   </card>
   <card id="a7f33bc8-d685-45f3-9128-d603d0ea4491" name="Old Pathway" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Dark Forest."/>
     <property name="Keywords" value="Hunt X. X is 1 (or 2 instead if there are 3 or more players in the game)."/>
@@ -252,7 +252,7 @@
   </card>
   <card id="4aec6c82-967a-4be5-a09e-74ac5b282aa8" name="Orc Camp" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Camp. Dark Forest."/>
     <property name="Keywords" value="Risk 1."/>
@@ -262,7 +262,7 @@
   </card>
   <card id="5f926b67-cee8-471e-a9ae-fb6be60d8380" name="Orc Camping" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Camp. Dark Forest."/>
     <property name="Keywords" value="Risk 1."/>
@@ -272,7 +272,7 @@
   </card>
   <card id="86d96be6-2f6f-4ff1-94ca-46e8ff13d04d" name="South Settling" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Camp."/>
     <property name="Keywords" value="Doomed 1. Risk 2."/>
@@ -282,7 +282,7 @@
   </card>
   <card id="9ab9daa0-1711-4556-9a7f-e633bc1e56b3" name="South Wilderlands" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Wilderlands."/>
     <property name="Keywords" value="Doomed 1."/>
@@ -293,7 +293,7 @@
   </card>
   <card id="35e2a6dd-3b0f-45d1-8e06-da465c417306" name="The Gorge" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Mountain."/>
     <property name="Keywords" value="Doomed 1."/>
@@ -304,7 +304,7 @@
   </card>
   <card id="3ed22e8d-7ed5-41c7-bfe1-e103ab773bdb" name="The Thicket" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Dark Forest."/>
     <property name="Keywords" value="Hunt X. X is the number of players in the game."/>
@@ -315,20 +315,20 @@
   </card>
   <card id="6198f92c-c3b2-40f5-8f28-86214ff9e9ce" name="Archaic Find" size="EncounterCard">
     <property name="Quantity" value="4"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Armor. Artifact."/>
     <property name="Text" value="When Revealed: Attach this card to the hero with the most progress tokens. Search the encounter deck and encounter discard pile for all copies of Archaic Find, and remove them from the game. Then shuffle the encounter deck. This effect cannot be canceled. Response: After a hero is damaged, cancel the damage and remove all progress tokens from attached hero. Limit once per game."/>
   </card>
   <card id="fb5d67d5-29ef-460d-90c6-b7ccc65a100f" name="The Trial of the Dark Forest" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Remove and shuffle the Wild enemies into a Orcs from Dark Forest deck and set it aside face down. Then, shuffle the encounter deck. Each player reveals 1 card from the top of the encounter deck and adds it to the staging area."/>
     <alternate name="The Trial of the Dark Forest" type="B">
-      <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+      <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
@@ -338,46 +338,46 @@
   </card>
   <card id="e4b3c33f-c715-4834-9ff0-7af18f19292b" name="Clarion Call" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: At the beginning of the next encounter phase, discard a card from the top of the Orcs of Dark Forest deck and add it to the staging area until there is X enemies in play. X is double or more of the number of players in game. This effect cannot be canceled."/>
   </card>
   <card id="7a07b6a4-8be0-49d2-bf8e-fb87b6e8f32c" name="Confusing Guidance" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Attach this card to any hero with the Ranged keyword without a copy of Confusing Guidance attached. Counts as a Condition attachment with the text: 'The attached hero cannot attack enemies engaged with other players'. If Confusing Guidance has not been attached to any hero, it gains Surge."/>
   </card>
   <card id="b4b1be3e-f72d-4ced-ad16-ade6e104c5fa" name="Night Looms" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Until the end of the round, players cannot declare more than 1 attacker agains one target enemy."/>
     <property name="Shadow" value="Shadow: Attacker enemy cannot be declared as target of any attack until the end of the phase."/>
   </card>
   <card id="9b6fa4c9-1dfd-4c24-931f-ff75323cc860" name="Remain Hidden" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Discard cards from the top of the encounter deck until a Camp location is discarded. Reveal and add the Camp location to the staging area. After reveal 1 card from the top of the Orcs of Dark Forest deck and add it to the staging area."/>
   </card>
   <card id="997921ba-bb55-4fd9-9491-8084e5ddce50" name="Rising Storm" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must remove 2 progress tokens from 1 hero he controls or exhaust 1 hero he controls. Then, remove 1 progress token from the quest card for each exhausted hero in play."/>
     <property name="Shadow" value="Shadow: Remove 1 progress token of any hero the defending player controls."/>
   </card>
   <card id="49d02bf8-aee2-4161-8e5f-955dd9faabd0" name="Terrifying Loneliness" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must discard 1 attachment he controls and remove 1 progress token from any hero he controls, if able."/>
     <property name="Shadow" value="Shadow: Discard an attachment from the defending character."/>
   </card>
   <card id="444453cd-c86e-4e40-95b7-5107adc4449f" name="Unwelcome Allies" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Orc hunting"/>
+    <property name="Encounter Set" value="Custom Set - Orc Hunting"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Return all Wild enemies in play to the Orcs of Dark Forest deck, then shuffle the Orcs of Dark Forest deck. Then, discard X cards from the encounter deck and add them to the staging area. X is the number of enemies moved by this effect. Any player may remove 1 progress token from one hero he controls to reduce the X number by 1."/>
   </card>

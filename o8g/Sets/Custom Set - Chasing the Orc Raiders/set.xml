@@ -3,7 +3,7 @@
  <cards>
   <card id="149801a5-be67-450c-b34c-4ae2f81a49bd" name="Orc Forest Camp" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Chasing the Orc Raiders"/>
+    <property name="Encounter Set" value="Custom Set - Chasing the Orc Raiders"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="X"/>
@@ -12,7 +12,7 @@
   </card>
   <card id="5ac938ec-c2d5-4e73-95e9-78c59669cf0e" name="Elrond's Message" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Chasing the Orc Raiders"/>
+    <property name="Encounter Set" value="Custom Set - Chasing the Orc Raiders"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Item."/>
     <property name="Keywords" value="Restricted. Guarded 2 (attach the top 2 encounter cards instead of 1)"/>
@@ -20,14 +20,14 @@
   </card>
   <card id="bd0ddb50-f6da-4081-a216-5e492401c6b5" name="Robbed" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Chasing the Orc Raiders"/>
+    <property name="Encounter Set" value="Custom Set - Chasing the Orc Raiders"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Search the encounter deck for Elrond's Message, Orc Forest Camp and Ungoliant Spawn. Add Elrond's Message and Orc Forest Camp to the staging area. Place Ungoliant Spawn face up but out of play, alongside the quest deck."/>
     <property name="Setup" value="sts"/>
     <alternate name="Robbed" type="B">
-      <property name="Encounter Set" value="Chasing the Orc Raiders"/>
+      <property name="Encounter Set" value="Custom Set - Chasing the Orc Raiders"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
@@ -37,13 +37,13 @@
   </card>
   <card id="64623255-a216-427b-a990-76f723d30400" name="Hide and Seek" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Chasing the Orc Raiders"/>
+    <property name="Encounter Set" value="Custom Set - Chasing the Orc Raiders"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Set aside Orc Forest Camp out of play."/>
     <alternate name="Hide and Seek" type="B">
-      <property name="Encounter Set" value="Chasing the Orc Raiders"/>
+      <property name="Encounter Set" value="Custom Set - Chasing the Orc Raiders"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
@@ -53,13 +53,13 @@
   </card>
   <card id="ca69961a-9d2b-427f-b18a-e864193fca61" name="Uninvited Guests" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Chasing the Orc Raiders"/>
+    <property name="Encounter Set" value="Custom Set - Chasing the Orc Raiders"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Place Ungoliant Spawn in the staging area. All orcs in the staging area are discarded."/>
     <alternate name="Uninvited Guests" type="B">
-      <property name="Encounter Set" value="Chasing the Orc Raiders"/>
+      <property name="Encounter Set" value="Custom Set - Chasing the Orc Raiders"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>

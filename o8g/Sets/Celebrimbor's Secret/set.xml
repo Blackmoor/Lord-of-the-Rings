@@ -42,7 +42,7 @@
     <property name="Quantity" value="3"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Tactics"/>
-    <property name="Traits" value="Gondor. Ranger."/>
+    <property name="Traits" value="Gondor. Warrior."/>
     <property name="Cost" value="3"/>
     <property name="Willpower" value="0"/>
     <property name="Attack" value="2"/>

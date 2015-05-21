@@ -621,7 +621,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Setup" value="lss"/>
+    <property name="Setup" value="lsst"/>
     <alternate name="Follow the Orcs" type="B">
       <property name="Encounter Set" value="The Uruk-hai"/>
       <property name="Type" value="Quest"/>
@@ -649,7 +649,7 @@
     <property name="Encounter Set" value="The Lord of the Rings Part 7"/>
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
-    <property name="Setup" value="----"/>
+    <property name="Setup" value="-----"/>
     <alternate name="The Uruk-hai" type="B">
       <property name="Encounter Set" value="The Lord of the Rings Part 7"/>
       <property name="Type" value="Campaign"/>
@@ -661,7 +661,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Setup" value="tttttttttt"/>
+    <property name="Setup" value="ttttttttttt"/>
     <alternate name="The King of the Golden Hall" type="B">
       <property name="Encounter Set" value="Helm's Deep"/>
       <property name="Type" value="Quest"/>
@@ -731,7 +731,7 @@
     <property name="Encounter Set" value="The Lord of the Rings Part 8"/>
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
-    <property name="Setup" value="-----------"/>
+    <property name="Setup" value="------------"/>
     <alternate name="Helm's Deep" type="B">
       <property name="Encounter Set" value="The Lord of the Rings Part 8"/>
       <property name="Type" value="Campaign"/>
@@ -743,7 +743,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Setup" value="ttttssss"/>
+    <property name="Setup" value="ttttsssst"/>
     <alternate name="Rouse the Ents" type="B">
       <property name="Encounter Set" value="The Road to Isengard"/>
       <property name="Type" value="Quest"/>
@@ -785,7 +785,7 @@
     <property name="Encounter Set" value="The Lord of the Rings Part 9"/>
     <property name="Type" value="Campaign"/>
     <property name="Keywords" value="You are playing Campaign Mode."/>
-    <property name="Setup" value="---------"/>
+    <property name="Setup" value="----------"/>
     <alternate name="The Road to Isengard" type="B">
       <property name="Encounter Set" value="The Lord of the Rings Part 9"/>
       <property name="Type" value="Campaign"/>

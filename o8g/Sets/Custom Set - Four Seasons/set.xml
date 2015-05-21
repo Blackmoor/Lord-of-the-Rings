@@ -3,7 +3,7 @@
  <cards>
   <card id="c527de7f-f40d-4792-978d-5811aa55757b" name="Incatasi" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Four Seasons"/>
+    <property name="Encounter Set" value="Custom Set - Four Seasons"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Wyrm"/>
@@ -17,7 +17,7 @@
   </card>
   <card id="481eb8da-3657-486a-89d3-f27333d9d74c" name="Anarchy" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Four Seasons"/>
+    <property name="Encounter Set" value="Custom Set - Four Seasons"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Enchanted Grove"/>
     <property name="Threat" value="X"/>
@@ -27,7 +27,7 @@
   </card>
   <card id="67c6566a-50e2-41f8-90d6-0bd11a6e1b2b" name="Foolishness" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Four Seasons"/>
+    <property name="Encounter Set" value="Custom Set - Four Seasons"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Enchanted Grove"/>
     <property name="Threat" value="X"/>
@@ -37,7 +37,7 @@
   </card>
   <card id="219710c5-5420-4a2c-8974-293e0f8de32b" name="Ignorance" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Four Seasons"/>
+    <property name="Encounter Set" value="Custom Set - Four Seasons"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Enchanted Grove"/>
     <property name="Threat" value="X"/>
@@ -47,7 +47,7 @@
   </card>
   <card id="5ea747b0-1f9a-4d5b-92c0-8d6fcd7b1f43" name="Repose" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Four Seasons"/>
+    <property name="Encounter Set" value="Custom Set - Four Seasons"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Enchanted Grove"/>
     <property name="Threat" value="X"/>
@@ -57,14 +57,14 @@
   </card>
   <card id="32861eab-7f7e-4f92-8c7b-f79c472a0754" name="In One Day" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Four Seasons"/>
+    <property name="Encounter Set" value="Custom Set - Four Seasons"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Remove Wilyador and Rhosgobel from the deck. Put the 4 Enchanted Groves and Incatasi into the staging area."/>
     <property name="Setup" value="sssss"/>
     <alternate name="In One Day" type="B">
-      <property name="Encounter Set" value="Four Seasons"/>
+      <property name="Encounter Set" value="Custom Set - Four Seasons"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>

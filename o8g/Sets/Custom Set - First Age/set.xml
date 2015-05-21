@@ -3,7 +3,7 @@
  <cards>
   <card id="a63323ae-29de-4368-b8c8-7fa8131d9224" name="Beren">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Leadership"/>
@@ -17,7 +17,7 @@
   </card>
   <card id="cf173190-392e-47d7-8d04-b3401434296e" name="Finrod Felagund">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Leadership"/>
@@ -31,7 +31,7 @@
   </card>
   <card id="69a4e781-151b-4d30-a24e-6137009bf22e" name="Fingon">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Leadership"/>
@@ -45,7 +45,7 @@
   </card>
   <card id="267a3597-c2d2-4de0-8121-4c3e71678b2f" name="Lúthien">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Spirit"/>
@@ -59,7 +59,7 @@
   </card>
   <card id="464a02c5-9a1c-4391-bbe8-ed2563a89ae5" name="Eärendil">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Spirit"/>
@@ -73,7 +73,7 @@
   </card>
   <card id="877ac60b-3a6d-48b0-8bb8-5a5ae8d5ff4c" name="Haleth">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Spirit"/>
@@ -87,7 +87,7 @@
   </card>
   <card id="2aa57f53-97d0-45e9-9254-9c064889d1ea" name="Fingolfin">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Tactics"/>
@@ -102,7 +102,7 @@
   </card>
   <card id="612a0a90-b2d9-49c4-88af-8d99fbd00dab" name="Húrin">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Tactics"/>
@@ -115,7 +115,7 @@
   </card>
   <card id="370caea5-4a48-4031-b416-608b66880dbb" name="Ecthelion">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Tactics"/>
@@ -129,7 +129,7 @@
   </card>
   <card id="b47b0c9d-67d8-49cf-b481-e812cb6aa4df" name="Círdan">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Lore"/>
@@ -143,7 +143,7 @@
   </card>
   <card id="6eae327e-c827-4f1a-97aa-01967e3c9051" name="Turgon">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Lore"/>
@@ -157,7 +157,7 @@
   </card>
   <card id="3944f3e6-15bc-4af6-8e50-b92a7f8d20d6" name="Idril Celebrindal">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Lore"/>
@@ -171,7 +171,7 @@
   </card>
   <card id="a9b02bb6-4c38-4fb3-8f73-4d2c68a90a89" name="Melian">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Neutral"/>
@@ -186,7 +186,7 @@
   </card>
   <card id="b1d66533-fa81-466a-a26c-eb0ddf3ea2a6" name="Haladin Woodsman">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Traits" value="Edain. House of Haleth."/>
@@ -199,7 +199,7 @@
   </card>
   <card id="c12463e1-712b-4a77-8579-f9cafc7d9332" name="Eöl">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Mastery"/>
@@ -213,7 +213,7 @@
   </card>
   <card id="f59f2aa8-ce8a-4fbe-bfdf-420e6b330aed" name="Mablung">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Leadership"/>
@@ -227,7 +227,7 @@
   </card>
   <card id="c02cefa2-c4ed-4377-a2f4-113d4ed4cbfb" name="Orodreth">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Leadership"/>
@@ -241,7 +241,7 @@
   </card>
   <card id="1a6e1994-f32a-4241-9e0b-c4f4e43ae7a4" name="Chieftain of Men">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Traits" value="Edain."/>
@@ -254,7 +254,7 @@
   </card>
   <card id="4989c17b-edde-4a5d-8438-5fcc23dd0271" name="Thorondor">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Tactics"/>
@@ -269,7 +269,7 @@
   </card>
   <card id="4b61a531-071c-44a9-b569-261c41f182d7" name="Gondolin Guard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Traits" value="Noldor."/>
@@ -282,7 +282,7 @@
   </card>
   <card id="eea419ce-71ae-499b-a1fb-dd69a5633be4" name="Huan">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Tactics"/>
@@ -296,7 +296,7 @@
   </card>
   <card id="1d572e45-94ed-4563-96d5-1bcf358c775d" name="Aredhel">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Lore"/>
@@ -310,7 +310,7 @@
   </card>
   <card id="d8557f01-c6a5-4568-826f-70083fa6b98d" name="Dwarf of the Blue Mountains">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Dwarf."/>
@@ -323,7 +323,7 @@
   </card>
   <card id="3e458f23-12fd-4192-a0f2-676f0aa91287" name="Telchar the Smith">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Lore"/>
@@ -337,7 +337,7 @@
   </card>
   <card id="d9de0bc8-78fa-4f1d-b2a6-8d952daefe55" name="Green-elf Ranger">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Nandor. Ranger."/>
@@ -351,7 +351,7 @@
   </card>
   <card id="611f6d5b-d1f6-49cb-b9e5-f2d5bf77a7ef" name="Daeron">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Lore"/>
@@ -365,7 +365,7 @@
   </card>
   <card id="7efcb2f7-e893-475c-8e60-001dc95ba430" name="Elwing">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Spirit"/>
@@ -379,7 +379,7 @@
   </card>
   <card id="5ed2a83a-fb4d-48ed-847c-8e5e3a116cc6" name="Huor">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Tactics"/>
@@ -393,7 +393,7 @@
   </card>
   <card id="a71937a2-dd20-40d3-bfb6-a6cf7856011a" name="Bëor">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Spirit"/>
@@ -407,7 +407,7 @@
   </card>
   <card id="1490551a-e98f-4f75-b619-90c4c510eff0" name="Hador">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Leadership"/>
@@ -421,7 +421,7 @@
   </card>
   <card id="ccb27322-b28f-4cec-8998-bc3a38da9d7a" name="Barahir">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Leadership"/>
@@ -436,7 +436,7 @@
   </card>
   <card id="36eba031-02ff-4ea1-b127-aa1adf64bbac" name="Morwen">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Spirit"/>
@@ -450,7 +450,7 @@
   </card>
   <card id="6317b5a1-6547-45de-85b9-f1c9798f4dd2" name="Tuor">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Spirit"/>
@@ -464,7 +464,7 @@
   </card>
   <card id="16ee9351-7842-400d-ba3a-0fe4d9f30634" name="Finduilas">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Spirit"/>
@@ -478,7 +478,7 @@
   </card>
   <card id="c10276a3-fc4d-4c05-9378-e22437febd30" name="Azaghâl">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Tactics"/>
@@ -492,7 +492,7 @@
   </card>
   <card id="1c20dbce-2c45-4c0b-8c3a-874e84908a25" name="High Kingship of the Noldor">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Leadership"/>
@@ -502,7 +502,7 @@
   </card>
   <card id="9972048e-4e59-4444-8957-17d5b43164a7" name="Elf-friend">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Traits" value="Title."/>
@@ -511,7 +511,7 @@
   </card>
   <card id="3ae5e27e-a66a-43a1-a967-c102e9ab9da3" name="Shadowy Cloak">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Spirit"/>
@@ -521,7 +521,7 @@
   </card>
   <card id="1cd9af84-475d-4949-b0a0-6977601aaf86" name="Vingilot">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Spirit"/>
@@ -531,7 +531,7 @@
   </card>
   <card id="63d72bcd-bee5-4eaa-a2b4-8e5af8244d4e" name="Harp of Fingon">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Leadership"/>
@@ -541,7 +541,7 @@
   </card>
   <card id="d09ff424-b2df-4b1a-a343-2dafaf3d1d98" name="Oath of Friendship">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Traits" value="Oath."/>
@@ -550,7 +550,7 @@
   </card>
   <card id="969445ff-0b61-4f68-b563-ae11d365e125" name="Oath of Vengeance">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Traits" value="Oath"/>
@@ -559,7 +559,7 @@
   </card>
   <card id="57bae876-e0f7-48e2-b626-8b53216ef26c" name="Oath of Silence">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Oath."/>
@@ -568,7 +568,7 @@
   </card>
   <card id="56e3c47e-9fbe-4b86-92f5-05679788aa07" name="Haudh-en-Ndengin">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Lore"/>
@@ -578,7 +578,7 @@
   </card>
   <card id="47905ede-7cb1-4c1d-919a-af92f71fce5a" name="Hidden House">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Hideout."/>
@@ -587,7 +587,7 @@
   </card>
   <card id="5ce97207-9317-4cd5-bb75-1df2c7f0cdb3" name="Solitary Outlaw">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Neutral"/>
     <property name="Traits" value="Condition."/>
@@ -597,7 +597,7 @@
   </card>
   <card id="b9ef5e42-ff98-4189-9d36-12d6d57a20ae" name="Ard-galen Horse">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Mount."/>
@@ -606,7 +606,7 @@
   </card>
   <card id="a9491de0-6e74-4f2f-bfee-1c8e5e441166" name="Ring of Barahir">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Leadership"/>
@@ -616,7 +616,7 @@
   </card>
   <card id="818a434c-d23a-4ec3-ac46-63e2665f4510" name="Ringil">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Tactics"/>
@@ -626,7 +626,7 @@
   </card>
   <card id="3d3a2ede-39f8-420d-a121-93f19d284253" name="Rochallor">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Tactics"/>
@@ -636,7 +636,7 @@
   </card>
   <card id="af4552f6-713a-4418-a3be-5388655d19f2" name="Blue Shield">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Tactics"/>
@@ -646,7 +646,7 @@
   </card>
   <card id="9288286a-a88b-41a8-889b-83e8f4c1e91d" name="Dragon-helm">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Tactics"/>
@@ -656,7 +656,7 @@
   </card>
   <card id="8c871b05-b22c-41ac-8094-fb266dcc895b" name="Nimphelos">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Spirit"/>
@@ -666,7 +666,7 @@
   </card>
   <card id="a4274bdd-ac5f-4ca6-8897-b7f4d3c683b7" name="Aranrúth">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Mastery"/>
@@ -677,7 +677,7 @@
   </card>
   <card id="d2f9888e-31f9-42ef-b930-50d67ddcd2f8" name="Strength of Men">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Cost" value="3"/>
@@ -685,7 +685,7 @@
   </card>
   <card id="0061b168-c37d-46bc-ac7b-2eedad688b80" name="Erchamion">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Traits" value="Condition."/>
@@ -694,7 +694,7 @@
   </card>
   <card id="64f09d1d-9421-449d-a121-9b572001e576" name="The Day Has Come!">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Cost" value="2"/>
@@ -702,7 +702,7 @@
   </card>
   <card id="0236a411-93bd-4865-99c7-afbbcf66e0a8" name="Song of Lúthien">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Traits" value="Song."/>
@@ -711,7 +711,7 @@
   </card>
   <card id="1e9fb582-1b63-4d5e-98a1-c95b4ea8d5b4" name="Song of Staying">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Traits" value="Song."/>
@@ -720,7 +720,7 @@
   </card>
   <card id="7c6344c7-b769-4548-b64b-ade76bcd9c1c" name="Arts of Felagund">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Enchantment."/>
@@ -730,7 +730,7 @@
   </card>
   <card id="495c08de-1f3d-4d5c-9c27-2767c3dab2f3" name="Passed in Peace">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Cost" value="1"/>
@@ -738,7 +738,7 @@
   </card>
   <card id="af32245f-be6f-4efc-87a2-e58ca08e8d42" name="Leaguer">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Neutral"/>
     <property name="Cost" value="0"/>
@@ -746,7 +746,7 @@
   </card>
   <card id="94639ce3-19a2-41dc-92f5-e4a7b4d44b06" name="Hour of Need">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Cost" value="2"/>
@@ -754,7 +754,7 @@
   </card>
   <card id="533740a7-2348-4ef2-9c5d-1bf2b26a4daa" name="A Great Doom">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Doom."/>
@@ -763,7 +763,7 @@
   </card>
   <card id="d2f9f10a-db5c-4aa0-ae0c-e9d33c244a69" name="Undismayed">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="1"/>
@@ -771,7 +771,7 @@
   </card>
   <card id="e8fd8691-39fe-49fe-9292-b47399d1153e" name="Feast of Reuniting">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="3"/>
@@ -779,7 +779,7 @@
   </card>
   <card id="b3c1c5fd-56ca-4b9c-a9b5-d9796e090c76" name="Banners and Horns">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="1"/>
@@ -787,7 +787,7 @@
   </card>
   <card id="33c90530-7cef-4138-b6b5-0bbe5c997f1f" name="No Better Hope">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Cost" value="1"/>
@@ -795,7 +795,7 @@
   </card>
   <card id="eddac7bc-182e-4b80-9171-bfa48dbfa679" name="Hold to the Oath">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Traits" value="Oath."/>
@@ -804,7 +804,7 @@
   </card>
   <card id="b0356374-d811-4ebf-84e0-916262b4b8ac" name="Manwë's Pity">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Traits" value="Vala."/>
@@ -813,7 +813,7 @@
   </card>
   <card id="3840d489-587b-4ffb-8159-1040aa258f88" name="Secrets of Craft">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Cost" value="1"/>
@@ -821,7 +821,7 @@
   </card>
   <card id="8cfb1da9-d041-44f4-acb7-42a872bd55e0" name="Dreams from Ulmo">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Vala."/>
@@ -830,7 +830,7 @@
   </card>
   <card id="92cc7a50-91b9-469b-8038-20d18807c29e" name="Friendship of Ulmo">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Vala."/>
@@ -839,7 +839,7 @@
   </card>
   <card id="b03a4bd2-850f-4d18-b61b-28248537d448" name="Strengthen the Watch">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="0"/>
@@ -847,7 +847,7 @@
   </card>
   <card id="78970cd3-4c09-4c5d-83a7-261fb7dddfd6" name="Secret Toil">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Cost" value="1"/>
@@ -855,7 +855,7 @@
   </card>
   <card id="bbcf552f-73cc-44c4-8d53-d16a926cc895" name="...And Yet A Warning">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="1"/>
@@ -863,7 +863,7 @@
   </card>
   <card id="44138d4e-bb5d-4413-b28e-e29a39d93bc5" name="Song of Gladness">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Traits" value="Song."/>
@@ -872,7 +872,7 @@
   </card>
   <card id="600f25fa-0863-4f7c-baf2-e68677200988" name="Flame Light! Flee Night!">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Cost" value="1"/>
@@ -880,7 +880,7 @@
   </card>
   <card id="7bbfe8f2-e9ed-430f-a01a-0b27b6eba9a4" name="Day Shall Come Again">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="1"/>
@@ -888,7 +888,7 @@
   </card>
   <card id="8147cf97-844f-41db-a6cb-456bb2d8d1bb" name="Fëanor">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Mastery"/>
@@ -902,7 +902,7 @@
   </card>
   <card id="31de6df1-d605-4ad4-ac36-29f717bfc92e" name="Thingol">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Mastery"/>
@@ -916,7 +916,7 @@
   </card>
   <card id="401c19ae-f7b8-4ce8-80ec-06c14ef6b323" name="Túrin Turambar">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Mastery"/>
@@ -930,7 +930,7 @@
   </card>
   <card id="d0590810-8dfe-43e0-9b12-63ebcbaee153" name="Celegorm">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Mastery"/>
@@ -944,7 +944,7 @@
   </card>
   <card id="12651993-2955-4c4a-8695-5828b0f26f2a" name="Maglor">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Mastery"/>
@@ -958,7 +958,7 @@
   </card>
   <card id="f14eb968-2181-456e-97cf-3275af57d890" name="Caranthir">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Mastery"/>
@@ -972,7 +972,7 @@
   </card>
   <card id="bdbcd9ef-ba0d-4136-a973-2ebc7215cd23" name="Maeglin">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Mastery"/>
@@ -986,7 +986,7 @@
   </card>
   <card id="357b134b-1af6-4cb4-8fc5-1f7c3fc1cc05" name="Maedhros">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Mastery"/>
@@ -1000,7 +1000,7 @@
   </card>
   <card id="6f13ed8d-8e7c-46c7-b65d-d26370409324" name="Curufin">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Mastery"/>
@@ -1014,7 +1014,7 @@
   </card>
   <card id="92602678-0802-4c45-971e-0eff7a57855a" name="Oath of Fëanor">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Mastery"/>
     <property name="Traits" value="Oath."/>
@@ -1023,7 +1023,7 @@
   </card>
   <card id="4186631e-c283-4a5e-b364-7a8ade2255ab" name="Nauglamír">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Mastery"/>
@@ -1033,7 +1033,7 @@
   </card>
   <card id="ed103684-c82e-4f33-933b-329fc1598b3f" name="Galvorn Armor">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Mastery"/>
     <property name="Traits" value="Item. Armor."/>
@@ -1042,7 +1042,7 @@
   </card>
   <card id="b113f353-7dab-4689-8f16-05c7e6935950" name="Poisoned Javelin">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Mastery"/>
     <property name="Traits" value="Item. Weapon."/>
@@ -1051,7 +1051,7 @@
   </card>
   <card id="2cf2b206-3dcb-41f3-abdb-c3c3282779f9" name="Gurthang">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Mastery"/>
@@ -1061,7 +1061,7 @@
   </card>
   <card id="8a9a4961-146f-4f92-8372-c8f4ac733964" name="Mormegil">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Mastery"/>
@@ -1071,7 +1071,7 @@
   </card>
   <card id="ddb7c844-c06b-453a-bbe9-5d4b9795859d" name="Madness of Rage">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Mastery"/>
     <property name="Cost" value="0"/>
@@ -1079,7 +1079,7 @@
   </card>
   <card id="50166774-b3ac-425b-8662-8caf1986688e" name="Fire of Life">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Mastery"/>
     <property name="Traits" value="Condition."/>
@@ -1088,7 +1088,7 @@
   </card>
   <card id="96fa686b-dcae-426d-b002-9a4f45754117" name="Defied and Mocked">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Mastery"/>
     <property name="Cost" value="1"/>
@@ -1096,7 +1096,7 @@
   </card>
   <card id="8bba480a-0306-4eb3-a577-99cdef1e1430" name="Dreadful Death">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Mastery"/>
     <property name="Cost" value="0"/>
@@ -1104,7 +1104,7 @@
   </card>
   <card id="6795405b-b28c-43bf-ae4d-318643d19d63" name="Dark Heart of the Smith">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Mastery"/>
     <property name="Cost" value="0"/>
@@ -1112,7 +1112,7 @@
   </card>
   <card id="6cd143f3-4f7b-40c7-a09d-3f37b910676b" name="Open Battle">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Mastery"/>
     <property name="Traits" value="Plan."/>
@@ -1122,7 +1122,7 @@
   </card>
   <card id="47fafb31-e329-4fc6-aa95-93a9ffb3dc8e" name="Song of Wizardry" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Song."/>
     <property name="Text" value="When Revealed: Each player must discard the top card of his deck and place Corruption among his characters equal to its cost."/>
@@ -1130,42 +1130,42 @@
   </card>
   <card id="4bcbe3a9-c908-46f8-b5b0-a459564067fa" name="Weight of Horror" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Condition."/>
     <property name="Text" value="When Revealed: Attach to the hero with the highest Ò. (Counts as a Condition attachment with the text: &quot;The attached hero must spend 1 resource from his pool to commit to the quest. Limit 1 per hero.&quot;)"/>
   </card>
   <card id="5f59b83c-45bc-4625-9ff9-160019cb9ae2" name="Lord of Werewolves" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for one enemy with the Werewolf trait and add it to the staging area."/>
     <property name="Shadow" value="Shadow: The attacking enemy returns to the staging area after this attack."/>
   </card>
   <card id="48540efb-e1d0-4453-a50e-c5cbb80fc176" name="Master of Shadows" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Maia."/>
     <property name="Text" value="When Revealed: Attach to the current quest stage. (Counts as a Condition attachment with the text: &quot;Each enemy is dealt an additional shadow card at the beginning of the combat phase.&quot;)"/>
   </card>
   <card id="ec67d8da-eac3-461b-ab76-e7eea78542a4" name="No Living Creature">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Event"/>
     <property name="Traits" value="Maia."/>
     <property name="Text" value="When Revealed: Each player must choose one: raise your threat by 1 for each character you control or place 1 Corruption on each character you control."/>
   </card>
   <card id="9f27803d-8a57-4512-914c-9a9435e947b6" name="Foul Vapour" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each character in play gets -X Û and -X Ú until the end of the round. X is the number of enemies with the Werewolf trait engaged with the controlling player. If there are no engaged enemies with the Werewolf trait, Foul Vapour gains surge."/>
     <property name="Shadow" value="Shadow: The defending character gets -1 Ú until the end of the phase."/>
   </card>
   <card id="020cc51d-16d3-4c81-9223-8e19874ead9d" name="Deep Pit" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Dungeon."/>
     <property name="Threat" value="2"/>
@@ -1174,7 +1174,7 @@
   </card>
   <card id="a9e19cb1-947a-49f4-a1b9-afbd9ce3da09" name="Gates of Tol-in-Gaurhoth" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Fortification."/>
     <property name="Keywords" value="Immune to player card effects."/>
@@ -1184,7 +1184,7 @@
   </card>
   <card id="eb292959-22e1-4e25-ae41-b2ad77549962" name="Walls of Stone" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Fortification."/>
     <property name="Threat" value="2"/>
@@ -1194,7 +1194,7 @@
   </card>
   <card id="0951f775-17ab-465f-9776-7495f45fa3b0" name="High Tower" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Fortification."/>
@@ -1204,7 +1204,7 @@
   </card>
   <card id="655a251a-c839-4d93-a455-4cb7ac94f57a" name="Dark Hills" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Hills."/>
     <property name="Threat" value="3"/>
@@ -1214,7 +1214,7 @@
   </card>
   <card id="db13208a-926b-4037-bda4-aa5461efd0f3" name="Vacant Pit" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Dungeon."/>
     <property name="Threat" value="2"/>
@@ -1224,7 +1224,7 @@
   </card>
   <card id="86c20ae9-1c32-4ea5-aacc-ac8e470fbb10" name="Bridge to the Isle" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Bridge. Water."/>
@@ -1236,14 +1236,14 @@
   </card>
   <card id="111d8917-7733-41a8-8941-b24698ed17e4" name="Eyes in the Dark" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Devoured."/>
     <property name="Text" value="Place 8 resource tokens on Eyes in the Dark.&#10;&#10;At the end of each round, discard 1 resource token from Eyes in the Dark.&#10;&#10;If there are no resource tokens to discard, remove Eyes in the Dark from play and put Devouring Werewolf into play in the pit area, engaged with the prisoners."/>
   </card>
   <card id="829081e4-0ffa-41ea-9bb4-cb6d64aa06cc" name="Finrod Felagund" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Noldor. House of Finarfin. Noble."/>
@@ -1255,7 +1255,7 @@
   </card>
   <card id="fe9fb08b-52e3-4bc1-b55d-d5994fbab19c" name="Draugluin" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature. Werewolf."/>
@@ -1270,7 +1270,7 @@
   </card>
   <card id="86f818f2-aad7-4a8f-9bc8-c06ef4fae756" name="Wolf-Sauron" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Maia. Werewolf."/>
@@ -1285,7 +1285,7 @@
   </card>
   <card id="9e13b25d-2797-42be-812a-3af05738318e" name="Ravenous Werewolf" size="EncounterCard">
     <property name="Quantity" value="4"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature. Werewolf."/>
     <property name="Engagement Cost" value="30"/>
@@ -1298,7 +1298,7 @@
   </card>
   <card id="29d1487e-e223-4569-96ba-ac53a251eaba" name="Thuringwethil" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Vampire."/>
@@ -1312,7 +1312,7 @@
   </card>
   <card id="cb6a1b6a-3f57-4184-90cb-7d46d0173457" name="Monstruous Bat" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature. Vampire."/>
     <property name="Engagement Cost" value="20"/>
@@ -1324,7 +1324,7 @@
   </card>
   <card id="282c7b69-c8c3-454f-ac9d-3d99175dd6c2" name="Guard Wolf" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature. Werewolf."/>
     <property name="Engagement Cost" value="25"/>
@@ -1337,7 +1337,7 @@
   </card>
   <card id="7e54d64b-8b77-467c-b482-352cd9f9d9ef" name="Hunting Wolf" size="EncounterCard">
     <property name="Quantity" value="4"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature. Werewolf."/>
     <property name="Engagement Cost" value="32"/>
@@ -1350,7 +1350,7 @@
   </card>
   <card id="eb8ca983-1634-4be3-a327-e2c881a9490a" name="Crazed Thrall" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Thrall."/>
     <property name="Engagement Cost" value="28"/>
@@ -1362,7 +1362,7 @@
   </card>
   <card id="bcbde72b-55fa-487e-a3ff-9547c34d7e5e" name="Devouring Werewolf" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature. Werewolf."/>
@@ -1376,7 +1376,7 @@
   </card>
   <card id="f01c44ef-3494-48b4-abe7-f4d5213a3216" name="Morgoth" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Vala."/>
@@ -1390,7 +1390,7 @@
   </card>
   <card id="85a7618b-8f0c-4ba2-8489-00aa65c9610c" name="Thrall Quarters" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Path."/>
@@ -1402,7 +1402,7 @@
   </card>
   <card id="e1a095dc-996f-4b3c-b17a-a20bc10f8953" name="Fire-drake" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Dragon."/>
     <property name="Keywords" value="Sneak."/>
@@ -1417,7 +1417,7 @@
   </card>
   <card id="8b38140d-9a06-4155-8bb3-f803ff353520" name="Silmaril" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Item. Artifact. Silmaril."/>
@@ -1425,7 +1425,7 @@
   </card>
   <card id="28ae9d78-15e7-4fbe-b156-e9ead6a37886" name="Gothmog" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Balrog."/>
@@ -1440,7 +1440,7 @@
   </card>
   <card id="ad8cf095-594e-4d14-adef-aafa4f31e60c" name="Troll of Angband" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Troll."/>
     <property name="Keywords" value="Sneak."/>
@@ -1454,7 +1454,7 @@
   </card>
   <card id="08a9cee0-543b-4251-a085-2cb869140cd4" name="Orc Captain" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc."/>
     <property name="Keywords" value="Sneak."/>
@@ -1467,7 +1467,7 @@
   </card>
   <card id="c020347f-a024-48f6-97de-8a9e73003739" name="Angband Orc" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc."/>
     <property name="Keywords" value="Sneak. Doomed 1."/>
@@ -1481,7 +1481,7 @@
   </card>
   <card id="a35bb6d5-566b-4836-a792-3ab6b14c775e" name="Balrog of Angband" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Balrog."/>
     <property name="Keywords" value="Sneak."/>
@@ -1496,7 +1496,7 @@
   </card>
   <card id="4f26696d-0dc1-4e1e-883d-5ee7789c6339" name="Long-worm" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Dragon."/>
     <property name="Keywords" value="Sneak."/>
@@ -1510,7 +1510,7 @@
   </card>
   <card id="ad033513-3b27-4410-9171-5e890667fa15" name="Carcharoth" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature. Werewolf."/>
@@ -1524,14 +1524,14 @@
   </card>
   <card id="074cb89d-4815-49d8-aa9b-07abd3c5331a" name="Filth and Desolation" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must either deal 1 damage to each character he committed to the quest or reduce the Ò of each character he controls by 1 until the end of the round."/>
     <property name="Shadow" value="Shadow: Exhaust a character that the defending player controls."/>
   </card>
   <card id="47564431-f77f-4389-879f-491e580d1704" name="Subterranean Furnace" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground."/>
     <property name="Threat" value="3"/>
@@ -1540,7 +1540,7 @@
   </card>
   <card id="d4263007-1ce9-4437-92a8-e6031cff3b09" name="Labyrinthine Stairs" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground."/>
     <property name="Threat" value="2"/>
@@ -1550,7 +1550,7 @@
   </card>
   <card id="0921abfd-2cd7-493f-878b-ad4cb99e010c" name="Angband Sword" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Item. Weapon."/>
     <property name="Keywords" value="Restricted."/>
@@ -1558,7 +1558,7 @@
   </card>
   <card id="f77d7157-b5e6-4b8f-b3e0-fa4d512d214a" name="Echoing Corridor" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground."/>
     <property name="Threat" value="4"/>
@@ -1568,7 +1568,7 @@
   </card>
   <card id="fb3baa06-68d4-40c8-8154-97c1ee0f156b" name="Trackless Cavern" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Underground. Dark."/>
     <property name="Threat" value="1"/>
@@ -1577,7 +1577,7 @@
   </card>
   <card id="c74ed070-15f4-4f80-bbe9-ce678a9cb935" name="Tunnels of Shadow" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Path."/>
@@ -1588,7 +1588,7 @@
   </card>
   <card id="d6362581-bf1a-4e9f-9059-9ef492ed157f" name="Pits of Angband" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Path."/>
@@ -1599,7 +1599,7 @@
   </card>
   <card id="8c616380-0331-4e90-80b7-f0451ac75eb5" name="Torturer's Dungeon" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Chamber."/>
     <property name="Threat" value="2"/>
@@ -1608,7 +1608,7 @@
   </card>
   <card id="692fd26f-06c5-4375-ba1c-ed7cf26df1d9" name="Orc Armory" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Armory."/>
     <property name="Threat" value="3"/>
@@ -1618,7 +1618,7 @@
   </card>
   <card id="32bd3aaa-a8bb-4258-9b17-28beeeb3430b" name="Nethermost Hall" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Throne Room."/>
@@ -1630,7 +1630,7 @@
   </card>
   <card id="715771dc-35aa-477e-a28f-e0d9e2954b54" name="Foolish Ruckus" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Noise."/>
     <property name="Text" value="When Revealed: Raise the $ of the active enemy by 3 until the end of the phase. If there is no active enemy, raise the $ of all enemies in the staging area by 1 until the end of the phase."/>
@@ -1638,28 +1638,28 @@
   </card>
   <card id="092d5e7a-6483-4ded-98c3-fa4478169f1f" name="Evil Lust" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Condition."/>
     <property name="Text" value="When Revealed: Attach to a hero. (Counts as a Condition attachment with the text: &quot;This hero must be declared as the defender against Morgoth (even if exhausted). Morgoth uses his $ to attack and the attached hero uses his Ò to defend. Limit 1 per hero.&quot;)"/>
   </card>
   <card id="083af9c9-b1b3-4185-b09b-59eff4440f10" name="Heroic Diversion" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 1."/>
     <property name="Text" value="When Revealed: Each player must either discard 1 character or raise his threat by 5."/>
   </card>
   <card id="11916b96-fe83-4a57-985d-4fb1746d4cfc" name="Devouring Spirit" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Condition."/>
     <property name="Text" value="When Revealed: Attach to the enemy in play with the lowest $. Attached enemy gets +1 $, +1 Û, +1 Ú, and +3 hit points. If there are no enemies in play, Devouring Spirit gains surge."/>
   </card>
   <card id="d17ece37-4951-4dbf-a5b9-0b07092e8c5f" name="Clumsy Step" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Noise."/>
     <property name="Keywords" value="Doomed 2."/>
@@ -1667,20 +1667,20 @@
   </card>
   <card id="78db9650-a652-4a3d-bff4-1423cbfb83e2" name="Dreadful Garments" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Disguise."/>
     <property name="Text" value="Action: Attach Dreadful Garments to a hero.&#10;&#10;Action: Exhaust Dreadful Garments to place 5 progress tokens on the active enemy."/>
   </card>
   <card id="d2d61431-56a0-4aa4-8900-d9ba9aec4703" name="Element of Surprise" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Initiative."/>
     <property name="Text" value="Action: Attach Element of Surprise to a hero.&#10;&#10;Combat Action: Exhaust Element of Surprise. Player attacks are made before enemy attacks during this phase."/>
   </card>
   <card id="e642bba0-dd93-4d9c-b714-113ab91480d2" name="Dark Elf">
-    <property name="Encounter Set" value="First Age"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Mastery"/>
     <property name="Cost" value="0"/>
@@ -1688,7 +1688,7 @@
   </card>
   <card id="b2fb8e22-c2c4-4cab-be7a-2fb1f30916bc" name="Carcharoth the Red Maw" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature. Werewolf."/>
@@ -1702,7 +1702,7 @@
   </card>
   <card id="a2ca8cfa-856d-43ab-bae7-fea5c55bb786" name="Taur-nu-Fuin" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest. Dark."/>
     <property name="Keywords" value="Hunt 2."/>
@@ -1712,7 +1712,7 @@
   </card>
   <card id="5f09bd7b-f321-4531-81e3-58a8c1e4befb" name="Pass of Anach" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Mountain."/>
@@ -1723,7 +1723,7 @@
   </card>
   <card id="a89e2f4f-67fd-41e8-aae4-2635b066784c" name="Dimbar Field" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Plain."/>
     <property name="Keywords" value="Hunt 1."/>
@@ -1734,7 +1734,7 @@
   </card>
   <card id="f477641e-650d-4025-9abb-a5ef12bd9663" name="Neldoreth Settlement" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Outpost."/>
     <property name="Keywords" value="Hunt 2."/>
@@ -1745,7 +1745,7 @@
   </card>
   <card id="2c2b1c05-919a-43a3-bccb-828d09d4a1f2" name="Eaves of Region" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Keywords" value="Hunt 1."/>
@@ -1756,7 +1756,7 @@
   </card>
   <card id="20e151a1-5ed2-49c7-9d6c-f8fa7cea829d" name="Banks of the Esgalduin" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="River. Water."/>
     <property name="Keywords" value="Hunt 1."/>
@@ -1766,7 +1766,7 @@
   </card>
   <card id="36475989-914f-4190-a619-6bc032c19034" name="Iant Iaur" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Bridge. Water."/>
@@ -1777,7 +1777,7 @@
   </card>
   <card id="da73fa42-76b3-4ca0-8d93-339a6c503691" name="Gates of Menegroth" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Fortification."/>
@@ -1787,7 +1787,7 @@
   </card>
   <card id="e24b29f1-50ac-4c3d-a844-a5d75298f1c7" name="Dark Valley" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Valley. Water."/>
@@ -1798,7 +1798,7 @@
   </card>
   <card id="59f3a810-fc7e-4aa3-bbc6-2d66dc489909" name="A Doom Fulfilled" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Doom."/>
     <property name="Text" value="When Revealed: Attach to Carcharoth as a Condition attachment with the text, &quot;After an attack against Carcharoth resolves, discard one character that participated in the attack and discard A Doom Fulfilled.&quot;"/>
@@ -1806,14 +1806,14 @@
   </card>
   <card id="62db2179-f1a9-4447-957e-9ca03f503cc5" name="Fled in Fear" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Remove all allies from the quest. Allies cannot be declared as attackers or defenders until the end of the round."/>
     <property name="Shadow" value="Shadow: Allies cannot participate in an attack against the attacking enemy this round."/>
   </card>
   <card id="9a0d9373-9886-4f4a-848e-969d612b5212" name="Stood Now in Wrath" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
     <property name="Text" value="When Revealed: Discard Carcharoth and reveal and add the next card from the Carcharoth deck."/>
@@ -1821,7 +1821,7 @@
   </card>
   <card id="0577b869-c00d-47dd-bb49-95e0b08022ec" name="Carcaroth the Wolf of Angband" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature. Werewolf."/>
@@ -1835,32 +1835,32 @@
   </card>
   <card id="170846a1-d160-43fd-b56d-83bcb97c661a" name="Flame of Anguish" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Remove 5 damage from Carcharoth and assign it to characters the first player controls. If Carcharoth has no damage, Flame of Anguish gains surge."/>
     <property name="Shadow" value="Shadow: Remove 5 damage from the attacking enemy."/>
   </card>
   <card id="98a5aadf-1e0f-4d9f-b774-edc353311bf0" name="Devil's Cunning" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Carcharoth makes an immediate attack on the player with the most Ò committed to the quest."/>
   </card>
   <card id="c851ed2b-b69b-4f99-94cd-62c078e3d260" name="Espied from Afar" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The players must either discard the location in the victory display with the highest Hunt value or prevent all exhausted characters from readying during the refresh phase this round."/>
   </card>
   <card id="3cd659f1-0aa4-4466-a654-f9a4bd4ecc6a" name="Evil Days" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must either deal 1 damage to each location in play or deal 1 Corruption to each character he controls."/>
   </card>
   <card id="e6eb53ee-ae0c-4cec-b221-10fbe03b6d91" name="Brethil Dwelling" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Outpost."/>
     <property name="Keywords" value="Hunt 2."/>
@@ -1870,7 +1870,7 @@
   </card>
   <card id="63ab237a-2da9-41a1-977a-9a64cd17cb74" name="Carcharoth the Devouring Spirit" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature. Werewolf."/>
@@ -1884,7 +1884,7 @@
   </card>
   <card id="1b1b1030-6a1c-43dc-94d3-85a2515e4e81" name="Carcharoth the Tormented" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Creature. Werewolf."/>
@@ -1898,7 +1898,7 @@
   </card>
   <card id="cad9261a-140a-4aaf-82d3-07229e9f1fce" name="Beleg Strongbow" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Teleri."/>
@@ -1910,14 +1910,14 @@
   </card>
   <card id="c794640f-5ecb-4ba2-a414-374ccc8d466f" name="Upon the Bridge" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Set aside Devouring Werewolf, Draugluin, Bridge to the Isle and Wolf-Sauron. Create a pit area with stage 2A and follow the setup instructions on that card."/>
     <property name="Setup" value="sttts"/>
     <alternate name="Upon the Bridge" type="B">
-      <property name="Encounter Set" value="The Isle of Werewolves"/>
+      <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
@@ -1927,13 +1927,13 @@
   </card>
   <card id="62abfd48-b415-402f-bcd8-df92ae5a1b27" name="The Pits of Sauron" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Search the encounter deck for Finrod Felagund and Eyes in the Dark and add both to the pit area. Choose one hero to be placed in the pit area. That hero is captured. The controlling player may immediately replace the captured hero with another of his choice."/>
     <alternate name="The Pits of Sauron" type="B">
-      <property name="Encounter Set" value="The Isle of Werewolves"/>
+      <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
@@ -1943,13 +1943,13 @@
   </card>
   <card id="4016a752-46bf-4574-9c14-a51e4835bc0b" name="Tol-in-Gaurhoth" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Add Wolf-Sauron to the staging area. Reveal 1 encounter card per player."/>
     <alternate name="Tol-in-Gaurhoth" type="B">
-      <property name="Encounter Set" value="The Isle of Werewolves"/>
+      <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
@@ -1959,26 +1959,26 @@
   </card>
   <card id="f03bc416-e4cd-4bda-944c-51a33a55b1d0" name="Isle of Werewolves rules">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Isle of Werewolves"/>
+    <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
     <property name="Type" value="Campaign"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Quest Points" value="-"/>
     <alternate name="Isle of Werewolves rules" type="B">
-      <property name="Encounter Set" value="The Isle of Werewolves"/>
+      <property name="Encounter Set" value="Custom Set - The Isle of Werewolves"/>
       <property name="Type" value="Campaign"/>
       <property name="Engagement Cost" value="B"/>
     </alternate>
   </card>
   <card id="5d55e464-f59d-454f-971c-a35f1376a420" name="Doors of Angband" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Add Carcharoth to the staging area. Set Morgoth and all objectives and unique locations aside out of play. Set your threat equal to the number of heroes you control."/>
     <property name="Setup" value="sttttttttts"/>
     <alternate name="Doors of Angband" type="B">
-      <property name="Encounter Set" value="The Seat of Morgoth"/>
+      <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
@@ -1988,13 +1988,13 @@
   </card>
   <card id="53d6dc87-a084-4220-ad38-a39e655f1d44" name="Descent into Darkness" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Remove Carcharoth from play. Add Pits of Angband, Thrall Quarters, and Tunnels of Shadow to the staging area. Each player must search the encounter deck and discard pile for 1 enemy and add it to the staging area."/>
     <alternate name="Descent into Darkness" type="B">
-      <property name="Encounter Set" value="The Seat of Morgoth"/>
+      <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
@@ -2004,12 +2004,12 @@
   </card>
   <card id="7272499a-1047-4431-82d8-83e88e7de3e5" name="The Greatest Deed" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
     <alternate name="The Greatest Deed" type="B">
-      <property name="Encounter Set" value="The Seat of Morgoth"/>
+      <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
@@ -2019,13 +2019,13 @@
   </card>
   <card id="8432e9fc-ecb8-4948-a6dd-d75dad26e42e" name="To See the Light" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="4"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Remove Morgoth from play. Add Carcharoth to the staging area, removing any damage that was previously placed."/>
     <alternate name="To See the Light" type="B">
-      <property name="Encounter Set" value="The Seat of Morgoth"/>
+      <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="4"/>
       <property name="Engagement Cost" value="B"/>
@@ -2035,26 +2035,26 @@
   </card>
   <card id="1ad0b223-e659-4358-bf3e-fbc687cba2aa" name="Seat of Morgoth rules">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Seat of Morgoth"/>
+    <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
     <property name="Type" value="Campaign"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Quest Points" value="-"/>
     <alternate name="Seat of Morgoth rules" type="B">
-      <property name="Encounter Set" value="The Seat of Morgoth"/>
+      <property name="Encounter Set" value="Custom Set - The Seat of Morgoth"/>
       <property name="Type" value="Campaign"/>
       <property name="Engagement Cost" value="B"/>
     </alternate>
   </card>
   <card id="1187c127-c5ef-45fa-962f-ff3d54ac7fe9" name="Ride Forth in the Morning" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Place Carcharoth the Tormented and Gates of Menegroth aside, out of play. Shuffle all other copies of Carcharoth into a Carcharoth deck. Each player must search the encounter deck for 1 different location and add it to the staging area. Put the Beleg Strongbow objective ally into play."/>
     <property name="Setup" value="ttst"/>
     <alternate name="Ride Forth in the Morning" type="B">
-      <property name="Encounter Set" value="Hunting of the Wolf"/>
+      <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
@@ -2064,13 +2064,13 @@
   </card>
   <card id="e0d350d5-742f-4924-863a-4db922a71a8a" name="At Last Upon the Wolf" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Remove Carcharoth from play and put the Carcharoth deck aside. Add Carcharoth the Tormented to the staging area. Remove half of the damage on Carcharoth (rounding up)."/>
     <alternate name="At Last Upon the Wolf" type="B">
-      <property name="Encounter Set" value="Hunting of the Wolf"/>
+      <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
@@ -2080,13 +2080,13 @@
   </card>
   <card id="444d39bf-aee8-488e-ad06-ee36445e5ec4" name="Ruin Upon the World" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Gates of Menegroth becomes the active location, moving any previous active location to the staging area."/>
     <alternate name="Ruin Upon the World" type="B">
-      <property name="Encounter Set" value="Hunting of the Wolf"/>
+      <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
@@ -2096,13 +2096,13 @@
   </card>
   <card id="db41eb04-4428-4b6f-8a7f-358cb4507a74" name="Hunting of the Wolf rules">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Hunting of the Wolf"/>
+    <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
     <property name="Type" value="Campaign"/>
     <property name="Cost" value="4"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Quest Points" value="-"/>
     <alternate name="Hunting of the Wolf rules" type="B">
-      <property name="Encounter Set" value="Hunting of the Wolf"/>
+      <property name="Encounter Set" value="Custom Set - Hunting of the Wolf"/>
       <property name="Type" value="Campaign"/>
       <property name="Engagement Cost" value="B"/>
     </alternate>

@@ -1,10 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
-  <section name="Hero" shared="False" />
-  <section name="Ally" shared="False" />
-  <section name="Attachment" shared="False" />
-  <section name="Event" shared="False" />
-  <section name="Side Quest" shared="False" />
   <section name="Quest" shared="True">
     <card qty="1" id="cb2d88e5-d469-43c6-9d69-e0cf36e2862e">The Road to Isengard</card>
     <card qty="1" id="7cae1eb0-8693-4eb8-b5f0-86a35a271410">Rouse the Ents</card>
@@ -26,13 +21,20 @@
     <card qty="1" id="c5d9d3c6-9321-4909-918d-2b81d7aa296d">Saruman's Orders</card>
     <card qty="1" id="ae2c5145-f34a-4367-bd41-1e5e7749fb68">Saruman's Voice</card>
   </section>
-  <section name="Special" shared="True" />
   <section name="Setup" shared="True">
     <card qty="1" id="27299002-f9b0-4f9d-a87b-012a6a6993ca">Gates of Isengard</card>
     <card qty="1" id="9eb0298a-cb92-426d-87c6-37749aaae44b">Orthanc</card>
     <card qty="1" id="e22fc95d-9729-40ea-b81c-1432a4a57e41">Saruman</card>
     <card qty="1" id="7275de5f-3f2f-47e0-a90a-58fc45c3bdcf">Saruman's Staff</card>
     <card qty="4" id="bb38c7cf-8c76-4b87-b218-5516bc366470">Ent of Fangorn</card>
+    <card qty="1" id="f5178135-1485-43c5-9660-99232a4cdca8">Aragorn</card>
   </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Special" shared="True" />
   <notes><![CDATA[]]></notes>
 </deck>

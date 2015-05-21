@@ -1,10 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
-  <section name="Hero" shared="False" />
-  <section name="Ally" shared="False" />
-  <section name="Attachment" shared="False" />
-  <section name="Event" shared="False" />
-  <section name="Side Quest" shared="False" />
   <section name="Quest" shared="True">
     <card qty="1" id="cf5fad0e-e1c3-4340-a467-567ff0611c6f">Helm's Deep</card>
     <card qty="1" id="9550172a-c624-40fd-b654-f2430ed93df1">The King of the Golden Hall</card>
@@ -28,12 +23,19 @@
     <card qty="3" id="8345c4ad-4c5e-484d-bc6f-d1e4bc27805f">Uruk-hai Fighter</card>
     <card qty="1" id="f28dc579-14b5-4623-848a-0a9383162b4c">Fighting Uruk-hai</card>
   </section>
-  <section name="Special" shared="True" />
   <section name="Setup" shared="True">
     <card qty="1" id="c6204e5d-7020-4360-b2ad-7db4edcc7303">The Defense of Helm's Deep</card>
     <card qty="1" id="76506b8b-4bd1-478f-bc04-512f2b1fc13f">Deeping Wall</card>
     <card qty="4" id="509f3e41-385c-4b84-ad28-7cc2eed8028c">Soldier of Isengard</card>
     <card qty="4" id="c7ada690-5aa3-4855-b2c1-35e30336edac">Poisoned Counsels</card>
+    <card qty="1" id="f5178135-1485-43c5-9660-99232a4cdca8">Aragorn</card>
   </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Special" shared="True" />
   <notes><![CDATA[]]></notes>
 </deck>
