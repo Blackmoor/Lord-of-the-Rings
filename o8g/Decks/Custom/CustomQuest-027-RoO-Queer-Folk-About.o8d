@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="21995c4e-4d95-481d-ab1c-3502da90c9ad">Lowbank Estate</card>
+    <card qty="1" id="f183df13-cece-40f9-96d3-f3fdfd8a0224">Hunting the Bandits</card>
+    <card qty="1" id="a1dc6b83-8a0e-4729-8117-4511b27b1499">Hunting the Bandits</card>
+    <card qty="1" id="35c6ab35-a9cc-4164-b0da-3e73a262badc">Hunting the Bandits</card>
+    <card qty="1" id="881f6a72-de3e-4a2f-a6d1-486fd2f8ea9c">Hunting the Bandits</card>
+    <card qty="1" id="95adc66d-8c85-48ba-a813-2672649eea98">Showdown</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="959c7b87-2402-45f7-91ec-3fa02f5a809b">Brigand Archer</card>
+    <card qty="2" id="8c1afda7-f6a7-45a2-b860-489fb2e9f3bf">Roadside Thugs</card>
+    <card qty="2" id="80f76614-1694-450e-aab2-4cf7dac58009">Old South Road Marauder</card>
+    <card qty="2" id="9703a45b-df3e-4cd2-907e-5a74d6836eb8">Highway Man</card>
+    <card qty="2" id="6acf5df3-8166-4bb9-b95d-e14556286888">Breeland Smuggler</card>
+    <card qty="2" id="f597b46e-a3e3-4d46-afd3-57166db3188b">Chetwood Skirmisher</card>
+    <card qty="2" id="e779a0b0-a3d9-45bc-bab5-e8e325deed4d">Greenway Outlaw</card>
+    <card qty="2" id="cd4d9c91-8f33-49a8-b4cd-57cbe46db54c">Pillagers</card>
+    <card qty="1" id="af40fec7-c46f-49e4-b7f0-ca12010d7877">Squint Eyed Conspirator</card>
+    <card qty="2" id="c9ac30d7-b1e7-4a99-9712-bb62af5036ac">South Road Barricade</card>
+    <card qty="1" id="f09bdbd0-cb53-4c53-9fd5-def7951735e3">Dunedain Ruins</card>
+    <card qty="2" id="c0cba2d2-25ed-4c91-93f3-a7958d34bd60">Chetwood Grove</card>
+    <card qty="2" id="3490e7ee-cef8-4a37-85f6-e95556b2ffd5">Crumbling Farmhouse</card>
+    <card qty="2" id="26e1c867-d890-4e0f-b9fb-6bd13a2b845a">Road to Buckland</card>
+    <card qty="1" id="e0ac2870-595e-4a1e-aabc-ce5e79f5bc0e">South Downs</card>
+    <card qty="2" id="ec362656-6fc8-43e1-9058-c0a1f8e0a9ec">Grey Boar's Orders</card>
+    <card qty="2" id="ef269898-83f1-4e2b-b775-07fe03e028b9">Ambush on the Road</card>
+    <card qty="2" id="0e0d15f3-121f-47c8-ad91-bb2f85f19a50">Nighttime Raid</card>
+    <card qty="2" id="c4ec06d0-6381-4a16-85e4-65046ab55c14">Arrows from the Woods</card>
+    <card qty="1" id="1d9faea7-c488-4ed5-91cc-7079b71c0de0">Rumours of Sharky</card>
+    <card qty="2" id="1ec34f15-dd63-4ccc-8da2-ff97c2a254c8">Racketeering</card>
+    <card qty="1" id="526719f4-068e-48a0-ac87-17de736b10cb">Aid from the Rangers</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="db89443c-c265-46c3-8e83-3cb9b2a9f63c">Breaking the Bandits' Back</card>
+    <card qty="1" id="367fc077-4aca-463a-8d4c-55704508006a">Queer Folk About</card>
+    <card qty="1" id="f0926081-7deb-45cc-a5e9-7ccb365fbfef">Abandoned Farmstead</card>
+    <card qty="1" id="90579365-8c66-41a7-86f8-c9c4172d1dbb">Ancient Ruins</card>
+    <card qty="1" id="9c7218a4-15d1-4b16-bfde-2fa3dc0d8604">Hidden Camp</card>
+    <card qty="1" id="1a0d20f8-f793-4dcb-abe9-9a479d78cfb9">Defensible Position</card>
+    <card qty="1" id="4dd500f9-a1c9-48cf-8394-d3dbaf52c634">The Midgewater</card>
+    <card qty="1" id="a8e27bd6-411e-46b3-954b-f43db97a640c">Coleman Cutleaf</card>
+    <card qty="1" id="f8b94f8c-e54a-462d-a4ed-3639297a1952">Grinning Azalea</card>
+    <card qty="1" id="079a59dd-4900-45ab-af5e-21b1b10923cc">Rawley the Bold</card>
+    <card qty="1" id="7431c3cc-4cd6-439c-8bad-499873c12c85">Dunmore Hillcrest</card>
+    <card qty="1" id="2eb1d192-8a88-41c4-908e-2b9647fd158f">The White Hand Captain</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Special" shared="True">
+    <card qty="1" id="6510047b-5f88-4a58-8921-8efd973f291e">Bill Ferny's Letters</card>
+    <card qty="1" id="ed0107a1-3e26-4c35-8d3e-96472a070c41">Ambush Plans</card>
+    <card qty="1" id="9a672b89-bf0e-42ab-8727-7a6de4664ee4">Caravan Goods</card>
+    <card qty="1" id="b6030b17-167d-4304-a4a0-f2382a76aaf0">Weapons Cache</card>
+    <card qty="1" id="666cf4e6-3b08-412f-ba51-e229c5838fa5">Symbol of the White Hand</card>
+    <card qty="1" id="a228feaa-aa76-4164-992a-08e46ddd3a7b">South Farthing Pipeweed</card>
+    <card qty="1" id="78856534-12ae-4369-b4ce-eb5d91c179e2">Maps of Eriador</card>
+    <card qty="1" id="9fc5937b-75b9-4b0c-b331-adb17a3aff84">Interrogating the Prisoners</card>
+    <card qty="1" id="a51342f0-a50c-4463-b1d5-75f99a4e4d9d">Bandit Informant</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - Dark Corners of Middle-earth" id="51a4e8f4-efda-464b-89fc-8fd5e519bf59" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+ <cards>
+  <card id="0d731910-a177-4b63-b31c-9028963b70e8" name="Watch Captain">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Esgaroth. Warrior."/>
+    <property name="Cost" value="9"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="94f37412-669f-4858-bbcf-7314ac72f56d" name="Melhior">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Esgaroth. Craftsman. Scout."/>
+    <property name="Cost" value="8"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="a887a276-cbcd-430c-ac4f-7382e0a82909" name="Master of Esgaroth">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Esgaroth. Noble."/>
+    <property name="Cost" value="9"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="d6c37286-676e-424b-b4a7-9816941a9fb7" name="Jael of the Song">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Esgaroth. Minstrel."/>
+    <property name="Cost" value="9"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="ecb799d2-4c7d-4dc4-9def-296a77b6d28d" name="Grandmaster Blacksmith">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Esgaroth. Craftsman."/>
+    <property name="Cost" value="9"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="178e3d32-31f8-4c29-a5cd-2a273e21a936" name="The Hand of Castamir">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Gondor. Scout."/>
+    <property name="Cost" value="12"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="9f25b06e-5b09-437e-a781-edb0a02f10c1" name="Eowyn">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Rohan. Noble. Warrior."/>
+    <property name="Cost" value="9"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="9dccc297-9585-44db-8496-3649af4a836a" name="Derin the Dead">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Esgaroth. Undead. Warrior."/>
+    <property name="Cost" value="10"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="e31c709d-84b6-4d91-81f6-119d0651c859" name="Saruman">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Istari."/>
+    <property name="Cost" value="14"/>
+    <property name="Willpower" value="3"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="a2d6bb48-4760-4330-bb1b-763bc983ec3b" name="Radagast">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Istari."/>
+    <property name="Cost" value="14"/>
+    <property name="Willpower" value="4"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="6408848d-bc48-412f-b849-afe090e8dc25" name="Traveling Artificer">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Noldor. Craftsman."/>
+    <property name="Cost" value="4"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="2f45c5f2-24e7-4d0e-8b6b-35f5ef1bfd99" name="Hornburg Outrider">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Rohan. Scout."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="b0e09074-ea3a-4e39-a000-ee1b1ab4f6d6" name="Hard-working Craftsman">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Esgaroth. Craftsman."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="76056e06-71f3-4057-83d7-79148955fc0f" name="Town Watch">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Esgaroth. Warrior."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="f05839de-c601-4049-b401-440f2b109855" name="Watching Ent">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Ent."/>
+    <property name="Keywords" value="Secrecy 2"/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="efacb61e-1fee-4461-9d5f-12797ea231fd" name="Aspiring Alchemist">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Esgaroth. Craftsman."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="1"/>
+  </card>
+  <card id="95c7c991-9bb6-47aa-a6f3-c95b814bfb70" name="Master Alchemist">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Esgaroth. Craftsman."/>
+    <property name="Cost" value="4"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="da770a65-37fe-40e1-86da-fb6966991f88" name="Night Wanderer">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Rohan. Scout."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="9df54a05-dce4-4b92-bd3e-43dfadb0c2c2" name="Travelling Bard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Minstrel."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="3ca5c7c6-1a84-4d80-bc5e-c94900c1c675" name="Umbar Refugee">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Gondor."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="0f509053-37fb-4127-b039-921a8db97e4d" name="Descendant of Beruthiel">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Gondor. Scout."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="4"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="abaa0752-74bd-4c39-aecb-a4536e92ae71" name="Dorwinion Trader">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Esgaroth. Craftsman."/>
+    <property name="Cost" value="4"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="71e33359-c13d-40b9-af3a-a3acf1a338f6" name="Eager Merchant">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Esgaroth. Craftsman."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="aedc7bb8-49f4-4d53-97ad-2e5161bf6fc4" name="Envoy of Mirkwood">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Silvan. Esgaroth."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="1"/>
+  </card>
+  <card id="116f93cd-7d00-4b88-92cc-60afd75ae350" name="Master's Adviser">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Esgaroth."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="9597fd8f-21d9-4a99-a585-de8c52c37fd9" name="Armor Smith">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Esgaroth. Craftsman."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="a95d70a7-f8a4-4563-961c-9cd702f2382a" name="Cornered Townsfolk">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Esgaroth."/>
+    <property name="Cost" value="1"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="1"/>
+  </card>
+  <card id="bf574c29-a422-429c-8297-e5cdc3304107" name="Easterling Mercenary">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Easterling. Esgaroth. Warrior."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="dcfa61c0-fdae-4d8f-a257-5aa56786050d" name="Elite Rohirrim Horseman">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Rohan. Warrior."/>
+    <property name="Keywords" value="Ranged. Sentinel."/>
+    <property name="Cost" value="5"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="84c5d80e-7354-4af7-bbc3-dd939270f3e3" name="Hired Blade">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Esgaroth. Warrior."/>
+    <property name="Cost" value="1"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="439dbf51-4d7e-4868-8904-b62f6b055d37" name="Fisherman">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Esgaroth. Craftsman."/>
+    <property name="Cost" value="1"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="1"/>
+  </card>
+  <card id="0c907014-27f3-4318-a2f1-198fb6f01151" name="Regretful Shade">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Undead. Oathbreaker."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="7331c7af-2ae5-4f0d-a56e-f66eded48c54" name="Unassuming Old Man">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Esgaroth. Scout."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="488da425-4d2f-4850-8768-e97d55ff5ab6" name="Great Celebration">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Esgaroth. Condition."/>
+    <property name="Cost" value="0"/>
+  </card>
+  <card id="1af6d135-1e62-4b5c-8371-559fb9576123" name="Mysterious Package">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Item."/>
+    <property name="Cost" value="0"/>
+  </card>
+  <card id="b78e7d1f-3b6d-43e2-a40e-10313795a93d" name="Rohan Strider">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Mount."/>
+    <property name="Cost" value="2"/>
+  </card>
+  <card id="3c3c5823-f3ec-4364-b29a-7eafd109f5e5" name="Smaug's Royalties">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Condition."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="82f20f46-17e4-4405-ba8a-61372921d37d" name="Steed of Minas Ithil">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Mount."/>
+    <property name="Cost" value="2"/>
+  </card>
+  <card id="e9da7d50-d995-481e-918c-004c9ff95cf9" name="The Toll Gate">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Egaroth. Condition."/>
+    <property name="Cost" value="0"/>
+  </card>
+  <card id="d6d49fae-91a9-428c-9779-d90610d6235a" name="Familiar Lands">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Condition."/>
+    <property name="Cost" value="2"/>
+  </card>
+  <card id="e6008057-f072-47e5-bdce-4141b1b5e3c4" name="Precise Blueprints">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Record."/>
+    <property name="Cost" value="1"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="200b730e-16da-4dad-b3d2-0b16fd1ed272" name="Studded Leather Armor">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Armor. Item."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="d6d8da87-d5c7-4274-b4bb-931df1012ad8" name="Relentless">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Skill."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="1c351f4d-57ab-45c8-9056-2fc4cc0e43e6" name="Spear of the Rider">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Item. Weapon."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="dc3b90ee-6033-48ca-a8ae-b73177bf1a9d" name="Stand Your Ground">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Condition. Skill."/>
+    <property name="Cost" value="2"/>
+  </card>
+  <card id="48f9e231-820a-43d1-bd05-52cf52a603b1" name="Saruman's Staff">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Artifact. Item. Staff."/>
+    <property name="Keywords" value="Doomed 1."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="7ce0091c-b281-4e86-b468-6264db1ff924" name="Radagast's Staff">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Artifact. Item. Staff."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="0eb4e4ca-553e-4cf0-90f4-b29dffb83378" name="A Very Good Deal">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="39ed74f1-177d-484c-ad73-d7a92df407a6" name="Song of Lorien">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Song."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="d9688618-0415-473c-9ca9-92ba78855995" name="A New Dawn">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="bd1f9524-79c9-4633-badb-477a711513cf" name="Suggestive Tune">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Song."/>
+    <property name="Cost" value="0"/>
+  </card>
+  <card id="0cef8a4b-fd8d-4ef6-ae84-b9f0b4ea0a56" name="A Day at the Market">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Cost" value="0"/>
+  </card>
+  <card id="9beebae1-efa3-4d2c-bbf9-9bf58ddcddc0" name="Elves Lullaby">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Song."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="5fd6f5eb-24a1-49ce-8684-1f675c35c7cf" name="Call to Arms">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Song."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="a61ae1b9-5b31-43b2-b7a5-a136e09f5af2" name="Trample">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Cost" value="0"/>
+  </card>
+  <card id="58d61d93-1e41-42b8-acb5-7a88ea216d2a" name="Tense Bargains">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - Dark Corners of Middle-earth"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Cost" value="0"/>
+  </card>
+ </cards>
+</set>
