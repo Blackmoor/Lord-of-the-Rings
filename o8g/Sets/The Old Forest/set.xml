@@ -8,7 +8,7 @@
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="Setup: Set Old Man Willow and Withywindle aside, out of play. Each player searches the encounter deck and adds 1 different location to the staging area. Shuffle the encounter deck. "/>
-    <property name="Setup" value="tt"/>
+    <property name="Setup" value="tttt"/>
     <alternate name="Farewell to the Shire" type="B">
       <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Quest"/>
@@ -270,7 +270,7 @@
     <property name="Encounter Set" value="The Old Forest"/>
     <property name="Type" value="Campaign"/>
     <property name="Text" value="You are playing Campaign Mode. &#10;&#10;Setup: The first player attaches Old Bogey-stories to a hero in play."/>
-    <property name="Setup" value="---"/>
+    <property name="Setup" value="-----"/>
     <alternate name="The Old Forest" type="B">
       <property name="Encounter Set" value="The Old Forest"/>
       <property name="Type" value="Campaign"/>

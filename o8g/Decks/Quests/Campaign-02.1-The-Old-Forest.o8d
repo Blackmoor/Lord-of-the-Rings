@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
-  <section name="Hero" shared="False" />
-  <section name="Ally" shared="False" />
-  <section name="Attachment" shared="False" />
-  <section name="Event" shared="False" />
   <section name="Quest" shared="True">
     <card qty="1" id="088b62be-0f26-4a87-805a-277edd463c8c">The Old Forest</card>
     <card qty="1" id="185d7d65-ebec-4d7a-aca0-b5b2e3449c3c">Farewell to the Shire</card>
@@ -29,11 +25,19 @@
     <card qty="2" id="021d423c-d9e4-4b7f-bca3-ee1ec4361a23">Ending and Failing</card>
     <card qty="1" id="75b111c9-fb49-4a53-ac50-729ff2d06abe">Tom Bombadil</card>
   </section>
-  <section name="Special" shared="True" />
   <section name="Setup" shared="True">
     <card qty="1" id="08b55b0b-93e5-42d3-a746-703c7ce9146f">Old Man Willow</card>
     <card qty="1" id="b00c623e-2aaa-4286-9fba-499fe39eb204">Withywindle</card>
     <card qty="1" id="4f945fb5-6307-4b31-91c5-5e6459f7e5bd">Old Bogey-stories</card>
+    <card qty="1" id="c9575426-59ea-4863-bf6a-407e9eae3f33">The One Ring</card>
+    <card qty="1" id="3217a119-6b86-47dd-b451-c5e45be3f874">Frodo Baggins</card>
   </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Special" shared="True" />
   <notes><![CDATA[]]></notes>
 </deck>
