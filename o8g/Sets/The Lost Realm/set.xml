@@ -13,6 +13,7 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Response: After Aragorn participates in an attack that destroys an enemy, choose an enemy not engaged with you and engage that enemy."/>
   </card>
   <card id="52b151e9-f13b-4f85-961c-62838d25b97a" name="Halbarad">
     <property name="Quantity" value="1"/>
@@ -25,6 +26,7 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
+    <property name="Text" value="While you are engaged with an enemy, Halbarad does not exhaust to commit to a quest. &#10;&#10;You may optionally engage 1 additional enemy during the encounter phase."/>
   </card>
   <card id="b313de3d-897e-4e74-afc5-d31fceaa6162" name="Weather Hills Watchman">
     <property name="Quantity" value="3"/>
@@ -36,6 +38,7 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="2"/>
+    <property name="Text" value="Response: After Weather Hills Watchman enters play, search the top 5 cards of your deck for a Signal card and add it to your hand. Shuffle the other cards back into your deck."/>
   </card>
   <card id="d15c0cc8-19c0-49d8-915f-c423e993c03b" name="Dúnedain Hunter">
     <property name="Quantity" value="3"/>
@@ -47,6 +50,7 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Forced: After Dúnedain Hunter enters play, search the top 5 cards of the encounter deck for a non-unique enemy and put it into play engaged with you. If no enemy enters play by this effect, discard Dúnedain Hunter. Shuffle the encounter deck."/>
   </card>
   <card id="2c6e85b4-18e3-4c21-95eb-5d74b9eebb5b" name="Sarn Ford Sentry">
     <property name="Quantity" value="3"/>
@@ -58,6 +62,7 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="2"/>
+    <property name="Text" value="Response: After Sarn Ford Sentry enters play, draw 1 card for each enemy engaged with you."/>
   </card>
   <card id="a933917f-4c7e-416e-8b08-ee2e60f6ab5f" name="Warden of Annúminas">
     <property name="Quantity" value="3"/>
@@ -69,6 +74,7 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Warden of Annúminas gets +1 Ò for each enemy engaged with you."/>
   </card>
   <card id="687c526e-85b5-47e3-b596-37148772c013" name="Ranger Summons">
     <property name="Quantity" value="3"/>
@@ -77,6 +83,7 @@
     <property name="Traits" value="Signal."/>
     <property name="Keywords" value="Play only if you control a Dúnedain hero."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Planning Action: Shuffle 1 of your set aside Ranger of the North allies with the encounter keyword into the encounter deck. Then, remove Ranger Summons from the game."/>
   </card>
   <card id="cda0276f-d412-47f6-aecf-02ae8dc64c9a" name="Tireless Hunters">
     <property name="Quantity" value="3"/>
@@ -84,12 +91,14 @@
     <property name="Sphere" value="Tactics"/>
     <property name="Keywords" value="Play only before the resolving enemy attacks step."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Combat Action: Choose an enemy not engaged with you. Engage that enemy. Then, discard a shadow card from that enemy, if able."/>
   </card>
   <card id="86583668-7581-4bca-ba10-a4752878740e" name="Expert Trackers">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Cost" value="0"/>
+    <property name="Text" value="Response: After you engage an enemy, exhaust a Scout or Ranger character to place X progress tokens on a location. X is the engaged enemy’s printed $."/>
   </card>
   <card id="8b9da56f-6713-457f-8f73-6fdc8168348f" name="Heir of Valandil">
     <property name="Quantity" value="3"/>
@@ -99,6 +108,7 @@
     <property name="Traits" value="Title."/>
     <property name="Keywords" value="Attach to a Dúnedain hero."/>
     <property name="Cost" value="2"/>
+    <property name="Text" value="Planning Action: Exhaust Heir of Valandil to reduce the cost of the next Dúnedain ally you play this phase by 1 for each enemy engaged with you."/>
   </card>
   <card id="7b1fb1e7-481d-4a14-85b1-d5d2c60087b6" name="Athelas">
     <property name="Quantity" value="3"/>
@@ -107,6 +117,7 @@
     <property name="Traits" value="Item."/>
     <property name="Keywords" value="Attach to a Dúnedain or Healer hero."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Discard Athelas and exhaust attached character to heal all damage on a character. You may discard a Condition attachment from that character."/>
   </card>
   <card id="7a8a2dbe-5a97-42da-a3c9-283724783145" name="Secret Vigil">
     <property name="Quantity" value="3"/>
@@ -115,6 +126,7 @@
     <property name="Traits" value="Condition."/>
     <property name="Keywords" value="Attach to an enemy. Limit 1 per enemy. Attached enemy gets -1 $."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Response: When attached enemy is destroyed, reduce each player’s threat by the attached enemy’s printed $."/>
   </card>
   <card id="130df5c3-a050-4690-8dac-d1ae937a2e3c" name="Star Brooch">
     <property name="Quantity" value="3"/>
@@ -123,6 +135,7 @@
     <property name="Traits" value="Item."/>
     <property name="Keywords" value="Attach to a Dúnedain or Noldor hero. Limit 1 per hero."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="While you are engaged with an enemy, attached hero gets +1 Ò and cannot have its Ò reduced."/>
   </card>
   <card id="128f940d-8a71-4a80-83c2-bdbc014d95c9" name="Gather Information" size="PlayerQuestCard">
     <property name="Quantity" value="3"/>
@@ -132,6 +145,7 @@
     <property name="Cost" value="0"/>
     <property name="Quest Points" value="4"/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="Response: After this stage is defeated, each player may search his deck for 1 card and add it to his hand. Each player shuffles his deck."/>
   </card>
   <card id="156ed210-ab6e-4da9-b8c0-48984711edf2" name="Ranger of the North" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -144,6 +158,7 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="When Revealed: The first player chooses a player to take control of Ranger of the North. Then, either deal 2 damage to an enemy or place 2 progress tokens on a location."/>
     <property name="Setup" value="t"/>
   </card>
   <card id="f7f5ca4e-42db-48f9-b4a5-efe419f53fa3" name="Iârion" size="EncounterCard">
@@ -157,6 +172,7 @@
     <property name="Attack" value="X"/>
     <property name="Defense" value="X"/>
     <property name="Health" value="4"/>
+    <property name="Text" value="Response: After a side quest is revealed from the encounter deck, ready Iârion.&#10;If Iârion leaves play, the players lose the game."/>
   </card>
   <card id="e542f4f9-420f-40eb-8c95-d648f2589511" name="Orc War Party" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -169,6 +185,7 @@
     <property name="Attack" value="6"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="6"/>
+    <property name="Text" value="While Orc War Party is in the staging area, enemies in the staging area cannot take damage.&#10;The players cannot win the game while Orc War Party is in play."/>
   </card>
   <card id="f9d0fb76-13bc-44f9-853f-8d2e417d0098" name="Chetwood Forest" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -177,6 +194,8 @@
     <property name="Traits" value="Arnor. Forest."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="Travel: One player chooses and engages an enemy in the staging area."/>
+    <property name="Shadow" value="Shadow: Defending player either exhausts a hero he controls, or returns attacking enemy to the staging area after this attack."/>
   </card>
   <card id="528afc17-e78f-4b02-8080-e936955a77b9" name="Borders of Bree-land" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -185,6 +204,8 @@
     <property name="Traits" value="Arnor."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="4"/>
+    <property name="Text" value="While Borders of Bree-land is in the staging area, it gains: “Forced: At the beginning of the quest phase, return 1 enemy engaged with a player to the staging area.”"/>
+    <property name="Shadow" value="Shadow: Defending character gets –1 Ú for each quest stage in play."/>
   </card>
   <card id="c3c34a86-6089-4a3f-b1b6-f81d8cbc2caa" name="Outlying Homestead" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -194,16 +215,20 @@
     <property name="Keywords" value="Doomed 1."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="8"/>
+    <property name="Text" value="While Outlying Homestead is in the staging area, players cannot reduce their threat. &#10;&#10;Travel: Reveal a card from the encounter deck."/>
   </card>
   <card id="303b01b8-2d61-4c20-81a0-50800e18d617" name="Sudden Assault" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Intruders in Chetwood"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: If the total Ò of characters committed to the quest is greater than the total $ in the staging area, each enemy in the staging area makes an immediate attack against the first player. If no attack is made this way, shuffle Sudden Assault and the encounter discard pile into the encounter deck."/>
   </card>
   <card id="cbbcf9d4-f9d8-448a-9454-3e36c493a31e" name="Surprising Speed" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Intruders in Chetwood"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each player returns 1 enemy engaged with him to the staging area. If no enemy was returned to the staging area this way, Surprising Speed gains surge and doomed 1."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. Return attacking enemy to the staging area after this attack."/>
   </card>
   <card id="85eb724c-a258-4d94-83ba-5e9f21d82491" name="Orc Rearguard" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -211,6 +236,7 @@
     <property name="Type" value="Side Quest"/>
     <property name="Quest Points" value="3"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="No more than 3 progress tokens can be placed on the current quest each round.&#10;&#10;While Orc Rearguard is the current quest it gains: “Forced: At the end of the staging step, reveal 1 card from the encounter deck.”"/>
   </card>
   <card id="9497ef98-8f38-4647-bf77-28d8007a911a" name="Rescue Iârion" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -218,6 +244,7 @@
     <property name="Type" value="Side Quest"/>
     <property name="Quest Points" value="6"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="Time 4. When Revealed: The first player loses control of Iârion and places him facedown underneath this stage. When this stage is defeated, the first player takes control of Iârion and exhausts him. &#10;&#10;Forced: After the last time counter is removed from this stage, discard Iârion."/>
   </card>
   <card id="00d81c85-395e-4990-b0ff-7cbd9908f541" name="Cornered Orc" size="EncounterCard">
     <property name="Quantity" value="5"/>
@@ -229,6 +256,8 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
+    <property name="Text" value="Forced: After Cornered Orc engages a player, it makes an immediate attack."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if the defending character is damaged)."/>
   </card>
   <card id="ea225b12-75e1-4253-9458-c71c1c304a8f" name="Amon Forn" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -240,6 +269,7 @@
     <property name="Threat" value="4"/>
     <property name="Quest Points" value="6"/>
     <property name="Victory Points" value="3"/>
+    <property name="Text" value="While Amon Forn is the active location, it gains: “Forced: After an Orc enemy is added to the staging area, it makes an immediate attack against the first player.” The players cannot win while Amon Forn is in play."/>
   </card>
   <card id="836a759d-d768-4119-929f-cfe874ba944a" name="Weathered Hilltop" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -249,6 +279,7 @@
     <property name="Keywords" value="Weathered Hilltop gets +1 $ for each resource token on it."/>
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="5"/>
+    <property name="Text" value="Forced: After a Weather treachery is revealed from the encounter deck, place 1 resource token here."/>
   </card>
   <card id="27da4ea2-7892-409e-b6e0-38ad215d5d0c" name="Exposed Ridge" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -257,6 +288,8 @@
     <property name="Traits" value="Arnor. Hills."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="While Exposed Ridge is the active location, it gains: “Forced: At the end of the refresh phase, each player deals 1 damage to a character he controls.”"/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each damaged character the defending player controls."/>
   </card>
   <card id="718d940a-2b58-4986-af10-06a81546bc9f" name="Sheltered Valley" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -265,6 +298,7 @@
     <property name="Traits" value="Arnor. Hills."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="4"/>
+    <property name="Text" value="While Sheltered Valley is the active location, it gains: “Response: When Sheltered Valley is explored, heal all damage from 1 character.” &#10;&#10;Travel: Remove 1 resource token from the Mission objective."/>
   </card>
   <card id="8bf452c7-09ab-482b-b44c-0861b7e63ecc" name="Concealed Orc-camp" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -273,12 +307,15 @@
     <property name="Traits" value="Arnor. Hills."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="2"/>
+    <property name="Text" value="While Concealed Orc-camp is the active location, it gains: “Response: When Concealed Orc-camp is explored, place 1 resource token on the Mission objective.” &#10;&#10;Travel: The first player searches the encounter deck and discard pile for an Orc enemy and puts it into play engaged with him. Shuffle the encounter deck."/>
   </card>
   <card id="3470ed02-38dc-4387-8fe0-265b13fe96a1" name="Ice Storm" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Weather Hills"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Weather."/>
+    <property name="Text" value="When Revealed: Each player assigns X damage among characters he controls, where X is the number of quest cards in play. Then, exhaust each damaged character."/>
+    <property name="Shadow" value="Shadow: Assign X damage among characters you control. X is the number of quest cards in play."/>
   </card>
   <card id="0e192334-fa2b-4c1a-bfab-0aa44bf88db4" name="Find Shelter" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -287,6 +324,7 @@
     <property name="Keywords" value="Surge. Time 4."/>
     <property name="Quest Points" value="6"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="Forced: After the last time counter is removed from this quest card, each player deals 4 damage to a hero he controls. Then, place 4 time counters on this quest card."/>
   </card>
   <card id="530e7365-0a5a-46e5-9720-5377dfa1a01b" name="Thaurdir" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -300,6 +338,7 @@
     <property name="Attack" value="6"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="9"/>
+    <property name="Text" value="Forced: After a treachery card with the Sorcery trait is revealed from the encounter deck, Thaurdir heals 3 damage and makes an immediate attack against the first player."/>
   </card>
   <card id="8e16a07f-d6c1-4040-b05c-bb2bc1ab92c8" name="Thaurdir's Damned" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -311,6 +350,7 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="6"/>
+    <property name="Text" value="Forced: After Thaurdir’s Damned engages you, discard the top 2 cards of your deck and assign X damage among characters you control. X is the combined printed cost of the discarded cards."/>
   </card>
   <card id="fe419fec-bc64-493c-aa23-fa3e62c57768" name="Baleful Shade" size="EncounterCard">
     <property name="Quantity" value="4"/>
@@ -322,6 +362,8 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Forced: When Baleful Shade attacks, the defending player discards the top card of his deck. If the discarded card is an ally, Baleful Shade gets +2 Û for this attack."/>
+    <property name="Shadow" value="Shadow: Exhaust a character you control."/>
   </card>
   <card id="82ca7902-f8fa-4352-8f54-f5f6a8875c51" name="Broken Battlements" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -330,6 +372,7 @@
     <property name="Traits" value="Fornost. Ruins."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="6"/>
+    <property name="Text" value="Time 3. Forced: After the last time counter is removed from Broken Battlements, each player discards the top 5 cards of his deck and places 1 time counter here.&#10;&#10;Travel: Each player discards the top card of his deck."/>
   </card>
   <card id="a5e60892-b524-43cf-a501-372a624e785e" name="Norbury Tombs" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -338,6 +381,7 @@
     <property name="Traits" value="Fornost. Ruins."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="5"/>
+    <property name="Text" value="While Norbury Tombs is the active location, it gains: “Response: When Norbury Tombs is explored, each player shuffl es the top 5 cards of his discard pile back into his deck.”&#10;&#10;Travel: Return the topmost enemy in the encounter discard pile to the staging area."/>
   </card>
   <card id="5a90429e-d5cf-442f-b8d8-af144b3ea861" name="Fornost Square" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -347,6 +391,7 @@
     <property name="Keywords" value="Fornost Square gets +1 $ for each resource token on it."/>
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="4"/>
+    <property name="Text" value="Forced: After the first player discards any number of cards from the top of his deck, place 1 resource token here."/>
   </card>
   <card id="94ef148f-62f7-4659-8a49-9c42b9ed7cef" name="Haunted Keep" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -355,6 +400,8 @@
     <property name="Traits" value="Fornost. Ruins."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="While Haunted Keep is the active location, the first Undead enemy revealed each round gains surge."/>
+    <property name="Shadow" value="Shadow: Defending player discards the top card of his deck. Attacking enemy gets +X Û where X is the discarded card’s printed cost."/>
   </card>
   <card id="46affe37-a561-4c15-bc0e-7c36d78ba056" name="Deadmen's Gate" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -363,6 +410,8 @@
     <property name="Traits" value="Fornost. Ruins."/>
     <property name="Threat" value="4"/>
     <property name="Quest Points" value="4"/>
+    <property name="Text" value="While Deadmen’s Gate is the active location, it gains: “Forced: After a player triggers an ‘Action’ or ‘Response’ effect, he must discard the top card of his deck.”"/>
+    <property name="Shadow" value="Shadow: Discard an attachment you control."/>
   </card>
   <card id="1c240b63-841f-4b76-9808-13c0ee0f986e" name="Unnatural Fog" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -370,6 +419,7 @@
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Sorcery."/>
     <property name="Keywords" value="Doomed 2."/>
+    <property name="Text" value="When Revealed: Each player must either discard 1 card from the top of his deck for each questing character he controls, or remove each character he controls from the quest."/>
   </card>
   <card id="e3d50fbb-2b94-481a-a1e5-7925ca8384ff" name="The Shadow World" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -377,6 +427,7 @@
     <property name="Type" value="Side Quest"/>
     <property name="Keywords" value="Surge."/>
     <property name="Quest Points" value="5"/>
+    <property name="Text" value="Forced: At the end of the refresh phase, each player discards the top X cards of his deck, where X is the number of Undead enemies engaged with him."/>
   </card>
   <card id="9d5d2136-f1e7-40fd-9a0f-fbac3c87f8f6" name="Angmar Orc" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -388,6 +439,8 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="When Revealed: Either discard 1 ally from play, or reveal an additional encounter card."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If this attack destroys an ally, return attacking enemy to the staging area."/>
   </card>
   <card id="b2fcd022-5409-4a2f-9775-390d2c3ce7d2" name="Angmar Marauder" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -399,6 +452,8 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
+    <property name="Text" value="Forced: After Angmar Marauder attacks and destroys an ally, return it to the staging area."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each ally the defending player controls."/>
   </card>
   <card id="cc13ea34-ab19-474e-afe5-29c8651126d0" name="Angmar Captain" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -410,6 +465,7 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Forced: After Angmar Captain attacks and destroys an ally, discard the top card of the defending player’s deck. If the discarded card is an ally, Angmar Captain makes an additional attack against the defending player."/>
   </card>
   <card id="e347f103-7444-4681-ae57-49c7b84dd3c0" name="Orc Ambush" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -418,6 +474,7 @@
     <property name="Keywords" value="Each Orc enemy gets +1 $, +1 Û, and +1 Ú."/>
     <property name="Quest Points" value="4"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for an Orc enemy and put it into play engaged with him. Shuffle the encounter deck."/>
   </card>
   <card id="25aec3b5-3221-411c-83a0-b3ceed2b5c06" name="Rugged Country" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -426,6 +483,8 @@
     <property name="Traits" value="Arnor."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="If the current quest is a side quest, Rugged Country gets +2 $."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each quest card in play."/>
   </card>
   <card id="e2763cc3-019b-4397-b6f8-f647bf3fdf43" name="Shrouded Hills" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -435,17 +494,21 @@
     <property name="Keywords" value="X is the number of quest cards in play."/>
     <property name="Threat" value="X"/>
     <property name="Quest Points" value="5"/>
+    <property name="Text" value="While there is only 1 quest card in play, Shrouded Hills gains surge."/>
   </card>
   <card id="fd2014e3-43df-4378-9c67-61f99353f87f" name="Pressing Needs" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Eriador Wilds"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 2."/>
+    <property name="Text" value="When Revealed: Either search the encounter deck and discard pile for an encounter side quest and reveal it, or choose a different quest card in play to be the current quest until the end of the phase. Shuffle the encounter deck."/>
   </card>
   <card id="7d2b321b-d4e6-4dd4-a124-028c772592ee" name="Weight of Responsibility" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Eriador Wilds"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Reveal 1 encounter card for each quest card in play."/>
+    <property name="Shadow" value="Shadow: Defending player discards 1 attachment he controls for each quest card in play."/>
   </card>
   <card id="efcd8672-26f1-4c32-b6ef-5a06f80e406a" name="Lost in the Wilderness" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -453,12 +516,15 @@
     <property name="Type" value="Side Quest"/>
     <property name="Quest Points" value="4"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="When Revealed: Each player places all cards in his hand facedown underneath Lost in the Wilderness.&#10;&#10;Forced: When Lost in the Wilderness is defeated, return each card underneath to its owner’s hand."/>
   </card>
   <card id="8a2d9c58-cf82-4e3f-90df-240e2bebb5e9" name="Biting Wind" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Foul Weather"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Weather."/>
+    <property name="Text" value="When Revealed: Assign X damage among characters committed to the quest. X is the number of characters committed to the quest."/>
+    <property name="Shadow" value="Shadow: Deal 1 damage to the defending character."/>
   </card>
   <card id="b79e8b2a-0ebe-4698-bc6d-43c19d44202d" name="Freezing Blast" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -466,12 +532,15 @@
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Weather."/>
     <property name="Keywords" value="Doomed 2."/>
+    <property name="Text" value="When Revealed: Remove each damaged character from the quest."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each damaged character the defending player controls."/>
   </card>
   <card id="9db89c44-e692-4afa-ac07-d4ac35165cb7" name="Cold from Angmar" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Foul Weather"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Weather."/>
+    <property name="Text" value="When Revealed: Each player deals 1 damage to a hero he controls. Then, attach Cold from Angmar to the current quest. (Counts as a Condition attachment with the text: “Treat each damaged character’s printed text box as if it were blank, except for keywords and Traits.”)"/>
   </card>
   <card id="5388683d-3240-433a-9602-a7367e428406" name="Make Camp" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -480,6 +549,7 @@
     <property name="Keywords" value="Surge."/>
     <property name="Quest Points" value="6"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="Characters cannot be healed.&#10;&#10;Response: After Make Camp is defeated, each player heals up to 3 damage from a hero he controls."/>
   </card>
   <card id="70cc4fe9-8e97-4d83-8f48-06dc6a43c43e" name="Ruins of Arnor" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -488,6 +558,8 @@
     <property name="Traits" value="Arnor. Ruins."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="Forced: After the “when revealed” effect of a treachery card is canceled, raise each player’s threat by 2."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If this attack destroys a character, the defending player raises his threat by 2."/>
   </card>
   <card id="ff4c59d7-6ad7-4fa7-80da-97fd5f8f3169" name="Ancient Causeway" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -496,11 +568,14 @@
     <property name="Traits" value="Arnor. Ruins."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="2"/>
+    <property name="Text" value="Forced: When Ancient Causeway is explored, raise each player's threat by 2."/>
   </card>
   <card id="f2a34148-f5af-4a16-a1ae-953ea5d5482f" name="Tragic Discovery" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Ruins of Arnor"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Raise each player’s threat by the $ of the active location."/>
+    <property name="Shadow" value="Shadow: Defending player either raises his threat by 3, or this attack is considered undefended."/>
   </card>
   <card id="047ca6cd-733d-46aa-b2db-48a9c63bfc24" name="Search the Ruins" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -509,6 +584,7 @@
     <property name="Keywords" value="Surge."/>
     <property name="Quest Points" value="8"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="Forced: At the end of the refresh phase, raise each player’s threat by 2.&#10;&#10;Response: After Search the Ruins is defeated, reduce each player’s threat by 3."/>
   </card>
   <card id="aa6914e2-4b79-4a95-ab3e-386d6a924bee" name="Dead Lord" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -520,6 +596,8 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Forced: After Dead Lord engages you, put the topmost Undead enemy in the discard pile into play engaged with you."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If this attack destroys a character, reveal 1 encounter card."/>
   </card>
   <card id="21fec323-3155-4b64-8506-fa87d44f01fc" name="Cursed Dead" size="EncounterCard">
     <property name="Quantity" value="5"/>
@@ -531,11 +609,15 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
+    <property name="Text" value="When Revealed: Put each copy of Cursed Dead in the discard pile into play in the staging area."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if there is a copy of the defending character in its owner’s discard pile)."/>
   </card>
   <card id="123bc772-2c27-4f26-a7f2-a3c4928a9dc4" name="Restless Evil" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Cursed Dead"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Each Undead enemy gets +1 $, +1 Û, and +1 Ú until the end of the round. If there are no Undead enemies in play, Restless Evil gains surge."/>
+    <property name="Shadow" value="Shadow: Each Undead enemy engaged with you gets +1 Û and +1 Ú until the end of the round."/>
   </card>
   <card id="7295a9fb-961f-42ad-b07d-33793e2f2274" name="Seal the Tomb" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -545,12 +627,15 @@
     <property name="Keywords" value="Surge."/>
     <property name="Quest Points" value="6"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="Forced: At the end of the refresh phase, discard the top 3 cards of the encounter deck. Return the topmost Undead enemy in the encounter discard pile to the staging area."/>
   </card>
   <card id="d664e3bd-3f0d-47d8-91bb-d61b27a13c22" name="Terror of the North" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Dark Sorcery"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Sorcery."/>
+    <property name="Text" value="When Revealed: Each player discards the top 3 cards of his deck. Until the end of the round, add 2 to the total $ in the staging area for each different card type discarded this way."/>
+    <property name="Shadow" value="Shadow: Defending player discards the top 3 cards of his deck. Attacking enemy gets +1 Û for each different card type discarded this way."/>
   </card>
   <card id="f8d69554-7cc1-4adc-b021-b6d3601e777d" name="Dark Sorcery" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -558,6 +643,8 @@
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Sorcery."/>
     <property name="Keywords" value="Doomed 2."/>
+    <property name="Text" value="When Revealed: Each player discards each ally he controls that has the same title as a card in his discard pile."/>
+    <property name="Shadow" value="Shadow: Discard the defending character if there is a copy of that character in its owner’s discard pile."/>
   </card>
   <card id="a6ea339d-aec3-4ec7-9374-c1442385c260" name="Heavy Curse" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -565,6 +652,7 @@
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Sorcery."/>
     <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: “When a player plays a card, increase its cost by 1 if there is a card that has the same title in its owner’s discard pile.”)"/>
   </card>
   <card id="c3e07d8f-3af3-4f21-8951-d3300ca376fa" name="The Power of Angmar" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -573,6 +661,7 @@
     <property name="Keywords" value="Surge."/>
     <property name="Quest Points" value="8"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="Cards in each player’s discard pile cannot leave that player’s discard pile by player card effect.&#10;&#10;Forced: After this stage is defeated, each player shuffl es the top 5 cards of his discard pile back into his deck."/>
   </card>
   <card id="be3ca12f-2550-48b4-9384-e71a1b401d4e" name="Stop the War Party" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -580,6 +669,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="Setup: Put Iârion into play. Add 1 Orc War Party to the staging area. Each player adds 1 different location to the staging area. Shuffle the encounter deck."/>
     <property name="Setup" value="ts"/>
     <alternate name="Stop the War Party" type="B">
       <property name="Encounter Set" value="Intruders in Chetwood"/>
@@ -587,6 +677,7 @@
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="30"/>
+      <property name="Text" value="Enemies do not make engagement checks.&#10;&#10;Forced: At the end of the refresh phase, raise each player's threat by 1 for each enemy in the staging area.&#10;&#10;If the players control Iarion and defeat this stage, they win the game."/>
     </alternate>
   </card>
   <card id="918c4387-bf40-48f1-bf65-5ad5acb91784" name="Scattered Among the Hills" size="QuestCard">
@@ -595,6 +686,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="Setup: Set Orc Ambush and Amon Ford aside, out of play. Create the Orc deck (see insert) and set it next to the quest deck. Make Exposed Ridge the active location. Add Hunting the Orcs and 1 Weathered Hilltop to the staging area. Shuffle the encounter deck."/>
     <property name="Setup" value="ttlss"/>
     <alternate name="Scattered Among the Hills" type="B">
       <property name="Encounter Set" value="The Weather Hills"/>
@@ -602,6 +694,7 @@
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
+      <property name="Text" value="The first Weather treachery revealed each round gains surge.&#10;&#10;Forced: After the active location is explored, reveal the top card of the Orc deck and resolve its staging as if it was just revealed from the encounter deck (the top 2 cards instead if there are 3 or more players in the game)."/>
     </alternate>
   </card>
   <card id="95d26956-eda3-43b2-b68b-6f8010d076bd" name="Cornered Animals" size="QuestCard">
@@ -610,12 +703,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: End the current phase. Shuffle the encounter discard pile and the Orc deck into the encounter deck. Reveal Orc Ambush and Amon Ford and add them to the staging area."/>
     <alternate name="Cornered Animals" type="B">
       <property name="Encounter Set" value="The Weather Hills"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="20"/>
+      <property name="Text" value="Each damaged character gets -1 Ò.&#10;&#10;Forced: At the beginning of the quest phase, either discard 1 resource token from Savage Counter-attack, or reveal an additional encounter card this phase.&#10;&#10;If the players defeat this stage, they win the game."/>
     </alternate>
   </card>
   <card id="18484359-d4b5-4ed6-b7be-e013fae4df43" name="Hunting the Orcs" size="EncounterCard">
@@ -623,10 +718,12 @@
     <property name="Encounter Set" value="The Weather Hills"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Mission."/>
+    <property name="Text" value="Forced: After an enemy is defeated, place 1 resource token here. Then if there are at least X resource tokens here, flip Hunting the Orcs and place each resource token here on Savage Counterattack. After that, advance to stage 2. X is 3 more than the number of players in the game."/>
     <alternate name="Savage Counter-attack" type="B">
       <property name="Encounter Set" value="The Weather Hills"/>
       <property name="Type" value="Objective"/>
       <property name="Traits" value="Mission."/>
+      <property name="Text" value="Forced: After Savage Counter-attack enters play, advance to stage 2A.&#10;&#10;Forced: After an enemy attacks and destroys a character, discard 1 resource token here.&#10;&#10;If there are no resource tokens here, the players lose the game."/>
     </alternate>
   </card>
   <card id="6e449166-50ab-4ec5-875f-3cc8adcbb64e" name="The Shades of Angmar" size="QuestCard">
@@ -635,6 +732,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="Setup: Put Iârion into play. Set Thaurdir aside, out of play. Add 1 copy of Fornost Square to the staging area. Shuffle the encounter deck."/>
     <property name="Setup" value="tts"/>
     <alternate name="The Shades of Angmar" type="B">
       <property name="Encounter Set" value="Deadmen's Dike"/>
@@ -642,6 +740,7 @@
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="11"/>
+      <property name="Text" value="When Revealed: Each player musst search the encounter deck for a Baleful Shade and put it into play engaged with him. Shuffle the encounter deck and reveal 1 encounter card per player.&#10;&#10;Forced: At the end of the refresh phase, each player discards the top card of his deck.&#10;&#10;If a player has no cards in his deck, he is eliminated from the game."/>
     </alternate>
   </card>
   <card id="89f263b0-c4a5-43ea-b59d-6207f9f65954" name="A Fell Wraith" size="QuestCard">
@@ -650,12 +749,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Add Thaurdir to the staging area. Then, reveal 1 encounter card per player."/>
     <alternate name="A Fell Wraith" type="B">
       <property name="Encounter Set" value="Deadmen's Dike"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="13"/>
+      <property name="Text" value="Forced: After Thaurdir attacks and destroys a character, that character's controller must either discard the top 3 cards of his deck, or return Thaurdir to the staging area.&#10;&#10;If a player has no cards in his deck, he is eliminated from the game. The players cannot defeat this stage while Thaurdir has any hit points remaining. If the players defeat this stage, they win the game."/>
     </alternate>
   </card>
  </cards>

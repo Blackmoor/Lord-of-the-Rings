@@ -1228,6 +1228,44 @@ def flipcard(card, x = 0, y = 0):
 		notify("{} turns '{}' face up.".format(me, card))
 
 
+def rotateLeft(card, x = 0, y = 0):
+	# Rot90, Rot180, etc. are just aliases for the numbers 0-3
+	mute()
+	if card.controller == me:
+		card.orientation = (card.orientation + 1) % 4
+		if card.isFaceUp:
+			notify("{} Rotates '{}'".format(me, card.Name))
+		else:
+			notify("{} Rotates a card".format(me))
+	#mute()
+	#if card.orientation == Rot0:
+	#	card.orientation = Rot90
+	#elif card.orientation == Rot90:
+	#	card.orientation = Rot180
+	#elif card.orientation == Rot180:
+	#	card.orientation = Rot270
+	#else:
+	#	card.orientation = Rot0
+
+def rotateRight(card, x = 0, y = 0):
+	# Rot90, Rot180, etc. are just aliases for the numbers 0-3
+	mute()
+	if card.controller == me:
+		card.orientation = (card.orientation - 1) % 4
+		if card.isFaceUp:
+			notify("{} Rotates '{}'".format(me, card.Name))
+		else:
+			notify("{} Rotates a card".format(me))
+	#mute()
+	#if card.orientation == Rot0:
+	#	card.orientation = Rot270
+	#elif card.orientation  == Rot270:
+	#	card.orientation = Rot180
+	#elif card.orientation == Rot180:
+	#	card.orientation = Rot90
+	#else:
+	#	card.orientation = Rot0
+
 def makeActive(card, x=0, y=0):
 	mute()
 	if card.Type != "Location": return

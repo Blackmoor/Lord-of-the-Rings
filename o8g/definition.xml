@@ -5,7 +5,7 @@
 	id="a21af4e8-be4b-4cda-a6b6-534f9717391f" 
 	octgnVersion="3.1.162.360"
 	scriptVersion ="3.1.0.1"
-	version="2.4.27.5"
+	version="2.4.28.0"
 	markersize="16"
 	tags="LotR LCG cooperative"
 	description="The Lord of the Rings: The Card Game is a cooperative card game that puts 1-4 players in control of the most powerful characters and artifacts of Middle-earth.&#10;&#10;Players will select heroes, gather allies, acquire artifacts, and coordinate their efforts to face Middle-earth’s most dangerous fiends. By cooperating to overcome the obstacles drawn from the encounter deck, you will complete the quest before you and claim victory!"
@@ -68,6 +68,7 @@
 		<size name="QuestCard" width="88" height="63" back="cards/encounter.jpg" front="cards/encounter.jpg" cornerRadius="4" backWidth="63" backHeight="88" backCornerRadius="4" />
 		<size name="PlayerQuestCard" width="88" height="63" back="cards/card.jpg" front="cards/card.jpg" cornerRadius="4" backWidth="63" backHeight="88" backCornerRadius="4" />
 		<size name="EncounterCard" width="63" height="88" back="cards/encounter.jpg" front="cards/encounter.jpg" cornerRadius="4"/>
+		<size name="Square" width="63" height="63" back="cards/square.jpg" front="cards/square.jpg" cornerRadius="4" backWidth="63" backHeight="63" backCornerRadius="4" />
 	</card>
 	<table name="Table" visibility="undefined" ordered="False" width="1150" height="536" board="background/tabletop.png" boardPosition="-575,-268,1150,536" background="background/background.jpg" backgroundStyle="uniformToFill">
 		<groupaction menu="Done" default="False" shortcut="Ctrl+Right" execute="playerDone" />
@@ -109,6 +110,8 @@
 		<cardaction menu="Discard" default="False" shortcut="Del" execute="discard" />
 		<cardaction menu="Shuffle into Deck" default="False" execute="shuffleIntoDeck" />
 		<cardaction menu="Lock" default="False" shortcut="ctrl+K" execute="lockCard" />
+		<cardaction menu="Rotate Left" default="False" shortcut="F8" execute="rotateLeft" />
+		<cardaction menu="Rotate Right" default="False" shortcut="F9" execute="rotateRight" />
 		<cardaction menu="Double Click" default="True" execute="defaultAction" />
 		<groupactions menu="Random">
 			<groupaction menu="Coin Flip" default="False" execute="flipCoin" />

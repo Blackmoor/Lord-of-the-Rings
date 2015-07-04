@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="b6af7b48-e072-45e8-a745-4de2ac8ded8c">Across the Wastes</card>
+    <card qty="1" id="43509bf0-3250-420f-b743-e56c3ad5cd90">Howling at Night</card>
+    <card qty="1" id="fac30859-0ad6-4d07-8b73-b5e2af044a52">Battle with the Pack</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="4" id="4c68d3ef-2309-47db-ba21-08bf2f7336b9">Northern Warg</card>
+    <card qty="2" id="9feef7b4-4ca7-4adc-aeb7-56947254588a">Blood-thirsty Warg</card>
+    <card qty="2" id="da6d1bd2-575b-4292-9757-3792b79a4b78">Hunting Pack</card>
+    <card qty="3" id="22d6a151-ee2a-4ad0-9d97-5eddd5cc0391">White Warg</card>
+    <card qty="3" id="e49be9ae-10f1-44fe-a1b8-fc931be2d208">Wolf of Angmar</card>
+    <card qty="2" id="41b47c87-94c4-47ff-b8c6-3f25dba0ca49">Eriador Wastes</card>
+    <card qty="2" id="019ebbd1-9632-4c0a-bd98-4ecef29afb1a">Warg's Den</card>
+    <card qty="3" id="d960e5a1-73eb-4699-b3c1-2eadeb2c6f23">North Downs</card>
+    <card qty="2" id="cf33276f-22e5-467d-9543-6b345d17e7bc">Sudden Darkness</card>
+    <card qty="3" id="92ef70d1-b46c-454d-ab7d-2ab56227d9be">Predatory Wolves</card>
+    <card qty="3" id="8a2d9c58-cf82-4e3f-90df-240e2bebb5e9">Biting Wind</card>
+    <card qty="2" id="b79e8b2a-0ebe-4698-bc6d-43c19d44202d">Freezing Blast</card>
+    <card qty="3" id="9db89c44-e692-4afa-ac07-d4ac35165cb7">Cold from Angmar</card>
+    <card qty="1" id="5388683d-3240-433a-9602-a7367e428406">Make Camp</card>
+    <card qty="3" id="25aec3b5-3221-411c-83a0-b3ceed2b5c06">Rugged Country</card>
+    <card qty="1" id="e2763cc3-019b-4397-b6f8-f647bf3fdf43">Shrouded Hills</card>
+    <card qty="2" id="fd2014e3-43df-4378-9c67-61f99353f87f">Pressing Needs</card>
+    <card qty="2" id="7d2b321b-d4e6-4dd4-a124-028c772592ee">Weight of Responsibility</card>
+    <card qty="1" id="efcd8672-26f1-4c32-b6ef-5a06f80e406a">Lost in the Wilderness</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="77dd117d-b2b6-4324-aa59-09fd1343fde9">Pack Leader</card>
+    <card qty="1" id="e2763cc3-019b-4397-b6f8-f647bf3fdf43">Shrouded Hills</card>
+    <card qty="1" id="3e471bd0-5ee5-4846-815d-fd6a5cd5f921">Daybreak</card>
+    <card qty="1" id="207b12bd-20b4-470d-81cc-7896904334d5">Amarthiúl</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
