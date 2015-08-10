@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="d1a3a535-7679-4757-871c-80c50c003cff">Unexpected Rescue</card>
+    <card qty="1" id="e3d50c1b-4626-4bff-a247-f965166f9d2f">Gornákh's Dungeons</card>
+    <card qty="1" id="a04416f5-08bb-4c05-b2a2-f6725239ae02">Gornákh's Dungeons</card>
+    <card qty="1" id="ffc6cfa2-47aa-480c-8620-c39504095f50">Gornákh's Dungeons</card>
+    <card qty="1" id="2ef0b43a-1b9c-46bd-b6ec-148bf4254b5d">Gornákh's Dungeons</card>
+    <card qty="1" id="e83f33da-6723-4730-8691-8d1a48b1f8e0">Flight from Mount Gram</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="e15ba98d-806f-4847-823c-ca90c0f58f0b">Cruel Torturer</card>
+    <card qty="3" id="e920ecab-29dc-48a6-908d-f4919d5b468d">Dungeon Guard</card>
+    <card qty="2" id="2e1bb6cc-2f05-47f1-8ea5-78955cd0cbf2">Goblin Tormentor</card>
+    <card qty="4" id="18d6f0aa-a62e-4ce5-b169-cae8836d8442">Prison Cell</card>
+    <card qty="2" id="0a6774e7-f110-4917-84b5-1f81a7aefbf8">Patrol Room</card>
+    <card qty="2" id="6df2979e-ad8d-4c3b-a27c-5ed4b9b2f948">Tunnels of Mount Gram</card>
+    <card qty="2" id="275c7232-3671-4092-bb9a-9a62f9538225">Sound the Alarm!</card>
+    <card qty="2" id="d69092af-f96b-4885-a194-5d5f31d90e6d">Feeble and Weary</card>
+    <card qty="2" id="51e187ea-691c-46bc-b74f-c03d110d02cd">Captives of Gornákh</card>
+    <card qty="2" id="663a47fc-e264-485b-832d-2c327aa1a493">Interrogation</card>
+    <card qty="1" id="414353af-e004-4e7c-b288-e168e2acfee7">Stop the Executioners!</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="3" id="9d5d2136-f1e7-40fd-9a0f-fbac3c87f8f6">Angmar Orc</card>
+    <card qty="3" id="b2fcd022-5409-4a2f-9775-390d2c3ce7d2">Angmar Marauder</card>
+    <card qty="2" id="cc13ea34-ab19-474e-afe5-29c8651126d0">Angmar Captain</card>
+    <card qty="1" id="e347f103-7444-4681-ae57-49c7b84dd3c0">Orc Ambush</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="d760ba6c-e377-4d22-ac46-04bfb2b3c65f">Southern Gate</card>
+    <card qty="1" id="f92ddbe7-0db6-494f-bdab-b5bd20439c18">Jailor Gornákh</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Escape from Mount Gram" id="c85005b4-44ad-4d64-adf1-49935a1bfb09" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+ <cards>
+  <card id="18fea279-cd38-4a5e-b271-b94d4f64eda1" name="Rossiel">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Silvan."/>
+    <property name="Cost" value="8"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="0484e428-6a72-4841-b2d5-d8df7cfb51bf" name="Veteran of Osgiliath">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Gondor. Warrior."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="25641d97-e196-40d5-8481-727602aa2da2" name="Descendants of Kings">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="e562d744-bf7d-4325-97ba-424bf3ca3ca8" name="Derndingle Warrior">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Ent. Warrior."/>
+    <property name="Keywords" value="Sentinel.&#10;Cannot have restricted attachments. Enters play exhausted. "/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="f4b2af17-b589-49c1-a884-ecd4570d8545" name="Boomed and Trumpeted">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Ent."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="9c42d496-267e-4822-8df4-6fcc7ae4c2d1" name="Elven Jeweler">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Noldor. Craftsman."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="f4d94f3d-d3af-44d6-9896-764484302bb1" name="Double Back" size="QuestCard">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Quest"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Player Side Quest."/>
+    <property name="Keywords" value="Limit 1 per deck."/>
+    <property name="Cost" value="0"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="57658f13-fb9c-4a87-bb05-965a022cc69d" name="Leave No Trace">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Keywords" value="Limit 3 copies of Leave No Trace in the victory display."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="3ba15db9-9967-48b8-9b38-4fdfb4866676" name="Distant Stars">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Cost" value="0"/>
+  </card>
+  <card id="ede00b4b-15e0-4469-aaf6-ea60c9376898" name="Keen as Lances">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Keywords" value="Reduce the cost to play Keen as Lanches by 1 for each card worth no victory points in the victory display."/>
+    <property name="Cost" value="5"/>
+  </card>
+  <card id="d1a3a535-7679-4757-871c-80c50c003cff" name="Unexpected Rescue" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="tt"/>
+    <alternate name="Unexpected Rescue" type="B">
+      <property name="Encounter Set" value="Escape from Mount Gram"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="-"/>
+    </alternate>
+  </card>
+  <card id="e3d50c1b-4626-4bff-a247-f965166f9d2f" name="Gornákh's Dungeons" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Quest"/>
+    <property name="Keywords" value="Capture 7."/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Gornákh's Dungeons" type="B">
+      <property name="Encounter Set" value="Escape from Mount Gram"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="-"/>
+    </alternate>
+  </card>
+  <card id="a04416f5-08bb-4c05-b2a2-f6725239ae02" name="Gornákh's Dungeons" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Quest"/>
+    <property name="Keywords" value="Capture 7."/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Gornákh's Dungeons" type="B">
+      <property name="Encounter Set" value="Escape from Mount Gram"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="-"/>
+    </alternate>
+  </card>
+  <card id="ffc6cfa2-47aa-480c-8620-c39504095f50" name="Gornákh's Dungeons" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Quest"/>
+    <property name="Keywords" value="Capture 7."/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Gornákh's Dungeons" type="B">
+      <property name="Encounter Set" value="Escape from Mount Gram"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="-"/>
+    </alternate>
+  </card>
+  <card id="2ef0b43a-1b9c-46bd-b6ec-148bf4254b5d" name="Gornákh's Dungeons" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Quest"/>
+    <property name="Keywords" value="Capture 7."/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Gornákh's Dungeons" type="B">
+      <property name="Encounter Set" value="Escape from Mount Gram"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="-"/>
+    </alternate>
+  </card>
+  <card id="e83f33da-6723-4730-8691-8d1a48b1f8e0" name="Flight from Mount Gram" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Flight from Mount Gram" type="B">
+      <property name="Encounter Set" value="Escape from Mount Gram"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="14"/>
+    </alternate>
+  </card>
+  <card id="f92ddbe7-0db6-494f-bdab-b5bd20439c18" name="Jailor Gornákh" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Goblin. Orc."/>
+    <property name="Engagement Cost" value="44"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="8"/>
+    <property name="Victory Points" value="5"/>
+  </card>
+  <card id="d760ba6c-e377-4d22-ac46-04bfb2b3c65f" name="Southern Gate" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mount Gram."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="8"/>
+    <property name="Victory Points" value="2"/>
+  </card>
+  <card id="e15ba98d-806f-4847-823c-ca90c0f58f0b" name="Cruel Torturer" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Goblin. Orc."/>
+    <property name="Keywords" value="Capture 1."/>
+    <property name="Engagement Cost" value="36"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="e920ecab-29dc-48a6-908d-f4919d5b468d" name="Dungeon Guard" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Goblin. Orc."/>
+    <property name="Keywords" value="Capture 1."/>
+    <property name="Engagement Cost" value="16"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="2e1bb6cc-2f05-47f1-8ea5-78955cd0cbf2" name="Goblin Tormentor" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Goblin. Orc."/>
+    <property name="Keywords" value="X is the number of cards in play with 1 or more captured cards underneath it."/>
+    <property name="Engagement Cost" value="28"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="X"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="18d6f0aa-a62e-4ce5-b169-cae8836d8442" name="Prison Cell" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mount Gram. Underground."/>
+    <property name="Keywords" value="Capture 1."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="3"/>
+  </card>
+  <card id="0a6774e7-f110-4917-84b5-1f81a7aefbf8" name="Patrol Room" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mount Gram. Underground."/>
+    <property name="Keywords" value="Capture 2."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="2"/>
+  </card>
+  <card id="6df2979e-ad8d-4c3b-a27c-5ed4b9b2f948" name="Tunnels of Mount Gram" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mount Gram. Underground."/>
+    <property name="Keywords" value="Capture 1."/>
+    <property name="Threat" value="X"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="275c7232-3671-4092-bb9a-9a62f9538225" name="Sound the Alarm!" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Doomed 3."/>
+  </card>
+  <card id="d69092af-f96b-4885-a194-5d5f31d90e6d" name="Feeble and Weary" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="51e187ea-691c-46bc-b74f-c03d110d02cd" name="Captives of Gornákh" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="663a47fc-e264-485b-832d-2c327aa1a493" name="Interrogation" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="414353af-e004-4e7c-b288-e168e2acfee7" name="Stop the Executioners!" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Escape from Mount Gram"/>
+    <property name="Type" value="Quest"/>
+    <property name="Traits" value="Side Quest."/>
+    <property name="Keywords" value="Capture 5."/>
+    <property name="Quest Points" value="6"/>
+    <property name="Victory Points" value="10"/>
+  </card>
+ </cards>
+</set>

@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Ruins of Belegost" id="5ed09135-3bac-49b6-b11f-1c59ea09268f" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+ <cards>
+  <card id="19c23cd8-5935-4278-a5e1-943967004e0a" name="Scenario Rules 1">
+    <property name="Quantity" value="0"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Rules"/>
+    <property name="Text" value="Discover X.&#10;Discover is a new keyword in The Ruins of Belegost. The Discover keyword represents the heroes' search for lost treasure, as well as the unexpected dangers they encounter as they travel to the different locations in Belegost. When a location with the Discover keyword becomes the active location, the first player resolves the following steps in order: 1. Look at the top X cards of the encounter deck, where X is the active locations Discover value. 2. Choose 1 looked at objective with the Loot keyword and attach it to the active location as a guarded objective. 3. Randomly select 1 looked at card with the Hazard trait, reveal it and add it to the staging area. 4. Place any remaining looked at cards in the encounter discard pile."/>
+    <alternate name="Scenario Rules 1" type="B">
+      <property name="Encounter Set" value="The Ruins of Belegost"/>
+      <property name="Type" value="Rules"/>
+      <property name="Text" value="Discover X (continued)&#10;If there are less than X cards remaining in the encounter deck when resolving the Discover keyword, shuffle the encounter discard pile into the encounter deck and continue resolving the Discover keyword. Loot Loot is a new keyword that appears on some objective cards in The Ruins of Belegost. Objectives with the Loot keyword are valuable treasures that can only be discovered by exploring the different locations in Belegost. A Loot card can only enter play by resolving the Discover keyword on a location. If a card with the Loot keyword is revealed from the encounter deck, discard it and reveal another card from the top of the encounter deck."/>
+    </alternate>
+  </card>
+  <card id="4d7f2039-9e65-4c64-b21e-08e1433ff445" name="Scenario Rules 2">
+    <property name="Quantity" value="0"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Rules"/>
+    <property name="Text" value="Taking control of Loot"/>
+  </card>
+  <card id="f8a95ed4-415f-41a2-90db-ce8de7071883" name="Ruins of the First Age" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="Setup: Add Stalking the Ruins and 1 copy of Abandoned Mine per player to the staging area. Set Lurker of the Depths, Naurlhûg, Naurlhûg's Lair, and Sword of Belegost aside, out of play. Randomly select 1 of the 5 remaining Loot objectives and place it facedown underneath Stalking the Ruins (without looking). Shuffle the others into the encounter deck (without looking at them)."/>
+    <property name="Setup" value="ttsssssttttttttt"/>
+    <alternate name="Ruins of the First Age" type="B">
+      <property name="Encounter Set" value="The Ruins of Belegost"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="6"/>
+      <property name="Text" value="The player cannot advance unless they control at least 1 Loot objective. &#10;&#10;Forced: At the beginning of the travel phase, if there are no locations in play, return the topmost location in the encounter discard pile to the staging area. &#10;&#10;Forced: When this stage is defeated, if Keys of Belegost is attached to a hero, advace to stage 2C. Otherwise, advance to Stage 2A."/>
+    </alternate>
+  </card>
+  <card id="8f449385-efbb-4f99-b0c6-984e7b522674" name="Ancient Evils Disturbed" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Add Lurker of the Depths to the staging area."/>
+    <alternate name="Ancient Evils Disturbed" type="B">
+      <property name="Encounter Set" value="The Ruins of Belegost"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="9"/>
+      <property name="Text" value="The players cannot advance unless they control at least 2 Loot objectives and Lurker of the Depths is in the victory display.&#10;&#10;Forced: When this stage is defeated, if Book of Aulë's Children is attached to a hero, advance to stage 3C. Otherwise, advance to stage 3A."/>
+    </alternate>
+  </card>
+  <card id="4f03a84f-6665-435f-aa3a-5002c835d13b" name="Deeper into the Past" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="C"/>
+    <property name="Text" value="When Revealed: Shuffle Lurker of the Depths and the encounter discard pile into the encounter deck. Discard cards from the top of the encounter deck until a location is discarded. Add the discarded location to the staging area."/>
+    <alternate name="Deeper into the Past" type="B">
+      <property name="Encounter Set" value="The Ruins of Belegost"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="D"/>
+      <property name="Quest Points" value="9"/>
+      <property name="Text" value="The player cannot advance unless they control at least 2 Loot objectives and there are at least 3 resources here.&#10;&#10;Forced: After the active location is explored, place 1 resource here.&#10;&#10;Forced: When this stage is defeated, if Book of Aulë's Children is attached to a hero, advance to stage 3E. Otherwise, advance to stage 3C."/>
+    </alternate>
+  </card>
+  <card id="70494c1c-405f-481a-b330-12643c80587e" name="The Servants of Morgoth" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Shuffle the encounter discard pile into the encounter deck and reveal 1 encounter card per player."/>
+    <alternate name="The Servants of Morgoth" type="B">
+      <property name="Encounter Set" value="The Ruins of Belegost"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="6"/>
+      <property name="Text" value="The first Hazard card revealed each round gains surge. During the travel phase, the players must travel to a location, if able. Forced: When this stage is defeated, if Dwarven Torch is attached to a hero, advance to stage 4A. Otherwise advance to stage 3C."/>
+    </alternate>
+  </card>
+  <card id="6d6d2d0f-7672-4f92-bb07-6a764f655306" name="The Roots of Ered Luin" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="C"/>
+    <property name="Text" value="When Revealed: Shuffle the encounter discard pile into the encounter deck and reveal 1 encounter card per player."/>
+    <alternate name="The Roots of Ered Luin" type="B">
+      <property name="Encounter Set" value="The Ruins of Belegost"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="D"/>
+      <property name="Quest Points" value="6"/>
+      <property name="Text" value="The Discover value on the active location is increased by 1. During the travel phase, the players must travel to a location, if able.&#10;&#10;Forced: When this stage is defeated, if Map of Ered Luin is attached to a hero advance to stage 4A. Otherwise, advance to stage 3E."/>
+    </alternate>
+  </card>
+  <card id="0eb36ad6-db76-4e69-b77c-77ff7da8661d" name="The Mines of Belegost" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="E"/>
+    <property name="Text" value="When Revealed: Shuffle the encounter discard pile into the encounter deck and reveal 1 encounter card per player."/>
+    <alternate name="The Mines of Belegost" type="B">
+      <property name="Encounter Set" value="The Ruins of Belegost"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="F"/>
+      <property name="Quest Points" value="6"/>
+      <property name="Text" value="During the travel phase, the players must travel to a location, if able.&#10;&#10;Forced: After resolving the Discover keyword, if no Hazard card was revealed by that effect, reveal the top card of the encounter deck.&#10;&#10;Forced: When this stage is defeated, if Blue Mountain Gem is attached to a hero advance to stage 4A. Otherwise, advance to stage 3A."/>
+    </alternate>
+  </card>
+  <card id="f5a08708-ed75-45a0-91a1-59e10eeebfc9" name="The Beast of Belegost" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="4"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Add Naurlhûg and Naurlhûg's Lair to the staging area. Shuffle the Sword of Belegost, and the encounter discard pile into the encounter deck."/>
+    <alternate name="The Beast of Belegost" type="B">
+      <property name="Encounter Set" value="The Ruins of Belegost"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="4"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="–"/>
+      <property name="Text" value="While Naurlhûg's Lair is in the victory display, Naurlhûg loses the text: &quot;Cannot take damage.&quot;&#10;&#10;Forced: After Naurlhûg attacks, if it was dealt a shadow card with no shadow effect, it engages the next player. Then, it makes an immediate attack. Do not deal it a shadow card for this attack.&#10;&#10;When Naurlhûg is defeated, the players win the game."/>
+    </alternate>
+  </card>
+  <card id="536cee93-e3d5-42fd-8182-0a939fd19f46" name="Stalking the Ruins" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Dragon."/>
+    <property name="Text" value="Forced: At the beginning of the quest phase, place 1 progress token on Stalking the Ruins. Then, if there are at least 3 resources here, add or return Naurlhûg to the staging area.&#10;&#10;Forced: When the players advance to a new quest stage, discard all tokens from Stalking the Ruins. Then, set Naurlhûg aside, out of play."/>
+  </card>
+  <card id="7bae4f1a-42b7-46ab-bfbb-0078ed0842a4" name="Sword of Belegost" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Artifact. Item. Weapon."/>
+    <property name="Keywords" value="Loot. Restricted."/>
+    <property name="Text" value="If unattached, the first player claims Sword of Belegost and attaches it to a hero he controls. &#10;Attached hero gets +4 Û.&#10;&#10;Response: Exhaust Sword of Belegost to cancel a shadow effect just triggered."/>
+  </card>
+  <card id="fd1ed69d-287a-49bc-973c-93216ab4d674" name="Map of Ered Luin" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Artifact. Item."/>
+    <property name="Keywords" value="Loot."/>
+    <property name="Text" value="If unattached, the fist player claims Map of Ered Luin and attaches it to a hero he controls.&#10;&#10;Action: Exhaust Map of Ered Luin to choose a non-unique location. That location gets -2 $ until the end of the phase."/>
+  </card>
+  <card id="adeb3985-c342-4d9e-acd6-2c7cf35dafe6" name="Keys of Belegost" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Artifact. Item."/>
+    <property name="Keywords" value="Loot."/>
+    <property name="Text" value="If unattached, the fist player claims Keys of Belegost and attaches it to a hero he controls.&#10;Action: Exhaust Keys of Belegost to choose a hero. Add 1 resource to that hero's resource pool."/>
+  </card>
+  <card id="3c1bea1f-80b7-4857-9d0b-489376d4abab" name="Book of Aulë's Children" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Artifact. Item."/>
+    <property name="Keywords" value="Loot."/>
+    <property name="Text" value="If unattached, the fist player claims Book of Aulë's Children and attaches it to a hero he controls.&#10;Action: Exhaust Book of Aulë's Children to choose a player. That player draws 1 card."/>
+  </card>
+  <card id="8e15ba46-125f-44fc-b67b-6006b96b20ea" name="Dwarven Torch" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Artifact. Item."/>
+    <property name="Keywords" value="Loot."/>
+    <property name="Text" value="If unattached, the fist player claims Dwarven Torch and attaches it to a hero he controls. &#10;Action: Exhaust Dwarven Torch to choose a non-unique enemy. That enemy gets -1 Û and -1 Ú until the end of the phase."/>
+  </card>
+  <card id="54665391-02fa-4402-b7ea-2f8b5aa95a57" name="Blue Mountain Gem" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Artifact. Item."/>
+    <property name="Keywords" value="Loot."/>
+    <property name="Text" value="If unattached, the fist player claims Blue Mountain Gem and attaches it to a hero he controls.&#10;&#10;Action: Exhaust Blue Mountain Gem to choose a player. Reduce that player's threat by 1."/>
+  </card>
+  <card id="9d65d755-9d41-47d8-84f5-ea725fba1d2f" name="Naurlhûg" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Dragon."/>
+    <property name="Keywords" value="Immune to player card effects, Cannot take damage."/>
+    <property name="Engagement Cost" value="20"/>
+    <property name="Threat" value="X"/>
+    <property name="Attack" value="7"/>
+    <property name="Defense" value="5"/>
+    <property name="Health" value="20"/>
+    <property name="Victory Points" value="7"/>
+    <property name="Text" value="X is the number of resources on Stalking the Ruins.&#10;&#10;Forced: When Naurlhûg makes an attack, the defending player assigns X damage among characters he controls."/>
+  </card>
+  <card id="415e5671-e9fa-458e-bc46-e9f869bee87f" name="Lurker of the Depths" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature."/>
+    <property name="Keywords" value="Cannot have attachments."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="12"/>
+    <property name="Victory Points" value="5"/>
+    <property name="Text" value="Lurker of the Depths cannot be engaged or take more than 4 damage each round.&#10;&#10;While Lurker of the Depths is in the staging area, it is considered to be engaged with each player."/>
+  </card>
+  <card id="f3efc356-9e7d-40e3-a8ff-0ad47d8b9d67" name="Nameless Cave Dweller" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Nameless. Hazard."/>
+    <property name="Keywords" value="Cannot have player card attachments."/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="X"/>
+    <property name="Attack" value="X"/>
+    <property name="Defense" value="X"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="X is 1 more than the Discover value on the active location."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if you control a Loot objective)."/>
+  </card>
+  <card id="6e42b5b8-c708-4f2e-a483-4984db0d1084" name="Old Stone Troll" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Troll. Hazard."/>
+    <property name="Keywords" value="Cannot have player card attachments."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="6"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="8"/>
+    <property name="Text" value="Old Stone Troll gets -10 engagement cost for each Loot objective attached to a hero.&#10;Only the engaged player can declare attackers against Old Stone Troll."/>
+  </card>
+  <card id="4c9ac5bd-1653-400c-9cd0-4da685da5c15" name="Orc of Ered Luin" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="When Revealed: Orc of Ered Luin makes an immediate attack against each player that controls at least 1 Loot objective (in turn order)."/>
+    <property name="Shadow" value="Shadow: After this attack, attacking enemy engages the next player, then makes an immediate attack."/>
+  </card>
+  <card id="796c0aee-2aea-4999-931d-253fafe7fb26" name="Blue Mountain Goblin" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Goblin."/>
+    <property name="Engagement Cost" value="25"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="While a Loot objective is attached to a hero, Blue Mountain Goblin gains surge."/>
+    <property name="Shadow" value="Shadow: If you control a Loot objective, put Blue Mountain Goblin into play engaged with you and deal it a shadow card."/>
+  </card>
+  <card id="10dc0c5d-a434-4d77-a06f-5ed0c1d4ac46" name="Naurlhûg's Lair" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Keywords" value="Discover 5. Immune to player card effects."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="6"/>
+    <property name="Victory Points" value="4"/>
+    <property name="Text" value="Forced: When Naurlhûg's Lair is explored, add the Loot objective from underneath Stalking the Ruins to the staging area faceup.&#10;Travel: Place X resources on Stalking the Ruins, where X is the number of players."/>
+  </card>
+  <card id="51a1050d-f8d5-48aa-8f96-ef96e1e836da" name="Abandoned Mine" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Keywords" value="Discover 2."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Text" value="While Abandoned Mine is in the staging area, progress cannot be placed on locations in the staging area not named Abandoned Mine.&#10;Forced: When resolving the Discover keyword on Abandoned Mine, look at X additional cards where X is the number of players in the game."/>
+  </card>
+  <card id="687ca930-b64c-4a5c-b6a3-bc3b12d8641d" name="Flooded Hall" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Keywords" value="Discover 4."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Text" value="While Flooded Hall is in the staging area, increase the cost to play each ally by 1.&#10;&#10;Forced: When resolving the Discover keyword on Flooded Hall, the first player reveals an additional looked at Hazard card for each other player in the game."/>
+  </card>
+  <card id="3d948840-8118-4d63-b782-ba017e1cf5d5" name="Darkened Tunnel" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Keywords" value="Discover 2."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Text" value="While Darkened Tunnel is in the staging area, it gains: &quot;Forced: After a 'when revealed' effect is canceled, discard the top card of the encounter deck. If the discarded card has the Hazard trait, resolve its staging as if it was just revealed from the encounter deck.&quot;&#10;Travel: Place 1 resource on Stalking the Ruins."/>
+  </card>
+  <card id="4d67feae-9070-4ed6-8b1a-3ddc3569e73a" name="Sunken Treasury" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Keywords" value="Discover 3."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Text" value="Sunken Treasury gets +1 $ for each Loot objective attached to a hero. &#10;Travel: Each player discards 1 random card from his hand."/>
+    <property name="Shadow" value="Shadow: Exhaust a character you control."/>
+  </card>
+  <card id="52248807-32d1-422b-b4b2-01097405e49f" name="Secret Chamber" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground. Hazard."/>
+    <property name="Keywords" value="Discover 3."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="2"/>
+    <property name="Text" value="Response: After the players travel to Secret Chamber, if no Loot objective is attached to Secret Chamber, search the encounter discard pile for a Loot objective and attach it to Secret Chamber as a guarded objective.&#10;&#10;Travel: Raise each player's threat by 2."/>
+  </card>
+  <card id="cf6114ac-f795-4085-b135-4cca76fb8608" name="Echoes in the Dark" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Doomed 1."/>
+    <property name="Text" value="When Revealed: Add 1 to the total $ in the staging area for each character controlled by the first player until the end of the phase."/>
+    <property name="Shadow" value="Shadow: Discard 1 random card from your hand. If the discarded card is an event, attacking enemy gets +2 Û"/>
+  </card>
+  <card id="a9502ae6-2df9-419a-b562-43550926cd73" name="Spawn of Thangorodrim" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: If Naurlhûg is in play, it makes an immediate attack against the first player. If Naurlhûg is not in play, place 1 resource on Stalking the Ruins. Then, if there are at least 3 resources on Stalking the Ruins, add Naurlhûg to the staging area."/>
+    <property name="Shadow" value="Shadow: Attacking enemy makes an additional attack against you after this one."/>
+  </card>
+  <card id="3d7adc18-c9cb-4e93-8b1e-1574747ba8ce" name="Concealed Spikes" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Hazard."/>
+    <property name="Text" value="When Revealed: Each player assigns X damage among characters he controls. X is 1 more than the Discover value on the active location."/>
+    <property name="Shadow" value="Shadow: Assign X damage among characters you control. X is the number of attachments you control. You may discard the highest cost attachment you control to cancel this effect."/>
+  </card>
+  <card id="fba9d635-eeba-4cc1-b9fb-d6666a3a1cdf" name="Covered Pit" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Ruins of Belegost"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Hazard."/>
+    <property name="Text" value="When Revealed: Each player discards an ally he controls."/>
+    <property name="Shadow" value="Shadow: If attacking enemy is non-unique, attach a Loot objective you control to it as a guarded objective. If this attack destroys a character, return attacking enemy to the staging area."/>
+  </card>
+ </cards>
+</set>
