@@ -1208,7 +1208,7 @@ def flipcard(card, x = 0, y = 0):
 	mute()
 	
 	if card.controller != me:
-		notfiy("{} gets {} to flip card".format(me, card.controller()))
+		notify("{} gets {} to flip card".format(me, card.controller()))
 		remoteCall(card.controller, "flipcard", card)
 		return
 		
@@ -1635,3 +1635,20 @@ def swapWithEncounter(group):
 	for c in deck.top(size):
 		c.moveToBottom(group)
 	notify("{} swaps {} and Encounter Deck.".format(me, group.name))
+
+def captureDeck(group):
+	if len(group) == 0: return
+	mute()
+	if group == me.deck:
+		pile = me.piles['Secondary Deck']
+	else: return		
+	if confirm("Create your capture deck?"):
+		for c in group:
+			if c.Type == "Ally":
+				c.moveTo(pile)
+			if c.Type == "Attachment":
+				if "Item." in c.Traits or "Mount." in c.Traits or "Artifact." in c.Traits:
+					c.moveTo(pile)
+	notify("{} creates their Capture Deck".format(me))
+	if pile.collapsed:
+		pile.collapsed = False

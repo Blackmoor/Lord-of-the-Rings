@@ -5,13 +5,13 @@
 	id="a21af4e8-be4b-4cda-a6b6-534f9717391f" 
 	octgnVersion="3.1.162.360"
 	scriptVersion ="3.1.0.1"
-	version="2.4.28.4"
+	version="2.4.28.9"
 	markersize="16"
 	tags="LotR LCG cooperative"
 	description="The Lord of the Rings: The Card Game is a cooperative card game that puts 1-4 players in control of the most powerful characters and artifacts of Middle-earth.&#10;&#10;Players will select heroes, gather allies, acquire artifacts, and coordinate their efforts to face Middle-earth’s most dangerous fiends. By cooperating to overcome the obstacles drawn from the encounter deck, you will complete the quest before you and claim victory!"
 	setsurl="http://octgn.gamersjudgement.com/wordpress/lotrlcg/"
 	gameurl="http://octgn.gamersjudgement.com/wordpress/lotrlcg/"
-	authors="Memetix (game scripts)&#10;GeckoTH (developer)&#10;tydussin (card data)"
+	authors="Memetix (game scripts)&#10;GeckoTH (developer)"
 	iconurl="http://cf.geekdo-images.com/images/pic906495_t.jpg"
 	usetwosidedtable="False">
 	<scripts>
@@ -143,6 +143,9 @@
 			<groupaction menu="Draw Many" default="False" shortcut="ctrl+shift+D" execute="drawMany" />
 			<groupaction menu="Discard Many" default="False" execute="discardMany" />
 			<groupaction menu="Move to Seconary..." default="False" execute="moveMany" />
+			<groupactions menu="Quest Specific Actions">
+				<groupaction menu="Escape from Mt Gram - Capture Deck" default="False" execute="captureDeck" />
+			</groupactions>
 			<groupaction menu="Lock / Unlock Deck" default="False" execute="toggleLock" />
 		</group>
 		<group name="Discard Pile" visibility="all" ordered="True" width="63" height="88" icon="groups/discard.png" collapsed="False">
