@@ -1,11 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
-  <section name="Hero" shared="False" />
-  <section name="Ally" shared="False" />
-  <section name="Attachment" shared="False" />
-  <section name="Event" shared="False" />
-  <section name="Side Quest" shared="False" />
-  <section name="Sideboard" shared="False" />
   <section name="Quest" shared="True">
     <card qty="1" id="d1a3a535-7679-4757-871c-80c50c003cff">Unexpected Rescue</card>
     <card qty="1" id="e3d50c1b-4626-4bff-a247-f965166f9d2f">Gornákh's Dungeons</card>
@@ -34,8 +28,16 @@
     <card qty="1" id="e347f103-7444-4681-ae57-49c7b84dd3c0">Orc Ambush</card>
   </section>
   <section name="Setup" shared="True">
+    <card qty="1" id="17b3b108-af37-4894-9d09-4b34f995c0a3">Escape from Mt Gram Rules</card>
+    <card qty="1" id="e2a2f3af-8cfe-4038-845c-443246682a81">Escape from Mt Gram Rules 2</card>
     <card qty="1" id="d760ba6c-e377-4d22-ac46-04bfb2b3c65f">Southern Gate</card>
     <card qty="1" id="f92ddbe7-0db6-494f-bdab-b5bd20439c18">Jailor Gornákh</card>
   </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
   <notes><![CDATA[]]></notes>
 </deck>

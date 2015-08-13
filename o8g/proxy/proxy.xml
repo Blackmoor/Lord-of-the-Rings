@@ -885,4 +885,17 @@
 	  </link>
     </textblocks>
   </template>
+  <template src="proxy/rules.jpg" default="False">
+    <matches>
+      <match name="Type" value="Rules" />
+    </matches>
+    <textblocks>
+	  <link block="attachment_name">
+	   <property name="Name" />
+	  </link>
+	  <link block="campaign_resolution">
+	   <property name="Keywords" />
+	  </link>
+    </textblocks>
+  </template>
 </templates>
