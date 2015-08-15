@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="cc77ab8d-1968-4607-b18d-7db3c3c186c7">Shelob's Lair</card>
+    <card qty="1" id="da109a2a-65fe-410e-93b4-e09695966fe5">The Stairs of Cirith Ungol</card>
+    <card qty="1" id="540e3fbc-a066-4dc6-a156-598f1b2751c0">The Spider's Pass</card>
+    <card qty="1" id="29a12054-527c-41a3-9dd8-25565288fb4d">Gollum's Betrayal</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="8ba47620-aead-42a5-a057-41cb038f5234">Morgul Orc</card>
+    <card qty="2" id="021affba-a51d-48f1-ac86-354f3e82d38d">Orc of Citith Ungol</card>
+    <card qty="2" id="6da65b9b-39a7-425d-baa1-00b406bcae36">The Spider's Lair</card>
+    <card qty="1" id="31f8955f-40d5-41de-b886-77018b59d717">The Under-way</card>
+    <card qty="3" id="ae49e8e5-98f1-4562-935f-5e1ab64631e0">Deep Dark Passage</card>
+    <card qty="3" id="1e2560ab-00ce-45c3-a374-f7bb6a3e6889">Den of Night</card>
+    <card qty="2" id="f77579e7-23f0-4c27-a4e3-e1edcc529e1e">Exhalation of Decay</card>
+    <card qty="1" id="65c93e63-0284-4449-8158-717d763b3023">Many Openings</card>
+    <card qty="1" id="74d1310a-6c88-49cd-bac1-a1d4b5bbbcdc">Morgul Wraith</card>
+    <card qty="1" id="5e8714e3-0581-4b6f-bf45-414098819626">Call of the Ring</card>
+    <card qty="1" id="42e22482-0281-4811-aa65-2b342319ee07">We Hates Them</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="2" id="e3de3669-64a9-4ab5-a21c-7805e6259267">Blocked Tunnel</card>
+    <card qty="2" id="35ea4640-1019-409c-b6a4-8a9906def475">Shelob's Poison</card>
+    <card qty="3" id="5497d938-1549-498c-abeb-2ed617222b76">Lurking Malice</card>
+    <card qty="3" id="5ce0a255-9914-4a4f-9630-d1fe8e00bbc0">Rage and Hunger</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="a40aef89-ca91-467c-93f3-9afc97bdbc24">A Heavy Burden</card>
+    <card qty="1" id="32267333-091c-4bbf-bb29-5f21c8b79188">The One Ring</card>
+    <card qty="1" id="fe58a6d3-7028-41c1-ab00-5e33e7d77b5f">Frodo Baggins</card>
+    <card qty="1" id="32873634-3a91-4d6f-988a-fb8bb5c16ef3">Cleft of Cirith Ungol</card>
+    <card qty="1" id="c03a693c-4fcf-4df5-868b-88e1df8531d9">Shelob</card>
+    <card qty="1" id="32993141-956c-4426-98d9-8705de6fee00">Gollum</card>
+    <card qty="1" id="51b6030d-3ce7-4139-b3bc-a408949533e2">Morgul Vale</card>
+    <card qty="1" id="4a2696f1-65e1-41d5-8828-38ece23167df">Smeagol's Secret Way</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

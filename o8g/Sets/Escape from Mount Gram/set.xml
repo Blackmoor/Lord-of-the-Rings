@@ -12,7 +12,6 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="If the active location shares a Trait with a location in the victory display, Rossiel gets +2 Ò.&#10;&#10;If an attacking enemy shares a Trait with an enemy in the victory display, Rossiel gets +2 Ú."/>
   </card>
   <card id="0484e428-6a72-4841-b2d5-d8df7cfb51bf" name="Veteran of Osgiliath">
     <property name="Quantity" value="3"/>
@@ -24,14 +23,12 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Veteran of Osgiliath gets +1 Ò, +1 Û, and +1 Ú while your threat is 40 or higher."/>
   </card>
   <card id="25641d97-e196-40d5-8481-727602aa2da2" name="Descendants of Kings">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Action: Ready X Dúnedain characters you control. X is the number of enemies engaged with you."/>
   </card>
   <card id="e562d744-bf7d-4325-97ba-424bf3ca3ca8" name="Derndingle Warrior">
     <property name="Quantity" value="3"/>
@@ -44,7 +41,6 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="While Derndingle Warrior is defending, it gains: “Action: Deal 1 damage to Derndingle Warrior to give it +3 Ú for this attack.” (Limit once per attack.)"/>
   </card>
   <card id="f4b2af17-b589-49c1-a884-ecd4570d8545" name="Boomed and Trumpeted">
     <property name="Quantity" value="3"/>
@@ -52,7 +48,6 @@
     <property name="Sphere" value="Tactics"/>
     <property name="Traits" value="Ent."/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Response: After an Ent character takes any amount of damage, ready it. That character gets +2 Û until the end of the phase."/>
   </card>
   <card id="9c42d496-267e-4822-8df4-6fcc7ae4c2d1" name="Elven Jeweler">
     <property name="Quantity" value="3"/>
@@ -64,7 +59,6 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Action: Discard 2 cards from your hand to put Elven Jeweler into play from your hand, under your control."/>
   </card>
   <card id="f4d94f3d-d3af-44d6-9896-764484302bb1" name="Double Back" size="QuestCard">
     <property name="Quantity" value="3"/>
@@ -75,7 +69,6 @@
     <property name="Cost" value="0"/>
     <property name="Quest Points" value="4"/>
     <property name="Victory Points" value="1"/>
-    <property name="Text" value="Response: When this stage is defeated, reduce each player's threat by 5."/>
   </card>
   <card id="57658f13-fb9c-4a87-bb05-965a022cc69d" name="Leave No Trace">
     <property name="Quantity" value="3"/>
@@ -83,14 +76,12 @@
     <property name="Sphere" value="Lore"/>
     <property name="Keywords" value="Limit 3 copies of Leave No Trace in the victory display."/>
     <property name="Cost" value="1"/>
-    <property name="Text" value="Response: After a non-unique location is explored, add Leave No Trace to the victory display to add that location to the victory display."/>
   </card>
   <card id="3ba15db9-9967-48b8-9b38-4fdfb4866676" name="Distant Stars">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Cost" value="0"/>
-    <property name="Text" value="Action: Exhaust a Ranger or Scout character to discard a non-unique active location. Then, search the encounter deck and discard pile for a non-unique location and make it the active location. Shuffle the encounter deck."/>
   </card>
   <card id="ede00b4b-15e0-4469-aaf6-ea60c9376898" name="Keen as Lances">
     <property name="Quantity" value="3"/>
@@ -98,7 +89,6 @@
     <property name="Sphere" value="Neutral"/>
     <property name="Keywords" value="Reduce the cost to play Keen as Lanches by 1 for each card worth no victory points in the victory display."/>
     <property name="Cost" value="5"/>
-    <property name="Text" value="Action: Add Keen as Lances to the victory display. Then, choose one: add 2 resources to a hero’s resource pool, draw 3 cards, or lower your threat by 4."/>
   </card>
   <card id="d1a3a535-7679-4757-871c-80c50c003cff" name="Unexpected Rescue" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -106,7 +96,6 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="Setup: Each player shuffles his starting hand into his deck. Each player prepares a separate captured deck (see insert) and chooses only 1 hero to be his starting hero. Each player adds 2 resources to his starting hero and sets his threat to that hero’s threat cost. Set Southern Gate, Jailor Gornákh and the Angmar Orcs encounter set aside, out of play. Shuffle the encounter deck. Each player draws a new starting hand 3 cards."/>
     <property name="Setup" value="tttt"/>
     <alternate name="Unexpected Rescue" type="B">
       <property name="Encounter Set" value="Escape from Mount Gram"/>
@@ -114,75 +103,21 @@
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
-      <property name="Text" value="When Revealed: Each player creates his own staging area and advances to a different stage 2A."/>
     </alternate>
   </card>
   <card id="e3d50c1b-4626-4bff-a247-f965166f9d2f" name="Gornákh's Dungeons" size="QuestCard">
-    <property name="Quantity" value="1"/>
+    <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="Escape from Mount Gram"/>
     <property name="Type" value="Quest"/>
     <property name="Keywords" value="Capture 7."/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="When Revealed: Search the encounter deck for 1 copy of Prison Cell and add it to your staging area. Then, capture an additional 2 cards from the top of your captured deck underneath that copy of Prison Cell."/>
     <alternate name="Gornákh's Dungeons" type="B">
       <property name="Encounter Set" value="Escape from Mount Gram"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
-      <property name="Text" value="Any time players would place progress tokens on this quest, rescue an equal number of captured cards at random from underneath it instead. (Progress is placed on the active location before triggering this effect.) &#10;&#10;Forced: If there are no captured cards underneath Gornákh’s Dungeons, join another player at the beginning of the travel phase. If you cannot join another player, all players advance to stage 3A together."/>
-    </alternate>
-  </card>
-  <card id="a04416f5-08bb-4c05-b2a2-f6725239ae02" name="Gornákh's Dungeons" size="QuestCard">
-    <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Escape from Mount Gram"/>
-    <property name="Type" value="Quest"/>
-    <property name="Keywords" value="Capture 7."/>
-    <property name="Cost" value="2"/>
-    <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="When Revealed: Search the encounter deck for 1 copy of Prison Cell and add it to your staging area. Then, capture an additional 2 cards from the top of your captured deck underneath that copy of Prison Cell."/>
-    <alternate name="Gornákh's Dungeons" type="B">
-      <property name="Encounter Set" value="Escape from Mount Gram"/>
-      <property name="Type" value="Quest"/>
-      <property name="Cost" value="2"/>
-      <property name="Engagement Cost" value="B"/>
-      <property name="Quest Points" value="-"/>
-      <property name="Text" value="Any time players would place progress tokens on this quest, rescue an equal number of captured cards at random from underneath it instead. (Progress is placed on the active location before triggering this effect.) &#10;&#10;Forced: If there are no captured cards underneath Gornákh’s Dungeons, join another player at the beginning of the travel phase. If you cannot join another player, all players advance to stage 3A together."/>
-    </alternate>
-  </card>
-  <card id="ffc6cfa2-47aa-480c-8620-c39504095f50" name="Gornákh's Dungeons" size="QuestCard">
-    <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Escape from Mount Gram"/>
-    <property name="Type" value="Quest"/>
-    <property name="Keywords" value="Capture 7."/>
-    <property name="Cost" value="2"/>
-    <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="When Revealed: Search the encounter deck for 1 copy of Prison Cell and add it to your staging area. Then, capture an additional 2 cards from the top of your captured deck underneath that copy of Prison Cell."/>
-    <alternate name="Gornákh's Dungeons" type="B">
-      <property name="Encounter Set" value="Escape from Mount Gram"/>
-      <property name="Type" value="Quest"/>
-      <property name="Cost" value="2"/>
-      <property name="Engagement Cost" value="B"/>
-      <property name="Quest Points" value="-"/>
-      <property name="Text" value="Any time players would place progress tokens on this quest, rescue an equal number of captured cards at random from underneath it instead. (Progress is placed on the active location before triggering this effect.) &#10;&#10;Forced: If there are no captured cards underneath Gornákh’s Dungeons, join another player at the beginning of the travel phase. If you cannot join another player, all players advance to stage 3A together."/>
-    </alternate>
-  </card>
-  <card id="2ef0b43a-1b9c-46bd-b6ec-148bf4254b5d" name="Gornákh's Dungeons" size="QuestCard">
-    <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Escape from Mount Gram"/>
-    <property name="Type" value="Quest"/>
-    <property name="Keywords" value="Capture 7."/>
-    <property name="Cost" value="2"/>
-    <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="When Revealed: Search the encounter deck for 1 copy of Prison Cell and add it to your staging area. Then, capture an additional 2 cards from the top of your captured deck underneath that copy of Prison Cell."/>
-    <alternate name="Gornákh's Dungeons" type="B">
-      <property name="Encounter Set" value="Escape from Mount Gram"/>
-      <property name="Type" value="Quest"/>
-      <property name="Cost" value="2"/>
-      <property name="Engagement Cost" value="B"/>
-      <property name="Quest Points" value="-"/>
-      <property name="Text" value="Any time players would place progress tokens on this quest, rescue an equal number of captured cards at random from underneath it instead. (Progress is placed on the active location before triggering this effect.) &#10;&#10;Forced: If there are no captured cards underneath Gornákh’s Dungeons, join another player at the beginning of the travel phase. If you cannot join another player, all players advance to stage 3A together."/>
     </alternate>
   </card>
   <card id="e83f33da-6723-4730-8691-8d1a48b1f8e0" name="Flight from Mount Gram" size="QuestCard">
@@ -191,14 +126,12 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
-    <property name="Text" value="When Revealed: Add Southern Gate and Jailor Gornákh to the staging area. Shuffle the Angmar Orcs encounter set into the encounter deck. Then, reveal 1 encounter card per player from the top of the encounter deck."/>
     <alternate name="Flight from Mount Gram" type="B">
       <property name="Encounter Set" value="Escape from Mount Gram"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="14"/>
-      <property name="Text" value="Players cannot travel to Southern Gate unless there is at least 14 progress on this stage.&#10;&#10;Players cannot defeat this stage while Southern Gate is in play. If the players defeat this stage, they have escaped Mount Gram and win the game."/>
     </alternate>
   </card>
   <card id="f92ddbe7-0db6-494f-bdab-b5bd20439c18" name="Jailor Gornákh" size="EncounterCard">
@@ -213,7 +146,6 @@
     <property name="Defense" value="3"/>
     <property name="Health" value="8"/>
     <property name="Victory Points" value="5"/>
-    <property name="Text" value="Forced: When 1 or more captured cards are rescued, Jailor Gornákh engages the player with the highest threat and makes an immediate attack."/>
   </card>
   <card id="d760ba6c-e377-4d22-ac46-04bfb2b3c65f" name="Southern Gate" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -225,7 +157,6 @@
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="8"/>
     <property name="Victory Points" value="2"/>
-    <property name="Text" value="While Southern Gate is the active location, each Orc enemy gets +2 Û.&#10;&#10;Forced: After Souther Gate becomes the active location, each player with less than 35 threat must raise their threat to 35."/>
   </card>
   <card id="e15ba98d-806f-4847-823c-ca90c0f58f0b" name="Cruel Torturer" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -238,7 +169,6 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
-    <property name="Text" value="Forced: When Cruel Torturer would damage a character by an attack, capture that character underneath Cruel Torturer instead."/>
   </card>
   <card id="e920ecab-29dc-48a6-908d-f4919d5b468d" name="Dungeon Guard" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -251,7 +181,6 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
-    <property name="Text" value="Response: After the captured card(s) underneath Dungeon Guard are rescued, the players may put 1 of them into play at no cost."/>
   </card>
   <card id="2e1bb6cc-2f05-47f1-8ea5-78955cd0cbf2" name="Goblin Tormentor" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -264,7 +193,6 @@
     <property name="Attack" value="X"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
-    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if it has no captured cards underneath it)."/>
   </card>
   <card id="18d6f0aa-a62e-4ce5-b169-cae8836d8442" name="Prison Cell" size="EncounterCard">
     <property name="Quantity" value="4"/>
@@ -274,7 +202,6 @@
     <property name="Keywords" value="Capture 1."/>
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="3"/>
-    <property name="Text" value="Response: After the players travel to Prison Cell, look at the captured card(s) underneath it and choose 1 to put into play at no cost. Place the other cards back underneath Prison Cell."/>
   </card>
   <card id="0a6774e7-f110-4917-84b5-1f81a7aefbf8" name="Patrol Room" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -284,8 +211,6 @@
     <property name="Keywords" value="Capture 2."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="2"/>
-    <property name="Text" value="Travel: Each player raises his threat by 3 to travel here."/>
-    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if the defending player’s threat is 20 or higher)."/>
   </card>
   <card id="6df2979e-ad8d-4c3b-a27c-5ed4b9b2f948" name="Tunnels of Mount Gram" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -295,36 +220,27 @@
     <property name="Keywords" value="Capture 1."/>
     <property name="Threat" value="X"/>
     <property name="Quest Points" value="4"/>
-    <property name="Text" value="X is the number of cards captured underneath Tunnels of Mount Gram."/>
-    <property name="Shadow" value="Shadow: Capture each attachment attached to the defending character underneath the attacking enemy."/>
   </card>
   <card id="275c7232-3671-4092-bb9a-9a62f9538225" name="Sound the Alarm!" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Escape from Mount Gram"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 3."/>
-    <property name="Text" value="When Revealed: If there are no enemies in play, search the encounter deck and discard pile for an enemy and add it to the staging area. Until the end of the round, each enemy gets –10 engagement cost and +1 Û."/>
   </card>
   <card id="d69092af-f96b-4885-a194-5d5f31d90e6d" name="Feeble and Weary" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Escape from Mount Gram"/>
     <property name="Type" value="Treachery"/>
-    <property name="Text" value="When Revealed: Each player must either deal 1 damage to each exhausted character he controls, or remove each exhausted character he controls from the quest."/>
-    <property name="Shadow" value="Shadow: Exhaust a character you control."/>
   </card>
   <card id="51e187ea-691c-46bc-b74f-c03d110d02cd" name="Captives of Gornákh" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Escape from Mount Gram"/>
     <property name="Type" value="Treachery"/>
-    <property name="Text" value="When Revealed: Each player chooses one of their allies and captures it underneath the encounter card with the highest $."/>
-    <property name="Shadow" value="Shadow: If this attack damages a character, capture that character underneath the attacking enemy instead of dealing damage."/>
   </card>
   <card id="663a47fc-e264-485b-832d-2c327aa1a493" name="Interrogation" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Escape from Mount Gram"/>
     <property name="Type" value="Treachery"/>
-    <property name="Text" value="When Revealed: Each player discards the top card of his captured deck and raises his threat by that card’s printed resource cost. If at least 1 player discarded no cards from this effect, Interrogation gains doomed 2."/>
-    <property name="Shadow" value="Shadow: Shuffle 2 random cards from your hand into your captured deck."/>
   </card>
   <card id="414353af-e004-4e7c-b288-e168e2acfee7" name="Stop the Executioners!" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -334,28 +250,27 @@
     <property name="Keywords" value="Capture 5."/>
     <property name="Quest Points" value="6"/>
     <property name="Victory Points" value="10"/>
-    <property name="Text" value="Time 4. Forced: When the last time counter is removed from this quest, discard its captured cards and remove this quest from the game. Then, raise each player’s threat by 3 for each of his characters that was discarded by this effect."/>
   </card>
-  <card id="17b3b108-af37-4894-9d09-4b34f995c0a3" name="Escape from Mt Gram Rules">
+  <card id="17b3b108-af37-4894-9d09-4b34f995c0a3" name="Escape from Mount Gram">
     <property name="Quantity" value="0"/>
     <property name="Encounter Set" value="Escape from Mount Gram"/>
     <property name="Type" value="Rules"/>
-    <property name="Text" value="Rulesheet Card Side 1"/>
+    <property name="Keywords" value="Rulesheet Card Side 1"/>
     <alternate name="Escape from Mount Gram" type="B">
       <property name="Encounter Set" value="Escape from Mount Gram"/>
       <property name="Type" value="Rules"/>
-      <property name="Text" value="Rulesheet Card 2"/>
+      <property name="Keywords" value="Rulesheet Card 2"/>
     </alternate>
   </card>
-  <card id="e2a2f3af-8cfe-4038-845c-443246682a81" name="Escape from Mt Gram Rules 2">
+  <card id="e2a2f3af-8cfe-4038-845c-443246682a81" name="Escape from Mount Gram">
     <property name="Quantity" value="0"/>
     <property name="Encounter Set" value="Escape from Mount Gram"/>
     <property name="Type" value="Rules"/>
-    <property name="Text" value="Rulesheet Card Side 3"/>
+    <property name="Keywords" value="Rulesheet Card Side 3"/>
     <alternate name="Escape from Mount Gram" type="B">
       <property name="Encounter Set" value="Escape from Mount Gram"/>
       <property name="Type" value="Rules"/>
-      <property name="Text" value="Rulesheet Card 4"/>
+      <property name="Keywords" value="Rulesheet Card 4"/>
     </alternate>
   </card>
  </cards>

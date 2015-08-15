@@ -8,13 +8,12 @@
   <section name="Encounter" shared="True">
     <card qty="2" id="e15ba98d-806f-4847-823c-ca90c0f58f0b">Cruel Torturer</card>
     <card qty="3" id="e920ecab-29dc-48a6-908d-f4919d5b468d">Dungeon Guard</card>
-    <card qty="2" id="2e1bb6cc-2f05-47f1-8ea5-78955cd0cbf2">Goblin Tormentor</card>
     <card qty="4" id="18d6f0aa-a62e-4ce5-b169-cae8836d8442">Prison Cell</card>
     <card qty="2" id="0a6774e7-f110-4917-84b5-1f81a7aefbf8">Patrol Room</card>
     <card qty="2" id="6df2979e-ad8d-4c3b-a27c-5ed4b9b2f948">Tunnels of Mount Gram</card>
-    <card qty="2" id="275c7232-3671-4092-bb9a-9a62f9538225">Sound the Alarm!</card>
+    <card qty="1" id="275c7232-3671-4092-bb9a-9a62f9538225">Sound the Alarm!</card>
     <card qty="2" id="d69092af-f96b-4885-a194-5d5f31d90e6d">Feeble and Weary</card>
-    <card qty="2" id="51e187ea-691c-46bc-b74f-c03d110d02cd">Captives of Gornákh</card>
+    <card qty="1" id="51e187ea-691c-46bc-b74f-c03d110d02cd">Captives of Gornákh</card>
     <card qty="2" id="663a47fc-e264-485b-832d-2c327aa1a493">Interrogation</card>
     <card qty="1" id="414353af-e004-4e7c-b288-e168e2acfee7">Stop the Executioners!</card>
   </section>

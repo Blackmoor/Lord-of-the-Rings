@@ -1,5 +1,730 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Land of Shadow" id="3f4acb38-f3b5-4263-9f6f-41c38aaf8a38" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
  <cards>
+  <card id="fe58a6d3-7028-41c1-ab00-5e33e7d77b5f" name="Frodo Baggins">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Fellowship"/>
+    <property name="Traits" value="Hobbit. Ring-bearer."/>
+    <property name="Cost" value="0"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="8f937f89-b248-4261-9b00-4e3cd9763299" name="Faramir">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Gondor. Noble. Ranger."/>
+    <property name="Keywords" value="Ranged."/>
+    <property name="Cost" value="11"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="3f482b9c-aa18-415e-ab9b-58f9c3b328a1" name="Damrod">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Gondor. Ranger."/>
+    <property name="Cost" value="9"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="c8b5dd1c-82bc-4733-be1a-484a6e87c3c0" name="Anborn">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Gondor. Ranger."/>
+    <property name="Cost" value="4"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="a870e2b3-4b9d-46ea-bc37-425fd682f114" name="Mablung">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Gondor. Ranger."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="df2b2070-240c-4b38-b4c8-29a0d2c789cf" name="Skinbark">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Ent."/>
+    <property name="Keywords" value="Cannot have restricted attachments. Enters play exhausted."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="9e944f47-14b0-4890-98d2-584e0abe0eda" name="Gamling">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Rohan. Warrior."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="2"/>
+  </card>
+  <card id="c86cc6c9-8c50-4069-aa85-4d1cc11f796d" name="Staff of Lebethron">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Item."/>
+    <property name="Keywords" value="Attach to a Gondor or Hobbit hero.&#10;Restricted."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="bb89cc13-3049-4001-bd85-916438c6d629" name="Ambush">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Condition. Trap."/>
+    <property name="Keywords" value="Play Ambush into the staging area unattached. If unattached, attach Ambush to the next eligible enemy that enters the staging area."/>
+    <property name="Cost" value="2"/>
+  </card>
+  <card id="b89d39c4-1017-4707-95c3-d60f352d4e95" name="Snowmane">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Mount."/>
+    <property name="Keywords" value="Attach to a Rohan hero. Restricted."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="1ddaf688-b39b-4d15-8058-1e2957e021ca" name="Taste it Again!">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="f9351811-479d-4bad-a6b3-ac745739b63f" name="In the Shadows">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Keywords" value="Lower the cost to play In the Shadows by 1 for each Hobbit or Ranger hero you control."/>
+    <property name="Cost" value="3"/>
+  </card>
+  <card id="e2daba5a-f5ac-4fcb-a508-45b3b3cae5a9" name="Speak Your Promise!">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Fellowship"/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="c759124f-3bf2-4820-a1af-285c740c4a5b" name="Brace of Conies">
+    <property name="Quantity" value="4"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Boon"/>
+    <property name="Traits" value="Gift."/>
+    <property name="Keywords" value="Play only if you control the Ring-bearer."/>
+    <property name="Cost" value="0"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="8b9b03e6-0036-473a-bdb7-d2d8e74edc69" name="The Searching Eye" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Burden."/>
+    <property name="Keywords" value="The Searching Eye functions like a player card."/>
+  </card>
+  <card id="0e3ce28a-df4b-461e-b47a-299e4c730cc2" name="Groping Dead" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead."/>
+    <property name="Engagement Cost" value="24"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="73752e58-5dc1-40ea-b294-3c8f1998142d" name="Dead Things" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead."/>
+    <property name="Engagement Cost" value="32"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="c1554b49-597c-4d1b-8871-dfbe867253d5" name="Candle-bearer" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead."/>
+    <property name="Keywords" value="The engaged player cannot reduce his threat."/>
+    <property name="Engagement Cost" value="36"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="6"/>
+  </card>
+  <card id="e25328c2-1a6b-4dda-866e-02685eff4a88" name="Evil-smelling Fens" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Marsh."/>
+    <property name="Keywords" value="Mire 3.&#10;Forced: When Evil­smelling Fens is discarded by the Mire keyword, deal 1 damage to each character."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="8893eba4-1f9c-4661-bfc2-bb485e023066" name="Shifting Quagmire" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Marsh."/>
+    <property name="Keywords" value="Surge.&#10;Mire 1. Forced: When Shifting Quagmire is discarded by the Mire keyword, either return a random location from the victory display to the staging area, or raise each player’s threat by 1 for each location in the victory display."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="1c765fa8-9cb8-4cf4-8e93-daac5bae4fce" name="Haunted Mere" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Marsh."/>
+    <property name="Keywords" value="Mire 2.&#10;Forced: When Haunted Mere is discarded by the Mire keyword, search the encounter deck and discard pile for an Undead enemy, reveal it, and add it to the staging area. Shuffle the encounter deck."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="5"/>
+    <property name="Victory Points" value="4"/>
+  </card>
+  <card id="39262ffc-6819-422c-a72a-9baed00f648a" name="Stagnant Pools" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Marsh."/>
+    <property name="Keywords" value="Mire 5.&#10;Forced: When Stagnant Pools is discarded by the Mire keyword, raise each player’s threat by 5. "/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="7"/>
+    <property name="Victory Points" value="3"/>
+  </card>
+  <card id="3254a776-09e5-4576-9b3c-164cc93e1e26" name="Soft Mires" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Marsh."/>
+    <property name="Keywords" value="Mire 1.&#10;Forced: When Soft Mires is discarded by the Mire keyword, the first player reveals the top card of the encounter deck."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Victory Points" value="2"/>
+  </card>
+  <card id="f214f533-374b-423c-86b5-dca1ab5d048f" name="Creeping Marshes" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge. Doomed 1."/>
+  </card>
+  <card id="fcc8ad22-ca1f-4fd1-8f84-4955bb683f50" name="Bitter Reek" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="694650d0-9ba6-4573-bf13-10ca8eb7995d" name="A Fell Light" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="2522fc59-6617-4c74-9723-4a120431aa3f" name="The Black Gate" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+  </card>
+  <card id="62dea330-3ec7-4db0-bea7-382cb3454f83" name="Man of Harad" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Harad."/>
+    <property name="Keywords" value="Surge. Archery 1."/>
+    <property name="Engagement Cost" value="36"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="fc7041f2-b7f8-44a2-bf4c-beadd8016470" name="Captain of Harad" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Harad."/>
+    <property name="Engagement Cost" value="38"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="22f6fc49-6a00-4104-a9fa-4823435175a1" name="The Cross-roads" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Road."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="9"/>
+    <property name="Quest Points" value="9"/>
+    <property name="Victory Points" value="9"/>
+  </card>
+  <card id="62ceb94f-5838-4c5c-9547-8786c4c64051" name="Henneth Annun" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Refuge."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="1"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="2b9c8fa1-a5c3-441e-95c1-c10c85948dc1" name="Southward Road" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest. Road."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="5"/>
+  </card>
+  <card id="8fa4b202-cb8e-470d-ae2b-aa945ac652c5" name="Foothills of Ephel Duath" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest. Hills."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="6"/>
+  </card>
+  <card id="808f60ad-a63f-4504-9b67-4fd45d630add" name="Ithilien Woods" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="3"/>
+  </card>
+  <card id="de09949d-6bc8-470c-a500-6b1fd4a5f391" name="Hills of Ithilien" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest. Hills."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="2591dde9-00c6-488e-a109-94136e4f9876" name="The Dark Lord's Summons" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Peril."/>
+  </card>
+  <card id="b774e6b4-461c-46eb-9398-dcb2af4cfab5" name="Marching Up the Road" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="d12e280f-44f3-469e-a2e8-e3bfd541f909" name="Fierce Southrons" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Peril."/>
+  </card>
+  <card id="75c1d9eb-9ade-4c71-a918-74cf5b526ff2" name="Arrows Thick in the Air" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="c03a693c-4fcf-4df5-868b-88e1df8531d9" name="Shelob" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Creature. Spider."/>
+    <property name="Keywords" value="Indestructible. Cannot have attachments."/>
+    <property name="Engagement Cost" value="50"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="8"/>
+    <property name="Victory Points" value="8"/>
+  </card>
+  <card id="8ba47620-aead-42a5-a057-41cb038f5234" name="Morgul Orc" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Uruk."/>
+    <property name="Keywords" value="Peril."/>
+    <property name="Engagement Cost" value="35"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="021affba-a51d-48f1-ac86-354f3e82d38d" name="Orc of Citith Ungol" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Orc. Uruk."/>
+    <property name="Keywords" value="Peril."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="51b6030d-3ce7-4139-b3bc-a408949533e2" name="Morgul Vale" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Vale."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="2"/>
+    <property name="Victory Points" value="4"/>
+  </card>
+  <card id="4a2696f1-65e1-41d5-8828-38ece23167df" name="Smeagol's Secret Way" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mountain."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="2"/>
+  </card>
+  <card id="32873634-3a91-4d6f-988a-fb8bb5c16ef3" name="Cleft of Cirith Ungol" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Mountain."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Victory Points" value="4"/>
+  </card>
+  <card id="6da65b9b-39a7-425d-baa1-00b406bcae36" name="The Spider's Lair" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="31f8955f-40d5-41de-b886-77018b59d717" name="The Under-way" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="3"/>
+  </card>
+  <card id="ae49e8e5-98f1-4562-935f-5e1ab64631e0" name="Deep Dark Passage" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="5"/>
+  </card>
+  <card id="1e2560ab-00ce-45c3-a374-f7bb6a3e6889" name="Den of Night" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="f77579e7-23f0-4c27-a4e3-e1edcc529e1e" name="Exhalation of Decay" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="65c93e63-0284-4449-8158-717d763b3023" name="Many Openings" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="a40aef89-ca91-467c-93f3-9afc97bdbc24" name="A Heavy Burden" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Burden. Condition."/>
+    <property name="Keywords" value="Permanent. Setup: Attach to the Ring-bearer."/>
+  </card>
+  <card id="74d1310a-6c88-49cd-bac1-a1d4b5bbbcdc" name="Morgul Wraith" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Nazgûl"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Nazgûl."/>
+    <property name="Keywords" value="Cannot have non-Morgul attachments."/>
+    <property name="Engagement Cost" value="45"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="9"/>
+  </card>
+  <card id="5e8714e3-0581-4b6f-bf45-414098819626" name="Call of the Ring" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Nazgûl"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="42e22482-0281-4811-aa65-2b342319ee07" name="We Hates Them" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Gollum"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge."/>
+  </card>
+  <card id="2163f5ef-63a3-4afc-8084-fe730774d216" name="Oliphaunt" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Men of Harad"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Harad. Creature."/>
+    <property name="Keywords" value="Cannot have attachments or take more than 3 damage each round."/>
+    <property name="Engagement Cost" value="44"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="6"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="9"/>
+  </card>
+  <card id="456329e9-c7c4-42ac-9edd-e769aea198ea" name="Haradrim Soldier" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Men of Harad"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Harad."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="c04f4018-e001-4a31-a003-9914e3f585ee" name="Haradrim Archer" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Men of Harad"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Harad."/>
+    <property name="Keywords" value="Archery X. X is the number of players in the game."/>
+    <property name="Engagement Cost" value="42"/>
+    <property name="Threat" value="X"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="e3de3669-64a9-4ab5-a21c-7805e6259267" name="Blocked Tunnel" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Great Spider"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Underground."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="9"/>
+  </card>
+  <card id="35ea4640-1019-409c-b6a4-8a9906def475" name="Shelob's Poison" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Great Spider"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="5497d938-1549-498c-abeb-2ed617222b76" name="Lurking Malice" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Great Spider"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Peril. Surge."/>
+  </card>
+  <card id="5ce0a255-9914-4a4f-9630-d1fe8e00bbc0" name="Rage and Hunger" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Great Spider"/>
+    <property name="Type" value="Treachery"/>
+  </card>
+  <card id="32267333-091c-4bbf-bb29-5f21c8b79188" name="The One Ring" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Artifact. Item. Ring."/>
+  </card>
+  <card id="7fdde250-5b13-4c94-a9b8-4a3a0029928a" name="The Taming of Smeagol" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="tttt"/>
+    <alternate name="The Taming of Smeagol" type="B">
+      <property name="Encounter Set" value="The Passage of the Marshes"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="6"/>
+    </alternate>
+  </card>
+  <card id="d63f87da-45b4-4c5c-b3b5-970a4277c263" name="Across the Marshes" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Across the Dead Marshes" type="B">
+      <property name="Encounter Set" value="The Passage of the Marshes"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="12"/>
+    </alternate>
+  </card>
+  <card id="e40770a1-7b1b-4257-afca-443c55701850" name="&quot;Don't Look at the Lights!&quot;" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="&quot;Don't Look at the Lights!&quot;" type="B">
+      <property name="Encounter Set" value="The Passage of the Marshes"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="24"/>
+    </alternate>
+  </card>
+  <card id="61963ddc-1260-471f-afdf-96581602a444" name="The Passage of the Marshes">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Campaign"/>
+    <property name="Keywords" value="You are playing campaign mode."/>
+    <property name="Setup" value="tttt-----"/>
+    <alternate name="The Passage of the Marshes" type="B">
+      <property name="Encounter Set" value="The Passage of the Marshes"/>
+      <property name="Type" value="Campaign"/>
+    </alternate>
+  </card>
+  <card id="b32e4536-aa58-4a09-8025-12028cd28288" name="Ambush the Men of Harad" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="sstt"/>
+    <alternate name="Ambush the Men of Harad" type="B">
+      <property name="Encounter Set" value="Journey to the Cross-roads"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="20"/>
+    </alternate>
+  </card>
+  <card id="2b93afb6-38fd-4ded-bf92-ed86bc03635d" name="Journey to the Cross-roads">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Journey to the Cross-roads"/>
+    <property name="Type" value="Campaign"/>
+    <property name="Keywords" value="You are playing campaign mode."/>
+    <property name="Setup" value="tttt-----"/>
+    <alternate name="Journey to the Cross-roads" type="B">
+      <property name="Encounter Set" value="Journey to the Cross-roads"/>
+      <property name="Type" value="Campaign"/>
+    </alternate>
+  </card>
+  <card id="da109a2a-65fe-410e-93b4-e09695966fe5" name="The Stairs of Cirith Ungol" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="tttttls"/>
+    <alternate name="The Stairs of Cirith Ungol" type="B">
+      <property name="Encounter Set" value="Shelob's Lair"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="–"/>
+    </alternate>
+  </card>
+  <card id="540e3fbc-a066-4dc6-a156-598f1b2751c0" name="The Spider's Pass" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="The Spider's Pass" type="B">
+      <property name="Encounter Set" value="Shelob's Lair"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="16"/>
+    </alternate>
+  </card>
+  <card id="29a12054-527c-41a3-9dd8-25565288fb4d" name="Gollum's Betrayal" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Gollum's Betrayal" type="B">
+      <property name="Encounter Set" value="Shelob's Lair"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="8"/>
+    </alternate>
+  </card>
+  <card id="cc77ab8d-1968-4607-b18d-7db3c3c186c7" name="Shelob's Lair">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Shelob's Lair"/>
+    <property name="Type" value="Campaign"/>
+    <property name="Keywords" value="You are playing campaign mode."/>
+    <property name="Setup" value="t--------"/>
+    <alternate name="Shelob's Lair" type="B">
+      <property name="Encounter Set" value="Shelob's Lair"/>
+      <property name="Type" value="Campaign"/>
+    </alternate>
+  </card>
+  <card id="32993141-956c-4426-98d9-8705de6fee00" name="Gollum" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Gollum"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Gollum."/>
+    <property name="Keywords" value="Immune to non-☺ player card effects. Gollum engages the first player."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+    <alternate name="Smeagol" type="B">
+      <property name="Encounter Set" value="Gollum"/>
+      <property name="Unique" value="‰"/>
+      <property name="Type" value="Objective"/>
+      <property name="Traits" value="Gollum."/>
+      <property name="Keywords" value="Immune to player card effects. The first player gains control of Smeagol."/>
+      <property name="Willpower" value="2"/>
+      <property name="Attack" value="2"/>
+      <property name="Defense" value="2"/>
+      <property name="Health" value="5"/>
+    </alternate>
+  </card>
+  <card id="ba62a8f1-1857-4449-8f49-7b584b9aaa7d" name="The Passage of the Marshes">
+    <property name="Quantity" value="0"/>
+    <property name="Encounter Set" value="The Passage of the Marshes"/>
+    <property name="Type" value="Rules"/>
+    <property name="Keywords" value="Rules Card"/>
+    <alternate name="The Passage of the Marshes" type="B">
+      <property name="Encounter Set" value="The Passage of the Marshes"/>
+      <property name="Type" value="Rules"/>
+    </alternate>
+  </card>
  </cards>
 </set>

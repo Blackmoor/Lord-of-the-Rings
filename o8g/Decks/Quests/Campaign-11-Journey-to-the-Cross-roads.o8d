@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="2b93afb6-38fd-4ded-bf92-ed86bc03635d">Journey to the Cross-roads</card>
+    <card qty="1" id="b32e4536-aa58-4a09-8025-12028cd28288">Ambush the Men of Harad</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="4" id="62dea330-3ec7-4db0-bea7-382cb3454f83">Man of Harad</card>
+    <card qty="3" id="fc7041f2-b7f8-44a2-bf4c-beadd8016470">Captain of Harad</card>
+    <card qty="1" id="62ceb94f-5838-4c5c-9547-8786c4c64051">Henneth Annun</card>
+    <card qty="2" id="2b9c8fa1-a5c3-441e-95c1-c10c85948dc1">Southward Road</card>
+    <card qty="3" id="8fa4b202-cb8e-470d-ae2b-aa945ac652c5">Foothills of Ephel Duath</card>
+    <card qty="2" id="808f60ad-a63f-4504-9b67-4fd45d630add">Ithilien Woods</card>
+    <card qty="4" id="de09949d-6bc8-470c-a500-6b1fd4a5f391">Hills of Ithilien</card>
+    <card qty="3" id="2591dde9-00c6-488e-a109-94136e4f9876">The Dark Lord's Summons</card>
+    <card qty="2" id="b774e6b4-461c-46eb-9398-dcb2af4cfab5">Marching Up the Road</card>
+    <card qty="2" id="d12e280f-44f3-469e-a2e8-e3bfd541f909">Fierce Southrons</card>
+    <card qty="3" id="75c1d9eb-9ade-4c71-a918-74cf5b526ff2">Arrows Thick in the Air</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="3" id="2163f5ef-63a3-4afc-8084-fe730774d216">Oliphaunt</card>
+    <card qty="3" id="456329e9-c7c4-42ac-9edd-e769aea198ea">Haradrim Soldier</card>
+    <card qty="3" id="c04f4018-e001-4a31-a003-9914e3f585ee">Haradrim Archer</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="4" id="c759124f-3bf2-4820-a1af-285c740c4a5b">Brace of Conies</card>
+    <card qty="1" id="2522fc59-6617-4c74-9723-4a120431aa3f">The Black Gate</card>
+    <card qty="1" id="22f6fc49-6a00-4104-a9fa-4823435175a1">The Cross-roads</card>
+    <card qty="1" id="32267333-091c-4bbf-bb29-5f21c8b79188">The One Ring</card>
+    <card qty="1" id="fe58a6d3-7028-41c1-ab00-5e33e7d77b5f">Frodo Baggins</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>
