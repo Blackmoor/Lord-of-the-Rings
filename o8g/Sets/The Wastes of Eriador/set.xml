@@ -80,11 +80,10 @@
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
   </card>
-  <card id="f8a3acfb-3b0d-414b-b5d0-2612d33c193d" name="Scout Ahead" size="QuestCard">
+  <card id="f8a3acfb-3b0d-414b-b5d0-2612d33c193d" name="Scout Ahead" size="PlayerQuestCard">
     <property name="Quantity" value="3"/>
-    <property name="Type" value="Quest"/>
+    <property name="Type" value="Side Quest"/>
     <property name="Sphere" value="Lore"/>
-    <property name="Traits" value="Player Side Quest."/>
     <property name="Keywords" value="Limit 1 per deck."/>
     <property name="Cost" value="0"/>
     <property name="Quest Points" value="4"/>

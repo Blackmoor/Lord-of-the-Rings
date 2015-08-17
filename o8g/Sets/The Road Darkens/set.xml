@@ -128,7 +128,6 @@
     <property name="Keywords" value="Attach to a Hobbit hero. Restricted."/>
     <property name="Cost" value="2"/>
     <property name="Text" value="Attached hero gets +1 Ò, +1 Û, and +1 Ú.&#10;&#10;Response: After attached hero exhausts to defend an attack, discard the top card of the encounter deck. Deal damage to the attacking enemy equal to the discarded card’s $."/>
-    <property name="Setup" value="t"/>
   </card>
   <card id="23acfc2e-3262-4f22-8496-a753fa9089bd" name="Mithril Shirt">
     <property name="Quantity" value="1"/>
@@ -139,7 +138,6 @@
     <property name="Keywords" value="Attach to the Ring-bearer."/>
     <property name="Cost" value="1"/>
     <property name="Text" value="Attached hero gets +1 Ú and +1 hit point."/>
-    <property name="Setup" value="t"/>
   </card>
   <card id="c7f5eac0-dbda-419f-994c-c182775682b3" name="Glamdring">
     <property name="Quantity" value="1"/>
@@ -150,7 +148,6 @@
     <property name="Keywords" value="Attach to a Warrior hero or Gandalf. Restricted."/>
     <property name="Cost" value="2"/>
     <property name="Text" value="Attached hero gets +2 Û.&#10;Response: After attached character destroys an Orc enemy, draw 1 card."/>
-    <property name="Setup" value="t"/>
   </card>
   <card id="24eabbac-62b1-4d2c-93a0-f97c04a2aefa" name="Andúril">
     <property name="Quantity" value="1"/>
@@ -161,7 +158,6 @@
     <property name="Keywords" value="Attach to a Noble hero or Aragorn. Restricted."/>
     <property name="Cost" value="3"/>
     <property name="Text" value="Attached hero gets +1 Ò, +1 Û, and +1 Ú.&#10;Response: After an attack in which the attached hero defended resolves, exhaust Andúril to target the enemy that just attacked. Declare attached hero as an attacker agaisnt that enemy (and resolve the attack)."/>
-    <property name="Setup" value="t"/>
   </card>
   <card id="14cbe0e1-0916-427f-8f19-abef59232dd2" name="Phial of Galadriel">
     <property name="Quantity" value="1"/>

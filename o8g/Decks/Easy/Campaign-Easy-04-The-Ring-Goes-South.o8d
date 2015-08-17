@@ -25,20 +25,22 @@
     <card qty="2" id="54981b6b-c247-40f9-9321-fd7913b897dd">Storm of Howls</card>
   </section>
   <section name="Setup" shared="True">
+    <card qty="1" id="7791cd04-7ffe-41f3-9633-cf57ad3a34ca">Sting</card>
+    <card qty="1" id="23acfc2e-3262-4f22-8496-a753fa9089bd">Mithril Shirt</card>
+    <card qty="1" id="c7f5eac0-dbda-419f-994c-c182775682b3">Glamdring</card>
+    <card qty="1" id="24eabbac-62b1-4d2c-93a0-f97c04a2aefa">Andúril</card>
     <card qty="1" id="7068731b-3837-40f3-9e98-6c996af4dddc">Lust for the Ring</card>
     <card qty="1" id="ebd1944a-928c-40ff-88de-dfebdfcf633c">Redhorn Pass</card>
     <card qty="1" id="5963e5c4-0f2e-43c4-afa2-a9b2cfde73d1">Doors of Durin</card>
     <card qty="1" id="8f38ca4f-5893-4bd4-854d-6788a3ada41f">Watcher in the Water</card>
   </section>
-  <section name="Ally" shared="False" />
   <section name="Attachment" shared="False">
     <card qty="1" id="ba2e4a33-edc6-4638-a3f5-b818b080aea8">The One Ring</card>
-    <card qty="1" id="7791cd04-7ffe-41f3-9633-cf57ad3a34ca">Sting</card>
-    <card qty="1" id="23acfc2e-3262-4f22-8496-a753fa9089bd">Mithril Shirt</card>
-    <card qty="1" id="c7f5eac0-dbda-419f-994c-c182775682b3">Glamdring</card>
-    <card qty="1" id="24eabbac-62b1-4d2c-93a0-f97c04a2aefa">Andúril</card>
   </section>
+  <section name="Ally" shared="False" />
   <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
   <section name="Special" shared="True" />
   <notes><![CDATA[]]></notes>
 </deck>

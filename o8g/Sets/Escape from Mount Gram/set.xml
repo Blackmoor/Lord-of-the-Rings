@@ -60,11 +60,10 @@
     <property name="Defense" value="1"/>
     <property name="Health" value="2"/>
   </card>
-  <card id="f4d94f3d-d3af-44d6-9896-764484302bb1" name="Double Back" size="QuestCard">
+  <card id="f4d94f3d-d3af-44d6-9896-764484302bb1" name="Double Back" size="PlayerQuestCard">
     <property name="Quantity" value="3"/>
-    <property name="Type" value="Quest"/>
+    <property name="Type" value="Side Quest"/>
     <property name="Sphere" value="Spirit"/>
-    <property name="Traits" value="Player Side Quest."/>
     <property name="Keywords" value="Limit 1 per deck."/>
     <property name="Cost" value="0"/>
     <property name="Quest Points" value="4"/>
