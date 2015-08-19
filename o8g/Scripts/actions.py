@@ -80,7 +80,7 @@ def isSpecialCard(card):
 def firstHero(player):
 	first = None
 	for h in table:
-		if h.controller == player and h.Type == "Hero":
+		if h.controller == player and h.Type == "Hero" and h.isFaceUp:
 			if first is None:
 				first = h
 			else:
@@ -455,7 +455,7 @@ def highlightPlayer(p, state):
 		return
 	debug("highlightPlayer {} = {}".format(p, state))
 	for card in table:
-		if card.Type == "Hero" and card.controller == p:
+		if card.Type == "Hero" and card.controller == p and card.isFaceUp:
 			card.highlight = state
 
 #Highlight all players to show his status
@@ -1055,7 +1055,7 @@ def doNextRound():
 		me.Willpower = 0
 	draw(me.deck)
 	for card in table:
-		if card.Type == "Hero" and card.controller == me and not isLocked(card):
+		if card.Type == "Hero" and card.controller == me and not isLocked(card) and card.isFaceUp:
 			addResource(card)
 			
 	if not phaseManagement():
