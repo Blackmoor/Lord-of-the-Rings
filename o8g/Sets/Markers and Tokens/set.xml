@@ -4,6 +4,10 @@
     <marker id="62a2ba76-9872-481b-b8fc-ec35447ca640" name="Resource" />
     <marker id="38d55f36-04d7-4cf9-a496-06cb84de567d" name="Damage" />
     <marker id="e9a419ff-5154-41cf-b84f-95149cc19a2a" name="Progress" />
+    <marker id="f24eb0c4-8405-4599-ba80-95bc009ae9fb" name="WillpowerToken" />
+    <marker id="53f20b83-6292-4017-abd0-511efdaf710d" name="AttackToken" />
+    <marker id="6987d1a6-55ab-4ced-bbec-4e5b3490a40e" name="DefenseToken" />
+    <marker id="39df75f2-141d-425f-b651-d572b4885004" name="ThreatToken" />
     <marker id="04d7b7bb-13ee-499c-97c0-c1b96a897560" name="Lock" />
     <marker id="e0a54bea-6e30-409d-82cd-44a944e591dc" name="Turn" />
   </markers>

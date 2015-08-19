@@ -5,7 +5,7 @@
 	id="a21af4e8-be4b-4cda-a6b6-534f9717391f" 
 	octgnVersion="3.1.162.360"
 	scriptVersion ="3.1.0.1"
-	version="2.5.0.2"
+	version="2.5.0.6"
 	markersize="16"
 	tags="LotR LCG cooperative"
 	description="The Lord of the Rings: The Card Game is a cooperative card game that puts 1-4 players in control of the most powerful characters and artifacts of Middle-earth.&#10;&#10;Players will select heroes, gather allies, acquire artifacts, and coordinate their efforts to face Middle-earth’s most dangerous fiends. By cooperating to overcome the obstacles drawn from the encounter deck, you will complete the quest before you and claim victory!"
@@ -97,12 +97,20 @@
 			<cardaction menu="Add Resource" default="False" shortcut="F1" execute="addResource" />
 			<cardaction menu="Add Progress" default="False" shortcut="F2" execute="addProgress" />
 			<cardaction menu="Add Damage" default="False" shortcut="F3" execute="addDamage" />
+			<cardaction menu="Add Willpower Token" default="False" shortcut="ctrl+1" execute="addWillpower" />
+			<cardaction menu="Add Attack Token" default="False" shortcut="ctrl+2" execute="addAttack" />
+			<cardaction menu="Add Defense Token" default="False" shortcut="ctrl+3" execute="addDefense" />
+			<cardaction menu="Add Threat Token" default="False" shortcut="ctrl+4" execute="addThreat" />
 			<cardaction menu="Add Turn" showIf="isFirstPlayerToken" default="False" execute="addTurn" />
 		</cardactions>
 		<cardactions menu="Remove Token">
 			<cardaction menu="Remove Resource" default="False" shortcut="F4" execute="subResource" />
 			<cardaction menu="Remove Progress" default="False" shortcut="F5" execute="subProgress" />
 			<cardaction menu="Remove Damage" default="False" shortcut="F6" execute="subDamage" />
+			<cardaction menu="Remove Willpower Token" default="False" shortcut="ctrl+shift+1" execute="subWillpower" />
+			<cardaction menu="Remove Attack Token" default="False" shortcut="ctrl+shift+2" execute="subAttack" />
+			<cardaction menu="Remove Defense Token" default="False" shortcut="ctrl+shift+3" execute="subDefense" />
+			<cardaction menu="Remove Threat Token" default="False" shortcut="ctrl+shift+4" execute="subThreat" />
 			<cardaction menu="Remove Turn" showIf="isFirstPlayerToken" default="False" execute="subTurn" />
 		</cardactions>
 		<cardaction menu="Exhaust/Ready" default="False" shortcut="F7" execute="kneel" />

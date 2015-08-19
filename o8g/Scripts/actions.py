@@ -3,6 +3,10 @@ import time
 Resource = ("Resource", "62a2ba76-9872-481b-b8fc-ec35447ca640")
 Damage = ("Damage", "38d55f36-04d7-4cf9-a496-06cb84de567d")
 Progress = ("Progress", "e9a419ff-5154-41cf-b84f-95149cc19a2a")
+WillpowerToken = ("WillpowerToken", "f24eb0c4-8405-4599-ba80-95bc009ae9fb")
+AttackToken = ("AttackToken", "53f20b83-6292-4017-abd0-511efdaf710d")
+DefenseToken = ("DefenseToken", "6987d1a6-55ab-4ced-bbec-4e5b3490a40e")
+ThreatToken = ("ThreatToken", "39df75f2-141d-425f-b651-d572b4885004")
 Lock = ("Lock", "04d7b7bb-13ee-499c-97c0-c1b96a897560")
 Turn = ("Turn", "e0a54bea-6e30-409d-82cd-44a944e591dc")
 phases = [  "5b015ce5-9282-402f-8fae-2ee819bd1545",
@@ -1280,6 +1284,18 @@ def addDamage(card, x = 0, y = 0):
 def addProgress(card, x = 0, y = 0):
     addToken(card, Progress)  
 
+def addWillpower(card, x = 0, y = 0):
+    addToken(card, WillpowerToken)  
+
+def addAttack(card, x = 0, y = 0):
+    addToken(card, AttackToken)  
+
+def addDefense(card, x = 0, y = 0):
+    addToken(card, DefenseToken)  
+
+def addThreat(card, x = 0, y = 0):
+    addToken(card, ThreatToken)  
+
 def addTurn(card, x=0, y=0):
 	if isFirstPlayerToken([card]):
 		shared.counters['Round'].value += 1
@@ -1298,6 +1314,18 @@ def subDamage(card, x = 0, y = 0):
 def subProgress(card, x = 0, y = 0):
     subToken(card, Progress)
 	
+def subWillpower(card, x = 0, y = 0):
+    subToken(card, WillpowerToken)  
+
+def subAttack(card, x = 0, y = 0):
+    subToken(card, AttackToken)  
+
+def subDefense(card, x = 0, y = 0):
+    subToken(card, DefenseToken)  
+
+def subThreat(card, x = 0, y = 0):
+    subToken(card, ThreatToken)
+
 def subTurn(card, x=0, y=0):
 	if isFirstPlayerToken([card]) and shared.counters['Round'].value > 0:
 		shared.counters['Round'].value -= 1
