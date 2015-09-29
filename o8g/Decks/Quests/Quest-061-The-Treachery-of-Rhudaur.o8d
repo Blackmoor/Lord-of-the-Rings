@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="a7231cbd-0620-4b15-9c2c-68d4e7c79a8f">Secrets of Rhudaur</card>
+    <card qty="1" id="fdd55ddc-2f18-4ae6-89bb-e54827a1bbdc">Thaurdir's Pursuit</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="5c5ce14a-332a-40fe-8f55-cfa2f53e8592">Wight of Rhudaur</card>
+    <card qty="3" id="e1edac2f-1d9c-44e6-af0a-10c3101f2709">Traitorous Wight</card>
+    <card qty="2" id="0e205159-5e62-4d24-b0df-635853aea9c0">Forbidden Descent</card>
+    <card qty="2" id="a1a8bd6e-4cd1-4641-9cb1-f693f053f62e">Eerie Halls</card>
+    <card qty="2" id="c35f2635-fa68-44be-9ce9-80446831f0e0">Ghostly Ruins</card>
+    <card qty="2" id="fd3e323b-0fea-49ce-90d2-cbfea27be8cd">Decrepit Remains</card>
+    <card qty="2" id="7aa9b24a-7b10-4457-be9e-5bfb78bff865">Centuries of Sorrow</card>
+    <card qty="3" id="152a0b0a-7e01-41ce-98a4-3e7b0d6eaac4">Curse of the Years</card>
+    <card qty="3" id="7aa7f695-f5b5-4fb4-9296-53ec517d6a30">Dark Covenant</card>
+    <card qty="3" id="7f458303-66c1-45db-bf3f-20669fea6ff4">Haunting Fog</card>
+    <card qty="2" id="aa6914e2-4b79-4a95-ab3e-386d6a924bee">Dead Lord</card>
+    <card qty="5" id="21fec323-3155-4b64-8506-fa87d44f01fc">Cursed Dead</card>
+    <card qty="2" id="123bc772-2c27-4f26-a7f2-a3c4928a9dc4">Restless Evil</card>
+    <card qty="1" id="7295a9fb-961f-42ad-b07d-33793e2f2274">Seal the Tomb</card>
+    <card qty="3" id="70cc4fe9-8e97-4d83-8f48-06dc6a43c43e">Ruins of Arnor</card>
+    <card qty="1" id="ff4c59d7-6ad7-4fa7-80da-97fd5f8f3169">Ancient Causeway</card>
+    <card qty="2" id="f2a34148-f5af-4a16-a1ae-953ea5d5482f">Tragic Discovery</card>
+    <card qty="1" id="047ca6cd-733d-46aa-b2db-48a9c63bfc24">Search the Ruins</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="d0ab3d77-e84b-41b8-bb9b-f9be302ef1ef">The Treachery of Rhudaur</card>
+    <card qty="1" id="5df1bf1c-8dc0-4534-9380-6af6812dc6f8">Amarthiúl</card>
+    <card qty="1" id="125e7884-7f75-42cd-80ba-065cf88eef9a">The Great Hall</card>
+    <card qty="1" id="d658967b-662e-4dfb-afb6-4b3444074b79">Thaurdir</card>
+    <card qty="1" id="6709bafa-87b5-483e-9895-0f2edea7e47a">Quiet the Spirits</card>
+    <card qty="1" id="bf925a7c-b427-4fb6-ba6b-dbc86304a69f">Sift Through the Debris</card>
+    <card qty="1" id="768bab66-1707-41a4-adf3-3baad2e7daad">Decipher Ancient Texts</card>
+    <card qty="1" id="ff4c59d7-6ad7-4fa7-80da-97fd5f8f3169">Ancient Causeway</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

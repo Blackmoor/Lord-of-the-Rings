@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - First Age - Among the Outlaws" id="f564ce86-7675-4f54-b7d1-964c81bc23d9" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+ <cards>
+  <card id="95304897-c25d-45b0-a4e7-730a1d793284" name="Fellowship With The Outlaws" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Affiliation."/>
+    <property name="Text" value="Forced: After the 3rd Dilemma objective is added to the victory display, advance to stage 2A and remove Fellowship With The Outlaws from the game.&#10;&#10;Forced: After the players quest unsuccessfully, reveal the top card of the dilemma deck.&#10;&#10;If there are 7 cards in the dilemma deck discard pile, the players lose the game."/>
+  </card>
+  <card id="49997b39-ddbc-4baa-bfba-d557a0af1344" name="Forweg" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Gaurwaith. Captain."/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="The first player gains control of Forweg.&#10;&#10;Forced: Forweg declares and resolves an attack against a random Woodmen enemy engaged with the first player at the end of the combat phase.&#10;&#10;If Forweg leaves play, the players lose the game."/>
+    <alternate name="Forweg" type="B">
+      <property name="Encounter Set" value="Custom Set - First Age"/>
+      <property name="Unique" value="‰"/>
+      <property name="Type" value="Enemy"/>
+      <property name="Traits" value="Gaurwaith. Captain."/>
+      <property name="Keywords" value="Relentless."/>
+      <property name="Engagement Cost" value="0"/>
+      <property name="Threat" value="2"/>
+      <property name="Attack" value="4"/>
+      <property name="Defense" value="2"/>
+      <property name="Health" value="5"/>
+      <property name="Victory Points" value="1"/>
+      <property name="Text" value="Allies cannot attack or defend against Forweg.&#10;&#10;Forced: After Forweg makes his first attack each round, he engages the next player and makes an immediate attack (discard and deal a new shadow card for this attack)."/>
+    </alternate>
+  </card>
+  <card id="3ad6eae2-1bb5-4ee5-90bb-bdddb07d65fb" name="Androg" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Gaurwaith."/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="The first player gains control of Androg.&#10;&#10;Each Woodmen enemy gets -5 engagement cost for each Corruption on heroes the first player controls.&#10;&#10;If Androg leaves play, the players lose the game."/>
+    <alternate name="Forweg" type="B">
+      <property name="Encounter Set" value="Custom Set - First Age"/>
+      <property name="Unique" value="‰"/>
+      <property name="Type" value="Enemy"/>
+      <property name="Traits" value="Gaurwaith."/>
+      <property name="Keywords" value="Relentless."/>
+      <property name="Engagement Cost" value="0"/>
+      <property name="Threat" value="1"/>
+      <property name="Attack" value="3"/>
+      <property name="Defense" value="2"/>
+      <property name="Health" value="5"/>
+      <property name="Victory Points" value="2"/>
+      <property name="Text" value="Androg gets +1 Û for each hero you control with at least 1 Corruption."/>
+    </alternate>
+  </card>
+  <card id="b60e9952-6185-486e-a741-3d1ffa5865e7" name="Larnach's Daughter" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Dilemma."/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="When Revealed: Forweg declares an attack on Larnach's Daughter. The first player may declare an eligible defender against this attack. If no character is destroyed by this attack, add Larnach's Daughter to the victory display. If no defender is declared, each player deals 3 Corruption among characters he controls."/>
+  </card>
+  <card id="bf44e42f-afcd-4748-8b4a-ad369e135be3" name="Cull the Weak" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Dilemma."/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="When Revealed: Either each player must discard the character he controls with the fewest hit points to remove all damage from one character he controls, or add Cull the Weak to the victory display and each player must deal 3 damage to a hero he controls."/>
+  </card>
+  <card id="6380d0c8-ab9f-44b6-bd3f-a067bf9d515f" name="Punish The Trespassers" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Dilemma."/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="When Revealed: Either each player must exhaust a character he controls to discard a Woodmen enemy from play, or add Punish The Trespassers to the victory display and each player must search the encounter deck and discard pile for a Woodmen enemy and put it into play engaged with him. One of these must be Hound of the Woodmen, if able."/>
+  </card>
+  <card id="dee1c6f9-6dbe-4921-9e8d-3ca61f279b41" name="Raid The Homestead" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Dilemma."/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="When Revealed: Either each player deals X Corruption to a hero he controls to add X resources to that hero's resource pool, or add Raid The Homestead to the victory display and discard all resources from play (any hero that does not discard a resource takes 2 damage)."/>
+  </card>
+  <card id="2253fda8-0034-4944-afd8-17c6d99d3073" name="Turn A Blind Eye" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Dilemma."/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="When Revealed: Either each player must deal 1 Corruption to a hero he controls to reduce his threat by 3, or add Turn A Blind Eye to the victory display and exhaust all heroes in play."/>
+  </card>
+  <card id="5cb829e3-e302-48f4-8d39-3051401f293e" name="Teiglin Hunter" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Woodmen."/>
+    <property name="Engagement Cost" value="28"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="While Teiglin Hunter is engaged with a player, all enemies engaged with that player get +1 Û."/>
+    <property name="Shadow" value="Shadow: All enemies engaged with the defending player get +1 Û until the end of the phase."/>
+  </card>
+  <card id="46e76370-441b-4081-b19e-3b8a2c098411" name="Hound of the Woodmen" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Woodmen. Creature."/>
+    <property name="Engagement Cost" value="20"/>
+    <property name="Threat" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Forced: At the start of the encounter phase, discard cards from the top of the encounter deck until an enemy is discarded. Add that enemy to the staging area. This ability does not stack with other copies of Hound of the Woodmen."/>
+  </card>
+  <card id="bec7dc4d-4d12-49c1-8d5e-a1c2e1d934d9" name="Homestead Defender" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Woodmen."/>
+    <property name="Engagement Cost" value="32"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="While Homestead Defender is engaged with a player, Woodmen enemies engaged with that player not named Homestead Defender cannot be attacked by non-objective characters."/>
+    <property name="Shadow" value="Shadow: All enemies engaged with the defending player get +2 Ú until the end of the phase."/>
+  </card>
+  <card id="f0cea34c-8de3-4a53-9935-fe6b2b226f20" name="Desperate Outlaw" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Gaurwaith."/>
+    <property name="Engagement Cost" value="25"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="5"/>
+    <property name="Text" value="Forced: After an attack against Desperate Outlaw resolves, Desperate Outlaw makes an immediate attack against the defending player."/>
+    <property name="Shadow" value="Shadow: The attacking enemy makes an additional attack after this one."/>
+  </card>
+  <card id="b1020771-87d4-4e3d-b7b6-fe8f02c86e59" name="Cruel Robber" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Gaurwaith."/>
+    <property name="Engagement Cost" value="28"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Forced: After Cruel Robber attacks, discard 1 attachment the defending player controls."/>
+    <property name="Shadow" value="Shadow: Discard 1 attachment from the defending character."/>
+  </card>
+  <card id="ed28adcd-a183-4ae1-8543-2f57fab4087e" name="Driven Outcast" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Gaurwaith."/>
+    <property name="Engagement Cost" value="22"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="Forced: After Driven Outcast attacks, deal 1 damage to the defending character."/>
+    <property name="Shadow" value="Shadow: After this attack resolves, deal 1 damage to the defending character."/>
+  </card>
+  <card id="6b0da4d6-c412-49bf-b4c3-56b122f3121e" name="Forest Clearing" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Text" value="(Stage 1B) Response: After Forest Clearing is explored, reduce each player's threat by 2.&#10;&#10;While Forest Clearing is in play, the first Gaurwaith enemy revealed each round gains surge."/>
+  </card>
+  <card id="83d2700d-a943-4ece-b24c-1c416b4fee7b" name="Scattered Homestead" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Homestead."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="6"/>
+    <property name="Text" value="While Scattered Homestead is in the staging area, discard cards from the top of the encounter deck at the end of the round until an enemy is discarded. Add that enemy to the staging area."/>
+  </card>
+  <card id="e52ae820-1ed3-44b4-b528-294ba1809760" name="Tilled Field" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Homestead."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Text" value="(Stage 1B) Response: After Tilled Field is explored, add 1 resource to each hero's resource pool.&#10;&#10;(Stage 2B) When Revealed: Each player must exhaust a hero he controls."/>
+  </card>
+  <card id="d46cfd40-79b1-46c5-a071-9048b71be51a" name="Hedge and Stockade" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Homestead. Fortification."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="5"/>
+    <property name="Text" value="(Stage 1B): While Hedge and Stockade is the active location, all Woodmen enemies get +2 Ú and 0 engagement cost.&#10;&#10;(Stage 2B): While Hedge and Stockade is the active location, all Gaurwaith enemies get -1 Û and 0 engagement cost."/>
+  </card>
+  <card id="c5cf5648-dd9d-49da-ba34-f62685e2f9f7" name="Woods of Teiglin" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Text" value="(Stage 1B) Response: After Woods of Teiglin is explored, each player draws 1 card.&#10;&#10;(Stage 2B): While Woods of Teiglin is in the staging area, all Gaurwaith enemies get +1 $, +1 Û, and +1 Ú."/>
+  </card>
+  <card id="7185d130-fba8-4996-b146-1eaf2ae19efa" name="Dogs and Fences" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Woodmen."/>
+    <property name="Text" value="When Revealed: Each player must choose: Either deal X damage among heroes he controls, where X is equal to the number of engaged Woodmen enemies plus 2, or treat the printed text box of each non-objective character he controls as if it were blank, except for keywords and Traits, until the end of the round."/>
+  </card>
+  <card id="25dac4ef-6afa-45fb-bfd4-53ef9feeb138" name="Horn-calls" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Woodmen."/>
+    <property name="Text" value="When Revealed: Each player must search the encounter deck and discard pile for a Woodmen enemy and put it into play engaged with him. Then, each engaged Woodmen enemy makes an immediate attack."/>
+  </card>
+  <card id="3525c679-bcc3-4570-81c3-5a6c0c5407d4" name="No Law But Their Needs" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Woodmen."/>
+    <property name="Text" value="When Revealed: Either Either each player must immediately exhaust and commit 1 hero to the quest, or raise each player's threat by 4."/>
+    <property name="Shadow" value="Shadow: Deal 1 damage to the attacking enemy. If that enemy is destroyed, deal 1 Corruption to the defending character."/>
+  </card>
+  <card id="197ceba4-67fb-48fe-ac70-b6cd9ee75156" name="Wolf-men of the Winter" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Gaurwaith."/>
+    <property name="Text" value="When Revealed: Each player engaged with a Gaurwaith enemy must discard all resources he controls. If a player did not discard at least 3 resources, deal 1 damage to each character he controls."/>
+    <property name="Shadow" value="Shadow: The defending player must pay 1 resource or the attacking enemy gets +3 Û."/>
+  </card>
+  <card id="957262fd-5c8f-4349-afbc-08f4842479b5" name="Banded Attack" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Gaurwaith."/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: Each player deals X damage among characters he controls,  where X is the number of Gaurwaith enemies engaged with that player."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1Û for each enemy engaged with the defending player."/>
+  </card>
+  <card id="c3aee5bc-06a7-4c53-b92e-b6f91be64f00" name="Blood Upon the Grass" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Gaurwaith."/>
+    <property name="Text" value="When Revealed: Each player must choose: Either raise his threat by 1 for each Corruption on characters he controls, or choose one character with at least 1 Corruption. That character is immediately corrupted."/>
+    <property name="Shadow" value="Shadow: Exhaust all characters the defending player controls with at least 1 Corruption."/>
+  </card>
+  <card id="884d93d1-b382-4df5-b37e-aaaac1eca997" name="Cruel of Heart" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Sphere" value="Burden"/>
+    <property name="Traits" value="Doom."/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: Attach to the hero with Curse of Morgoth attached. (Counts as a Condition attachment with the text: &quot;Forced: After an ally enters play, exhaust attached hero to deal 1 damage to that ally.&quot;)"/>
+  </card>
+  <card id="9b971c0e-5d87-47f9-b50c-3b449d927223" name="Bitterness of Exile" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Sphere" value="Burden"/>
+    <property name="Traits" value="Doom."/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: Remove each character with at least 1 Corruption from the quest."/>
+    <property name="Shadow" value="Shadow: Reveal the top card of the encounter deck. If it is an enemy or location, add it to the staging area."/>
+  </card>
+  <card id="919d87e9-c35f-495e-afff-9608713ba046" name="Craft In Wood And Field">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Boon"/>
+    <property name="Traits" value="Skill."/>
+    <property name="Text" value="Attach to the hero with Curse of Morgoth attached.&#10;&#10;Response: After the players travel to a location, choose a player and exhaust attached hero to reduce that player's threat by the $ of the active location."/>
+  </card>
+  <card id="3487fbc9-2fc0-4b41-9335-fdcfb30d0d8f" name="Hardship of the Wild">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Boon"/>
+    <property name="Traits" value="Condition."/>
+    <property name="Keywords" value="Permanent."/>
+    <property name="Victory Points" value="1"/>
+    <property name="Text" value="Setup: Attach to a hero.&#10;&#10;Attached hero gets +1 Ú and +1 hit point.&#10;&#10;Response: Add Hardship of the Wild to the victory display, and remove it from the campaign pool, to cancel 2 points of damage just dealt to attached hero."/>
+  </card>
+  <card id="f40e3a5e-f4ea-42f8-9775-d3f3d53ea7b9" name="An Evil and Dangerous Way" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="Setup: Set all enemy and treachery cards with the Gaurwaith trait aside, out of play. Shuffle all Dilemma cards together into a dilemma deck. Add Fellowship with the Outlaws to the staging area. Put Forweg and Androg into play, ally side faceup. Each player searches the encounter deck for a different location and adds it to the staging area."/>
+    <property name="Setup" value="stt"/>
+    <alternate name="An Evil and Dangerous Way" type="B">
+      <property name="Encounter Set" value="Custom Set - First Age"/>
+      <property name="Type" value="Quest"/>
+      <property name="Quest Points" value="-"/>
+      <property name="Text" value="Forced: The players must travel to a location during the travel phase, if able.&#10;&#10;Forced: After the active location is explored, deal X Corruption among characters the first player controls. X is the $ of that location.&#10;&#10;Forced: After a Woodmen enemy is destroyed, add 1 progress to Fellowship Among the Outlaws and 1 Corruption to each character that participated in the attack. (If Forweg or Androg participated in the attack, deal 1 Corruption to each hero controlled by the engaged player.)"/>
+    </alternate>
+  </card>
+  <card id="d0375f35-e4a9-4a13-bef1-2d7ed85355cf" name="To Govern this Fellowship" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Quest"/>
+    <property name="Text" value="When Revealed: Flip Forweg and Androg to their enemy sides, remove all tokens from them, and place them in the staging area. Discard all Woodmen enemies. Remove all enemy and treachery cards with the Woodmen trait from the encounter deck and discard pile and set them aside, out of play. Shuffle the set aside enemy and treachery cards with the Gaurwaith trait into the encounter deck. Reveal 1 encounter card per player."/>
+    <alternate name="To Govern this Fellowship" type="B">
+      <property name="Encounter Set" value="Custom Set - First Age"/>
+      <property name="Type" value="Quest"/>
+      <property name="Quest Points" value="30"/>
+      <property name="Text" value="Gaurwaith enemies may be attacked with Ò instead of Û. If an enemy would be damaged this way, place progress tokens on it instead of damage tokens. When an enemy has progress equal to its hit points, add it to the victory display and place those progress tokens on the quest.&#10;&#10;When Revealed: Place 5 progress tokens on this quest stage for each card in the discard pile of the dilemma deck.&#10;&#10;The players cannot defeat this stage while Forweg is in play. If the players defeat this stage, they have won the game."/>
+    </alternate>
+  </card>
+  <card id="77820110-50f5-490f-907d-7c429c4cba87" name="Among The Outlaws">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Campaign"/>
+    <property name="Text" value="You are playing Campaign Mode.&#10;&#10;Response: Discard the top card of the dilemma deck to cancel the &quot;when revealed&quot; effects of a card that was just revealed from the encounter deck. (Limit once per game.)"/>
+    <alternate name="Among The Outlaws" type="B">
+      <property name="Encounter Set" value="Custom Set - First Age"/>
+      <property name="Type" value="Campaign"/>
+      <property name="Text" value="Resolution: Add Bitterness of Exile to the campaign pool. If there is at least 1 card in the dilemma deck discard pile, add Cruel of Heart to the campaign pool. These burdens have been earned by the players. Each player may attach a copy of Hardship of the Wild to a hero he controls. If there are no cards in the dilemma deck discard pile, add Craft In Wood And Field to the campaign pool. These boons have been earned by the players."/>
+    </alternate>
+  </card>
+  <card id="84362e3a-13d5-4785-b4a7-2c736d8094ba" name="Among The Outlaws rules">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Campaign"/>
+    <alternate name="Among The Outlaws rules" type="B">
+      <property name="Encounter Set" value="Custom Set - First Age"/>
+      <property name="Type" value="Campaign"/>
+    </alternate>
+  </card>
+  <card id="274fac64-7d59-4aec-ac92-3f8438211fb1" name="Bór the Faithful">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Easterling."/>
+    <property name="Cost" value="6"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Action: Discard 1 Corruption from Bór the Faithful to ready him. He gets +2 Û and +1 Ò until the end of the round. (Limit once per round.)"/>
+  </card>
+  <card id="53dec04a-43eb-49ae-802a-57357d1082fd" name="Elder of the Realm">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Teleri."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Response: After a treachery card is revealed, discard a card from hand (spend 1 Î to discard the top card of your deck instead). If the first letter of the treachery card's title matches that of the discarded card, cancel the &quot;when revealed&quot; effects of the revealed card. (Limit once per game.)"/>
+  </card>
+  <card id="4d15e840-b185-4965-ad39-53d3e76f5979" name="Brethil Hound">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Hound. House of Haleth."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Response: After Brethil Hound participates in an attack that destroys an enemy, choose a player. That player reduces his threat by 1. (Limit once per phase.)"/>
+  </card>
+  <card id="c53d38d4-5222-4faf-8d22-abf9665627aa" name="Algund">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Mastery"/>
+    <property name="Traits" value="Gaurwaith."/>
+    <property name="Keywords" value="Ransom 3."/>
+    <property name="Cost" value="0"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+    <property name="Text" value="Response: When the discard pile is shuffled back into the encounter deck, deal X Corruption to Algund to choose X cards in the discard pile. These cards are not shuffled back into the encounter deck."/>
+  </card>
+  <card id="6693e1ca-2fbd-4f3a-8d3b-5698f83924cb" name="Fostered Son">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Edain. Noble."/>
+    <property name="Cost" value="1"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="1"/>
+    <property name="Text" value="Action: Discard Fostered Son to reduce the cost of the next unique Edain character you play this phase by 2."/>
+  </card>
+  <card id="bd6987ce-3d27-4499-baf1-27303b6e6771" name="Wolf-man">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Mastery"/>
+    <property name="Traits" value="Gaurwaith."/>
+    <property name="Keywords" value="Ransom 4."/>
+    <property name="Cost" value="0"/>
+    <property name="Willpower" value="0"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="2"/>
+    <property name="Text" value="Action: Exhaust Wolf-man to immediately declare him as an attacker (and resolve his attack) against an engaged enemy with one hit point remaining."/>
+  </card>
+  <card id="e8b2eebb-844b-4cbe-8b6a-bd333410e77a" name="Neithan">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Mastery"/>
+    <property name="Traits" value="Name."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Attach to Túrin Turambar. Limit 1 Name in play.&#10;&#10;Resources on Neithan can be discarded to satisfy the ransom keyword.&#10;&#10;Response: When an enemy with the ransom keyword is defeated, add 2 resources to Neithan."/>
+  </card>
+  <card id="62e2e5e5-09af-46a0-bd78-7facd00341bb" name="Forge of Belegost">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Item. Forge."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Attach to a Dwarf character.&#10;&#10;Action: Exhaust Forge of Belegost and attached character to heal X damage on a character. X is the number of Item attachments on that character."/>
+  </card>
+  <card id="be55d46d-04ae-4f80-9948-a4def9706c78" name="Angrist">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Item. Forge."/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Attach to a Dwarf character.&#10;&#10;Action: Exhaust Forge of Belegost and attached character to heal X damage on a character. X is the number of Item attachments on that character."/>
+  </card>
+  <card id="a9e20e72-298a-45fc-8ba3-aaa2f23f4818" name="None Shall Break">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Mastery"/>
+    <property name="Cost" value="2"/>
+    <property name="Text" value="Action: Ready each character with an Oath attached. (Lower the cost of None Shall Break by 2 if each character that readies takes 1 Corruption.)"/>
+  </card>
+  <card id="fd4f55c0-56df-4787-be07-df1cee3dac80" name="Song of Parting">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After an encounter card with at least 3 $ is revealed from the encounter deck, choose and ready a character. That character gets +2 Ò, +2 Û, and +2 Ú until the end of the round."/>
+  </card>
+ </cards>
+</set>

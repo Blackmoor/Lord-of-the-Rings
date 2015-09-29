@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Treachery of Rhudaur" id="3d1f5de7-e04d-4efb-99f7-96a2087c9459" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+ <cards>
+  <card id="b188f729-0314-4664-95a0-7f93f4d44133" name="Erestor">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Noldor."/>
+    <property name="Cost" value="10"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="b9339072-5665-45c7-a2ca-a8c844c5762d" name="Reinforcements">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Keywords" value="You must use resources from 3 different heroes' pools to pay for this card."/>
+    <property name="Cost" value="3"/>
+  </card>
+  <card id="ad0cbc82-6807-4a5a-ada8-97952cb02c5f" name="Send for Aid" size="PlayerQuestCard">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Side Quest"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Keywords" value="Limit 1 per deck."/>
+    <property name="Cost" value="1"/>
+    <property name="Quest Points" value="6"/>
+    <property name="Victory Points" value="1"/>
+  </card>
+  <card id="6ba569dd-92d4-4de4-bfa4-385e2d50eddb" name="Elven Spear">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Item. Weapon."/>
+    <property name="Keywords" value="Attach to a Noldor or Silvan hero. Restricted."/>
+    <property name="Cost" value="0"/>
+  </card>
+  <card id="7d906063-149f-4b7d-b271-e1532afea7c0" name="Horn's Cry">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Cost" value="2"/>
+  </card>
+  <card id="5ababdc3-8d6c-47ad-aa1a-d21f5c96bbda" name="Galadhrim Weaver">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Silvan. Craftsman."/>
+    <property name="Keywords" value="Cannot attack or defend."/>
+    <property name="Cost" value="1"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="1"/>
+  </card>
+  <card id="41b56fc4-6ecd-4c9a-80d4-3074c267e823" name="Silver Harp">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Item. Instrument."/>
+    <property name="Keywords" value="Attach to a Ê hero. Restricted. "/>
+    <property name="Cost" value="2"/>
+  </card>
+  <card id="608ac037-89dd-4aac-8b6d-057bd0fa7507" name="Galdor of the Havens">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Noldor."/>
+    <property name="Cost" value="4"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="f9f464e9-188c-42aa-bbea-b325a6d0f16d" name="The Door is Closed!">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="38ed7520-8749-47ab-b3b4-34ec96441475" name="Elf-friend">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Title."/>
+    <property name="Keywords" value="Attach to a character."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="a7231cbd-0620-4b15-9c2c-68d4e7c79a8f" name="Secrets of Rhudaur" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="ttltssss"/>
+    <alternate name="Secrets of Rhudaur" type="B">
+      <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="-"/>
+    </alternate>
+  </card>
+  <card id="fdd55ddc-2f18-4ae6-89bb-e54827a1bbdc" name="Thaurdir's Pursuit" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Thaurdir's Pursuit" type="B">
+      <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="30"/>
+    </alternate>
+  </card>
+  <card id="5df1bf1c-8dc0-4534-9380-6af6812dc6f8" name="Amarthiúl" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Dúnedain. Ranger. Warrior."/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="125e7884-7f75-42cd-80ba-065cf88eef9a" name="The Great Hall" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ruins."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="8"/>
+    <property name="Victory Points" value="2"/>
+  </card>
+  <card id="d658967b-662e-4dfb-afb6-4b3444074b79" name="Thaurdir" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Wraith."/>
+    <property name="Keywords" value="Indestructible. Cannot have attachments."/>
+    <property name="Engagement Cost" value="1"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="6"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="9"/>
+  </card>
+  <card id="5c5ce14a-332a-40fe-8f55-cfa2f53e8592" name="Wight of Rhudaur" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Wight."/>
+    <property name="Engagement Cost" value="23"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="3"/>
+    <property name="Defense" value="3"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="e1edac2f-1d9c-44e6-af0a-10c3101f2709" name="Traitorous Wight" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Wight."/>
+    <property name="Engagement Cost" value="32"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="0e205159-5e62-4d24-b0df-635853aea9c0" name="Forbidden Descent" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ruins."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="6"/>
+  </card>
+  <card id="a1a8bd6e-4cd1-4641-9cb1-f693f053f62e" name="Eerie Halls" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ruins."/>
+    <property name="Threat" value="5"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="c35f2635-fa68-44be-9ce9-80446831f0e0" name="Ghostly Ruins" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ruins."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="fd3e323b-0fea-49ce-90d2-cbfea27be8cd" name="Decrepit Remains" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Ruins."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="3"/>
+  </card>
+  <card id="7aa9b24a-7b10-4457-be9e-5bfb78bff865" name="Centuries of Sorrow" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Surge."/>
+  </card>
+  <card id="152a0b0a-7e01-41ce-98a4-3e7b0d6eaac4" name="Curse of the Years" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Sorcery."/>
+  </card>
+  <card id="7aa7f695-f5b5-4fb4-9296-53ec517d6a30" name="Dark Covenant" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Sorcery."/>
+  </card>
+  <card id="7f458303-66c1-45db-bf3f-20669fea6ff4" name="Haunting Fog" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Sorcery."/>
+  </card>
+  <card id="6709bafa-87b5-483e-9895-0f2edea7e47a" name="Quiet the Spirits" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Side Quest"/>
+    <property name="Quest Points" value="16"/>
+    <alternate name="Daechanar's Brand" type="B">
+      <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+      <property name="Type" value="Objective"/>
+      <property name="Traits" value="Clue."/>
+    </alternate>
+  </card>
+  <card id="bf925a7c-b427-4fb6-ba6b-dbc86304a69f" name="Sift Through the Debris" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Side Quest"/>
+    <property name="Quest Points" value="18"/>
+    <alternate name="Heirloom of Iârchon" type="B">
+      <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+      <property name="Type" value="Objective"/>
+      <property name="Traits" value="Clue."/>
+    </alternate>
+  </card>
+  <card id="768bab66-1707-41a4-adf3-3baad2e7daad" name="Decipher Ancient Texts" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Side Quest"/>
+    <property name="Quest Points" value="14"/>
+    <alternate name="Orders from Angmar" type="B">
+      <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+      <property name="Type" value="Objective"/>
+      <property name="Traits" value="Clue."/>
+    </alternate>
+  </card>
+  <card id="d0ab3d77-e84b-41b8-bb9b-f9be302ef1ef" name="The Treachery of Rhudaur">
+    <property name="Quantity" value="0"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Rules"/>
+    <property name="Keywords" value="Rulesheet Card Side 1"/>
+    <alternate name="The Treachery of Rhudaur" type="B">
+      <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+      <property name="Type" value="Rules"/>
+      <property name="Keywords" value="Rulesheet Card 2"/>
+    </alternate>
+  </card>
+ </cards>
+</set>

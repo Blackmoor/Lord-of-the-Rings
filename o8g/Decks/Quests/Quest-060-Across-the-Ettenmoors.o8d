@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="a8980fe0-a42b-4de5-a8ab-388bea8038b1">Into the Ettenmoors</card>
+    <card qty="1" id="3e905158-737c-45c4-a32d-e88061e94564">A Miserable Journey</card>
+    <card qty="1" id="d9da588c-c96d-4971-813a-40e439e46764">Journey's End</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="b70846d1-3216-421a-9098-af2a4540b530">Coldfell Giant</card>
+    <card qty="2" id="23dec64e-9e30-4329-9df7-4d2628d2a7a8">Cruel Mountain-troll</card>
+    <card qty="2" id="e35e9d1e-48bb-41f3-95c9-402f84e46ef8">Ruthless Hill-troll</card>
+    <card qty="2" id="c1db9a5b-1377-49b2-833f-4d8e95928b60">Goblin Pursuer</card>
+    <card qty="2" id="c75d2227-2fa6-4dba-a48a-64938b632efd">Troll-fells</card>
+    <card qty="2" id="35b3cfde-9964-4173-88c5-e5e5cb8f84ac">Barren Moorland</card>
+    <card qty="2" id="0f5ffc36-fe0f-4097-ad67-dafda700d96f">Arador's End</card>
+    <card qty="3" id="1c9d4501-fa65-41b9-977f-896f2286511d">No Rest</card>
+    <card qty="3" id="8a2d9c58-cf82-4e3f-90df-240e2bebb5e9">Biting Wind</card>
+    <card qty="2" id="b79e8b2a-0ebe-4698-bc6d-43c19d44202d">Freezing Blast</card>
+    <card qty="3" id="9db89c44-e692-4afa-ac07-d4ac35165cb7">Cold from Angmar</card>
+    <card qty="1" id="5388683d-3240-433a-9602-a7367e428406">Make Camp</card>
+    <card qty="3" id="25aec3b5-3221-411c-83a0-b3ceed2b5c06">Rugged Country</card>
+    <card qty="2" id="e2763cc3-019b-4397-b6f8-f647bf3fdf43">Shrouded Hills</card>
+    <card qty="2" id="fd2014e3-43df-4378-9c67-61f99353f87f">Pressing Needs</card>
+    <card qty="2" id="7d2b321b-d4e6-4dd4-a124-028c772592ee">Weight of Responsibility</card>
+    <card qty="1" id="efcd8672-26f1-4c32-b6ef-5a06f80e406a">Lost in the Wilderness</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="788819a1-c0b5-4dd0-b778-f3011ca05175">Across the Ettenmoors</card>
+    <card qty="1" id="34a59958-0d34-49a9-8beb-b6f8ba8dcd4c">Amarthiúl</card>
+    <card qty="1" id="397ef92c-981b-4495-a2a0-681ea886d30c">Lie Low</card>
+    <card qty="1" id="b793d1f1-012e-4e13-aad0-d91833f6f8c6">Forage for Food</card>
+    <card qty="1" id="c898c9f0-d4a7-4821-b075-1e412cde86a7">Scavenge for Supplies</card>
+    <card qty="1" id="26bb74c2-3c66-4828-8188-404bc42e713e">Secluded Cave</card>
+    <card qty="1" id="b81a014a-af32-41a9-abdf-8dbebf29f685">The Hoarwell</card>
+    <card qty="1" id="1339dfb5-49c1-46ce-a4c9-970d0e118cfa">Abandoned Camp</card>
+    <card qty="1" id="976d7409-0e67-43f1-b1bd-56cdeac073ef">Patch of Woods</card>
+    <card qty="4" id="97f3e879-eeee-4cc2-beb9-dc7c49c681ac">Savage Trollspawn</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

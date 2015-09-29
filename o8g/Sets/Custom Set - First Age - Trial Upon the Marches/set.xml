@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - Trial Upon the Marches" id="2128cf63-3c6e-4b0f-8b31-0ba5fb8c2250" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Custom Set - First Age - Trial Upon the Marches" id="2128cf63-3c6e-4b0f-8b31-0ba5fb8c2250" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
  <cards>
   <card id="36317973-61c1-4423-877d-2bfc9eedb181" name="Unscathed" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Feat."/>
     <property name="Victory Points" value="1"/>
@@ -11,7 +11,7 @@
   </card>
   <card id="ef65ad2f-ca77-45ea-9d98-36c8ab755b6e" name="Deeds of Daring" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Feat."/>
     <property name="Victory Points" value="1"/>
@@ -19,7 +19,7 @@
   </card>
   <card id="fdf2dd00-bc30-4c80-951d-e7f27cf7f742" name="Mighty in Arms" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Feat."/>
     <property name="Victory Points" value="1"/>
@@ -27,7 +27,7 @@
   </card>
   <card id="fc72a4c4-e698-4235-9b2c-33abb7220ed9" name="Orc Raiding Party" size="EncounterCard">
     <property name="Quantity" value="4"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc."/>
     <property name="Keywords" value="Raid. Cannot leave play unless destroyed."/>
@@ -40,7 +40,7 @@
   </card>
   <card id="7191f5a0-be28-4b24-b868-7de286bf3540" name="Orc Marauders" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc."/>
     <property name="Keywords" value="Raid."/>
@@ -54,7 +54,7 @@
   </card>
   <card id="fd3a5f59-515a-4ab7-a0f7-7501aa9c891d" name="Colossal Orc" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc."/>
     <property name="Keywords" value="Raid."/>
@@ -68,7 +68,7 @@
   </card>
   <card id="39f3d729-2513-4066-8ad8-f81eae520db9" name="Orc Archer" size="EncounterCard">
     <property name="Quantity" value="4"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc."/>
     <property name="Keywords" value="Archery 2."/>
@@ -82,7 +82,7 @@
   </card>
   <card id="838226a2-5193-4ff6-8e67-6161198c5c91" name="Orc Follower" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc."/>
     <property name="Keywords" value="Raid."/>
@@ -96,7 +96,7 @@
   </card>
   <card id="27a85ec1-2a9c-4849-8b6d-94b1b44fdeef" name="Angband Assassin" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc."/>
     <property name="Keywords" value="Raid."/>
@@ -110,7 +110,7 @@
   </card>
   <card id="7bb926bf-3791-4d45-8adf-3e478dd81828" name="Azrat" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc. Veteran."/>
@@ -124,7 +124,7 @@
   </card>
   <card id="6c3a03b4-45b6-4094-bc48-c91a2be30586" name="Orc Burner" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Orc."/>
     <property name="Keywords" value="Raid."/>
@@ -137,7 +137,7 @@
   </card>
   <card id="e72a57ea-bb01-42ff-8f60-0ecdf531dd3a" name="Hidden Grove" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest."/>
     <property name="Threat" value="2"/>
@@ -146,7 +146,7 @@
   </card>
   <card id="6c4ca5ac-9a22-4614-961b-32fee1a1cb1f" name="March Outpost" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest. Outpost."/>
     <property name="Threat" value="3"/>
@@ -155,7 +155,7 @@
   </card>
   <card id="ed4a097d-7c49-4f09-9c55-cfc01bb260d3" name="Raider Camp" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest. Camp."/>
     <property name="Threat" value="4"/>
@@ -164,7 +164,7 @@
   </card>
   <card id="e7ce1eb4-83e1-449b-ad0c-e5bd2884f7cd" name="Burning Abode" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest. Dwelling."/>
     <property name="Threat" value="3"/>
@@ -173,7 +173,7 @@
   </card>
   <card id="8c19bcf3-a78c-4e06-b029-d1244a1de1e7" name="March Road" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Forest. Road."/>
     <property name="Threat" value="2"/>
@@ -182,7 +182,7 @@
   </card>
   <card id="8e65e05e-1b7e-4d86-b74b-d10ce2c2de47" name="Weapon of Morgoth" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Weapon. Engine."/>
@@ -193,7 +193,7 @@
   </card>
   <card id="2dd63669-10de-44bb-9590-ac3c5be1c36b" name="Crooked Blades" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Surge."/>
     <property name="Text" value="When Revealed: Deal 1 damage to all characters with at least 1 damage."/>
@@ -201,45 +201,45 @@
   </card>
   <card id="74d2bdf6-9697-48ee-ae1f-4e2b0940c826" name="Renewed Grief" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: The first player attaches Renewed Grief to a hero he controls. (Counts as a Condition attachment with the text: &quot;Limit 1 per hero. Forced: At the beginning of each quest phase, either deal 1 Corruption to the attached hero or the attached hero gets -2 Ò, -2 Û, and -2 Ú until the end of the round.&quot;"/>
   </card>
   <card id="cfed5e15-b700-4c57-84f5-37d628ef8a72" name="An Ill Fate" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must discard an ally from his hand, if able, and discard X cards from the top of his deck. X is the cost of the discarded ally. If any player did not discard an ally, An Ill Fate gains surge."/>
     <property name="Shadow" value="Shadow: If this attack destroys an ally, discard the top X cards of the defending player's deck. X is the cost of that ally."/>
   </card>
   <card id="da4c4a97-188c-4d4f-9b3e-6c9aaeedcf5b" name="Mirth of Morgoth" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Remove a hero from the quest and place that hero in the staging area. Each enemy in the staging area makes an attack against that hero during the combat phase. That hero can only declare attacks and defend against enemies in the staging area. This effect lasts until the end of the round."/>
   </card>
   <card id="82bc61f7-32b3-44e5-830e-2f3a4b4c87b0" name="Orcish Mischief" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Each player must discard an attachment from his hand. Orc enemies get +XÛ until the end of the round. X is attachment with the highest cost discarded in this way. If any player did not discard an attachment, Orcish Mischief gains surge."/>
   </card>
   <card id="ee18d61a-a19a-4a56-802a-d37c8ffd2794" name="Orc Infiltration" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Treachery"/>
     <property name="Text" value="When Revealed: Shuffle the enemy with the lowest $ into the first player's deck. When that enemy is revealed, discarded, or drawn, it engages the first player and makes an immediate attack."/>
   </card>
   <card id="793dd66f-50af-4ea8-ae09-ef522ae3ae40" name="Not So High Is Your Destiny" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Objective"/>
     <property name="Sphere" value="Burden"/>
     <property name="Text" value="Setup: Add Not So High Is Your Destiny to the staging area. Each player must place 1 Corruption on the hero with the lowest Ò that he controls. The player who controls the hero with Curse of Morgoth attached must place 1 Corruption on that hero instead."/>
   </card>
   <card id="062a4c39-57e7-4f1f-8e5d-f76f6f7dfbad" name="Greatness Is In You">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Boon"/>
     <property name="Keywords" value="Permanent."/>
@@ -247,7 +247,7 @@
   </card>
   <card id="76efc2bf-81e5-4a45-9560-b2dd95364271" name="For Good Or For Ill" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Treachery"/>
     <property name="Sphere" value="Burden"/>
     <property name="Keywords" value="Surge. Doomed 4."/>
@@ -255,7 +255,7 @@
   </card>
   <card id="68f68121-2d13-4d36-bd32-577beaf196f6" name="Curse of Morgoth" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Objective"/>
     <property name="Sphere" value="Burden"/>
     <property name="Keywords" value="Permanent."/>
@@ -263,24 +263,24 @@
   </card>
   <card id="28e4bdc4-bd4c-4a6e-98da-81dc30d8d1e1" name="Trial Upon the Marches">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Campaign"/>
     <property name="Text" value="You are playing Campaign Mode. &#10;&#10;Setup: Attach Curse of Morgoth and Greatness Is In You to a hero. Add Not So High Is Your Destiny to the staging area. Shuffle For Good or For Ill into the encounter deck."/>
     <alternate name="Trial Upon the Marches" type="B">
-      <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+      <property name="Encounter Set" value="Custom Set - First Age"/>
       <property name="Type" value="Campaign"/>
       <property name="Text" value="Resolution: Add Curse of Morgoth to the campaign pool. If there are 3 or more victory points in the victory display, add Greatness Is In You to the campaign pool. If there are 0 victory points in the victory display, add Not So High Is Your Destiny to the campaign pool. If there are 1 or 2 victory points in the victory display, add For Good or For Ill to the campaign pool. Victory points from player cards do not count for this purpose."/>
     </alternate>
   </card>
   <card id="57591d74-95b5-42e1-8231-66fe860bf691" name="Preparing for Battle" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="ttttttttt"/>
     <alternate name="Preparing for Battle" type="B">
-      <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+      <property name="Encounter Set" value="Custom Set - First Age"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
@@ -290,13 +290,13 @@
   </card>
   <card id="8b531d92-b2cb-4eff-9e22-fcf140fa6fc5" name="Repel the Incursion" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Choose one of the remaining set aside objectives and attach it to the quest. Discard cards from the top of the encounter deck until X enemies are discarded. X is equal to the number of players in the game. Add each enemy discarded this way to the staging area."/>
     <alternate name="Repel the Incursion" type="B">
-      <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+      <property name="Encounter Set" value="Custom Set - First Age"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
@@ -306,13 +306,13 @@
   </card>
   <card id="263eeb70-e78a-4e45-856e-95f9a800c2ac" name="Rescue the Settlement" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Choose one of the remaining set aside objectives and attach it to the quest. Each player must add 1 copy of Orc Raiding Party to the staging area."/>
     <alternate name="Rescue the Settlement" type="B">
-      <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+      <property name="Encounter Set" value="Custom Set - First Age"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
@@ -322,13 +322,13 @@
   </card>
   <card id="a7676ac3-ad76-4bff-8c57-50272aad822e" name="Destroy the War Engine" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="4"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Choose one of the remaining set aside objectives and attach it to the quest. Add Weapon of Morgoth to the staging area."/>
     <alternate name="Hunting Foray" type="B">
-      <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+      <property name="Encounter Set" value="Custom Set - First Age"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="4"/>
       <property name="Engagement Cost" value="B"/>
@@ -338,13 +338,13 @@
   </card>
   <card id="7988db71-bc60-43eb-99df-3295e02ac0a7" name="A Final Proving" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="5"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Text" value="When Revealed: Choose one of the remaining set aside objectives and attach it to the quest. Add Azrat to the staging area. If there are fewer than X enemies in play, discard cards from the top of the encounter deck, adding each enemy discarded this way to the staging area, until X enemies are in play. X is the number of players."/>
     <alternate name="A Final Proving" type="B">
-      <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+      <property name="Encounter Set" value="Custom Set - First Age"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="5"/>
       <property name="Engagement Cost" value="B"/>
@@ -354,15 +354,15 @@
   </card>
   <card id="d5e0a2b3-da4b-43f6-b89e-8180ab1a0b09" name="Trial Upon the Marches rules">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Campaign"/>
     <alternate name="Hunting of the Wolf rules" type="B">
-      <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+      <property name="Encounter Set" value="Custom Set - First Age"/>
       <property name="Type" value="Campaign"/>
     </alternate>
   </card>
   <card id="37be1637-62c2-4b3f-a77d-6c3406be5f8b" name="Beleg Strongbow">
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Hero"/>
     <property name="Sphere" value="Lore"/>
@@ -376,7 +376,7 @@
     <property name="Text" value="Action: Remove a progress token from a location in play or the current quest stage to lower the cost of the next card you play from your hand this round by 1. (Limit once per round.)"/>
   </card>
   <card id="bbdd72bb-54cd-44bc-882b-25eac6ca93a1" name="Petty-dwarf Survivor">
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Mastery"/>
     <property name="Traits" value="Dwarf."/>
@@ -388,7 +388,7 @@
     <property name="Text" value="Raise the cost to play Petty-dwarf Survivor by 1 for each Noldor hero you control."/>
   </card>
   <card id="6a4abf33-2bf2-4721-bc38-cce010019331" name="Household Guard">
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Traits" value="Edain. House of Hador."/>
@@ -400,7 +400,7 @@
     <property name="Text" value="While a character with the Noble trait is defending, Household Guard gains: &quot;Response: Deal 1 damage to Household Guard to cancel a shadow effect just triggered. (Limit once per game.)&quot;"/>
   </card>
   <card id="a1b97965-155e-4611-a3b6-7a19668c93c1" name="Doriath Messenger">
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Teleri."/>
@@ -412,7 +412,7 @@
     <property name="Text" value="Action: Spend 1 Î resource to give control of Doriath Messenger to another player. That player draws 1 card. (Limit once per round.)"/>
   </card>
   <card id="ce380d4b-f021-43dc-9981-44c93d2ffa14" name="Knight of the Sword">
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Traits" value="Teleri. Warrior."/>
@@ -424,7 +424,7 @@
     <property name="Text" value="Knight of the Sword gets +1Û when attacking an enemy with an engagement cost lower than your threat."/>
   </card>
   <card id="44a43333-2333-4577-9ee1-e6f633677894" name="Outlaw Scout">
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Ally"/>
     <property name="Sphere" value="Mastery"/>
     <property name="Traits" value="Gaurwaith. Scout."/>
@@ -437,7 +437,7 @@
     <property name="Text" value="Action: Discard Outlaw Scout to look at the top 2 cards of the encounter deck. You may discard 1 of them."/>
   </card>
   <card id="b009ac54-9dcc-40ec-aea2-9224ba67954f" name="Elven Training">
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Lore"/>
     <property name="Traits" value="Condition."/>
@@ -445,7 +445,7 @@
     <property name="Text" value="Attach to a hero. Limit 1 per hero.&#10;&#10;Attached hero gets +1Û for each resource token on Elven Training.&#10;&#10;Planning Action: Exhaust attached hero and discard a card from your hand to add 1 resource token to Elven Training. (Limit once per round.)"/>
   </card>
   <card id="a9c493ba-318d-43b7-bc6f-7cdf2a246a61" name="Hardened">
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Mastery"/>
     <property name="Traits" value="Condition."/>
@@ -453,7 +453,7 @@
     <property name="Text" value="Attach to a hero with Corruption equal to that hero's Ò. Limit 1 per hero.&#10;&#10;Corruption cannot be removed from attached hero. &#10;&#10;Response: After the &quot;when revealed&quot; effect of a treachery card resolves, exhaust Hardened to draw one card."/>
   </card>
   <card id="174d3519-d858-4683-b7cb-1a9ec4219e0c" name="Camp of the Faithful">
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Attachment"/>
     <property name="Sphere" value="Spirit"/>
@@ -462,7 +462,7 @@
     <property name="Text" value="Attach to a hero.&#10;&#10;Action: Exhaust attached hero to attach Camp of the Faithful to a non-unique location in play. While attached to a location, Camp of the Faithful gains: &quot;Treat attached location's printed text box as blank, except for traits.&quot;"/>
   </card>
   <card id="fa8f9626-8e11-4ec7-8f41-be18d279eeaf" name="A Dangerous Man">
-    <property name="Encounter Set" value="Custom Set - Trial Upon the Marches"/>
+    <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="1"/>

@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Black Riders - Nightmare" id="f7c01338-9090-4367-830c-504830d7e257" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+ <cards>
+  <card id="4422e6ce-b272-4a2d-bd05-bf3f41063ea6" name="A Shadow of the Past">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="A Shadow of the Past - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <property name="Setup" value="ttsl"/>
+    <alternate name="A Shadow of the Past" type="B">
+      <property name="Encounter Set" value="A Shadow of the Past - Nightmare"/>
+      <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Text" value="You are playing Nightmare mode.&#10;&#10;Forced: When stage 3A is revealed, if Khamul the Easerling is not in play, the first player searches the encounter deck, discard pile, and victory display for Khamul the Easterling and adds it to the staging area. Shuffle the encounter deck."/>
+    </alternate>
+  </card>
+  <card id="dd71d27f-b53e-453b-bcbc-bb479104461a" name="Khamûl the Easterling" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="A Shadow of the Past - Nightmare"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Nazgûl."/>
+    <property name="Keywords" value="Cannot have non-Morgul attachments."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="5"/>
+    <property name="Attack" value="6"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="8"/>
+    <property name="Text" value="Khamûl the Easterling gets -30 engagement cost while The One Ring is exhausted.&#10;Forced: At the beginning of the refresh phase, the engaged player makes a Hide 2 test. If the engaged player fails the hide test, Khamûl the Easterling makes an immediate attack."/>
+  </card>
+  <card id="fcf4a99e-38f0-4809-8eb1-a1120776722b" name="Dark Horseman" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="A Shadow of the Past - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Nazgûl."/>
+    <property name="Keywords" value="Peril. Hide 2. Cannot have non-Morgul attachments."/>
+    <property name="Engagement Cost" value="25"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="6"/>
+    <property name="Text" value="While Dark Horseman is engaged with you, characters you control get -1 Ò during Hide tests."/>
+  </card>
+  <card id="e07f95e5-8cae-4b4a-b3e7-92da7ddb1d68" name="Eastfarthing" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="A Shadow of the Past - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Shire."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="9"/>
+    <property name="Text" value="Eastfarthing gets +2 $ for each resource token on it.&#10;Forced: After a player fails a Hide test, place 1 resource token here."/>
+  </card>
+  <card id="40bcc7a9-044e-44b6-83d2-6e09294c19c3" name="Green-Hill Country" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="A Shadow of the Past - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Text" value="While Green-Hill Country is in the staging area, add 1 to each Hide X value.&#10;Travel: The first player makes a Hide 1 test."/>
+    <property name="Shadow" value="Shadow: After this attack, attacking enemy engages the next player then makes an immediate attack."/>
+  </card>
+  <card id="87b6ecff-219c-4002-b46b-ca683cb4c25b" name="Stock Woods" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="A Shadow of the Past - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="5"/>
+    <property name="Text" value="While Stock Woods is in the staging area, players cannot commit more than 2 characters to a Hide test.&#10;Travel: The first player makes a Hide 1 test."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +2 Û (+3 Û instead if you have failed a Hide test this round)."/>
+  </card>
+  <card id="b0ed537a-1e96-4b46-af9b-3449be219781" name="In the Name of Mordor!" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="A Shadow of the Past - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Mordor."/>
+    <property name="Keywords" value="Surge."/>
+    <property name="Text" value="When Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: &quot;Forced: After a player fails a Hide test, he discards a random card from his hand.&quot;)"/>
+  </card>
+  <card id="86e0fbfc-04da-46b0-807b-ac58bd60248b" name="Followed by Shadows" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="A Shadow of the Past - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Starting with the first player, each player makes a Hide 2 test. Each player who fails this Hide test raises his threat by 5."/>
+    <property name="Shadow" value="Shadow: If the defending player has failed a Hide test this round, this attack is considered undefended."/>
+  </card>
+  <card id="784aedb3-8bc3-437c-ba35-2a94949c498d" name="Sniffing and Hissing" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="A Shadow of the Past - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Keywords" value="Doomed 2."/>
+    <property name="Text" value="When Revealed: The first player must either exhaust the One Ring and reveal an encounter card, or make a Hide 3 test."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +2 Û. If this attack destroys a character, raise your threat by 3."/>
+  </card>
+  <card id="12dd413b-fe0f-40ca-b871-480ca88ade09" name="A Knife in the Dark">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="A Knife in the Dark - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <property name="Setup" value="ttttsstttt"/>
+    <alternate name="A Knife in the Dark" type="B">
+      <property name="Encounter Set" value="A Knife in the Dark - Nightmare"/>
+      <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Text" value="You are playing Nightmare mode.&#10;&#10;While Bill Ferny is in the staging area, he gains: &quot;Immune to player card effects.&quot;"/>
+    </alternate>
+  </card>
+  <card id="90d64456-eceb-423b-866f-ece8ceb98ec3" name="Menacing Wraith" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="A Knife in the Dark - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Nazgûl."/>
+    <property name="Keywords" value="Cannot have non-Morgul attachments."/>
+    <property name="Engagement Cost" value="40"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="6"/>
+    <property name="Text" value="Forced: After The One Ring is exhausted, Menacing Weath engages the first player and makes an immediate attack."/>
+  </card>
+  <card id="b73f14e3-f528-4a8f-bf3b-06936eeea9fd" name="Southern Spy" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="A Knife in the Dark - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Spy."/>
+    <property name="Engagement Cost" value="25"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+    <property name="Text" value="When Revealed: Either shuffle an out of play Ringwraith into the encounter deck, or Southern Spy makes an immediate attack against you."/>
+    <property name="Shadow" value="Shadow: Defending character gets -1 Ú (-3 Ú instead if The One Ring is exhausted)."/>
+  </card>
+  <card id="e8046e94-bc12-4055-b5f1-2cd34640b85e" name="Weathertop" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="A Knife in the Dark - Nightmare"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Hills. Ruins."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="6"/>
+    <property name="Victory Points" value="3"/>
+    <property name="Text" value="The Witch-king cannot be damaged.&#10;Forced: After Weathertop becomes the active location, exhaust The One Ring. The One Ring cannot ready while Weathertop is the active location."/>
+  </card>
+  <card id="61b6316c-dfbd-4f90-ab71-99eee8056047" name="Weather Hills" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="A Knife in the Dark - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Hills."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="5"/>
+    <property name="Text" value="While the players are at stage 1, progress cannot be placed here.&#10;While The One Ring is exhausted, Weather Hills gets +2 $."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +2 Û."/>
+  </card>
+  <card id="d3650ee1-5225-4a8f-9114-e1123d941228" name="The Old Road" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="A Knife in the Dark - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Road."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="8"/>
+    <property name="Text" value="The Old Road enters play with 3 resource tokens on it.&#10;Forced: At the end of the round, discard 1 resource token here. Then, if there are no resource tokens here, shuffle 1 out of play Ringwraith into the encounter deck."/>
+  </card>
+  <card id="9834324f-1ad0-4922-a708-d07ca671d9b3" name="Forsaken Inn" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="A Knife in the Dark - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Inn."/>
+    <property name="Threat" value="X"/>
+    <property name="Quest Points" value="4"/>
+    <property name="Text" value="X is the number of characters the first player controls.&#10;Travel: The first player searches the encounter deck and discard pile for a Spy enemy, reveals it, and adds it to the staging area. Shuffle the encounter deck."/>
+  </card>
+  <card id="1698dbfd-7649-44ef-b618-6171e626caa6" name="The Ring's Will" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="A Knife in the Dark - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Raise each player's threat by 5. This effect cannot be canceled by the Ring-bearer's effect, or if The One Ring is exhausted."/>
+    <property name="Shadow" value="Shadow: After this attack, attacking enemy engages the next player then makes an immediate attack."/>
+  </card>
+  <card id="7d5b9903-3521-4ecc-9225-e6216147e020" name="Blade Tip" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="A Knife in the Dark - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Morgul."/>
+    <property name="Keywords" value="Surge. Doomed 1."/>
+    <property name="Shadow" value="Shadow: If the defending character is damaged by this attack, attach Blade Tip to that character. (Counts as a Condition attachment with the text: &quot;Forced: At the end of the refresh phase, raise your threat by 2.&quot;)"/>
+  </card>
+  <card id="07c4aed0-1673-438f-8e2b-371f34f215b4" name="Flight to the Ford">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Flight to the Ford - Nightmare"/>
+    <property name="Type" value="Nightmare"/>
+    <property name="Text" value="The Quest Deck has been modified for Nightmare Mode. Flip this card over and keep it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."/>
+    <property name="Setup" value="ttttstttt"/>
+    <alternate name="Flight to the Ford" type="B">
+      <property name="Encounter Set" value="Flight to the Ford - Nightmare"/>
+      <property name="Type" value="Nightmare"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Text" value="You are playing Nightmare mode.&#10;&#10;The players cannot win while Ford of Bruinen is in play."/>
+    </alternate>
+  </card>
+  <card id="5e6ece32-827a-4af7-af6b-0d21a0477c99" name="Fell Rider" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="Flight to the Ford - Nightmare"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Nazgûl."/>
+    <property name="Keywords" value="Cannot have non-Morgul attachments."/>
+    <property name="Engagement Cost" value="30"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="4"/>
+    <property name="Health" value="6"/>
+    <property name="Text" value="Forced: After Fell Rider attacks and destroys a character, reduce the Ring-bearer's life by 1."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+2 Û instead if The One Ring is exhausted)."/>
+  </card>
+  <card id="49e734b0-3b71-45e4-8f31-ad1e09f1d9e4" name="Ford of Bruinen" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="Flight to the Ford - Nightmare"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="River."/>
+    <property name="Keywords" value="Immune to player card effects."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Text" value="Travel: Each player searches the encounter deck and discard pile for a Nazgûl enemy and puts it into play engaged with him. Shuffle the encounter deck."/>
+  </card>
+  <card id="3029e445-173b-481b-9a62-61f79185ab30" name="Trollshaw Forest" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Flight to the Ford - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="5"/>
+    <property name="Text" value="While Trollshaw Forest is in the staging area, it gains: &quot;Forced: After a 'when revealed' effect is canceled, reduce the Ring-bearer's life by 1.&quot;&#10;Travel: Reduce the Ring-bearer's life by 1 to travel here."/>
+  </card>
+  <card id="32bd5a1d-7273-4916-aa3b-cb152c1cd6f1" name="Great East Road" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="Flight to the Ford - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Road."/>
+    <property name="Threat" value="X"/>
+    <property name="Quest Points" value="5"/>
+    <property name="Text" value="X is 1 plus the number of Nazgûl enemies in play.&#10;While Great East Road is in the staging area, each Nazgûl enemy gets -5 engagement cost."/>
+    <property name="Shadow" value="Shadow: After this attack, attacking enemy engages the next player then makes an immediate attack."/>
+  </card>
+  <card id="2f380c3c-7de7-4961-b5f5-878f3e4e58c8" name="Pathless Wilderness" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Flight to the Ford - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest. Hills."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="6"/>
+    <property name="Text" value="Pathless Wilderness enters play with 3 resource tokens on it.&#10;Forced: At the end of the round, discard 1 resource token here. Then, if there are no resource tokens here, reduce the Ring-bearer's life by 3."/>
+  </card>
+  <card id="3d64b8b8-4805-49d5-b308-4bf3fb472c1d" name="Ettendales" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Flight to the Ford - Nightmare"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Forest. Hills."/>
+    <property name="Threat" value="5"/>
+    <property name="Quest Points" value="3"/>
+    <property name="Text" value="Forced: When Ettendales is explored, shuffle the top card of the burden deck into the encounter deck."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +2 Û. If this attack destroys a character, reduce the Ring-bearer's life by 1."/>
+  </card>
+  <card id="3b63d940-fcbc-4741-8840-cc276fcb558b" name="Come Back!" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Flight to the Ford - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Enchantment."/>
+    <property name="Keywords" value="Peril. Doomed 1."/>
+    <property name="Text" value="When Revealed: Reduce the Ring-bearer's life by 1 and remove all progress from the current quest."/>
+    <property name="Shadow" value="Shadow: Either reduce the Ring-bearer's life by 1, or this attack is considered undefended."/>
+  </card>
+  <card id="b432d02a-d0ca-496c-96c0-e8f5753b2e17" name="The Twilight World" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="Flight to the Ford - Nightmare"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Morgul."/>
+    <property name="Keywords" value="Doomed 2."/>
+    <property name="Text" value="When Revealed: Attach to the Ring-bearer. Limit 1 per hero. (Counts as a Condition attachment with the text: &quot;Forced: At the beginning of the planning phase, either exhaust The One Ring, or reduce the Ring-bearer's life by 1.&quot;)"/>
+  </card>
+ </cards>
+</set>

@@ -244,8 +244,7 @@
   <card id="414353af-e004-4e7c-b288-e168e2acfee7" name="Stop the Executioners!" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Escape from Mount Gram"/>
-    <property name="Type" value="Quest"/>
-    <property name="Traits" value="Side Quest."/>
+    <property name="Type" value="Side Quest"/>
     <property name="Keywords" value="Capture 5."/>
     <property name="Quest Points" value="6"/>
     <property name="Victory Points" value="10"/>
