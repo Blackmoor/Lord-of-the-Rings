@@ -983,7 +983,7 @@ def nextQuestStage(group=None, x=0, y=0):
 	if x == 0 and y == 0: #The keyboard shortcut was used
 		#Count quest cards already on table to work out where to put this one
 		n, count = questCount(table)
-		x = QuestStartX + 89*(count // 2 + n)
+		x = QuestStartX + 89*(count // 2) + 64*n
 		y = QuestStartY + 64*(count % 2)	
 			
 	card = group.top()
@@ -997,7 +997,7 @@ def nextQuestStage(group=None, x=0, y=0):
 		#Reveal and place the real quest card
 		if len(group) > 0:
 			card = group[0]
-			card.moveToTable(x+89, y)
+			card.moveToTable(x+64, y)
 	
 	questSetup(card)
 	notify("{} advances quest to '{}'".format(me, card))
@@ -1215,7 +1215,47 @@ def flipcard(card, x = 0, y = 0):
 		notify("{} gets {} to flip card".format(me, card.controller()))
 		remoteCall(card.controller, "flipcard", card)
 		return
-		
+
+	cardx, cardy = card.position
+
+	#Treachery of Rhudaur double-sided objective card swap (TEMP until OCTGN supports cardsize for Alternates)
+	if card.model == "6709bafa-87b5-483e-9895-0f2edea7e47a":
+		notify("{} flips '{}'.".format(me, card))
+		card.delete()
+		table.create('87c33692-599d-4914-a513-4353906fc6d4', cardx, cardy, quantity = 1, persist = True)
+		return
+
+	if card.model == "87c33692-599d-4914-a513-4353906fc6d4":
+		notify("{} flips '{}'.".format(me, card))
+		card.delete()
+		table.create('6709bafa-87b5-483e-9895-0f2edea7e47a', cardx, cardy, quantity = 1, persist = True)
+		return
+
+	if card.model == "bf925a7c-b427-4fb6-ba6b-dbc86304a69f":
+		notify("{} flips '{}'.".format(me, card))
+		card.delete()
+		table.create('2e5e6e97-003b-4500-8372-495f5ee86051', cardx, cardy, quantity = 1, persist = True)
+		return
+
+	if card.model == "2e5e6e97-003b-4500-8372-495f5ee86051":
+		notify("{} flips '{}'.".format(me, card))
+		card.delete()
+		table.create('bf925a7c-b427-4fb6-ba6b-dbc86304a69f', cardx, cardy, quantity = 1, persist = True)
+		return
+
+	if card.model == "768bab66-1707-41a4-adf3-3baad2e7daad":
+		notify("{} flips '{}'.".format(me, card))
+		card.delete()
+		table.create('d9c04b71-93cd-455d-9f6e-4ee16cf7d1b4', cardx, cardy, quantity = 1, persist = True)
+		return
+
+	if card.model == "d9c04b71-93cd-455d-9f6e-4ee16cf7d1b4":
+		notify("{} flips '{}'.".format(me, card))
+		card.delete()
+		table.create('768bab66-1707-41a4-adf3-3baad2e7daad', cardx, cardy, quantity = 1, persist = True)
+		return
+	#END Treachery of Rhudaur WORKAROUND
+
 	#Quest cards have a different back - defined by the alternate (B) property
 	if card.alternates is not None and "B" in card.alternates:
 		if card.alternate == "B":

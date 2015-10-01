@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="f40e3a5e-f4ea-42f8-9775-d3f3d53ea7b9">An Evil and Dangerous Way</card>
+    <card qty="1" id="d0375f35-e4a9-4a13-bef1-2d7ed85355cf">To Govern this Fellowship</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="4" id="5cb829e3-e302-48f4-8d39-3051401f293e">Teiglin Hunter</card>
+    <card qty="3" id="46e76370-441b-4081-b19e-3b8a2c098411">Hound of the Woodmen</card>
+    <card qty="4" id="bec7dc4d-4d12-49c1-8d5e-a1c2e1d934d9">Homestead Defender</card>
+    <card qty="2" id="6b0da4d6-c412-49bf-b4c3-56b122f3121e">Forest Clearing</card>
+    <card qty="2" id="e52ae820-1ed3-44b4-b528-294ba1809760">Tilled Field</card>
+    <card qty="2" id="d46cfd40-79b1-46c5-a071-9048b71be51a">Hedge and Stockade</card>
+    <card qty="2" id="c5cf5648-dd9d-49da-ba34-f62685e2f9f7">Woods of Teiglin</card>
+    <card qty="3" id="7185d130-fba8-4996-b146-1eaf2ae19efa">Dogs and Fences</card>
+    <card qty="2" id="25dac4ef-6afa-45fb-bfd4-53ef9feeb138">Horn-calls</card>
+    <card qty="2" id="3525c679-bcc3-4570-81c3-5a6c0c5407d4">No Law But Their Needs</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="1" id="b60e9952-6185-486e-a741-3d1ffa5865e7">Larnach's Daughter</card>
+    <card qty="2" id="bf44e42f-afcd-4748-8b4a-ad369e135be3">Cull the Weak</card>
+    <card qty="2" id="6380d0c8-ab9f-44b6-bd3f-a067bf9d515f">Punish The Trespassers</card>
+    <card qty="2" id="dee1c6f9-6dbe-4921-9e8d-3ca61f279b41">Raid The Homestead</card>
+    <card qty="2" id="2253fda8-0034-4944-afd8-17c6d99d3073">Turn A Blind Eye</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="95304897-c25d-45b0-a4e7-730a1d793284">Fellowship With The Outlaws</card>
+    <card qty="1" id="49997b39-ddbc-4baa-bfba-d557a0af1344">Forweg</card>
+    <card qty="1" id="3ad6eae2-1bb5-4ee5-90bb-bdddb07d65fb">Androg</card>
+    <card qty="2" id="957262fd-5c8f-4349-afbc-08f4842479b5">Banded Attack</card>
+    <card qty="4" id="b1020771-87d4-4e3d-b7b6-fe8f02c86e59">Cruel Robber</card>
+    <card qty="2" id="197ceba4-67fb-48fe-ac70-b6cd9ee75156">Wolf-men of the Winter</card>
+    <card qty="3" id="f0cea34c-8de3-4a53-9935-fe6b2b226f20">Desperate Outlaw</card>
+    <card qty="1" id="919d87e9-c35f-495e-afff-9608713ba046">Craft In Wood And Field</card>
+    <card qty="4" id="3487fbc9-2fc0-4b41-9335-fdcfb30d0d8f">Hardship of the Wild</card>
+    <card qty="1" id="884d93d1-b382-4df5-b37e-aaaac1eca997">Cruel of Heart</card>
+    <card qty="1" id="9b971c0e-5d87-47f9-b50c-3b449d927223">Bitterness of Exile</card>
+    <card qty="1" id="062a4c39-57e7-4f1f-8e5d-f76f6f7dfbad">Greatness Is In You</card>
+    <card qty="1" id="76efc2bf-81e5-4a45-9560-b2dd95364271">For Good Or For Ill</card>
+    <card qty="1" id="68f68121-2d13-4d36-bd32-577beaf196f6">Curse of Morgoth</card>
+    <card qty="1" id="793dd66f-50af-4ea8-ae09-ef522ae3ae40">Not So High Is Your Destiny</card>
+    <card qty="1" id="77820110-50f5-490f-907d-7c429c4cba87">Among The Outlaws</card>
+    <card qty="1" id="84362e3a-13d5-4785-b4a7-2c736d8094ba">Among The Outlaws rules</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

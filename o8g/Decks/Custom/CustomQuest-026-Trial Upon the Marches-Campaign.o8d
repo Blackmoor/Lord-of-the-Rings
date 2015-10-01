@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
   <section name="Quest" shared="True">
+    <card qty="1" id="28e4bdc4-bd4c-4a6e-98da-81dc30d8d1e1">Trial Upon the Marches</card>
     <card qty="1" id="57591d74-95b5-42e1-8231-66fe860bf691">Preparing for Battle</card>
     <card qty="1" id="8b531d92-b2cb-4eff-9e22-fcf140fa6fc5">Repel the Incursion</card>
     <card qty="1" id="263eeb70-e78a-4e45-856e-95f9a800c2ac">Rescue the Settlement</card>
@@ -32,7 +33,6 @@
     <card qty="1" id="fdf2dd00-bc30-4c80-951d-e7f27cf7f742">Mighty in Arms</card>
     <card qty="4" id="fc72a4c4-e698-4235-9b2c-33abb7220ed9">Orc Raiding Party</card>
     <card qty="1" id="7bb926bf-3791-4d45-8adf-3e478dd81828">Azrat</card>
-    <card qty="1" id="28e4bdc4-bd4c-4a6e-98da-81dc30d8d1e1">Trial Upon the Marches</card>
     <card qty="1" id="68f68121-2d13-4d36-bd32-577beaf196f6">Curse of Morgoth</card>
     <card qty="1" id="76efc2bf-81e5-4a45-9560-b2dd95364271">For Good Or For Ill</card>
     <card qty="1" id="062a4c39-57e7-4f1f-8e5d-f76f6f7dfbad">Greatness Is In You</card>
@@ -44,6 +44,8 @@
   <section name="Ally" shared="False" />
   <section name="Attachment" shared="False" />
   <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
   <section name="Special" shared="True" />
   <notes><![CDATA[]]></notes>
 </deck>

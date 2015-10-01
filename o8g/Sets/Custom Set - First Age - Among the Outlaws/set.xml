@@ -338,6 +338,7 @@
     <property name="Encounter Set" value="Custom Set - First Age"/>
     <property name="Type" value="Campaign"/>
     <property name="Text" value="You are playing Campaign Mode.&#10;&#10;Response: Discard the top card of the dilemma deck to cancel the &quot;when revealed&quot; effects of a card that was just revealed from the encounter deck. (Limit once per game.)"/>
+    <property name="Setup" value="stt"/>
     <alternate name="Among The Outlaws" type="B">
       <property name="Encounter Set" value="Custom Set - First Age"/>
       <property name="Type" value="Campaign"/>
@@ -347,7 +348,7 @@
   <card id="84362e3a-13d5-4785-b4a7-2c736d8094ba" name="Among The Outlaws rules">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - First Age"/>
-    <property name="Type" value="Campaign"/>
+    <property name="Type" value="Rules"/>
     <alternate name="Among The Outlaws rules" type="B">
       <property name="Encounter Set" value="Custom Set - First Age"/>
       <property name="Type" value="Campaign"/>

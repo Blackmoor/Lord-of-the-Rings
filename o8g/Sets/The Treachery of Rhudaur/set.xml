@@ -241,6 +241,12 @@
       <property name="Traits" value="Clue."/>
     </alternate>
   </card>
+  <card id="87c33692-599d-4914-a513-4353906fc6d4" name="Daechanar's Brand" size="EncounterCard">
+    <property name="Quantity" value="0"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Clue."/>
+  </card>
   <card id="bf925a7c-b427-4fb6-ba6b-dbc86304a69f" name="Sift Through the Debris" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Treachery of Rhudaur"/>
@@ -252,6 +258,12 @@
       <property name="Traits" value="Clue."/>
     </alternate>
   </card>
+  <card id="2e5e6e97-003b-4500-8372-495f5ee86051" name="Heirloom of Iârchon" size="EncounterCard">
+    <property name="Quantity" value="0"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Clue."/>
+  </card>
   <card id="768bab66-1707-41a4-adf3-3baad2e7daad" name="Decipher Ancient Texts" size="QuestCard">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="The Treachery of Rhudaur"/>
@@ -262,6 +274,12 @@
       <property name="Type" value="Objective"/>
       <property name="Traits" value="Clue."/>
     </alternate>
+  </card>
+  <card id="d9c04b71-93cd-455d-9f6e-4ee16cf7d1b4" name="Orders from Angmar" size="EncounterCard">
+    <property name="Quantity" value="0"/>
+    <property name="Encounter Set" value="The Treachery of Rhudaur"/>
+    <property name="Type" value="Objective"/>
+    <property name="Traits" value="Clue."/>
   </card>
   <card id="d0ab3d77-e84b-41b8-bb9b-f9be302ef1ef" name="The Treachery of Rhudaur">
     <property name="Quantity" value="0"/>

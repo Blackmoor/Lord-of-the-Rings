@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False">
+    <card qty="1" id="3217a119-6b86-47dd-b451-c5e45be3f874">Frodo Baggins</card>
+  </section>
+  <section name="Quest" shared="True">
+    <card qty="1" id="07c4aed0-1673-438f-8e2b-371f34f215b4">Flight to the Ford</card>
+    <card qty="1" id="f9824e39-fda8-4e4b-bc74-83b4bd40c72d">Pursued by the Enemy</card>
+    <card qty="1" id="6b2673af-c764-4599-a265-6e43d3b75310">Race To Rivendell</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="0e12b3e5-d330-4a13-be7b-5a07a57a2273">The Enemy is Upon Us!</card>
+    <card qty="2" id="98a2fb10-f2fc-462c-9f2e-8945419d9c4f">The Nine are Abroad</card>
+    <card qty="3" id="7e470346-1828-49c0-b241-58d0dbf27b4b">Piercing Cry</card>
+    <card qty="3" id="09aeff64-6e0d-4dfa-af21-2e7805441376">Black Steed</card>
+    <card qty="3" id="4765cbea-5ae8-4e39-a811-a67f1f6ca2a0">Power In Their Terror</card>
+    <card qty="3" id="4b36df3f-d75b-4b3a-9324-9ab31c10d7b9">Pale Blade</card>
+    <card qty="4" id="2d819f76-77dd-47a2-9a3f-ac8b8018f0df">Ringwraith</card>
+    <card qty="3" id="3029e445-173b-481b-9a62-61f79185ab30">Trollshaw Forest</card>
+    <card qty="3" id="32bd5a1d-7273-4916-aa3b-cb152c1cd6f1">Great East Road</card>
+    <card qty="2" id="2f380c3c-7de7-4961-b5f5-878f3e4e58c8">Pathless Wilderness</card>
+    <card qty="2" id="3d64b8b8-4805-49d5-b308-4bf3fb472c1d">Ettendales</card>
+    <card qty="2" id="3b63d940-fcbc-4741-8840-cc276fcb558b">Come Back!</card>
+    <card qty="2" id="b432d02a-d0ca-496c-96c0-e8f5753b2e17">The Twilight World</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="1" id="cdc303cb-bb1a-4409-a479-aa4155bd8ed5">Overcome by Terror</card>
+    <card qty="1" id="074cad39-ce55-4dc1-9775-e95363682ef7">Fear of Discovery</card>
+    <card qty="1" id="e8f413bf-3593-47fc-8813-4553d55dbb2a">Eaten Alive!</card>
+    <card qty="1" id="50c19cd1-3094-4bf7-b2dc-e21b145827b7">Panicked</card>
+    <card qty="1" id="40c95b3d-6216-4def-bb93-f44871f3ec70">Weight of the Ring</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="c9575426-59ea-4863-bf6a-407e9eae3f33">The One Ring</card>
+    <card qty="1" id="71a2ca21-ff50-4a8a-b30b-7c8eaf6bf6b6">An Evil Wound</card>
+    <card qty="1" id="49e734b0-3b71-45e4-8f31-ad1e09f1d9e4">Ford of Bruinen</card>
+    <card qty="1" id="c5657436-d6c8-400d-ba1f-a723799ac685">The Witch-king</card>
+    <card qty="1" id="bc43ae57-6010-4924-919c-b37d1e33b958">The Last Bridge</card>
+    <card qty="4" id="5e6ece32-827a-4af7-af6b-0d21a0477c99">Fell Rider</card>
+  </section>
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -355,7 +355,7 @@
   <card id="d5e0a2b3-da4b-43f6-b89e-8180ab1a0b09" name="Trial Upon the Marches rules">
     <property name="Quantity" value="1"/>
     <property name="Encounter Set" value="Custom Set - First Age"/>
-    <property name="Type" value="Campaign"/>
+    <property name="Type" value="Rules"/>
     <alternate name="Hunting of the Wolf rules" type="B">
       <property name="Encounter Set" value="Custom Set - First Age"/>
       <property name="Type" value="Campaign"/>
