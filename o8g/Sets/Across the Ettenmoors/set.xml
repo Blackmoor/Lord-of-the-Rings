@@ -254,7 +254,7 @@
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="4"/>
   </card>
-  <card id="0f5ffc36-fe0f-4097-ad67-dafda700d96f" name="Arador's End" size="EncounterCard">
+  <card id="0f5ffc36-fe0f-4097-ad67-dafda700d96f" name="Arador's Bane" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Across the Ettenmoors"/>
     <property name="Type" value="Treachery"/>
