@@ -13,6 +13,7 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Response: After another hero is declared as a defender, exhaust Dori to add his Ú to the defending hero’s Ú for this attack."/>
   </card>
   <card id="265b6ab0-446c-4090-a7e1-341ce987c903" name="Ranger Provisions">
     <property name="Quantity" value="3"/>
@@ -21,6 +22,7 @@
     <property name="Traits" value="Item."/>
     <property name="Keywords" value="Attach to a location. Limit 1 per location."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After attached location is explored, the first player adds 1 resource to each of his heroes’ resource pools."/>
   </card>
   <card id="d54a293d-7e36-4dab-98e9-71fa23df2355" name="Dúnedain Message">
     <property name="Quantity" value="3"/>
@@ -28,6 +30,7 @@
     <property name="Sphere" value="Leadership"/>
     <property name="Traits" value="Signal."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Search your deck for a side quest and add it to your hand. Shuffle your deck."/>
   </card>
   <card id="54b219c4-a359-435f-9988-336cad0384b2" name="Longbeard Sentry">
     <property name="Quantity" value="3"/>
@@ -39,6 +42,7 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Action: Discard 2 cards from the top of your deck to give Longbeard Sentry sentinel and +1 Ú until the end of the phase. (Limit once per phase.)"/>
   </card>
   <card id="b11ff1d9-c9e9-4cc1-b329-8226b73dd429" name="Delay the Enemy" size="PlayerQuestCard">
     <property name="Quantity" value="3"/>
@@ -48,6 +52,7 @@
     <property name="Cost" value="0"/>
     <property name="Quest Points" value="8"/>
     <property name="Victory Points" value="1"/>
+    <property name="Text" value="Response: When this stage is defeated, each player may choose and discard a non-unique enemy engaged with him."/>
   </card>
   <card id="8741c7a7-be7d-462a-b39a-0c9bfe4042a3" name="Steed of Imladris">
     <property name="Quantity" value="3"/>
@@ -56,12 +61,14 @@
     <property name="Traits" value="Mount."/>
     <property name="Keywords" value="Attach to a Ê or Noldor hero. Restricted."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After attached hero commits to the quest, discard a card from your hand to place 2 progress on the active location."/>
   </card>
   <card id="475d185f-403f-4b3e-9e8b-6b9f539c2423" name="Fair and Perilous">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Spirit"/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Choose a Noldor or Silvan character. Until the end of the phase, add that character’s Ò to its Û."/>
   </card>
   <card id="68a9d6cc-13a2-417a-ad87-f213ddc2bf48" name="Wellinghall Preserver">
     <property name="Quantity" value="3"/>
@@ -74,6 +81,7 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Response: After Wellinghall Preserver readies, heal 1 damage from an Ent character."/>
   </card>
   <card id="6cf22f3e-29bd-4bbb-8459-92b7b4bc6b02" name="None Return">
     <property name="Quantity" value="3"/>
@@ -81,6 +89,7 @@
     <property name="Sphere" value="Lore"/>
     <property name="Keywords" value="Limit 3 copies of None Return in the victory display."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After a non-unique enemy is destroyed, add None Return to the victory display to add that enemy to the victory display."/>
   </card>
   <card id="809470ac-05c2-4578-9556-8c64b84d4619" name="Hope Rekindled">
     <property name="Quantity" value="3"/>
@@ -88,6 +97,7 @@
     <property name="Sphere" value="Neutral"/>
     <property name="Traits" value="Song."/>
     <property name="Cost" value="0"/>
+    <property name="Text" value="Action: Lower the cost of the next event that has a Valour trigger you play this phase by 2.&#10;&#10;Valour Action: Search the top 10 cards of your deck for an event that has a Valour trigger and add it to your hand. Shuffle your deck."/>
   </card>
   <card id="a8980fe0-a42b-4de5-a8ab-388bea8038b1" name="Into the Ettenmoors" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -95,6 +105,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="Setup: Set aside each of the 3 Across the Ettenmoors side quests and each of the 4 locations with the safe keyword. Reveal 1 of those side quests at random and 1 of those safe locations at random, adding them to the staging area with the safe location guarded by the side quest. Search the encounter deck for 1 copy of Savage Trollspawn per player and add them to the staging area. Shuffle the remaining side quests and safe locations back into the encounter deck. The first player gains control of Amarthiúl."/>
     <property name="Setup" value="tttttttttssss"/>
     <alternate name="Into the Ettenmoors" type="B">
       <property name="Encounter Set" value="Across the Ettenmoors"/>
@@ -102,6 +113,7 @@
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="10"/>
+      <property name="Text" value="Forced: At the beginning of the quest phase, if there are no encounter side quests in play, discard cards from the top of the encounter deck until a side quest is discarded, and add it to the staging area.&#10;&#10;Forced: When a side quest is defeated, place progress tokens on Into the Ettenmoors equal to that side quest's quest points."/>
     </alternate>
   </card>
   <card id="3e905158-737c-45c4-a32d-e88061e94564" name="A Miserable Journey" size="QuestCard">
@@ -110,12 +122,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Shuffle the encounter discard pile into the encounter deck. Discard cards from the top of the encounter deck until a side quest is discarded. Reveal that side quest and add it to the staging area, if able."/>
     <alternate name="A Miserable Journey" type="B">
       <property name="Encounter Set" value="Across the Ettenmoors"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="20"/>
+      <property name="Text" value="Reveal 1 additional encounter card during the quest phase unless there is an active location with the safe keyword."/>
     </alternate>
   </card>
   <card id="d9da588c-c96d-4971-813a-40e439e46764" name="Journey's End" size="QuestCard">
@@ -124,12 +138,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Shuffle the encounter discard pile into the encounter deck. Discard cards from the top of the encounter deck until a side quest is discarded. Reveal that side quest and add it to the staging area, if able."/>
     <alternate name="Journey's End" type="B">
       <property name="Encounter Set" value="Across the Ettenmoors"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="17"/>
+      <property name="Text" value="Each damaged character gets –2 Ò unless there is an active location with&#10;the safe keyword.&#10;&#10;If the players defeat this stage, they have escaped the Ettenmoors&#10;with their lives, and win the game."/>
     </alternate>
   </card>
   <card id="34a59958-0d34-49a9-8beb-b6f8ba8dcd4c" name="Amarthiúl" size="EncounterCard">
@@ -142,6 +158,7 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Response: After an enemy engages a player, give control of Amarthiúl to that player.&#10;&#10;If Amarthiúl leaves play, the players lose the game."/>
   </card>
   <card id="26bb74c2-3c66-4828-8188-404bc42e713e" name="Secluded Cave" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -152,6 +169,7 @@
     <property name="Threat" value="0"/>
     <property name="Quest Points" value="7"/>
     <property name="Victory Points" value="5"/>
+    <property name="Text" value="Response: After you travel to Secluded Cave, each player draws 3 cards."/>
   </card>
   <card id="b81a014a-af32-41a9-abdf-8dbebf29f685" name="The Hoarwell" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -162,6 +180,7 @@
     <property name="Threat" value="0"/>
     <property name="Quest Points" value="3"/>
     <property name="Victory Points" value="5"/>
+    <property name="Text" value="Response: After you travel to The Hoarwell, heal 1 damage from each character in play."/>
   </card>
   <card id="1339dfb5-49c1-46ce-a4c9-970d0e118cfa" name="Abandoned Camp" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -172,6 +191,7 @@
     <property name="Threat" value="0"/>
     <property name="Quest Points" value="1"/>
     <property name="Victory Points" value="5"/>
+    <property name="Text" value="Response: After you travel to Abandoned Camp, each player may return 1 card from his discard pile to his hand."/>
   </card>
   <card id="976d7409-0e67-43f1-b1bd-56cdeac073ef" name="Patch of Woods" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -182,6 +202,7 @@
     <property name="Threat" value="0"/>
     <property name="Quest Points" value="5"/>
     <property name="Victory Points" value="5"/>
+    <property name="Text" value="Response: After you travel to Patch of Woods, each player adds 1 resource to each of his heroes’ resource pools."/>
   </card>
   <card id="97f3e879-eeee-4cc2-beb9-dc7c49c681ac" name="Savage Trollspawn" size="EncounterCard">
     <property name="Quantity" value="4"/>
@@ -193,6 +214,8 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="6"/>
+    <property name="Text" value="Savage Trollspawn gets +1 Û for each damaged character the engaged player controls."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each damaged character the defending player controls."/>
   </card>
   <card id="b70846d1-3216-421a-9098-af2a4540b530" name="Coldfell Giant" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -204,6 +227,8 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="7"/>
+    <property name="Text" value="Forced: After Coldfell Giant engages you, deal 1 damage to 3 different characters you control."/>
+    <property name="Shadow" value="Shadow: If the defending character has at least 1 damage token on it, attacking enemy makes an additional attack after this one."/>
   </card>
   <card id="23dec64e-9e30-4329-9df7-4d2628d2a7a8" name="Cruel Mountain-troll" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -215,6 +240,7 @@
     <property name="Attack" value="6"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="9"/>
+    <property name="Text" value="For each excess point of combat damage dealt by Cruel Mountain-troll (damage that is dealt beyond the remaining hit points of the character damaged by its attack) you must remove 1 progress from each quest card in play."/>
   </card>
   <card id="e35e9d1e-48bb-41f3-95c9-402f84e46ef8" name="Ruthless Hill-troll" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -226,6 +252,8 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="12"/>
+    <property name="Text" value="Ruthless Hill-troll gets +2 Û and +2 Ú while it has 3 or more damage on it."/>
+    <property name="Shadow" value="Shadow: Shuffle 1 location with the safe keyword (but not its attached encounter) back into the encounter deck."/>
   </card>
   <card id="c1db9a5b-1377-49b2-833f-4d8e95928b60" name="Goblin Pursuer" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -237,6 +265,8 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Damaged characters cannot be declared as attackers or defenders against Golbin Pursuer."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+3 Û instead if this attack is undefended)."/>
   </card>
   <card id="c75d2227-2fa6-4dba-a48a-64938b632efd" name="Troll-fells" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -245,6 +275,7 @@
     <property name="Traits" value="Ettenmoors."/>
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="6"/>
+    <property name="Text" value="While Troll-fells is the active location, Weather cards gain doomed 1.&#10;&#10;When Revealed: If Troll-fells is not revealed guarding a safe location, search the encounter deck and discard pile for a location with the safe keyword and attach it to Troll-fells, guarded. Shuffle the encounter deck."/>
   </card>
   <card id="35b3cfde-9964-4173-88c5-e5e5cb8f84ac" name="Barren Moorland" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -253,16 +284,19 @@
     <property name="Traits" value="Ettenmoors."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="4"/>
+    <property name="Text" value="While Barren Moorland is in the staging area, it gains: “Forced: When an ally enters play, you must either exhaust it or deal 1 damage to it.”&#10;&#10;Travel: Deal 1 damage to each exhausted character."/>
   </card>
   <card id="0f5ffc36-fe0f-4097-ad67-dafda700d96f" name="Arador's Bane" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="Across the Ettenmoors"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Starting with the first player, each player must either engage an enemy in the staging area with a higher engagement cost than his threat, or search the encounter deck and discard pile for a Troll or Giant enemy and add it to the staging area. Deal each enemy that engages a player through this effect 2 shadow cards."/>
   </card>
   <card id="1c9d4501-fa65-41b9-977f-896f2286511d" name="No Rest" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="Across the Ettenmoors"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Attach to an exhausted hero, or to a ready hero if there are no exhausted heroes. (Counts as a Condition attachment with the text: “Limit 1 per hero. Attached hero cannot ready and does not collect resources during the resource phase. Discard No Rest if the players travel to a safe location.”)"/>
   </card>
   <card id="397ef92c-981b-4495-a2a0-681ea886d30c" name="Lie Low" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -270,6 +304,7 @@
     <property name="Type" value="Side Quest"/>
     <property name="Quest Points" value="8"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="Forced: At the end of the quest phase, if no progress was placed on Lie Low this round, each enemy gets –20 engagement cost until the end of the round.&#10;&#10;Response: After this stage is defeated, choose an enemy in the staging area and shuffle it into the encounter deck."/>
   </card>
   <card id="b793d1f1-012e-4e13-aad0-d91833f6f8c6" name="Forage for Food" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -277,6 +312,7 @@
     <property name="Type" value="Side Quest"/>
     <property name="Quest Points" value="6"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="Forced: After 1 or more resources are spent from a hero’s resource pool, deal 1 damage to that hero.&#10;&#10;Response: After this stage is defeated, heal 1 damage from each hero."/>
   </card>
   <card id="c898c9f0-d4a7-4821-b075-1e412cde86a7" name="Scavenge for Supplies" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -284,6 +320,7 @@
     <property name="Type" value="Side Quest"/>
     <property name="Quest Points" value="7"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="The cost to play each player card is increased by 1.&#10;&#10;Forced: When this stage is defeated, search the encounter deck and discard pile for a Troll enemy and put it into play engaged with the player with the highest threat. Each player may play a card from his hand, at no cost."/>
   </card>
   <card id="788819a1-c0b5-4dd0-b778-f3011ca05175" name="Across the Ettenmoors">
     <property name="Quantity" value="0"/>

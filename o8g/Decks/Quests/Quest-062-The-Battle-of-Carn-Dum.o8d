@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="b1662195-6d46-474c-9ee9-ccbf14c7b70e">The Clutches of Carn Dûm</card>
+    <card qty="1" id="b659e2a1-55b1-4562-ab2c-0e36772d8183">Midwinter's Crux</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="4" id="f41fb428-d21c-47b2-9bd7-cc97202c2a7e">Orc Grunts</card>
+    <card qty="2" id="57b1cf62-1841-4f65-b9eb-fc82b1eac918">Werewolf of Angmar</card>
+    <card qty="2" id="f49b1e33-6190-4e21-8779-ecfb3a39bb75">Accursed Battlefield</card>
+    <card qty="2" id="afd48fc2-1bca-44d1-9b30-380d2035f2fb">Mountains of Angmar</card>
+    <card qty="3" id="23670d99-7a26-4838-a112-2f6d8a7186f8">Blight of Carn Dûm</card>
+    <card qty="3" id="be784402-7f83-43aa-9e77-c2aac8dd3526">Fortress Walls</card>
+    <card qty="2" id="f330efb5-6263-48a1-9f08-0911f214bd96">The Sky Darkens</card>
+    <card qty="3" id="d3a3d024-2321-4707-b319-eb62537e6d92">Vile Affliction</card>
+    <card qty="2" id="5fd6638a-3135-460f-bf5e-b3cb0128f939">Daechanar's Will</card>
+    <card qty="1" id="21eb71b5-6b96-4388-bd95-e2576483a95a">Furious Charge</card>
+    <card qty="3" id="9d5d2136-f1e7-40fd-9a0f-fbac3c87f8f6">Angmar Orc</card>
+    <card qty="3" id="b2fcd022-5409-4a2f-9775-390d2c3ce7d2">Angmar Marauder</card>
+    <card qty="2" id="cc13ea34-ab19-474e-afe5-29c8651126d0">Angmar Captain</card>
+    <card qty="1" id="e347f103-7444-4681-ae57-49c7b84dd3c0">Orc Ambush</card>
+    <card qty="3" id="d664e3bd-3f0d-47d8-91bb-d61b27a13c22">Terror of the North</card>
+    <card qty="2" id="f8d69554-7cc1-4adc-b021-b6d3601e777d">Dark Sorcery</card>
+    <card qty="3" id="a6ea339d-aec3-4ec7-9374-c1442385c260">Heavy Curse</card>
+    <card qty="1" id="c3e07d8f-3af3-4f21-8951-d3300ca376fa">The Power of Angmar</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="9ca8dc18-a6f5-478b-8870-e151d853a28d">The Battle of Carn Dûm</card>
+    <card qty="1" id="c73317e6-133e-4e35-af48-ad3ffc9f252d">Thaurdir</card>
+    <card qty="1" id="f49b1e33-6190-4e21-8779-ecfb3a39bb75">Accursed Battlefield</card>
+    <card qty="4" id="9e0bb4e8-9b4f-4780-9b83-ea6bc86745ae">Carn Dûm Garrison</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

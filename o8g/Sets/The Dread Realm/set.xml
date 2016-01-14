@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="The Dread Realm" id="0ac4b498-7e7e-411f-a8f9-7c616f43f450" gameId="a21af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.3.6.0" version="1.0.0">
+ <cards>
+  <card id="21f0ac18-21ea-44b7-b67b-4d1c5baaae0f" name="Arwen Undómiel">
+    <property name="Quantity" value="1"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Hero"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Noldor. Noble."/>
+    <property name="Cost" value="9"/>
+    <property name="Willpower" value="3"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="fdabde61-0341-4dae-9a9b-de9f0b955078" name="Éothain">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Rohan. Warrior."/>
+    <property name="Cost" value="4"/>
+    <property name="Willpower" value="2"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="8a6566b1-2425-442b-8e44-f8a3aa4590fe" name="Sword of Númenor">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Leadership"/>
+    <property name="Traits" value="Item. Weapon."/>
+    <property name="Keywords" value="Attach to a Dúnedain or Gondor hero. Restricted."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="40efacf7-f3c1-434b-b31f-42b3721c90c0" name="Fornost Bowman">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Traits" value="Dúnedain. Ranger."/>
+    <property name="Keywords" value="Ranged."/>
+    <property name="Cost" value="3"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="1"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="3"/>
+  </card>
+  <card id="f88c0606-5076-4df7-beed-a7182af0dece" name="Hour of Wrath">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Tactics"/>
+    <property name="Cost" value="4"/>
+  </card>
+  <card id="abebff49-8219-4ae0-bd26-266db57bdfc3" name="Elven-light">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Keywords" value="Elven-light can only be played from your discard pile."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="4d71af80-33cd-4df8-b6da-c479c8a3ae74" name="Tale of Tinúviel">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Event"/>
+    <property name="Sphere" value="Spirit"/>
+    <property name="Traits" value="Song."/>
+    <property name="Cost" value="1"/>
+  </card>
+  <card id="f9865446-f3a4-4a9f-bb1e-68565720511b" name="Galadhrim Healer">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Ally"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Silvan. Healer."/>
+    <property name="Cost" value="2"/>
+    <property name="Willpower" value="1"/>
+    <property name="Attack" value="0"/>
+    <property name="Defense" value="1"/>
+    <property name="Health" value="1"/>
+  </card>
+  <card id="2e156c1b-5227-4dfd-a076-ee9b236c86da" name="Weather-stained Cloak">
+    <property name="Quantity" value="3"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Lore"/>
+    <property name="Traits" value="Item."/>
+    <property name="Keywords" value="Attach to a Ranger character. Limit 1 per character"/>
+    <property name="Cost" value="0"/>
+  </card>
+  <card id="59cd2c5f-1986-4065-ad2c-8423d6b200e2" name="Sword-thain">
+    <property name="Quantity" value="3"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Attachment"/>
+    <property name="Sphere" value="Neutral"/>
+    <property name="Traits" value="Title."/>
+    <property name="Keywords" value="Attach to a unique ally belonging to any sphere of influence."/>
+    <property name="Cost" value="4"/>
+  </card>
+  <card id="e2f901ad-f5bc-4d29-b6c3-50c261e5668a" name="The Catacombs of Carn Dûm" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="1"/>
+    <property name="Engagement Cost" value="A"/>
+    <property name="Setup" value="ttt"/>
+    <alternate name="The Catacombs of Carn Dûm" type="B">
+      <property name="Encounter Set" value="The Dread Realm"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="1"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="18"/>
+    </alternate>
+  </card>
+  <card id="b7c19049-9587-48bc-8807-5cc7334399b9" name="Angmar Awakened" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="2"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Angmar Awakened" type="B">
+      <property name="Encounter Set" value="The Dread Realm"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="2"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="-"/>
+    </alternate>
+  </card>
+  <card id="73969b8e-9591-4ab0-bd28-75c7780875b0" name="Daechanar's Fall" size="QuestCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Quest"/>
+    <property name="Cost" value="3"/>
+    <property name="Engagement Cost" value="A"/>
+    <alternate name="Daechanar's Fall" type="B">
+      <property name="Encounter Set" value="The Dread Realm"/>
+      <property name="Type" value="Quest"/>
+      <property name="Cost" value="3"/>
+      <property name="Engagement Cost" value="B"/>
+      <property name="Quest Points" value="-"/>
+    </alternate>
+  </card>
+  <card id="8bb270a0-72b4-49d5-a4d3-a962edd5f67b" name="Daechanar" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Dúnedain. Sorcerer."/>
+    <property name="Engagement Cost" value="1"/>
+    <property name="Threat" value="5"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="5"/>
+    <property name="Health" value="12"/>
+    <property name="Victory Points" value="10"/>
+  </card>
+  <card id="1cdc36d4-fd78-4ebe-850b-13f24ee73244" name="Altar of Midwinter" size="EncounterCard">
+    <property name="Quantity" value="1"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Unique" value="‰"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Carn Dûm. Underground."/>
+    <property name="Keywords" value="While Daechanar is in play, progress cannot be placed on Altar of Midwinter."/>
+    <property name="Threat" value="5"/>
+    <property name="Quest Points" value="9"/>
+    <property name="Victory Points" value="5"/>
+  </card>
+  <card id="0771f1dc-4baa-4181-9344-4ddd1e59136b" name="Dwimmerlaik" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Wraith."/>
+    <property name="Engagement Cost" value="34"/>
+    <property name="Threat" value="4"/>
+    <property name="Attack" value="5"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="9"/>
+  </card>
+  <card id="8b7c17f3-09d1-45a4-93ff-3b17a3285f35" name="Witch of Angmar" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Sorcerer."/>
+    <property name="Engagement Cost" value="26"/>
+    <property name="Threat" value="3"/>
+    <property name="Attack" value="2"/>
+    <property name="Defense" value="2"/>
+    <property name="Health" value="4"/>
+  </card>
+  <card id="160c8dcb-baa1-4176-9308-7328e500d62e" name="Wraith of Carn Dûm" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Enemy"/>
+    <property name="Traits" value="Undead. Wraith."/>
+    <property name="Engagement Cost" value="18"/>
+    <property name="Threat" value="2"/>
+    <property name="Attack" value="4"/>
+    <property name="Defense" value="0"/>
+    <property name="Health" value="5"/>
+  </card>
+  <card id="ee30a928-cdf8-40c0-87b3-13115bc16cd3" name="Sinister Dungeon" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Carn Dûm. Underground."/>
+    <property name="Threat" value="4"/>
+    <property name="Quest Points" value="1"/>
+  </card>
+  <card id="06c4f297-b2a4-43a6-8d56-aa3385da3b69" name="Tombs of Carn Dûm" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Carn Dûm. Underground."/>
+    <property name="Threat" value="3"/>
+    <property name="Quest Points" value="3"/>
+  </card>
+  <card id="432c306a-7a68-45f9-8621-d7ea2126ae0b" name="Dark Halls" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Carn Dûm. Underground."/>
+    <property name="Threat" value="2"/>
+    <property name="Quest Points" value="4"/>
+  </card>
+  <card id="3385b644-5fd6-4473-9fec-45d7262f5824" name="Unholy Crypt" size="EncounterCard">
+    <property name="Quantity" value="3"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Location"/>
+    <property name="Traits" value="Carn Dûm. Underground."/>
+    <property name="Threat" value="1"/>
+    <property name="Quest Points" value="7"/>
+  </card>
+  <card id="fb40f70e-0d36-4d18-ae51-23be5f1a3260" name="Possession" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Sorcery."/>
+    <property name="Keywords" value="Doomed 1."/>
+  </card>
+  <card id="e2e8fe14-f019-4fd9-af2c-81f1a4282660" name="A Fell Dread" size="EncounterCard">
+    <property name="Quantity" value="2"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Sorcery."/>
+  </card>
+  <card id="205f938d-8dc8-4366-adc0-35897aaef600" name="Death and Calamity" size="EncounterCard">
+    <property name="Quantity" value="4"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Treachery"/>
+    <property name="Traits" value="Sorcery."/>
+  </card>
+  <card id="74f12c0b-6c63-4b2e-a15f-41b179b9dec9" name="The Dread Realm">
+    <property name="Quantity" value="0"/>
+    <property name="Encounter Set" value="The Dread Realm"/>
+    <property name="Type" value="Rules"/>
+    <property name="Keywords" value="Rulesheet Card Side 1"/>
+    <alternate name="The Dread Realm" type="B">
+      <property name="Encounter Set" value="The Dread Realm"/>
+      <property name="Type" value="Rules"/>
+      <property name="Keywords" value="Rulesheet Card 2"/>
+    </alternate>
+  </card>
+ </cards>
+</set>

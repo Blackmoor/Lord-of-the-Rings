@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="e2f901ad-f5bc-4d29-b6c3-50c261e5668a">The Catacombs of Carn Dûm</card>
+    <card qty="1" id="b7c19049-9587-48bc-8807-5cc7334399b9">Angmar Awakened</card>
+    <card qty="1" id="73969b8e-9591-4ab0-bd28-75c7780875b0">Daechanar's Fall</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="0771f1dc-4baa-4181-9344-4ddd1e59136b">Dwimmerlaik</card>
+    <card qty="3" id="8b7c17f3-09d1-45a4-93ff-3b17a3285f35">Witch of Angmar</card>
+    <card qty="2" id="160c8dcb-baa1-4176-9308-7328e500d62e">Wraith of Carn Dûm</card>
+    <card qty="3" id="ee30a928-cdf8-40c0-87b3-13115bc16cd3">Sinister Dungeon</card>
+    <card qty="3" id="06c4f297-b2a4-43a6-8d56-aa3385da3b69">Tombs of Carn Dûm</card>
+    <card qty="2" id="432c306a-7a68-45f9-8621-d7ea2126ae0b">Dark Halls</card>
+    <card qty="3" id="3385b644-5fd6-4473-9fec-45d7262f5824">Unholy Crypt</card>
+    <card qty="2" id="fb40f70e-0d36-4d18-ae51-23be5f1a3260">Possession</card>
+    <card qty="2" id="e2e8fe14-f019-4fd9-af2c-81f1a4282660">A Fell Dread</card>
+    <card qty="4" id="205f938d-8dc8-4366-adc0-35897aaef600">Death and Calamity</card>
+    <card qty="2" id="aa6914e2-4b79-4a95-ab3e-386d6a924bee">Dead Lord</card>
+    <card qty="5" id="21fec323-3155-4b64-8506-fa87d44f01fc">Cursed Dead</card>
+    <card qty="2" id="123bc772-2c27-4f26-a7f2-a3c4928a9dc4">Restless Evil</card>
+    <card qty="1" id="7295a9fb-961f-42ad-b07d-33793e2f2274">Seal the Tomb</card>
+    <card qty="3" id="d664e3bd-3f0d-47d8-91bb-d61b27a13c22">Terror of the North</card>
+    <card qty="2" id="f8d69554-7cc1-4adc-b021-b6d3601e777d">Dark Sorcery</card>
+    <card qty="3" id="a6ea339d-aec3-4ec7-9374-c1442385c260">Heavy Curse</card>
+    <card qty="1" id="c3e07d8f-3af3-4f21-8951-d3300ca376fa">The Power of Angmar</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="74f12c0b-6c63-4b2e-a15f-41b179b9dec9">The Dread Realm</card>
+    <card qty="1" id="8bb270a0-72b4-49d5-a4d3-a962edd5f67b">Daechanar</card>
+    <card qty="1" id="1cdc36d4-fd78-4ebe-850b-13f24ee73244">Altar of Midwinter</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Special" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>
