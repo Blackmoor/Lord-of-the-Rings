@@ -5,13 +5,13 @@
 	id="a21af4e8-be4b-4cda-a6b6-534f9717391f" 
 	octgnVersion="3.1.162.360"
 	scriptVersion ="3.1.0.1"
-	version="2.5.1.6"
+	version="2.5.1.15"
 	markersize="16"
 	tags="LotR LCG cooperative"
 	description="The Lord of the Rings: The Card Game is a cooperative card game that puts 1-4 players in control of the most powerful characters and artifacts of Middle-earth.&#10;&#10;Players will select heroes, gather allies, acquire artifacts, and coordinate their efforts to face Middle-earth’s most dangerous fiends. By cooperating to overcome the obstacles drawn from the encounter deck, you will complete the quest before you and claim victory!"
 	setsurl="http://octgn.gamersjudgement.com/wordpress/lotrlcg/"
 	gameurl="http://octgn.gamersjudgement.com/wordpress/lotrlcg/"
-	authors="Memetix (game scripts)&#10;GeckoTH (developer)"
+	authors="GeckoTH (lead developer)&#10;Memetix (game scripts)"
 	iconurl="http://cf.geekdo-images.com/images/pic906495_t.jpg"
 	usetwosidedtable="False">
 	<scripts>
@@ -116,6 +116,7 @@
 		<cardaction menu="Exhaust/Ready" default="False" shortcut="F7" execute="kneel" />
 		<cardaction menu="Flip Card" default="False" shortcut="ctrl+F" execute="flipcard" />
 		<cardaction menu="Discard" default="False" shortcut="Del" execute="discard" />
+		<cardaction menu="Discard to Special Discard" default="False" shortcut="shift+Del" execute="discardSpecial" />
 		<cardaction menu="Shuffle into Deck" default="False" execute="shuffleIntoDeck" />
 		<cardaction menu="Lock" default="False" shortcut="ctrl+K" execute="lockCard" />
 		<cardaction menu="Rotate Left" default="False" shortcut="F8" execute="rotateLeft" />

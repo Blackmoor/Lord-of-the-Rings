@@ -886,7 +886,7 @@ def doRestoreAll(group=table):
 	myCards = (card for card in group
 				if card.controller == me)
 	for card in myCards:
-		if not isLocked(card):
+		if not isLocked(card) and card.model != "ce1cf93c-68d9-4613-af3a-a08671152358":
 			card.orientation &= ~Rot90
 	notify("{} readies all his cards.".format(me))
 	
@@ -1272,7 +1272,7 @@ def flipcard(card, x = 0, y = 0):
 		notify("{} turns '{}' face up.".format(me, card))
 
 
-def rotateLeft(card, x = 0, y = 0):
+def rotateRight(card, x = 0, y = 0):
 	# Rot90, Rot180, etc. are just aliases for the numbers 0-3
 	mute()
 	if card.controller == me:
@@ -1291,7 +1291,7 @@ def rotateLeft(card, x = 0, y = 0):
 	#else:
 	#	card.orientation = Rot0
 
-def rotateRight(card, x = 0, y = 0):
+def rotateLeft(card, x = 0, y = 0):
 	# Rot90, Rot180, etc. are just aliases for the numbers 0-3
 	mute()
 	if card.controller == me:
@@ -1481,6 +1481,36 @@ def discard(card, x=0, y=0):
 		remoteCall(who, "doDiscard", [me, card, pile])
 	else:
 		doDiscard(who, card, pile)
+
+def discardSpecial(card, x=0, y=0):
+	mute()
+	if card.controller != me:
+		whisper("{} does not control '{}' - discard cancelled".format(me, card))
+		return
+		
+	if card.Type == "Quest": #If we remove the only quest card then we reveal the next one
+		card.moveToBottom(questDiscard())
+		notify("{} discards '{}'".format(me, card))
+		n, c = questCount(table)
+		if c == 0:
+			nextQuestStage()
+		return
+
+	if isPlayerCard(card):
+		pile = specialDiscard()
+	elif isSpecialCard(card):
+		pile = specialDiscard()
+	else:
+		pile = specialDiscard()
+		
+	who = pile.controller
+	notify("{} discards '{}'".format(me, card))
+	if who != me:
+		card.setController(who)		
+		remoteCall(who, "doDiscard", [me, card, pile])
+	else:
+		doDiscard(who, card, pile)
+
 
 def doDiscard(player, card, pile):
 	card.moveTo(pile)

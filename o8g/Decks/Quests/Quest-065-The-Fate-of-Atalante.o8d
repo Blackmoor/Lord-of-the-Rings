@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="05bf91b3-8e8e-4a45-a6cf-ac8b936b032d">Explore the Island</card>
+    <card qty="1" id="97584fc2-835e-411c-aae3-eb841c90fc43">A Fateful Discovery</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="7a2f15bc-d05d-4891-9558-02396affc32b">Servant of the Deceiver</card>
+    <card qty="3" id="8830070b-b918-4b74-8dfb-dced3866e53b">Steep Plateau</card>
+    <card qty="2" id="b0a1f83b-f1b0-4945-afc8-91a1c25063e2">Mysterious Fog</card>
+    <card qty="2" id="b03a007c-42bc-433c-bd0e-efbf65a8696d">Lingering Malevolence</card>
+    <card qty="2" id="92fec8c5-53e7-477a-9c47-8d97578bc1e7">Ruins of Ages Past</card>
+    <card qty="3" id="79d5dc52-cfee-49f9-8a3d-1d4a7a749af2">Drowned Dead</card>
+    <card qty="2" id="69a3ace6-7588-4ec4-91de-780b56502d8a">Soulless Cadaver</card>
+    <card qty="2" id="159f5a8f-1e1f-4282-9936-94b10e348176">Throngs of Unfaithful</card>
+    <card qty="2" id="ab5fec4c-b353-47e5-ae47-db7daf7f9088">Curse of the Downfallen</card>
+    <card qty="3" id="a8918c80-f092-4649-bb5c-9f7fde3cef75">Aimless Wandering</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="2" id="c7bb88f6-a6b7-44f3-8bc2-8c4be788e7da">Lost Island</card>
+    <card qty="2" id="b1f8c611-99a3-4bab-9805-832853d52d4d">Lost Island</card>
+    <card qty="2" id="fb5e0cb9-914f-49ee-8e21-534e89bc5533">Lost Island</card>
+    <card qty="2" id="d7ef4ad0-93f1-4c03-a04b-cdfe6339eb41">Lost Island</card>
+    <card qty="2" id="201569b2-d203-4a2a-b3e4-5dd396b8341a">Lost Island</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="ac1958aa-f119-423f-ac1e-cb04c58e641b">The Fate of Atalantë</card>
+    <card qty="1" id="26642db7-c3a2-47f3-989d-27396e586d06">Lost Island</card>
+    <card qty="1" id="24a816f2-172f-4945-8d9b-21eb7fb68263">Calphon</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

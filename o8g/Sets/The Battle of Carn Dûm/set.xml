@@ -12,6 +12,7 @@
     <property name="Attack" value="3"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="While you are engaged with at least 1 enemy, Amarthiúl gains the Ï resource icon.&#10;&#10;While you are engaged with at least 2 enemies, add 1 additional resource to Amarthiúl's resource pool when you collect resources during the resource phase."/>
   </card>
   <card id="0f2501c7-16ad-4fee-bea6-17b767fb0d14" name="Guardian of Arnor">
     <property name="Quantity" value="3"/>
@@ -24,12 +25,14 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Guardian of Arnor gets +1 Ú for each enemy engaged with you."/>
   </card>
   <card id="c48b1c7f-f3df-4e5c-ad63-a68efc66c02c" name="Doom Hangs Still">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Leadership"/>
     <property name="Cost" value="5"/>
+    <property name="Text" value="Planning Action: Until the end of the round, players do not raise their threat from questing unsuccessfully.&#10;&#10;Valour Planning Action: Skip the quest phase this round."/>
   </card>
   <card id="b1584166-c8b3-4984-bfdc-06c33f31e153" name="Beechbone">
     <property name="Quantity" value="3"/>
@@ -43,12 +46,14 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="4"/>
+    <property name="Text" value="Response: After Beechbone is declared as an attacker, deal 1 damage to him to deal X damage to the defending enemy. X is the amount of damage on Beechbone."/>
   </card>
   <card id="8588e98f-1aaf-4e90-95b9-48b76c0fc4be" name="Hold Your Ground!">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Choose and ready a sentinel character.&#10;&#10;Valour Action: Ready all sentinel characters."/>
   </card>
   <card id="4bff71e7-f66c-4a2d-ba7d-633a6c77f765" name="Lindir">
     <property name="Quantity" value="3"/>
@@ -61,6 +66,7 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="2"/>
+    <property name="Text" value="Response: After Lindir enters play, if you have less than 3 cards in your hand, draw until you have 3 cards in your hand."/>
   </card>
   <card id="ff265d76-021b-4f23-9e62-a57e16b3e77d" name="Lords of the Eldar">
     <property name="Quantity" value="3"/>
@@ -68,6 +74,7 @@
     <property name="Sphere" value="Spirit"/>
     <property name="Keywords" value="Lords of the Eldar can only be played from your discard pile."/>
     <property name="Cost" value="3"/>
+    <property name="Text" value="Action: Place Lords of the Eldar on the bottom of your deck from your discard pile. Then, until the end of the round all Noldor characters get +1 Ò, +1 Û, and +1 Ú."/>
   </card>
   <card id="0b483cda-22e0-418d-b906-8a93e94fe95d" name="The Long Defeat">
     <property name="Quantity" value="3"/>
@@ -76,12 +83,14 @@
     <property name="Traits" value="Condition."/>
     <property name="Keywords" value="Attach to a quest card in play. Limit 1 per quest."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Response: After attached quest card is defeated, each player either draws 2 cards or heals up to 5 damage from characters he controls."/>
   </card>
   <card id="fddb01e7-102e-44c8-a469-e920e76a79e0" name="Quick Ears">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Lore"/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Response: Exhaust a Dúnedain or Ranger hero to cancel an enemy card just revealed from the encounter deck. Then, shuffle it back into the encounter deck and reveal an additional encounter card."/>
   </card>
   <card id="c9cdf75b-7535-4d17-804f-0f22569812c7" name="Favor of the Valar">
     <property name="Quantity" value="3"/>
@@ -90,6 +99,7 @@
     <property name="Traits" value="Condition."/>
     <property name="Keywords" value="Attach to a player's threat dial. Limit 1 per player."/>
     <property name="Cost" value="3"/>
+    <property name="Text" value="Forced: When you would be eliminated by reaching your threat elimination level, instead discard Favor of the Valar and reduce your threat to 5 lower than your threat elimination level. You are not eliminated."/>
   </card>
   <card id="b1662195-6d46-474c-9ee9-ccbf14c7b70e" name="The Clutches of Carn Dûm" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -97,6 +107,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="Setup: Add Thaurdir to the staging area, Captain side face-up. Add 1 copy of Carn Dûm Garrison per player to the staging area. Search the encounter deck for 1 copy of Accursed Battlefield and make it the active location. Shuffle the encounter deck."/>
     <property name="Setup" value="tslssss"/>
     <alternate name="The Clutches of Carn Dûm" type="B">
       <property name="Encounter Set" value="The Battle of Carn Dûm"/>
@@ -104,6 +115,7 @@
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
+      <property name="Text" value="Thaurdir cannot leave the staging area and cannot take damage. At the end of the round, if Thaurdir is Champion side face-up, flip him.&#10;&#10;Do not discard unresolved shadow cards at the end of the combat phase.&#10;&#10;Forced: If there are 3 shadow cards dealt to Thaurdir, flip him."/>
     </alternate>
   </card>
   <card id="b659e2a1-55b1-4562-ab2c-0e36772d8183" name="Midwinter's Crux" size="QuestCard">
@@ -112,12 +124,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Raise each player’s threat by X, where X is the number of shadow cards in play. If Thaurdir is Captain side face-up, flip him."/>
     <alternate name="Midwinter's Crux" type="B">
       <property name="Encounter Set" value="The Battle of Carn Dûm"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="15"/>
+      <property name="Text" value="Thaurdir cannot leave the staging area, is considered to be engaged with each player, and attacks each player in turn during the combat phase (deal and discard a new shadow card for each attack). At the end of the round, if Thaurdir is Captain side face-up, flip him.&#10;&#10;While Sever the Head has 15 or more progress on it, Thaurdir loses Indestructible.&#10;&#10;You cannot defeat this stage while Thaurdir is in play. If Thaurdir is defeated, you win the game."/>
     </alternate>
   </card>
   <card id="c73317e6-133e-4e35-af48-ad3ffc9f252d" name="Thaurdir" size="EncounterCard">
@@ -132,6 +146,7 @@
     <property name="Attack" value="6"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="9"/>
+    <property name="Text" value="Each other enemy has +10 engagement cost.&#10;Forced: After Thaurdir is flipped or a treachery card with the Sorcery trait is revealed, deal 1 shadow card to each enemy in play."/>
     <alternate name="Thaurdir" type="B">
       <property name="Encounter Set" value="The Battle of Carn Dûm"/>
       <property name="Unique" value="‰"/>
@@ -143,6 +158,7 @@
       <property name="Attack" value="6"/>
       <property name="Defense" value="4"/>
       <property name="Health" value="9"/>
+      <property name="Text" value="Each other enemy has -10 engagement cost.&#10;Forced: After Thaurdir is flipped or a treachery card with the Sorcery trait is revealed, Thaurdir heals 3 damage and makes an immediate attack against the first player."/>
     </alternate>
   </card>
   <card id="9e0bb4e8-9b4f-4780-9b83-ea6bc86745ae" name="Carn Dûm Garrison" size="EncounterCard">
@@ -155,6 +171,8 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="3"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Carn Dûm Garrison gets +1 $ for each shadow card currently dealt to it."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û for each shadow card currently dealt to it."/>
   </card>
   <card id="f41fb428-d21c-47b2-9bd7-cc97202c2a7e" name="Orc Grunts" size="EncounterCard">
     <property name="Quantity" value="4"/>
@@ -167,6 +185,8 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Any time progress is placed on the current quest, reduce the amount of progress placed by 1."/>
+    <property name="Shadow" value="Shadow: Add Orc Grunts to the staging area."/>
   </card>
   <card id="57b1cf62-1841-4f65-b9eb-fc82b1eac918" name="Werewolf of Angmar" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -178,6 +198,7 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="4"/>
     <property name="Health" value="6"/>
+    <property name="Text" value="Forced: After an event card is played, deal 1 shadow card to Werewolf of Angmar. &#10;&#10;Forced: If there are 3 shadow cards dealt to Werewolf of Angmar and it is in the staging area, it engages the first player and makes an immediate attack (do not deal it another shadow card for this attack)."/>
   </card>
   <card id="f49b1e33-6190-4e21-8779-ecfb3a39bb75" name="Accursed Battlefield" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -186,6 +207,8 @@
     <property name="Traits" value="Carn Dûm."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="While Accursed Battlefield is the active location, each quest card in play gains the battle keyword."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û (+3 Û instead if the defending player's threat is higher than the attacking enemy's engagement cost)."/>
   </card>
   <card id="afd48fc2-1bca-44d1-9b30-380d2035f2fb" name="Mountains of Angmar" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -194,6 +217,8 @@
     <property name="Traits" value="Mountain."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="5"/>
+    <property name="Text" value="While Mountains of Angmar is the active location, each shadow card with no shadow effect gains &quot;Shadow: Raise defending player's threat by 2.&quot;"/>
+    <property name="Shadow" value="Shadow: Raise defending player's threat by 2."/>
   </card>
   <card id="23670d99-7a26-4838-a112-2f6d8a7186f8" name="Blight of Carn Dûm" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -202,6 +227,8 @@
     <property name="Traits" value="Blight. Plains."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="Forced: After an enemy attacks, heal 1 damage from it.&#10;Travel: Deal each enemy in play 1 shadow card to travel here."/>
+    <property name="Shadow" value="Shadow: If the attacking enemy is Thaurdir, heal 3 damage from him."/>
   </card>
   <card id="be784402-7f83-43aa-9e77-c2aac8dd3526" name="Fortress Walls" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -210,23 +237,31 @@
     <property name="Traits" value="Carn Dûm."/>
     <property name="Threat" value="4"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="While Fortress Walls is the active location, for each resource spent by a player, raise that player’s threat by 1."/>
+    <property name="Shadow" value="Shadow: If your threat is 40 or higher, attacking enemy makes an additional attack against you after this one."/>
   </card>
   <card id="f330efb5-6263-48a1-9f08-0911f214bd96" name="The Sky Darkens" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Battle of Carn Dûm"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Sorcery."/>
+    <property name="Text" value="When Revealed: Each player must discard a random card from his hand. Each player then searches his deck for each other copy of the card he discarded, and discards those as well. Shuffle each searched deck."/>
+    <property name="Shadow" value="Shadow: Discard a random card from the defending player's hand."/>
   </card>
   <card id="d3a3d024-2321-4707-b319-eb62537e6d92" name="Vile Affliction" size="EncounterCard">
     <property name="Quantity" value="3"/>
     <property name="Encounter Set" value="The Battle of Carn Dûm"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Sorcery."/>
+    <property name="Text" value="When Revealed: Each player must distribute damage among questing characters he controls equal to the printed cost of the highest cost card in that player’s discard pile."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +1 Û. If this attack destroys an ally, search your deck for another copy of that ally and discard it, if able."/>
   </card>
   <card id="5fd6638a-3135-460f-bf5e-b3cb0128f939" name="Daechanar's Will" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Battle of Carn Dûm"/>
     <property name="Type" value="Treachery"/>
+    <property name="Text" value="When Revealed: Flip Thaurdir. Then, if he is Captain side face-up, Daechanar's Will gains surge."/>
+    <property name="Shadow" value="Shadow: Flip Thaurdir after this attack."/>
   </card>
   <card id="21eb71b5-6b96-4388-bd95-e2576483a95a" name="Furious Charge" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -235,6 +270,7 @@
     <property name="Traits" value="Side Quest."/>
     <property name="Quest Points" value="5"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="Forced: When at least 1 progress is placed on Furious Charge, each character gets –2 Ú until the end of the round. If Thaurdir is Captain side faceup, flip him.&#10;&#10;Response: After Furious Charge is defeated, add 10 progress to the main quest."/>
   </card>
   <card id="9ca8dc18-a6f5-478b-8870-e151d853a28d" name="The Battle of Carn Dûm">
     <property name="Quantity" value="0"/>

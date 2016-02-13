@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <section name="Quest" shared="True">
+    <card qty="1" id="fab58a26-eaa6-4e6b-aa59-575bab8a2599">The Corsairs' Assault</card>
+    <card qty="1" id="7c5f503a-61aa-4f12-acdf-e52fc51e295f">Sahír's Advance</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="3" id="cedfcb4c-9f28-46c6-b6ec-7986be79f7b1">Corsair Arsonist</card>
+    <card qty="1" id="766735f8-3b17-4b50-aee3-a869837f986c">Mithlond Harbor</card>
+    <card qty="2" id="c69c1fe9-076a-4a5b-8388-9f653015d84d">Burning Piers</card>
+    <card qty="2" id="a961751d-414b-4a53-9da4-5708f8b7bb1f">Pillaged Ship</card>
+    <card qty="1" id="7fa34ed7-6c3d-41a2-9c03-d8a766a35ece">White Ship</card>
+    <card qty="2" id="af53407e-c51f-4b41-bd25-312f681149e1">Elven Wave-runner</card>
+    <card qty="1" id="25eb1da3-b559-4e47-ae20-e6096a8cbc96">Elven Caravel</card>
+    <card qty="2" id="91143aee-41e7-4cac-8ec2-e112689fcc17">Put to the Torch</card>
+    <card qty="2" id="76a512ea-3a6a-4c99-8c29-d980dea802ff">The Fires Spread</card>
+    <card qty="3" id="d03bdefa-cc39-43b6-9af9-feeb33858958">Umbar Raider</card>
+    <card qty="2" id="d7885efa-3af6-48e6-8eb1-5750892fdb34">Corsair Infiltrator</card>
+  </section>
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True">
+    <card qty="1" id="24a555aa-6987-4189-ac1d-60a74263bd87">Raid on the Grey Havens</card>
+    <card qty="1" id="97bf780d-cd76-492f-a970-37f78273c5bb">Captain Sahír</card>
+    <card qty="1" id="f0d30258-7122-4004-a689-9ff50a00b3af">Na'asiyah</card>
+    <card qty="1" id="6302e603-fade-43b3-a6b3-235af412fdfa">The Havens Burn</card>
+    <card qty="1" id="c792fec6-5840-4aba-8dcd-36b1632d58fa">Dream-chaser</card>
+    <card qty="1" id="4893d105-fada-4bee-a4bb-d26463b97b63">Sahír's Ravager</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

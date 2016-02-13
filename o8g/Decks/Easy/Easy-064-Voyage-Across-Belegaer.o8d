@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f" sleeveid="0">
+  <section name="Quest" shared="True">
+    <card qty="1" id="007721bf-3e80-4857-aaf4-aabb65d1827d">Departure from the Havens</card>
+    <card qty="1" id="25940aea-cc56-43bf-a8d6-f9d349b0c01f">Into the Storm</card>
+    <card qty="1" id="aede410a-9d4c-4abd-9f55-143f5027f9c4">Cursed Mists</card>
+    <card qty="1" id="b77620fa-89a8-4f09-8552-ba4204e472d2">Calphon’s Divination</card>
+    <card qty="1" id="e1001736-68fc-4e7b-a7df-23230876eb92">The Star’s Guidance</card>
+    <card qty="1" id="abeec7e9-ccf6-4145-ae1a-d7179c5a4b4d">Corsair Pursuit</card>
+  </section>
+  <section name="Encounter" shared="True">
+    <card qty="2" id="16361c0e-f422-44d4-8f25-bc32b7a9aadd">Scouting Ship</card>
+    <card qty="2" id="b640a0b7-f23e-4859-96fb-b558274b90a8">Starlit Sea</card>
+    <card qty="2" id="edfe479c-dc2b-43d0-9d4b-708e96320748">Fog Bank</card>
+    <card qty="2" id="1e5d3385-4362-4e76-91fc-30e5aebab5e2">Calm Waters</card>
+    <card qty="2" id="4f4df8ea-7f18-4a76-85b0-7ece828bb837">Thrown Off Course</card>
+    <card qty="2" id="2b3973f5-e6f6-4611-87b7-b6e3dc33eb66">Rough Waters</card>
+    <card qty="1" id="4d925556-3a39-4e49-aafa-0adac6cacc52">Waterspout</card>
+    <card qty="2" id="7691fb33-603e-4460-9f09-5f96bc05c2bb">Sudden Storms</card>
+    <card qty="1" id="71d7dd78-a967-43dd-ab73-e46a5d4d4519">Winds of Wrath</card>
+    <card qty="2" id="c1273c2f-a616-45ee-804d-a16c28b6e63d">Light Cruiser</card>
+    <card qty="1" id="28ba7c20-b660-40cb-9e2c-bf6ebaec723e">Boarding Party</card>
+  </section>
+  <section name="Special" shared="True">
+    <card qty="2" id="b171f1fa-a603-43ab-97c9-f950ee3b3599">Southron Sailor</card>
+    <card qty="3" id="4d85bbe6-1bc7-4890-8974-e42e2d0f9431">Cunning Pirate</card>
+    <card qty="2" id="2362af02-42b8-43fe-b3b6-f11f011b3197">Vicious Marauder</card>
+  </section>
+  <section name="Setup" shared="True">
+    <card qty="1" id="c59be48d-ccec-4409-92b3-9f2e74f01012">Voyage Across Belegaer</card>
+    <card qty="1" id="29349448-e37d-4741-a7df-4bb57c195437">Voyage Across Belegaer</card>
+    <card qty="1" id="a1bb437e-1cbc-4780-bbee-f9ad07cb8d7a">Voyage Across Belegaer</card>
+    <card qty="1" id="81632d10-625e-42f0-9e6b-09574a9ffbc3">Dawn Star</card>
+    <card qty="1" id="32db1af6-e214-4958-9ca4-bdf3a73758b5">Nárelenya</card>
+    <card qty="1" id="c9139d8c-0d9d-4d34-bfb5-8d40ca455bfc">Silver Wing</card>
+    <card qty="1" id="07a8f60f-926c-4342-bf04-e3af9a24df10">Dream-chaser</card>
+    <card qty="1" id="ce1cf93c-68d9-4613-af3a-a08671152358">Heading</card>
+    <card qty="1" id="ec2f100d-22c8-4cc6-82d9-fb4f07446b0f">Rolling Seas</card>
+    <card qty="1" id="16361c0e-f422-44d4-8f25-bc32b7a9aadd">Scouting Ship</card>
+  </section>
+  <section name="Hero" shared="False" />
+  <section name="Ally" shared="False" />
+  <section name="Attachment" shared="False" />
+  <section name="Event" shared="False" />
+  <section name="Side Quest" shared="False" />
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>
