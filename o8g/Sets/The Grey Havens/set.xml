@@ -290,13 +290,13 @@
   </card>
   <card id="05bf91b3-8e8e-4a45-a6cf-ac8b936b032d" name="Explore the Island" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Fate of Atalantë"/>
+    <property name="Encounter Set" value="The Fate of Númenor"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
     <property name="Setup" value="ttt"/>
     <alternate name="Explore the Island" type="B">
-      <property name="Encounter Set" value="The Fate of Atalantë"/>
+      <property name="Encounter Set" value="The Fate of Númenor"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
@@ -305,12 +305,12 @@
   </card>
   <card id="97584fc2-835e-411c-aae3-eb841c90fc43" name="A Fateful Discovery" size="QuestCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Fate of Atalantë"/>
+    <property name="Encounter Set" value="The Fate of Númenor"/>
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
     <alternate name="A Fateful Discovery" type="B">
-      <property name="Encounter Set" value="The Fate of Atalantë"/>
+      <property name="Encounter Set" value="The Fate of Númenor"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
@@ -319,13 +319,13 @@
   </card>
   <card id="26642db7-c3a2-47f3-989d-27396e586d06" name="Lost Island" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Fate of Atalantë"/>
+    <property name="Encounter Set" value="The Fate of Númenor"/>
     <property name="Type" value="Location"/>
     <property name="Keywords" value="Uncharted. Cannot have player card attachments."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="-"/>
     <alternate name="Shrine to Morgoth" type="B">
-      <property name="Encounter Set" value="The Fate of Atalantë"/>
+      <property name="Encounter Set" value="The Fate of Númenor"/>
       <property name="Unique" value="‰"/>
       <property name="Type" value="Location"/>
       <property name="Traits" value="Ruins."/>
@@ -337,7 +337,7 @@
   </card>
   <card id="24a816f2-172f-4945-8d9b-21eb7fb68263" name="Calphon" size="EncounterCard">
     <property name="Quantity" value="1"/>
-    <property name="Encounter Set" value="The Fate of Atalantë"/>
+    <property name="Encounter Set" value="The Fate of Númenor"/>
     <property name="Unique" value="‰"/>
     <property name="Type" value="Objective"/>
     <property name="Traits" value="Gondor. Noble."/>
@@ -349,7 +349,7 @@
   </card>
   <card id="7a2f15bc-d05d-4891-9558-02396affc32b" name="Servant of the Deceiver" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Fate of Atalantë"/>
+    <property name="Encounter Set" value="The Fate of Númenor"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Undead."/>
     <property name="Engagement Cost" value="35"/>
@@ -360,13 +360,13 @@
   </card>
   <card id="c7bb88f6-a6b7-44f3-8bc2-8c4be788e7da" name="Lost Island" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Fate of Atalantë"/>
+    <property name="Encounter Set" value="The Fate of Númenor"/>
     <property name="Type" value="Location"/>
     <property name="Keywords" value="Uncharted. Cannot have player card attachments."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="-"/>
     <alternate name="Lush Jungle" type="B">
-      <property name="Encounter Set" value="The Fate of Atalantë"/>
+      <property name="Encounter Set" value="The Fate of Númenor"/>
       <property name="Type" value="Location"/>
       <property name="Traits" value="Forest."/>
       <property name="Keywords" value="While Lush Jungle is in the staging area, characters get –1 Û and lose ranged."/>
@@ -376,13 +376,13 @@
   </card>
   <card id="b1f8c611-99a3-4bab-9805-832853d52d4d" name="Lost Island" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Fate of Atalantë"/>
+    <property name="Encounter Set" value="The Fate of Númenor"/>
     <property name="Type" value="Location"/>
     <property name="Keywords" value="Uncharted. Cannot have player card attachments."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="-"/>
     <alternate name="Forbidden Coast" type="B">
-      <property name="Encounter Set" value="The Fate of Atalantë"/>
+      <property name="Encounter Set" value="The Fate of Númenor"/>
       <property name="Type" value="Location"/>
       <property name="Traits" value="Coastland."/>
       <property name="Threat" value="1"/>
@@ -391,7 +391,7 @@
   </card>
   <card id="8830070b-b918-4b74-8dfb-dced3866e53b" name="Steep Plateau" size="EncounterCard">
     <property name="Quantity" value="3"/>
-    <property name="Encounter Set" value="The Fate of Atalantë"/>
+    <property name="Encounter Set" value="The Fate of Númenor"/>
     <property name="Type" value="Location"/>
     <property name="Traits" value="Coastland."/>
     <property name="Threat" value="1"/>
@@ -399,27 +399,27 @@
   </card>
   <card id="b0a1f83b-f1b0-4945-afc8-91a1c25063e2" name="Mysterious Fog" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Fate of Atalantë"/>
+    <property name="Encounter Set" value="The Fate of Númenor"/>
     <property name="Type" value="Treachery"/>
   </card>
   <card id="b03a007c-42bc-433c-bd0e-efbf65a8696d" name="Lingering Malevolence" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Fate of Atalantë"/>
+    <property name="Encounter Set" value="The Fate of Númenor"/>
     <property name="Type" value="Treachery"/>
   </card>
   <card id="92fec8c5-53e7-477a-9c47-8d97578bc1e7" name="Ruins of Ages Past" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="The Fate of Atalantë"/>
+    <property name="Encounter Set" value="The Fate of Númenor"/>
     <property name="Type" value="Treachery"/>
     <property name="Keywords" value="Doomed 2."/>
   </card>
-  <card id="ac1958aa-f119-423f-ac1e-cb04c58e641b" name="The Fate of Atalantë">
+  <card id="ac1958aa-f119-423f-ac1e-cb04c58e641b" name="The Fate of Númenor">
     <property name="Quantity" value="0"/>
-    <property name="Encounter Set" value="The Fate of Atalantë"/>
+    <property name="Encounter Set" value="The Fate of Númenor"/>
     <property name="Type" value="Rules"/>
     <property name="Keywords" value="Rulesheet Card 1"/>
-    <alternate name="The Fate of Atalantë" type="B">
-      <property name="Encounter Set" value="The Fate of Atalantë"/>
+    <alternate name="The Fate of Númenor" type="B">
+      <property name="Encounter Set" value="The Fate of Númenor"/>
       <property name="Type" value="Rules"/>
       <property name="Keywords" value="Rulesheet Card 2"/>
     </alternate>
@@ -623,7 +623,7 @@
   </card>
   <card id="c1273c2f-a616-45ee-804d-a16c28b6e63d" name="Light Cruiser" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Umbar Navy"/>
+    <property name="Encounter Set" value="Umbar Fleet"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Corsair. Ship."/>
     <property name="Keywords" value="Boarding 2. Cannot have attachments."/>
@@ -635,7 +635,7 @@
   </card>
   <card id="a312e181-9209-4460-b6ba-c90c99e011fe" name="Corsair Warship" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Umbar Navy"/>
+    <property name="Encounter Set" value="Umbar Fleet"/>
     <property name="Type" value="Enemy"/>
     <property name="Traits" value="Corsair. Ship."/>
     <property name="Keywords" value="Boarding 3. Cannot have attachments."/>
@@ -648,7 +648,7 @@
   </card>
   <card id="28ba7c20-b660-40cb-9e2c-bf6ebaec723e" name="Boarding Party" size="EncounterCard">
     <property name="Quantity" value="2"/>
-    <property name="Encounter Set" value="Umbar Navy"/>
+    <property name="Encounter Set" value="Umbar Fleet"/>
     <property name="Type" value="Treachery"/>
   </card>
   <card id="b171f1fa-a603-43ab-97c9-f950ee3b3599" name="Southron Sailor" size="EncounterCard">
