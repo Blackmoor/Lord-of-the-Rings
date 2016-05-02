@@ -12,6 +12,7 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Action: Discard a card from your hand to add 1 resource to a Noldor hero's resource pool, or to Aragorn's resource pool. (Limit once per round.)"/>
   </card>
   <card id="fdabde61-0341-4dae-9a9b-de9f0b955078" name="Éothain">
     <property name="Quantity" value="3"/>
@@ -24,6 +25,7 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Response: After a Rohan ally is discarded from play by a card effect, ready Éothain."/>
   </card>
   <card id="8a6566b1-2425-442b-8e44-f8a3aa4590fe" name="Sword of Númenor">
     <property name="Quantity" value="3"/>
@@ -32,6 +34,7 @@
     <property name="Traits" value="Item. Weapon."/>
     <property name="Keywords" value="Attach to a Dúnedain or Gondor hero. Restricted."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Attached hero gets +1 Û.&#10;&#10;Response: After attached hero participates in an attack that destroys an enemy with 5 or more printed hit points, exhaust Sword of Númenor to add 1 resource to attached hero’s resource pool."/>
   </card>
   <card id="40efacf7-f3c1-434b-b31f-42b3721c90c0" name="Fornost Bowman">
     <property name="Quantity" value="3"/>
@@ -44,12 +47,14 @@
     <property name="Attack" value="1"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="3"/>
+    <property name="Text" value="Fornost Bowman gets +1 Û for each enemy engaged with you."/>
   </card>
   <card id="f88c0606-5076-4df7-beed-a7182af0dece" name="Hour of Wrath">
     <property name="Quantity" value="3"/>
     <property name="Type" value="Event"/>
     <property name="Sphere" value="Tactics"/>
     <property name="Cost" value="4"/>
+    <property name="Text" value="Action: Choose a hero. Until the end of the phase, the chosen hero does not exhaust to attack or defend.&#10;&#10;Valour Action: Until the end of the phase, heroes do not exhaust to attack or defend."/>
   </card>
   <card id="abebff49-8219-4ae0-bd26-266db57bdfc3" name="Elven-light">
     <property name="Quantity" value="3"/>
@@ -57,6 +62,7 @@
     <property name="Sphere" value="Spirit"/>
     <property name="Keywords" value="Elven-light can only be played from your discard pile."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Return Elven-light to your hand from your discard pile. Then, draw 1 card."/>
   </card>
   <card id="4d71af80-33cd-4df8-b6da-c479c8a3ae74" name="Tale of Tinúviel">
     <property name="Quantity" value="3"/>
@@ -64,6 +70,7 @@
     <property name="Sphere" value="Spirit"/>
     <property name="Traits" value="Song."/>
     <property name="Cost" value="1"/>
+    <property name="Text" value="Action: Exhaust a Noldor character to ready a Dúnedain character, or vice-versa. Until the end of the phase, add the exhausted character’s printed Ò to the other character’s Ò, Û, and Ú."/>
   </card>
   <card id="f9865446-f3a4-4a9f-bb1e-68565720511b" name="Galadhrim Healer">
     <property name="Quantity" value="3"/>
@@ -75,6 +82,7 @@
     <property name="Attack" value="0"/>
     <property name="Defense" value="1"/>
     <property name="Health" value="1"/>
+    <property name="Text" value="Response: After Galadhrim Healer enters play, choose a player. Heal 1 damage from each hero controlled by that player."/>
   </card>
   <card id="2e156c1b-5227-4dfd-a076-ee9b236c86da" name="Weather-stained Cloak">
     <property name="Quantity" value="3"/>
@@ -83,6 +91,7 @@
     <property name="Traits" value="Item."/>
     <property name="Keywords" value="Attach to a Ranger character. Limit 1 per character"/>
     <property name="Cost" value="0"/>
+    <property name="Text" value="While attached character is committed to the quest, Weather-stained Cloak gains: “Response: Exhaust Weather-stained Cloak to cancel 1 point of damage just dealt to attached character.”"/>
   </card>
   <card id="59cd2c5f-1986-4065-ad2c-8423d6b200e2" name="Sword-thain">
     <property name="Quantity" value="3"/>
@@ -92,6 +101,7 @@
     <property name="Traits" value="Title."/>
     <property name="Keywords" value="Attach to a unique ally belonging to any sphere of influence."/>
     <property name="Cost" value="4"/>
+    <property name="Text" value="Attached character loses the ally card type and gains the hero card type."/>
   </card>
   <card id="e2f901ad-f5bc-4d29-b6c3-50c261e5668a" name="The Catacombs of Carn Dûm" size="QuestCard">
     <property name="Quantity" value="1"/>
@@ -99,6 +109,7 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="1"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="Setup: Set Daechanar and Altar of Midwinter aside, out of play. Each player reveals an encounter card from the top of the encounter deck. Each player reanimates the top card of his deck."/>
     <property name="Setup" value="ttt"/>
     <alternate name="The Catacombs of Carn Dûm" type="B">
       <property name="Encounter Set" value="The Dread Realm"/>
@@ -106,6 +117,7 @@
       <property name="Cost" value="1"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="18"/>
+      <property name="Text" value="Reanimated Dead are Undead enemies with 2 $, 2 Û, 2 Ú and 2 hit points. &#10;&#10;When the players advance to stage 2, all Sorcery cards attached to this stage are attached to stage 2B."/>
     </alternate>
   </card>
   <card id="b7c19049-9587-48bc-8807-5cc7334399b9" name="Angmar Awakened" size="QuestCard">
@@ -114,12 +126,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="2"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: Add Daechanar to the staging area. Make Altar of Midwinter the active location, returning any previously active location to the staging area. Each player reanimates the top card of his deck."/>
     <alternate name="Angmar Awakened" type="B">
       <property name="Encounter Set" value="The Dread Realm"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="2"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
+      <property name="Text" value="Reanimated Dead are Undead enemies with 2 $, 2 Û, 2 Ú and 2 hit points.&#10;&#10;When Daechanar is defeated, advance to the next stage."/>
     </alternate>
   </card>
   <card id="73969b8e-9591-4ab0-bd28-75c7780875b0" name="Daechanar's Fall" size="QuestCard">
@@ -128,12 +142,14 @@
     <property name="Type" value="Quest"/>
     <property name="Cost" value="3"/>
     <property name="Engagement Cost" value="A"/>
+    <property name="Text" value="When Revealed: If there are less than X locations in the staging area, search the encounter deck and discard pile and add locations to the staging area until there are X locations in staging area. X is the number of players in the game."/>
     <alternate name="Daechanar's Fall" type="B">
       <property name="Encounter Set" value="The Dread Realm"/>
       <property name="Type" value="Quest"/>
       <property name="Cost" value="3"/>
       <property name="Engagement Cost" value="B"/>
       <property name="Quest Points" value="-"/>
+      <property name="Text" value="Reanimated Dead are Undead enemies with 2 $, 2 Û, 2 Ú and 2 hit points.&#10;&#10;Progress that would be placed on this quest is instead placed on locations in the staging area, divided as you choose.&#10;&#10;Forced: At the end of the quest phase, if there are any locations in play, deal 1 damage to all characters in play. If there are no locations in play, the players have escaped Carn Dûm, and win the game."/>
     </alternate>
   </card>
   <card id="8bb270a0-72b4-49d5-a4d3-a962edd5f67b" name="Daechanar" size="EncounterCard">
@@ -148,6 +164,7 @@
     <property name="Defense" value="5"/>
     <property name="Health" value="12"/>
     <property name="Victory Points" value="10"/>
+    <property name="Text" value="Cannot have attachments.&#10;&#10;Daechanar gets +1 Û for each Sorcery card in play, and gains indestructible while at least 1 Sorcery card is in play.&#10;&#10;Forced: When Daechanar is damaged, if there is at least 1 Sorcery card in play, cancel all damage just dealt and remove a Sorcery card from the game."/>
   </card>
   <card id="1cdc36d4-fd78-4ebe-850b-13f24ee73244" name="Altar of Midwinter" size="EncounterCard">
     <property name="Quantity" value="1"/>
@@ -159,6 +176,7 @@
     <property name="Threat" value="5"/>
     <property name="Quest Points" value="9"/>
     <property name="Victory Points" value="5"/>
+    <property name="Text" value="Forced: At the end of the staging step, the first player must either reveal 1 additional card from the encounter deck, or reanimate the top card of his deck."/>
   </card>
   <card id="0771f1dc-4baa-4181-9344-4ddd1e59136b" name="Dwimmerlaik" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -170,6 +188,8 @@
     <property name="Attack" value="5"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="9"/>
+    <property name="Text" value="Forced: After Dwimmerlaik attacks and destroys a character, the defending player reanimates that character and deals it 1 shadow card."/>
+    <property name="Shadow" value="Shadow: If this attack destroys a character, reanimate that character and deal it 1 shadow card."/>
   </card>
   <card id="8b7c17f3-09d1-45a4-93ff-3b17a3285f35" name="Witch of Angmar" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -181,6 +201,7 @@
     <property name="Attack" value="2"/>
     <property name="Defense" value="2"/>
     <property name="Health" value="4"/>
+    <property name="Text" value="Forced: When you resolve shadow cards dealt to Witch of Angmar, if they have the Sorcery trait, resolve their “when revealed” effects. (Resolve any shadow effects first.)"/>
   </card>
   <card id="160c8dcb-baa1-4176-9308-7328e500d62e" name="Wraith of Carn Dûm" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -192,6 +213,7 @@
     <property name="Attack" value="4"/>
     <property name="Defense" value="0"/>
     <property name="Health" value="5"/>
+    <property name="Text" value="Forced: When Wraith of Carn Dûm leaves play, attach it to a character in play. (Counts as a Sorcery attachment with the text: “Attached character has –1 Ò, –1 Û, and –1 Ú. If the attached character leaves play, return Wraith of Carn Dûm to the staging area as an enemy.”)"/>
   </card>
   <card id="ee30a928-cdf8-40c0-87b3-13115bc16cd3" name="Sinister Dungeon" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -200,6 +222,8 @@
     <property name="Traits" value="Carn Dûm. Underground."/>
     <property name="Threat" value="4"/>
     <property name="Quest Points" value="1"/>
+    <property name="Text" value="Forced: When Sinister Dungeon is explored, the first player reanimates a random card from his hand and deals Sinister Dungeon to it as a shadow card."/>
+    <property name="Shadow" value="Shadow: Discard the top 2 cards of the encounter deck. Resolve the “when revealed” effects of each Sorcery card discarded by this effect."/>
   </card>
   <card id="06c4f297-b2a4-43a6-8d56-aa3385da3b69" name="Tombs of Carn Dûm" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -208,6 +232,7 @@
     <property name="Traits" value="Carn Dûm. Underground."/>
     <property name="Threat" value="3"/>
     <property name="Quest Points" value="3"/>
+    <property name="Text" value="Forced: At the end of the round, discard the top card of each player’s deck. Each player must reanimate each ally discarded by this effect.&#10;&#10;Travel: Deal 1 shadow card to each Undead enemy in play to travel here."/>
   </card>
   <card id="432c306a-7a68-45f9-8621-d7ea2126ae0b" name="Dark Halls" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -216,6 +241,8 @@
     <property name="Traits" value="Carn Dûm. Underground."/>
     <property name="Threat" value="2"/>
     <property name="Quest Points" value="4"/>
+    <property name="Text" value="While Dark Halls is in the staging area, each Reanimated Dead gets +1 Û and +1 Ú."/>
+    <property name="Shadow" value="Shadow: If there is a copy of the defending character in your discard pile, reanimate it and deal it 1 shadow card."/>
   </card>
   <card id="3385b644-5fd6-4473-9fec-45d7262f5824" name="Unholy Crypt" size="EncounterCard">
     <property name="Quantity" value="3"/>
@@ -224,6 +251,8 @@
     <property name="Traits" value="Carn Dûm. Underground."/>
     <property name="Threat" value="1"/>
     <property name="Quest Points" value="7"/>
+    <property name="Text" value="Unholy Crypt gets +1 $ for each Reanimated Dead in play."/>
+    <property name="Shadow" value="Shadow: If this attack destroys a character, reanimate that character and deal it 1 shadow card."/>
   </card>
   <card id="fb40f70e-0d36-4d18-ae51-23be5f1a3260" name="Possession" size="EncounterCard">
     <property name="Quantity" value="2"/>
@@ -231,18 +260,22 @@
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Sorcery."/>
     <property name="Keywords" value="Doomed 1."/>
+    <property name="Text" value="When Revealed: Destroy the highest cost ally in play. That ally’s controller reanimates that character, adds it to the staging area, and attaches Possession to it. (Counts as a Condition attachment with the text: “If Possession is discarded, the attached card is also discarded.”)"/>
   </card>
   <card id="e2e8fe14-f019-4fd9-af2c-81f1a4282660" name="A Fell Dread" size="EncounterCard">
     <property name="Quantity" value="2"/>
     <property name="Encounter Set" value="The Dread Realm"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Sorcery."/>
+    <property name="Text" value="When Revealed: The player with the highest threat must attach A Fell Dread to a hero he controls without A Fell Dread attached. (Counts as a Condition attachment with the text: “Attached hero’s Ò is reduced to 0. During the quest phase, attached hero must commit to the quest, if able.”)"/>
   </card>
   <card id="205f938d-8dc8-4366-adc0-35897aaef600" name="Death and Calamity" size="EncounterCard">
     <property name="Quantity" value="4"/>
     <property name="Encounter Set" value="The Dread Realm"/>
     <property name="Type" value="Treachery"/>
     <property name="Traits" value="Sorcery."/>
+    <property name="Text" value="When Revealed: Attach Death and Calamity to the current quest. Then, the first player reanimates the top X cards of his deck, where X is the number of copies of Death and Calamity in play."/>
+    <property name="Shadow" value="Shadow: Attacking enemy gets +X Û, where X is the number of Sorcery cards in play."/>
   </card>
   <card id="74f12c0b-6c63-4b2e-a15f-41b179b9dec9" name="The Dread Realm">
     <property name="Quantity" value="0"/>

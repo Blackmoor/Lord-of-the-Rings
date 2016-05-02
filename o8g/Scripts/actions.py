@@ -1314,6 +1314,7 @@ def makeActive(card, x=0, y=0):
 	mute()
 	if card.Type != "Location": return
 	card.moveToTable(252, -229)
+	notify("{} becomes the Active Location.".format(card))
 		
 def addResource(card, x = 0, y = 0):
     addToken(card, Resource)
@@ -1595,9 +1596,12 @@ def mulligan(group, x = 0, y = 0):
 	for card in group:
 		card.moveToBottom(me.deck)
 	shuffle(me.deck)
-	for card in me.deck.top(shared.HandSize):
-		card.moveTo(me.hand)
-	notify("{} draws {} new cards.".format(me, shared.HandSize))
+	notify("{} takes a Mulligan!".format(me))
+	drawMany(me.deck, shared.HandSize)
+	#for card in me.deck.top(shared.HandSize):
+	#	card.moveTo(me.hand)
+	#notify("{} draws {} new cards.".format(me, shared.HandSize))
+
  
 #------------------------------------------------------------------------------
 # Pile Actions
